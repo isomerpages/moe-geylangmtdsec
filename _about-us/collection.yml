@@ -2,6 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Non Financial Information.md
       - Photo Gallery/.keep
       - Photo Gallery/subfolder-page.md
+      - Non Financial Information.md
