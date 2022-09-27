@@ -10,6 +10,8 @@ description: ""
 <br>
 <br>
 
+![](/images/Geylang-Methodist-2-01.jpg)
+![](/images/Geylang-Methodist-01.jpg)
 
 <li>
     <input type="checkbox" id="accordion1">
