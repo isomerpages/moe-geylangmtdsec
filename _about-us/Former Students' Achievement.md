@@ -13,6 +13,7 @@ description: ""
 ![](/images/Geylang-Methodist-2-01.jpg)
 ![](/images/Geylang-Methodist-01.jpg)
 
+<ul class="jekyllcodex_accordion">
 <li>
     <input type="checkbox" id="accordion1">
     <label for="accordion1">2015</label>
