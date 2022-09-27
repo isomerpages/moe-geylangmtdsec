@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Former Students' Achievement.md
       - Photo Gallery/.keep
       - Photo Gallery/subfolder-page.md
       - Non Financial Information.md
