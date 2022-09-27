@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Non Financial Information.md
-      - example-subfolder/.keep
-      - example-subfolder/subfolder-page.md
+      - Photo Gallery/.keep
+      - Photo Gallery/subfolder-page.md
