@@ -21,7 +21,6 @@ third_nav_title: Academic Matters
 	</li>
 
 <img src="/images/IMG_0250e-2048x1054.jpg">
-	<ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2">Commendable Improvement</label>
@@ -34,7 +33,6 @@ third_nav_title: Academic Matters
 <h3>Sec 5NA Top Students</h3>
 
 <img src="/images/IMG_0259e-2048x1314.jpg">		
-	<ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion3">
     <label for="accordion3">GM Sec5NA Top Students</label>
@@ -44,7 +42,6 @@ third_nav_title: Academic Matters
 	</li>
 
 <img src="/images/IMG_0255e-scaled.jpg">		
-	<ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion4">
     <label for="accordion4">Commendable Improvement</label>
