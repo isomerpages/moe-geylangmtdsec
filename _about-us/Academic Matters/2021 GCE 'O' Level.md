@@ -42,5 +42,14 @@ third_nav_title: Academic Matters
       <p>1. (P51) Sia Kai En Javier<br>2. (P51) Che Jun Hao<br>3. (P51) Brendon Yeo Jun Cheng<br>4. (P51) Siti Lydia Binte Huzaifah</p>
     </div>
 	</li>
-		
-		
+
+<img src="/images/IMG_0255e-scaled.jpg">		
+	<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">Commendable Improvement</label>
+    <div>
+      <p>1. (P51) Kong Xianzhang<br>2. (P52) Keefe Chan Xin Chun
+(P52) Sudichya Gurung<br>3. (P52) Muhamad Shameer Ali Bin Muhamad<br>4. (P52) Tan Jue Ni, Janelle<br>5. (P52) Zhuo Zhaoxiang Victor<br>6. (P51) Aw Yong Kaixu</p>
+    </div>
+	</li>
