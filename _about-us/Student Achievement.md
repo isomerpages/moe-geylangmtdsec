@@ -29,8 +29,8 @@ The GM All-Round Excellence Award recognizes GEMS who have excelled in both the 
 		</div>
 	</li>    
 	<li>
-    <input type="checkbox" id="accordion2">
-		<label for="accordion2"><b>Lau Tse En, P4-2, 2020</b></label>
+    <input type="checkbox" id="accordion3">
+		<label for="accordion3"><b>Lau Tse En, P4-2, 2020</b></label>
     <div>
 			<p><b>GM All-Round Excellence Award Citation</b></p>
       <p>As the Student Council President, Tse En was passionate about nurturing and developing not only the student leaders under his charge but also the student body. He broke new ground when he took it upon himself to share with the entire student body what GM’s vision meant to him and encouraged the students to internalise the vision for themselves. Despite him having many roles and responsibilities in other areas of his school life, Tse En initiated and included President’s Time during his weekly meetings with the student leaders to share leadership strategies to broaden his fellow student leaders’ perspectives. This is on top of the one-on-one sessions with them. One of Tse En’s personal bests and achievements was representing Singapore in the F1 in Schools International Competition in Abu Dhabi.  Tse En stands as an exemplar of moral integrity for his peers and is well regarded by both students and teachers in the school.
