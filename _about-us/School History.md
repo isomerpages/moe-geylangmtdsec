@@ -106,6 +106,6 @@ Our Church was situated on an important site. In 1926, the Municipality of Singa
     <label for="accordion4">Interview with Former Board of Management Chairman, Prof. Lionel Lee Kim Hock</label>
     <div>
 			<p><b>Interview with Prof. Lionel Lee Kim Hock</b></p>
-			<p><img src="/images/Prof-Lionel-Lee-300x300.jpg"></p>
+			<p><img src="/images/Prof-Lionel-Lee-300x300.jpg" style="width:50%"></p>
     </div>
 	</li>
