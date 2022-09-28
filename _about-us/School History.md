@@ -71,6 +71,10 @@ Our Church was situated on an important site. In 1926, the Municipality of Singa
 		<p><hr></p>
 		<p>•<b> 1999</b><br>In February, after upgrading works of the school were completed, the school went single-session with 38 classes, a pupil enrolment of 1,500 annual staff strength of 69. The Dedication of the new extension block was officiated by Bishop Wong Kiam Thau on 31 July. The school celebrated its 75th Anniversary with Mrs Thio Suan Cheok as the Guest of Honour.<br><br>The school achieved the Value-Added Award (Normal Course) for our good academic performance at the 2000 GCE ‘O’ Level Examinations.</p>
 		<p><hr></p>
-		<p>•<b> 2002</b><br>We bade farewell to Mrs Marion Tan.<br>GMSS welcomed its 11th and first male Principal, Mr Lim Yan Hock.
+		<p>•<b> 2002</b><br>We bade farewell to Mrs Marion Tan.<br>GMSS welcomed its 11th and first male Principal, Mr Lim Yan Hock.</p>
+		<p><hr></p>
+		<p>•<b> 2004</b><br>We celebrated our 80th anniversary with a Thanksgiving service for the whole school at Kallang Theatre with Bishop Dr Robert Solomon as the Guest of Honour. As part of the commemoration of our 80 years of history, the school staged for the first time, our own original musical, “Rice Matters”. It traced the history of the school and together with it, the history of Singapore.<br><br>We obtained our very first Sustained Achievement Award for Uniformed Groups.<br><br>The tsunami tragedy on Boxing Day 2004 claimed more than 200,000 lives in our neighbouring countries. Our Girl Guides rallied the school in raising funds for the families of the victims in the tragedy.<br><br>At the Singapore Youth Festival competitions, the Chinese Dance group achieved a Gold award, the Band and Choir achieved Silver awards and the Drama group, a Bronze award. The Girls’ Brigade and Boys’ Brigade also continued to achieve the Gold Awards for their respective groups. Our Girls’ Brigade (2nd Singapore Company) received the Sustained Gold Company Award for attaining the Gold Company for 5 consecutive years. We were one of two companies in Singapore to receive this honour.</p>
+		<p><hr></p>
+		<p>•<b> 2005</b><br>The school underwent PRIME in June 2005 and functioned at 3, Geylang Bahru Lane from 15 June.<br><br>The ground-breaking ceremony for the upgrading works, held on 28 October, was officiated by Bishop Dr Robert Solomon.</p>
     </div>
 	</li>
