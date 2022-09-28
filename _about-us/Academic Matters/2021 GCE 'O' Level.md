@@ -33,7 +33,6 @@ third_nav_title: Academic Matters
 	</li>
 	</ul>
 	<br>
-		
 <h3>Sec 5NA Top Students</h3>
 
 <img src="/images/IMG_0259e-2048x1314.jpg">		
