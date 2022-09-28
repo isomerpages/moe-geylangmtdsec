@@ -131,8 +131,11 @@ Our Church was situated on an important site. In 1926, the Municipality of Singa
 	</li>
 	<li>
     <input type="checkbox" id="accordion7">
-    <label for="accordion7">Simple</label>
+    <label for="accordion7">Interview with Former Principal, Mrs Doreen Chan and Former HOD, Ms Diana Ng</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p><b>1. Mrs Chan, you were the principal of GMGS for 4 years, from 1979-1983, and then continued as principal when the school went co-ed from 1984 to 1997.</b></p>
+			<p><b>What was the school like when it was a girls-only school? This is a question that we all ask ourselves daily.</b><br><br>Doreen Chan:<br>When I first came to school, I found that it was very small. The building was a little bit shabby, and in the auditorium, some glass in the windowpanes were missing. The tuckshop was just a wooden shed, and the benches were benches and not chairs. Long benches, long tables. Very few food stalls were at the tuck shop.<br><br>Diana Ng:<br>I must mention one thing – when there was a sandstorm, the tuckshop got it. Because it was open air and on the ground floor. Next to the tuckshop was Ameen, the caretaker, and his family lived there. And the canteen was actually quite susceptible to wind and rain.<br><br>Doreen Chan:<br>It’s true.<br><br>Diana Ng:<br>It was quite open in that sense, no sides. It was quite basic.</p>
+			<p><b>2.What was the school like, as a girls school? What were the girls like? That is something we have no sense of, as we have always known it as a co-ed school.</b></p>
+			<p>Doreen Chan:<br>The girls had a different work attitude from the boys. They were hardworking and serious and they were very creative in their own way. When you give an assignment, they come up with a lot of ideas. I think Mrs Diana Ng’s artwork helped a lot. Because when they presented worksheets or anything, they were very colourful. The colours combined very well. Then I knew it was Diana’s work. She had drilled them. Even the lettering was nice. The last few weeks I’d been looking at the old albums and the farewell cards that the children did for me individually, I can see those painstaking, careful details. Unlike the boys. Boys, you can use the word ‘chin chai’ to describe them. [laughs] As long as they can go, finish and go and play, you know? That is the difference.
     </div>
 	</li>
