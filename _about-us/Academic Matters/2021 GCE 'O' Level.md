@@ -20,9 +20,10 @@ third_nav_title: Academic Matters
     </div>
 	</li>
 </ul>
-
+<br>
 <img src="/images/IMG_0250e-2048x1054.jpg">
-	<ul class="jekyllcodex_accordion">
+
+<ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2">Commendable Improvement</label>
@@ -30,13 +31,14 @@ third_nav_title: Academic Matters
       <p>1. (P44) Shirley Liew Xue Ni<br>2. (P43) Benedict Louis Lee Jia En<br>3. (P46) Sarah Kooh Jia Hui<br>4. (P43) Ong Lin Lang<br>5. (P43) Seow Wee Yee Vivienne<br>6. (P44) Tan Jin Qi Sara<br>7. (P43) Caleb Tan<br>8. (P43) Shuan Ryan Tan<br>9. (P44) Mavindev Singh<br>10. (P45) Wang Xutong<br>11. (P43) Gavin Teo Zhen Hui<br>12. (P43) Shania Lee Zitong<br>13. (P43) Lew Tongyi Sabrina<br>14. (P42) Clare Ng hui</p>
     </div>
 	</li>
-	</ml>
-		
+	</ul>
+	<br>
 		
 <h3>Sec 5NA Top Students</h3>
 
 <img src="/images/IMG_0259e-2048x1314.jpg">		
-	<ul class="jekyllcodex_accordion">
+
+<ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion3">
     <label for="accordion3">GM Sec5NA Top Students</label>
@@ -45,9 +47,9 @@ third_nav_title: Academic Matters
     </div>
 	</li>
 </ul>
-
+<br>
 <img src="/images/IMG_0255e-scaled.jpg">		
-	<ul class="jekyllcodex_accordion">
+<ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion4">
     <label for="accordion4">Commendable Improvement</label>
