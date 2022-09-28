@@ -66,5 +66,7 @@ Our Church was situated on an important site. In 1926, the Municipality of Singa
 		<p>•<b> 1986</b><br>On 29 August, Bishop Ho Chee Sin of the Methodist Church officiated at the official opening of the Primary and Secondary Schools.</p>
 		<p><hr></p>
 		<p>•<b> 1988</b><br>To date we have 77 teachers, 17 supporting staff, 1932 pupils and 49 classes.<br><br>The emphasis in extra curricular activities is still mass participation. However, this year we participated in the following competitions at Zone level: Netball, Softball and Badminton. In Netball, the C division girls emerged Champion, while in Softball, the B division girls also emerged Champion. For Badminton, the B boys came in 3rd at Zonal level and 8th at National level.</p>
+		<p><hr></p>
+		<p>•<b> 1997</b><br>The school bade farewell to Mrs Doreen Chan who retired after serving 18 years as Principal.<br><br>We welcomed Mrs Marion Tan.</p>
     </div>
 	</li>
