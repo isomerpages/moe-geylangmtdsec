@@ -16,3 +16,22 @@ Enshrined in the heart of the shield is a flaming torch formed by the letters �
 The white 27-point starburst is inspired by our heritage when the school started with 27 pupils in 1924. This inspires us to continuously strive for pure brilliance and ingenuity grounded in our education.
 
 The colours blue and gold frame our crest and represent heaven and earth respectively, reflecting our heavenly aspirations which are firmly grounded in our earthly realism to ‘Grow in Friendship, Body and Mind’.
+
+
+### School Song
+
+In Geylang Methodist we strive  
+To grow in friendship, body, mind  
+And never fail to keep alive  
+The Truths of God which guide mankind.
+
+With grateful hearts we sing the praise,  
+Of Geylang Methodist today  
+And to her glory now we raise  
+Our pledge of loyalty for aye  
+When from each other we must part  
+And cares of life around us press  
+One thing will live within each heart  
+The memory of G.M.S
+
+(upload sch song to yt)
