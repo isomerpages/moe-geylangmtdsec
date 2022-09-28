@@ -78,5 +78,10 @@ Our Church was situated on an important site. In 1926, the Municipality of Singa
 		<p>•<b> 2005</b><br>The school underwent PRIME in June 2005 and functioned at 3, Geylang Bahru Lane from 15 June.<br><br>The ground-breaking ceremony for the upgrading works, held on 28 October, was officiated by Bishop Dr Robert Solomon.</p>
 		<p><hr></p>
 		<p>•<b> 2007</b><br>The school was renamed Geylang Methodist School (Secondary) with effect from 1 January to reflect the oneness of the Geylang Methodist family of schools. In keeping with the change in the school’s name, the school also re-designed a new school crest as part of school re-branding. The School Crest is the embodiment of our aims and aspirations for the Geylang Methodist Schools. The school moved back to 2, Geylang East Central in June.<br><br>The Dedication of the new campus and 83rd Thanksgiving Day was held on 25 August. This was officiated by Bishop Dr Robert Solomon.</p>
+		<p><hr></p>
+		<p>•<b> 2010</b><br>GCMC sponsored about $300 000 to install air conditioning for the school hall. In appreciation of this, the School honoured the Church to name the school hall as ‘Friendship Hall’.</p>
+		<p><hr></p>
+		<p>•<b> 2014</b><br>Celebrating our 90th Anniversary by completing 90 Blessing projects as a school ( staff, students and parents). Projects include bringing the elderly from our community to Gardens by the Bay; English Teachers reading to sick children at KKH etc…teaching English to children in Batam and Cambodia.</p>
+		<p><hr></p>
     </div>
 	</li>
