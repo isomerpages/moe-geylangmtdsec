@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - Our GM Community/Our Staff.md
-      - Our GM Community/Our Partners.md
-      - Our GM Community/Our Alumni.md
       - Our GM Community/.keep
+      - Our GM Community/Our Alumni.md
+      - Our GM Community/Our Partners.md
+      - Our GM Community/Our Staff.md
       - Student Achievement.md
       - Former Students' Achievement.md
       - Photo Gallery/.keep
