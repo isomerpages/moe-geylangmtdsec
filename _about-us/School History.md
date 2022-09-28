@@ -67,6 +67,10 @@ Our Church was situated on an important site. In 1926, the Municipality of Singa
 		<p><hr></p>
 		<p>•<b> 1988</b><br>To date we have 77 teachers, 17 supporting staff, 1932 pupils and 49 classes.<br><br>The emphasis in extra curricular activities is still mass participation. However, this year we participated in the following competitions at Zone level: Netball, Softball and Badminton. In Netball, the C division girls emerged Champion, while in Softball, the B division girls also emerged Champion. For Badminton, the B boys came in 3rd at Zonal level and 8th at National level.</p>
 		<p><hr></p>
-		<p>•<b> 1997</b><br>The school bade farewell to Mrs Doreen Chan who retired after serving 18 years as Principal.<br><br>We welcomed Mrs Marion Tan.</p>
+		<p>•<b> 1997</b><br>The school bade farewell to Mrs Doreen Chan who retired after serving 18 years as Principal.<br>We welcomed Mrs Marion Tan.</p>
+		<p><hr></p>
+		<p>•<b> 1999</b><br>In February, after upgrading works of the school were completed, the school went single-session with 38 classes, a pupil enrolment of 1,500 annual staff strength of 69. The Dedication of the new extension block was officiated by Bishop Wong Kiam Thau on 31 July. The school celebrated its 75th Anniversary with Mrs Thio Suan Cheok as the Guest of Honour.<br><br>The school achieved the Value-Added Award (Normal Course) for our good academic performance at the 2000 GCE ‘O’ Level Examinations.</p>
+		<p><hr></p>
+		<p>•<b> 2002</b><br>We bade farewell to Mrs Marion Tan.<br>GMSS welcomed its 11th and first male Principal, Mr Lim Yan Hock.
     </div>
 	</li>
