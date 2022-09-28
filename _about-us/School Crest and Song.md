@@ -35,3 +35,29 @@ One thing will live within each heart
 The memory of G.M.S
 
 (upload sch song to yt)
+
+
+
+
+### School Motto
+
+To grow in friendship, body and mind.
+
+
+
+### Pupils' Creed
+
+As Pupils of GMS(S),  
+we stand as one to keep alive  
+the spirit of our motto:  
+**"To grow in Friendship, Body and mind"**  
+We pledge to be God-fearing and true,  
+giving regard to our parents  
+and those in authority;  
+respecting the rights of others  
+and showing compassion to those in need.  
+We vow to be honest, diligent and disciplined  
+and with God's help,  
+we strive to give our best  
+for the betterment of ourselves,  
+and our school and our country.
