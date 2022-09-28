@@ -42,4 +42,12 @@ The GM All-Round Excellence Award recognizes GEMS who have excelled in both the 
 			<p><img src="/images/F1-flag-768x577.jpg">Tse En and the F1 Team, representing Singapore in the F1 in Schools International Competition in Abu Dhabi.</p>
 			<p><img src="/images/F1-768x434.jpg">F1 in Schools International Competition in Abu Dhabi</p>
   </div>
+	</li>     
+	<li>
+    <input type="checkbox" id="accordion2">
+		<label for="accordion2"><b>Ong Jun Yang Benjamin, P4-7, 2020</b></label>
+    <div>
+			<p><b>GM All-Round Excellence Award Citation</b></p>
+      <p>As Captain of the of the Basketball school team, Benjamin demonstrated unrivalled capability in handling pressure when he led and inspired the team to clinch the 4th Team Placing at the National School Games Basketball Championships (East Zone). A true sportsperson, Benjamin possesses exceptional mental strength, tenacity and a spirit of excellence. As an Orientation Group Leader, he was a role model to the Secondary 1 juniors, leading, guiding and mentoring them as they settled into the school. During his Overseas Service Learning trip to Chiang Mai in 2019, he quickly built rapport with the local schoolchildren with his friendly easy-going and approachable disposition. A meticulous and focused individual, Benjamin exudes a modest, down-to-earth appeal, which belies his resolute determination to excel in whatever he does. With a fine sense of responsibility, he possesses the talent to succeed in his future endeavours.</p>	
+  </div>
 	</li>
