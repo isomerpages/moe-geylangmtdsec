@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Board of Management.md
       - Our GM Community/Our GM Community.md
       - Our GM Community/.keep
       - Our GM Community/Our Alumni.md
