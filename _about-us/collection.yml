@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Academic Matters/.keep
       - Principal’s Message.md
       - School History.md
       - Vision, Mission and Values.md
