@@ -2,18 +2,18 @@ collections:
   about-us:
     output: true
     order:
-      - Academic Matters/.keep
       - Principal’s Message.md
       - School History.md
       - Vision, Mission and Values.md
       - School Crest and Song.md
       - School Virtual Tour.md
       - Board of Management.md
-      - Our GM Community/Our GM Community.md
       - Our GM Community/.keep
+      - Our GM Community/Our GM Community.md
       - Our GM Community/Our Alumni.md
       - Our GM Community/Our Partners.md
       - Our GM Community/Our Staff.md
+      - Academic Matters/.keep
       - Student Achievement.md
       - Former Students' Achievement.md
       - Photo Gallery/.keep
