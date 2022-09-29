@@ -9,7 +9,6 @@ third_nav_title: Academic Matters
 <h3>Sec 4EX Top Students</h3>
 
 <img src="/images/WhatsApp-Image-2021-01-18-0.jpeg">
-
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
