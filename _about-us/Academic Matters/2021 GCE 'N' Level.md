@@ -20,3 +20,6 @@ third_nav_title: Academic Matters
     </div>
 	</li>
 </ul>
+<br>
+<img src="/images/IMG_1540-copy-scaled.jpg">
+
