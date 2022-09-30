@@ -15,7 +15,7 @@ third_nav_title: Academic Matters
     <label for="accordion1">GM N(T) Top Students</label>
     <div>
       <p>Students with 3 or more As:</p>
-			<p>1. Celeste Lim Tong En<br>2. Sieng Jin Siong<br>3. Kelly Rezanna<br>4. Jarod Lee Yong Jie<br>5. Tan Pei Jun<br>6. Wang Lang<br>7. Ong Yaoneng<br>8. Akid Mikhail Bin Mohammad Fadil<br>8. Dominic Paul Phuntsog<br>9. Tan Jun Long, Harel
+			<p>1. Celeste Lim Tong En<br>2. Sieng Jin Siong<br>3. Kelly Rezanna<br>4. Jarod Lee Yong Jie<br>5. Tan Pei Jun<br>6. Wang Lang<br>7. Ong Yaoneng<br>8. Akid Mikhail Bin Mohammad Fadil<br>8. Dominic Paul Phuntsog<br>9. Tan Jun Long, Harel</p>
     </div>
 	</li>
 </ul>
