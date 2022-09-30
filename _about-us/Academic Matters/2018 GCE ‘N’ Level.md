@@ -26,8 +26,7 @@ third_nav_title: Academic Matters
     <label for="accordion2">GM N(A) Top Students</label>
     <div>
 			<p>Students with 4 or more As:</p>
-			<p> • Ong Jin Wen, Angela (H41)<br> • Neo Li Fang Amanda (H42)
-Tan Wei Jie (H41)<br>  • Lee Qin Hui (H41)<br>  • Vicky Lim Si Qi (H43)<br> • Ng Pei Ling (H41)<br> • Alaina Akriti Jaiswal (H42)<br> • 
+			<p> • Ong Jin Wen, Angela (H41)<br> • Neo Li Fang Amanda (H42)<br> • Tan Wei Jie (H41)<br>  • Lee Qin Hui (H41)<br>  • Vicky Lim Si Qi (H43)<br> • Ng Pei Ling (H41)<br> • Alaina Akriti Jaiswal (H42)<br> • 
 Heng Le Xuan, Theophilus (H41)</p>
     </div>
 	</li>
