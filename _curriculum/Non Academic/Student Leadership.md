@@ -31,3 +31,10 @@ At the pinnacle, we have the different executive committees which will lead the 
 Leadership trainings are tiered, with varying rigor and intensity, based on students’ readiness.
 
 The design of our student leadership programme is guided by Kouzes and Posner's Model in Transformational Leadership which provides a breadth of practices to develop student leaders - challenging the process, inspiring a shared vision, enabling others to act, modeling the way, and encouraging the heart (Kouzes & Posner, 1995, 2002). Students will use the tiered behavioural statements linked to each practice to reflect on their personal leadership journey to grow as Courageous Leaders.
+
+
+**Student Leadership Development Team**
+
+IC: Mrs Yvonee Wong
+
+2 IC: Mr Xiao Kai Wen
