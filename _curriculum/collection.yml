@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Academic/Nutrition & Food Science.md
       - Academic/Music.md
       - Academic/Physical Education.md
       - Academic/.keep
