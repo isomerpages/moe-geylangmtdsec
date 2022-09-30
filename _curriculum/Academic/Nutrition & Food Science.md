@@ -42,7 +42,7 @@ third_nav_title: Academic
 *   Secondary 3 Culinary Enrichment, conducted by external vendor
 
 *   For more information, please refer to the following links:
-    *   [Lower secondary FCE syllabus](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/food-consumer-education.pdf)
+    *   [Lower secondary FCE syllabus](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/food-consumer-education.pdf) - page not found
     *   [Upper secondary Food and Nutrition (F&N) O-level syllabus](/files/6097_y22_sy.pdf)
     *   [Upper secondary Food and Nutrition (F&N) N(A)-level syllabus](/files/6073_y22_sy.pdf)
     *   [Upper secondary Food Studies N(T)-level syllabus](/files/6079_y22_sy.pdf)
