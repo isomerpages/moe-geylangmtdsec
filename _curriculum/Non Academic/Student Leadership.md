@@ -111,3 +111,6 @@ IC: Mrs Yvonee Wong
 <img src="/images/Main-Pg-1-1024x768.jpg">
 <br>
 <img src="/images/Main-Pg-2-1024x768.jpg">
+
+<h3>Different Facets of Student Life</h3>
+For more information, click here.
