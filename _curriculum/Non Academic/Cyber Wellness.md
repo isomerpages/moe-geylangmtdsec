@@ -27,4 +27,4 @@ Students should be able to:
 
 Click [here](http://www.betterinternet.sg/) for more information.
 
-Helping Your Child Manage Online Scam – [Tip Sheet for Parents](https://geylangmethodistsec.moe.edu.sg/wp-content/uploads/2016/10/Tip-sheet-for-Parents.pdf)
+Helping Your Child Manage Online Scam – [Tip Sheet for Parents](/files/Tip-sheet-for-Parents.pdf)
