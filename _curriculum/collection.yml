@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Non Academic/Values in Action (VIA).md
       - Non Academic/Student Leadership.md
       - Non Academic/.keep
       - Subject Combination Briefing 2022.md
