@@ -54,3 +54,7 @@ Looking at wider societal issues, some Secondary 3 classes came together and gav
 Graduating students completed their VIA journey with the Capstone Project.  A culmination of all their VIA experiences and learning, this final VIA project consolidates students’ understanding of societal issues. This provided the platform for students to give back to the community.
 
 Secondary 4 and 5 students took ownership over their capstone project as they deepened their engagement with the beneficiaries partnered in Secondary 3. Our graduating students were encouraged to think critically, solve challenging problems and develop lifelong learning skills of goal setting, self-sufficiency and teamwork.
+
+![](/images/Sec-4_Capstone-Project_Harvest-Care-Centre_Young-Children-1024x768.jpg)
+
+![](/images/Youtube-Live-Session-with-Cai-Yin-Zhou_Geylang-Adventures-1024x679.jpg)
