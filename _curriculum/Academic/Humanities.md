@@ -42,7 +42,7 @@ Inquiry is a purposeful act of seeking information or knowledge, activating prio
 	</li>
 		  <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">Projects Exhibition @ Public Library</label>
+    <label for="accordion3">Lower Secondary Geography</label>
     <div>
 			<p><img src="/images/DNT-3.jpg"><br><img src="/images/DNT-4.jpg"><br><img src="/images/DNT-5.jpg"></p>
 			<p>To recognise our students’ talents and efforts and to celebrate their successes in D&T, the department has collaborated with the Geylang East Public Library to display our students’ prototypes.</p>
