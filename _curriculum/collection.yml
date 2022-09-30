@@ -2,4 +2,5 @@ collections:
   curriculum:
     output: true
     order:
+      - Non Academic/.keep
       - Subject Combination Briefing 2022.md
