@@ -49,7 +49,8 @@ For more information, do refer to the following links:
     <input type="checkbox" id="accordion1">
     <label for="accordion1">Secondary 1 Post Exam Challenge</label>
     <div>
-			<p><img src="/images/IMG_8962e.jpg"></p>
+			<p><img src="/images/DNT-1.jpg"></p>
+			<p>During the end-of-year post-examination period, the department holds a "Design Challenge" for the Secondary 1 cohort. The students apply what they have learnt from the topic ‘Structure’; they design and build a tower to a height as tall as possible, to withstand the weight of a ream of paper. To stretch their creativity and resourcefulness, students are only given a packet of ice-cream sticks and a roll of masking tape to build their tower.</p>
     </div>
 	</li>
 </ul>
