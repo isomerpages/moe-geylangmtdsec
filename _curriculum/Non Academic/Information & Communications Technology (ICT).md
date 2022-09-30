@@ -39,3 +39,11 @@ Through the use of technology, we hope to maximise every learning opportunity by
 ### **Programmes & Activities**
 
 **Micro:Bit Programming Tier 1**
+
+![](/images/MicroBit%20Programming%20Tier%201.jpg)
+
+**Micro:Bit Programming Tier 2**
+![](/images/MicroBit%20Programming%20Tier%202.jpg)
+
+**Competitions and Hackathons**
+![](/images/Competition.jpg)
