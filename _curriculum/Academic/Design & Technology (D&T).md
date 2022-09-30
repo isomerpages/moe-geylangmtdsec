@@ -81,7 +81,8 @@ For more information, do refer to the following links:
     <input type="checkbox" id="accordion6">
     <label for="accordion6">Industrial Visit</label>
     <div>
-			<p><img src="/images/DNT-7.jpg"></p>
+			<p><img src="/images/IMG-20191015-WA0014-768x576.jpg" style="width:70%"></p>
 			<p>The department collaborates with various polytechnics to provide our students with a different learning environment. This year, our students learn sketching skills that are taught at the polytechnic level. Students are also exposed to marker rendering, which is a method used to enhance their final presentations in the Design Process.</p>
     </div>
 	</li>
+	<ul>
