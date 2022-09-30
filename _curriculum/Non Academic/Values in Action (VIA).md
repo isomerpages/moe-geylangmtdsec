@@ -66,3 +66,5 @@ On 31 August 2020, our GEMS had the privilege to listen to a live interview sess
 The latter part of the money was spent putting the finishing touches on their activities.
 
 To conclude VIA Day, an in-depth reflection facilitated by form teachers, brought students through their VIA journey to be caring citizens and make a positive difference to society.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hm-_8zvo60c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
