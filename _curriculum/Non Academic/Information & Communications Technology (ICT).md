@@ -47,3 +47,4 @@ Through the use of technology, we hope to maximise every learning opportunity by
 
 **Competitions and Hackathons**
 ![](/images/Competition.jpg)
+**Above: MakeX Online 2020 using Python programming**
