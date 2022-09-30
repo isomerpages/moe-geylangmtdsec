@@ -1,4 +1,5 @@
 collections:
   curriculum:
     output: true
-    order: []
+    order:
+      - Subject Combination Briefing 2022.md
