@@ -27,3 +27,13 @@ There are six compulsory modules in the subject. These modules are:
 (4) Spreadsheets  
 (5) Multimedia Communication   
 (6) Media Computing.
+
+![](/images/inkscape_01_Lucy-Liew-F11.png)
+
+![](/images/Inkscape_02_Lucy-Liew-F11.png)
+
+![](/images/CPA-Website-01-1024x604.jpg)
+
+![](/images/CPA-Website-02-1024x568.jpg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Jxwx2-flz4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
