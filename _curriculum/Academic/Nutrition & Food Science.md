@@ -46,3 +46,12 @@ third_nav_title: Academic
     *   [Upper secondary Food and Nutrition (F&N) O-level syllabus](/files/6097_y22_sy.pdf)
     *   [Upper secondary Food and Nutrition (F&N) N(A)-level syllabus](/files/6073_y22_sy.pdf)
     *   [Upper secondary Food Studies N(T)-level syllabus](/files/6079_y22_sy.pdf)
+
+![](/images/Cheese-BT_Isaac-1024x768.jpg)
+Sec 1 Inter-Disciplinary Coursework
+
+![](/images/Sec-2-Food-Sci-3-1024x576.jpg)
+Sec 2 Food Science Coursework
+
+![](/images/S3-Culinary-1-1024x768.jpeg)
+Sec 3 Culinary Enrichment
