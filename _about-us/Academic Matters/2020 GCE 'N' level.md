@@ -20,7 +20,7 @@ third_nav_title: Academic Matters
 	</li>
 </ul>
 <br>
-<img src="/images/MG_5188e.jpg">
+<img src="/images/MG_5171e.jpg">
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion2">
@@ -31,4 +31,3 @@ third_nav_title: Academic Matters
     </div>
 	</li>
 </ul>
-<br>
