@@ -87,6 +87,8 @@ IC: Mrs Yvonee Wong
     <label for="accordion3">CCA Leaders</label>
     <div>
 			<p><b>Objectives of the CCA Leeders</b><br>• Lead the members in achieving goals of the CCA<br> • Support in the operations of the CCA<br> • Grow in leadership capacities through the planning and enacting of the CCA programmes</p>
+			<p><b>Teacher-in-charge</b><br>1. Mr Cheng Xin Jin (I/C)</p>
+			<p><b>Committee members</b><br>Refer to the individual CCA page</p>
 	</div>
 	</li>
 	</ul>
