@@ -69,3 +69,11 @@ For more information, do refer to the following links:
 			<p>To recognise our students’ talents and efforts and to celebrate their successes in D&T, the department has collaborated with the Geylang East Public Library to display our students’ prototypes.</p>
     </div>
 	</li>
+	<li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">NYP Science and Technology Challenge</label>
+    <div>
+			<p><img src="/images/DNT-6.jpg"></p>
+			<p>To recognise our students’ talents and efforts and to celebrate their successes in D&T, the department has collaborated with the Geylang East Public Library to display our students’ prototypes.</p>
+    </div>
+	</li>
