@@ -28,34 +28,29 @@ third_nav_title: Academic
 *   Outdoor Education
 *   Elements of Physical Health and Fitness
 
-3.  Modes of Assessment
+3\.  Modes of Assessment
 
 *   NAPFA test  (PFT)
 *   Theory assessment through SLS and HBL
 *   Game skills assessment through peer feedback and intra-class competitions.
 
-4.  Department Policy
+4\.  Department Policy
 
 *   All students, except those with valid medical certificates, are to participate fully in PE lessons.
 *   All students are to be in their House T-shirts, school PE shorts, socks and appropriate footwear for all PE lessons.
 *   All students are to participate in sports events organised by the department.
 
-(a)        Sports Day
-
-(b)        Cross Country
-
-(c)        Inter-house Games
-
+(a)        Sports Day  
+(b)        Cross Country   
+(c)        Inter-house Games    
 (d)        Inter-class Games
 
-5.  Sports and Exercise Science (ESS) as an O-Level subject
+5\.  Sports and Exercise Science (ESS) as an O-Level subject
 
 *   The choice of taking ESS as an O-Level subject is offered to Secondary 3 students who are more sport-inclined, provided they meet the requirements at the end of the Secondary 2 year.
+	*    There is no N-Level paper for ESS. N(A) students will be taking their ESS O-Level papers concurrently with their N-Level Papers.
 
-*   *   There is no N-Level paper for ESS. N(A) students will be taking their ESS O-Level papers concurrently with their N-Level Papers.
-
-*   The 2-year curriculum will enable students to appreciate the theoretical and practical aspects of PE as well as prepare students who are keen in a tertiary education in:
-
-*   *   Life and Health Sciences
+*   The 2-year curriculum will enable students to appreciate the theoretical and practical aspects of PE as well as prepare students who are keen in a tertiary education in:   
+	 *   Life and Health Sciences
     *   Physical Education
     *   Health and Fitness
