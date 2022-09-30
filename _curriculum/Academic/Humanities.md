@@ -27,8 +27,8 @@ Inquiry is a purposeful act of seeking information or knowledge, activating prio
 			<p>For more information, please visit: <a href="https://www.seab.gov.sg/home/examinations/gce-o-level/o-level-syllabuses-examined-for-school-candidates-2021">https://www.seab.gov.sg/home/examinations/gce-o-level/o-level-syllabuses-examined-for-school-candidates-2021</a></p>
 			<p><b>Humanities (Social Studies, Geography)<br>2272 (Papers 1 and 2)</b><br><br><b>Humanities (Social Studies, History)<br>2273 (Papers 1 and 2)</b><br><br><b>Humanities (Social Studies, Literature in English)<br>2274 (Papers 1 and 2)</b><br><br><b>Humanities (Geography)<br>2236 (Papers 1 and 2)</b><br><br><b>Humanities (History)<br>2174 (Papers 1 and 2)</b></p>
 			<p><b> GCE ‘N(A)’ Level</b></p>
-			<p>For more information, please visit: <a href="https://www.seab.gov.sg/home/examinations/gce-o-level/o-level-syllabuses-examined-for-school-candidates-2021">https://www.seab.gov.sg/home/examinations/gce-o-level/o-level-syllabuses-examined-for-school-candidates-2021</a></p>
-			<p><b>Humanities (Social Studies, Geography)<br>2272 (Papers 1 and 2)</b><br><br><b>Humanities (Social Studies, History)<br>2273 (Papers 1 and 2)</b><br><br><b>Humanities (Social Studies, Literature in English)<br>2274 (Papers 1 and 2)</b><br><br><b>Humanities (Geography)<br>2236 (Papers 1 and 2)</b><br><br><b>Humanities (History)<br>2174 (Papers 1 and 2)</b></p>
+			<p>For more information, please visit: <a href="https://www.seab.gov.sg/home/examinations/gce-n(a)-level/n(a)-level-syllabuses-examined-for-school-candidates-2021i">https://www.seab.gov.sg/home/examinations/gce-n(a)-level/n(a)-level-syllabuses-examined-for-school-candidates-2021i</a></p>
+			<p><b>Humanities (Social Studies, Geography)<br>2175 (Papers 1 and 2)</b><br><br><b>Humanities (Social Studies, History)<br>2176 (Papers 1 and 2)</b><br><br><b>Humanities (Social Studies, Literature in English)<br>2177 (Papers 1 and 2)</b></p>
     </div>
 	</li>
 	  <li>
