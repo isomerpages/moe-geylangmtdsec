@@ -33,5 +33,5 @@ In the process of learning, students will be increasingly challenged to explore 
 For more information, do refer to the following links:
 
 *   [Lower Secondary Art Syllabus](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/arts-education/files/2009-art-teaching-and-learning-syllabus-(primary-and-lower-secondary)8b313533f22f6eceb9b0ff0000fcc945.pdf) - page not found
-*   [Upper Secondary O level Art Syllabus](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/6123_y22_sy.pdf)
-*   [Upper Secondary N(A) level Art Syllabus](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2022syllabus/6125_y22_sy.pdf)
+*   [Upper Secondary O level Art Syllabus](/files/6123_y22_sy.pdf)
+*   [Upper Secondary N(A) level Art Syllabus](/files/6125_y22_sy.pdf)
