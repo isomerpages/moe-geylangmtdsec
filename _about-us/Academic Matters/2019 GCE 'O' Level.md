@@ -7,10 +7,6 @@ third_nav_title: Academic Matters
 <h1><b>2019 GCE 'O' Level</b></h1>
 
 <h3>Sec 4EX Top Students</h3>
-
-![](/images/WhatsApp-Image-2020-01-13.jpeg)
-![](/images/WhatsApp-Image-2020-01-13-1.jpeg)
-
 <img src="/images/WhatsApp-Image-2020-01-13.jpeg">
 <ul class="jekyllcodex_accordion">
   <li>
@@ -29,7 +25,7 @@ third_nav_title: Academic Matters
     <input type="checkbox" id="accordion2">
     <label for="accordion2">GM Sec 5NA Top Students</label>
     <div>
-			<p> • *   (P51) Ong Jing Wen, Angela<br> • *   (P51) Ng Pei Ling<br> • *   (P51) Tan Wei Jie<br>• *   (P52) Koh Wen Xi Delia</p>
+			<p> •   (P51) Ong Jing Wen, Angela<br> •  (P51) Ng Pei Ling<br> •   (P51) Tan Wei Jie<br>•   (P52) Koh Wen Xi Delia</p>
     </div>
 	</li>
 </ul>
