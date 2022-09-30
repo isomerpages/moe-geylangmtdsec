@@ -78,6 +78,7 @@ IC: Mrs Yvonee Wong
 	<p><b>House Committee Organisation Chart</b></p>
 	<p><img src="/images/House-Committee-Organisation-Chart.jpg">
 	<img src="/images/house%20exco.jpg">
+		<p><iframe width="560" height="315" src="https://www.youtube.com/embed/2vjFI2_UQ6Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
     </div>
 	</li>
 </ul>
