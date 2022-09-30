@@ -74,6 +74,6 @@ For more information, do refer to the following links:
     <label for="accordion4">NYP Science and Technology Challenge</label>
     <div>
 			<p><img src="/images/DNT-6.jpg"></p>
-			<p>To recognise our students’ talents and efforts and to celebrate their successes in D&T, the department has collaborated with the Geylang East Public Library to display our students’ prototypes.</p>
+			<p>This is the ninth year that we have taken part in the Nanyang Polytechnic Science and Technology Challenge. Our students get to apply what they have learnt in D&T lessons in the challenges they have signed up for. At the same time, they also learn new skills and knowledge while attending the workshop prior to the challenge.<br><br>One of the most rewarding moments for our students was when their designs were recognised and awarded during the competition.</p>
     </div>
 	</li>
