@@ -38,3 +38,14 @@ The design of our student leadership programme is guided by Kouzes and Posner's 
 IC: Mrs Yvonee Wong
 
 2 IC: Mr Xiao Kai Wen
+
+
+![](/images/SLI1-1-1024x683.jpg)
+
+![](/images/SLI2-1-1024x683.jpg)
+
+![](/images/SLI3-1-1024x768.jpg)
+
+![](/images/SLI4-1.jpg)
+
+![](/images/SLI5-1.jpg)
