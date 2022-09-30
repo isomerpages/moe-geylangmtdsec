@@ -23,3 +23,12 @@ The revised syllabus allows students to think and do, to visualise and concretis
 Click [here](https://www.channelnewsasia.com/news/singapore/o-level-subjects-d-t-music-revised-to-become-more-relevant-video-11628818) for the news reported by Channel News Asia (CNA) regarding the new syllabus.
 
 Click [here](https://www.channelnewsasia.com/news/video-on-demand/made-in-singapore/designing-for-a-cause-10701434) for a documentary by Channel News Asia (CNA) regarding Design.
+
+![](/images/DNT.jpg)
+
+For more information, do refer to the following links:
+
+*   [Lower secondary D&T syllabus](/files/2017-d-amp-t-lower-secondary-syllabus.pdf)
+*   [Upper secondary O-level \[revised\]](/files/7059_y22_sy.pdf)
+*   [Upper secondary N(A)-level \[revised\]](/files/7055_y22_sy.pdf)
+*   [Upper secondary N(T)-level \[revised\]](/files/7062_y22_sy.pdf)
