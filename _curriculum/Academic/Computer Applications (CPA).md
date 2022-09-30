@@ -37,3 +37,7 @@ There are six compulsory modules in the subject. These modules are:
 ![](/images/CPA-Website-02-1024x568.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2Jxwx2-flz4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+For more information, do refer to the following links:
+
+*   ['N(T)' Computer Applications](/files/7018_y22_sy.pdf)
