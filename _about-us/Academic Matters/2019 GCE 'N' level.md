@@ -7,11 +7,6 @@ third_nav_title: Academic Matters
 <h1><b>2019 GCE 'N' level</b></h1>
 
 <h3>GCE 'N(T)' Level</h3>
-
-![](/images/MG_4265ee.jpg)
-
-![](/images/MG_4269ee.jpg)
-
 <img src="/images/MG_4265ee.jpg">
 <ul class="jekyllcodex_accordion">
   <li>
