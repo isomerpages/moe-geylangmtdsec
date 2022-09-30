@@ -97,3 +97,13 @@ IC: Mrs Yvonee Wong
 			<p><img src="/images/Class-Committee-Organisation-Chart-.jpg"></p>
 	</div>
 	</li>
+		<li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">GEMS Leaders</label>
+    <div>
+			<p><b>Objectives of the GEMS Leaders</b><br>• Induct the Secondary 1s to the GM culture<br> • Mentor and guide the Secondary 1s in their transition to secondary school life</p>
+			<p><b>Teacher-in-charge</b><br>1. Mr Pek Han Wei (I/C)</p>
+			<p><img src="/images/GEMSleaders.jpg"></p>
+	</div>
+	</li>
+	</ul>
