@@ -19,4 +19,4 @@ Students will learn about business activities, focusing on marketing and custome
 
 Through the study of EBS, students will also develop decision-making skills and an enterprising mindset as they conduct research and evaluate information to make reasoned recommendations for businesses to make improvements. As students gain knowledge and exposure to trends and innovations in the Singapore business landscape, they also become more aware of the opportunities and challenges they may face in the future.
 
-Please [click](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2022syllabus/7066_y22_sy.pdf) here for the EBS syllabus and scheme of assessment.
+Please [here](/files/7066_y22_sy.pdf) here for the EBS syllabus and scheme of assessment.
