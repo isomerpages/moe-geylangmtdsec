@@ -107,3 +107,7 @@ IC: Mrs Yvonee Wong
 	</div>
 	</li>
 	</ul>
+	
+<img src="/images/Main-Pg-1-1024x768.jpg">
+<br>
+<img src="/images/Main-Pg-2-1024x768.jpg">
