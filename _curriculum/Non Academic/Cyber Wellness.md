@@ -28,3 +28,5 @@ Students should be able to:
 Click [here](http://www.betterinternet.sg/) for more information.
 
 Helping Your Child Manage Online Scam – [Tip Sheet for Parents](/files/Tip-sheet-for-Parents.pdf)
+
+![](/images/CW-01-2020-1024x768.jpg)
