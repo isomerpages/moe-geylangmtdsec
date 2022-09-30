@@ -20,8 +20,7 @@ In lower secondary, the syllabus focuses on equipping students with fundamental 
 
 In upper secondary, the syllabus focuses on higher-order thinking skills. Students taking CPA will learn problem-solving skills and understand basic programming concepts and skills. Basic programming concepts and skills, learnt through simple animation and game design, can eventually be applied to solve problems in everyday context. This serves to better prepare students for further studies in programming and media-related courses, as well as for the work place and future learning.
 
-There are six compulsory modules in the subject. These modules are:
-
+There are six compulsory modules in the subject. These modules are:  
 (1) Computer Fundamentals   
 (2) Media Elements  
 (3) Document Processing  
