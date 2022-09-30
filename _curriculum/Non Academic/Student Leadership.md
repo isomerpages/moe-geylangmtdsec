@@ -56,6 +56,7 @@ IC: Mrs Yvonee Wong
     <label for="accordion1">Student Council</label>
     <div>
 			<p><b>Objectives of the Student Council</b><br>• Build a strong GM community<br> • Be the voice of the student body<br> • Grow in leadership capacities to serve others<br> • Support in the operations of the school</p>
+			<p><b>Teachers-in-charge</b><br>1. Ms Phoebe Toh (I/C)<br>2. Ms Peck Pei Yi Francesca<br>3. Mr Jonathan Koh Yew Hwee</p>
     </div>
 	</li>
 </ul>
