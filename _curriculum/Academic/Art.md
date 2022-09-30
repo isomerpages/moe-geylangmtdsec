@@ -21,3 +21,7 @@ Our focus is therefore to provide opportunities for students to see, express and
 In the process of learning, students will be increasingly challenged to explore and enjoy art. Students will learn the skills of handling different media and explore materials, which can be used to express and represent their ideas.
 
 **Exhibitions and Competitions:**  The programme constantly stretches the artistic imagination and experience of our students and their abilities. Every student will have a chance to exhibit their artwork in school and take part in school-based or national/international art competitions. The school actively sources for external opportunities for our students, not only to sharpen their skills but also to foster self-confidence and a sense of achievement through their artwork.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Jxwx2-flz4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+![](/images/ART.jpg)
