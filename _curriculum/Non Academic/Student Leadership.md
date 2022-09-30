@@ -113,4 +113,4 @@ IC: Mrs Yvonee Wong
 <img src="/images/Main-Pg-2-1024x768.jpg">
 
 <h3>Different Facets of Student Life</h3>
-For more information, click <a href="https://staging.dnskg7mp0u9ot.amplifyapp.com//different-facets-of-student-life/">here
+For more information, click <a href="https://staging.dnskg7mp0u9ot.amplifyapp.com/different-facets-of-student-life/">here
