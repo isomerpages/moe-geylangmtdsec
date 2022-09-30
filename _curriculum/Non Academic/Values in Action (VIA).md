@@ -58,3 +58,11 @@ Secondary 4 and 5 students took ownership over their capstone project as they de
 ![](/images/Sec-4_Capstone-Project_Harvest-Care-Centre_Young-Children-1024x768.jpg)
 
 ![](/images/Youtube-Live-Session-with-Cai-Yin-Zhou_Geylang-Adventures-1024x679.jpg)
+
+**VIA Day**
+
+On 31 August 2020, our GEMS had the privilege to listen to a live interview session with Mr Cai Yin Zhou, a social entreperneur, who is also a former student of the school. Students learnt about the experiences of being a social entrepreneur and how to organize events and initiatives that advocate a cause. The personal sharing gave students insight from the ground and ways to initiate positive VIA experience.
+
+The latter part of the money was spent putting the finishing touches on their activities.
+
+To conclude VIA Day, an in-depth reflection facilitated by form teachers, brought students through their VIA journey to be caring citizens and make a positive difference to society.
