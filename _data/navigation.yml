@@ -1,8 +1,6 @@
 logo: /images/School logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
   - title: About Us
     collection: about-us
+  - title: Curriculum
+    collection: curriculum
