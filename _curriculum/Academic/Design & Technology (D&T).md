@@ -77,3 +77,11 @@ For more information, do refer to the following links:
 			<p>This is the ninth year that we have taken part in the Nanyang Polytechnic Science and Technology Challenge. Our students get to apply what they have learnt in D&T lessons in the challenges they have signed up for. At the same time, they also learn new skills and knowledge while attending the workshop prior to the challenge.<br><br>One of the most rewarding moments for our students was when their designs were recognised and awarded during the competition.</p>
     </div>
 	</li>
+		<li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">Polytechnic Enrichment Programme</label>
+    <div>
+			<p><img src="/images/DNT-6.jpg"></p>
+			<p>This is the ninth year that we have taken part in the Nanyang Polytechnic Science and Technology Challenge. Our students get to apply what they have learnt in D&T lessons in the challenges they have signed up for. At the same time, they also learn new skills and knowledge while attending the workshop prior to the challenge.<br><br>One of the most rewarding moments for our students was when their designs were recognised and awarded during the competition.</p>
+    </div>
+	</li>
