@@ -61,3 +61,11 @@ For more information, do refer to the following links:
 			<p>The 3D Design Challenge is one of the school’s GEMS Challenge offered to our Secondary 3 students. In this Challenge, students learn how to use CAD (Computer-Aided Design) software to design a product and are taught how to use Autodesk Inventor to design a solution from their identified needs. Students will experience the process of 3D printing as their completed designs will be printed using the 3D-printing technology.<br><br>The students also have the opportunity to visit the Singapore University of Technology and Design (SUTD), where they will be exposed to the courses offered in the higher learning institute.</p>
     </div>
 	</li>
+		  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">3D Design Challenge</label>
+    <div>
+			<p><img src="/images/DNT-2.jpg"></p>
+			<p>The 3D Design Challenge is one of the school’s GEMS Challenge offered to our Secondary 3 students. In this Challenge, students learn how to use CAD (Computer-Aided Design) software to design a product and are taught how to use Autodesk Inventor to design a solution from their identified needs. Students will experience the process of 3D printing as their completed designs will be printed using the 3D-printing technology.<br><br>The students also have the opportunity to visit the Singapore University of Technology and Design (SUTD), where they will be exposed to the courses offered in the higher learning institute.</p>
+    </div>
+	</li>
