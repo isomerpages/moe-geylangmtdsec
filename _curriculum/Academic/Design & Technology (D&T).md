@@ -53,4 +53,11 @@ For more information, do refer to the following links:
 			<p>During the end-of-year post-examination period, the department holds a "Design Challenge" for the Secondary 1 cohort. The students apply what they have learnt from the topic ‘Structure’; they design and build a tower to a height as tall as possible, to withstand the weight of a ream of paper. To stretch their creativity and resourcefulness, students are only given a packet of ice-cream sticks and a roll of masking tape to build their tower.</p>
     </div>
 	</li>
-</ul>
+	  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">3D Design Challenge</label>
+    <div>
+			<p><img src="/images/DNT-2.jpg"></p>
+			<p>The 3D Design Challenge is one of the school’s GEMS Challenge offered to our Secondary 3 students. In this Challenge, students learn how to use CAD (Computer-Aided Design) software to design a product and are taught how to use Autodesk Inventor to design a solution from their identified needs. Students will experience the process of 3D printing as their completed designs will be printed using the 3D-printing technology.<br><br>The students also have the opportunity to visit the Singapore University of Technology and Design (SUTD), where they will be exposed to the courses offered in the higher learning institute.</p>
+    </div>
+	</li>
