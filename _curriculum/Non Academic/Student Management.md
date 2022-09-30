@@ -7,8 +7,7 @@ third_nav_title: Non Academic
 # **Student Management**
 
 ![](/images/Student-Management-2048x1463.jpg)
-*Discipline your children while they are young enough to learn.*
-
+*Discipline your children while they are young enough to learn.*   
 *Listen to counsel and accept discipline, that you may be wise the rest of your days.*   
 *Proverbs 19:18, 20*
 
