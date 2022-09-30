@@ -43,6 +43,6 @@ third_nav_title: Academic
 
 *   For more information, please refer to the following links:
     *   [Lower secondary FCE syllabus](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/sciences/files/food-consumer-education.pdf)
-    *   [Upper secondary Food and Nutrition (F&N) O-level syllabus](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/6097_y22_sy.pdf)
-    *   [Upper secondary Food and Nutrition (F&N) N(A)-level syllabus](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2022syllabus/6073_y22_sy.pdf)
-    *   [Upper secondary Food Studies N(T)-level syllabus](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2022syllabus/6079_y22_sy.pdf)
+    *   [Upper secondary Food and Nutrition (F&N) O-level syllabus](/files/6097_y22_sy.pdf)
+    *   [Upper secondary Food and Nutrition (F&N) N(A)-level syllabus](/files/6073_y22_sy.pdf)
+    *   [Upper secondary Food Studies N(T)-level syllabus](/files/6079_y22_sy.pdf)
