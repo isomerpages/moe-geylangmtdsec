@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Academic/Art.md
       - Academic/Computer Applications (CPA).md
       - Academic/Design & Technology (D&T).md
       - Academic/Elements of Business Skills (EBS).md
