@@ -50,10 +50,10 @@ Inquiry is a purposeful act of seeking information or knowledge, activating prio
 	</li>
 	<li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">NYP Science and Technology Challenge</label>
+    <label for="accordion4">Upper Secondary Geography</label>
     <div>
 			<p><img src="/images/DNT-6.jpg"></p>
-			<p>This is the ninth year that we have taken part in the Nanyang Polytechnic Science and Technology Challenge. Our students get to apply what they have learnt in D&T lessons in the challenges they have signed up for. At the same time, they also learn new skills and knowledge while attending the workshop prior to the challenge.<br><br>One of the most rewarding moments for our students was when their designs were recognised and awarded during the competition.</p>
+			<p><h3>Sec 3 Geographical Investigation</h3><br>By carrying out the GI activities in school and in the community, Elective Geography students examine the fundamental concepts and essential principles involved in the Earth’s weather and climate system. They gain an understanding of the scientific basis of changing weather and climate and the complex interconnections among the physical and biological components of the Earth system. Through the study, students also appreciate that climate change poses challenges as well as opportunities.</p>
     </div>
 	</li>
 		<li>
