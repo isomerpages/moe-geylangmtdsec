@@ -35,3 +35,7 @@ With rapid advancements in technology and demand for 21st Century Competencies, 
 Students who show potential and talent are then recruited to participate in regional and inter-school competitions. They are also invited to showcase their learning at international symposiums on Educational Technology.
 
 Through the use of technology, we hope to maximise every learning opportunity by being current, student-centred and future-thinking.
+
+### **Programmes & Activities**
+
+**Micro:Bit Programming Tier 1**
