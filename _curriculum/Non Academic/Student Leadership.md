@@ -82,3 +82,11 @@ IC: Mrs Yvonee Wong
     </div>
 	</li>
 </ul>
+<li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">CCA Leaders</label>
+    <div>
+			<p><b>Objectives of the CCA Leeders</b><br>• Lead the members in achieving goals of the CCA<br> • Support in the operations of the CCA<br> • Grow in leadership capacities through the planning and enacting of the CCA programmes</p>
+	</div>
+	</li>
+	</ul>
