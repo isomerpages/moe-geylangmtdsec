@@ -57,8 +57,22 @@ third_nav_title: Academic
 
 For more information, do refer to the following links:
 
-*   [Physical Education Syllabus](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/physical-sports-education/files/physical_education_syllabus_2014.pdf)
-*   [Exercise and Sports Science](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/6081_y22_sy.pdf)
+*   [Physical Education Syllabus](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/physical-sports-education/files/physical_education_syllabus_2014.pdf) - page not found!
+*  [Exercise and Sports Science](/files/6081_y22_sy.pdf)
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5wthJVpfgCA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+![](/images/20200603_155034-1-1024x498.jpg)
+
+![](/images/20200824_092814-1024x768.jpg)
+
+![](/images/20200824_093110-2-1024x768.jpg)
+
+![](/images/20151229_081750-1024x576.jpg)
+
+![](/images/20151230_184949-1024x576.jpg)
+
+![](/images/20191230_182341-1024x498.jpg)
+
+![](/images/20200603_150118-1-1024x498.jpg)
