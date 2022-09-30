@@ -5,9 +5,8 @@ description: ""
 third_nav_title: Academic Matters
 ---
 <h1><b>2018 GCE ‘N’ Level</b></h1>
-
 <h3>GCE 'N(T)' Level</h3>
-<img src="/images/IMG_8963e.jpg">
+<img src="/images/IMG_2064.jpg">
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
@@ -19,14 +18,17 @@ third_nav_title: Academic Matters
 	</li>
 </ul>
 <br>
-<h3>Sec 5NA Top Students</h3>
-<img src="/images/IMG_8962e.jpg">
+<h3>GCE 'N(A)' Level</h3>
+<img src="/images/IMG_2066e.jpg">
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2">GM N(A) Top Students</label>
     <div>
-			<p>1. Lim Qi Zong<br>2. Wong Li Ren</p>
+			<p>Students with 4 or more As:</p>
+			<p> • Ong Jin Wen, Angela (H41)<br> • Neo Li Fang Amanda (H42)
+Tan Wei Jie (H41)<br>  • Lee Qin Hui (H41)<br>  • Vicky Lim Si Qi (H43)<br> • Ng Pei Ling (H41)<br> • Alaina Akriti Jaiswal (H42)<br> • 
+Heng Le Xuan, Theophilus (H41)</p>
     </div>
 	</li>
 </ul>
