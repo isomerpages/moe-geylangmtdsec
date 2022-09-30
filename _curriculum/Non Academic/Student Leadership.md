@@ -49,3 +49,15 @@ IC: Mrs Yvonee Wong
 ![](/images/SLI4-1.jpg)
 
 ![](/images/SLI5-1.jpg)
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">Student Council</label>
+    <div>
+			<p><b>Objectives of the Student Council</b></p>
+			<p> • Build a strong GM community<br> • Be the voice of the student body<br> • Grow in leadership capacities to serve others<br> • Support in the operations of the school</p>
+    </div>
+	</li>
+</ul>
+<br>
