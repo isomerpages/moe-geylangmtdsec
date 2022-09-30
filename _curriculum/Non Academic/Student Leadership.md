@@ -65,3 +65,12 @@ IC: Mrs Yvonee Wong
 	</li>
 </ul>
 <br>
+<li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">House Committee</label>
+    <div>
+			<p><b>Objectives of the House Committee </b></p>
+			<p> • Build a strong GM spirit<br> • Lead, cheer and rally the GM Community<br> • V<br> • Brendan Wang Guo Ling</p>
+    </div>
+	</li>
+</ul>
