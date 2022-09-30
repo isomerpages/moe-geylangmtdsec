@@ -68,7 +68,7 @@ IC: Mrs Yvonee Wong
     <label for="accordion2">House Committee</label>
     <div>
 			<p><b>Objectives of the House Committee </b></p>
-			<p> • Build a strong GM spirit<br> • Lead, cheer and rally the GM Community<br> • *   Grow in leadership capacities through sporting engagements</p>
+			<p> • Build a strong GM spirit<br> • Lead, cheer and rally the GM Community<br> • Grow in leadership capacities through sporting engagements</p>
 			<p><b>Teachers-in-charge</b></p>
 			<p>1. Mr John Seah (I/C)<br>2. Miss Nurulathirah<br>3. Mrs Deborah Tong</p>
 			<p><b>House Executive Committee 2022-2023</b></p>
