@@ -33,15 +33,7 @@ For more information, do refer to the following links:
 *   [Upper secondary N(A)-level \[revised\]](/files/7055_y22_sy.pdf)
 *   [Upper secondary N(T)-level \[revised\]](/files/7062_y22_sy.pdf)
 
-![](/images/DNT-1.jpg)
 
-![](/images/DNT-2.jpg)
-
-![](/images/DNT-3.jpg)
-![](/images/DNT-4.jpg)
-![](/images/DNT-5.jpg)
-![](/images/DNT-6.jpg)
-![](/images/DNT-7.jpg)
 
 
 <ul class="jekyllcodex_accordion">
@@ -80,6 +72,14 @@ For more information, do refer to the following links:
 		<li>
     <input type="checkbox" id="accordion5">
     <label for="accordion5">Polytechnic Enrichment Programme</label>
+    <div>
+			<p><img src="/images/DNT-7.jpg"></p>
+			<p>The department collaborates with various polytechnics to provide our students with a different learning environment. This year, our students learn sketching skills that are taught at the polytechnic level. Students are also exposed to marker rendering, which is a method used to enhance their final presentations in the Design Process.</p>
+    </div>
+	</li>
+			<li>
+    <input type="checkbox" id="accordion6">
+    <label for="accordion6">Industrial Visit</label>
     <div>
 			<p><img src="/images/DNT-7.jpg"></p>
 			<p>The department collaborates with various polytechnics to provide our students with a different learning environment. This year, our students learn sketching skills that are taught at the polytechnic level. Students are also exposed to marker rendering, which is a method used to enhance their final presentations in the Design Process.</p>
