@@ -48,3 +48,10 @@ Through the use of technology, we hope to maximise every learning opportunity by
 **Competitions and Hackathons**
 ![](/images/Competition.jpg)
 **Above: MakeX Online 2020 using Python programming**
+
+![](/images/ICT-5.jpg)
+**Above: Nanyang Polytechnic Science and Technology Competition 2020 – Rescue Rangers Event – 2nd Runners Up and Most Innovative Software design**
+
+**Sharing our Learning**
+![](/images/sharing%20our%20learning.jpg)
+**Above: EduTech Asia**
