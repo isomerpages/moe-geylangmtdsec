@@ -55,8 +55,7 @@ IC: Mrs Yvonee Wong
     <input type="checkbox" id="accordion1">
     <label for="accordion1">Student Council</label>
     <div>
-			<p><b>Objectives of the Student Council</b></p>
-			<p> • Build a strong GM community<br> • Be the voice of the student body<br> • Grow in leadership capacities to serve others<br> • Support in the operations of the school</p>
+			<p><b>Objectives of the Student Council</b><br>• Build a strong GM community<br> • Be the voice of the student body<br> • Grow in leadership capacities to serve others<br> • Support in the operations of the school</p>
     </div>
 	</li>
 </ul>
