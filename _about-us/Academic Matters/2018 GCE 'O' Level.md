@@ -7,3 +7,8 @@ third_nav_title: Academic Matters
 <h1><b>2018 GCE 'O' Level</h1></b>
 
 <h3>Sec 4EX Top Students</h3>
+
+
+![](/images/IMG_8963e.jpg)
+
+![](/images/IMG_8962e.jpg)
