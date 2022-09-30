@@ -28,8 +28,9 @@ There are six compulsory modules in the subject. These modules are:
 (5) Multimedia Communication   
 (6) Media Computing.
 
-![](/images/inkscape_01_Lucy-Liew-F11.png)
-
+<img src="/images/inkscape_01_Lucy-Liew-F11.png" 
+     style="width:50%">
+		 
 ![](/images/Inkscape_02_Lucy-Liew-F11.png)
 
 ![](/images/CPA-Website-01-1024x604.jpg)
