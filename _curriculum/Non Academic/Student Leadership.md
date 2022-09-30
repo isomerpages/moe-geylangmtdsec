@@ -63,8 +63,6 @@ IC: Mrs Yvonee Wong
 		<p><iframe width="560" height="315" src="https://www.youtube.com/embed/hUPWeluAbs0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
     </div>
 	</li>
-</ul>
-<br>
 <li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2">House Committee</label>
@@ -81,7 +79,6 @@ IC: Mrs Yvonee Wong
 		<p><iframe width="560" height="315" src="https://www.youtube.com/embed/2vjFI2_UQ6Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
     </div>
 	</li>
-</ul>
 <li>
     <input type="checkbox" id="accordion3">
     <label for="accordion3">CCA Leaders</label>
@@ -91,4 +88,12 @@ IC: Mrs Yvonee Wong
 			<p><b>Committee members</b><br>Refer to the individual CCA page</p>
 	</div>
 	</li>
-	</ul>
+	<li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">Class Committee</label>
+    <div>
+			<p><b>Objectives of the Class Committee</b><br>• Lead the class in various class activities<br> • Create a conducive classroom environment<br> • Support the Form Teachers in the administration of the class<br> • Foster care, concern and co-operation of classmates</p>
+			<p><b>Teacher-in-charge</b><br>1. Mr Cheng Xin Jin (I/C)</p>
+			<p><b>Committee members</b><br>Refer to the individual CCA page</p>
+	</div>
+	</li>
