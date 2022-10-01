@@ -104,3 +104,14 @@ Group Photo at Greenhouse
 			<p><img src="/images/Sec-3-ALP-Photo-6-1024x768.jpg">Sec 3 ALP students and teacher working at the greenhouse.</p>
     </div>
 	</li>
+	</ul>
+	
+
+
+
+
+<b>Science Enrichment Programmes</b>
+
+Students are given opportunities to participate in external Science competitions to extend and deepen their science knowledge and skills.
+
+<img src="/images/sci.jpg">
