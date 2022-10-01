@@ -35,7 +35,7 @@ Throughout the year, various language and cultural enrichment activities will be
 * Basic Malay   
 * Chinese Syllabus B (Only At Sec 4 Level)
 
-1. Pedagogical Approaches
+### 1. Pedagogical Approaches
 
 ![](/images/Pedagogical-Approach-1.jpg)
 ![](/images/Pedagogical-Approach-2.jpg)
@@ -48,3 +48,11 @@ Our teachers focus on the use of SLS and iMTL to engage students in their learni
 ![](/images/Pedagogical-Approach-4.png)
 
 Besides the use of ICT, the Mother Tongue Department adopts a wide range of pedagogical approaches to cater to our students’ learning needs. Teachers also use pair work, collaborative learning, debates, Making Learning Visible tools, differentiated instruction and other teaching strategies to enrich students’ learning experiences.
+
+### 2\. Department Programmes
+
+##### Reading Programme
+
+![](/images/Reading-Programme-1.png)
+
+One of the main highlights of the department’s enrichment programme for students is our Mother Tongue Reading Programme. Articles from newspapers and excerpts from novels are chosen for our students to read beyond their textbooks. Teachers firmly believe that extensive reading helps to foster language acquisition and strengthens one’s spoken and written skills.
