@@ -68,3 +68,6 @@ Every year, our students will also experience some form of cultural activities, 
 ![](/images/Learning%20Journeys%20&%20Field%20Trips.png)
 
 Every year, learning journeys or field trips are organised to enhance our students’ learning experiences through visits to heritage centres, museums and places of interest.  Such trips are planned to reinforce experiential and contextual learning. In these activities, students learn by making real world connections that contribute to their understanding of the world.
+
+
+###### Inter-class and Inter-school Competitions
