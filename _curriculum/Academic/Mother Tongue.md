@@ -70,4 +70,8 @@ Every year, our students will also experience some form of cultural activities, 
 Every year, learning journeys or field trips are organised to enhance our students’ learning experiences through visits to heritage centres, museums and places of interest.  Such trips are planned to reinforce experiential and contextual learning. In these activities, students learn by making real world connections that contribute to their understanding of the world.
 
 
-###### Inter-class and Inter-school Competitions
+##### Inter-class and Inter-school Competitions
+
+![](/images/Inter-class%20and%20Inter-school%20Competitions.png)
+
+Mother Tongue department prepares our students to participate in various language competitions. Such competitions increase our students’ intrinsic motivation to learn their MTL and also strengthen their academic abilities. By participating in competitions, we develop and nurture their confidence and collaboration skills.
