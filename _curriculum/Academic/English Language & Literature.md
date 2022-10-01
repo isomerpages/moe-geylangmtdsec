@@ -8,8 +8,6 @@ third_nav_title: Academic
 
 ![](/images/English-Language-N-Literature-2048x1463.jpg)
 
-![](/images/b-e1581293936471-1024x561.jpg)
-![](/images/Photo-2-Reading-daily-1024x498.jpg)
 
 
 ![](/images/c-1024x570.jpg)
@@ -37,6 +35,8 @@ third_nav_title: Academic
 			<p>The school believes strongly in cultivating a strong reading habit among the students.  Regular reading underpins mastery of a language. We want our students to have access to good reading materials and we will provide a conducive environment to nurture the reading habit.<br><br><b>Objectives</b><br> • Cultivate in students a reading habit and expose them to a range of reading materials and genres.<br> • Stimulate students’ interest in reading for pleasure and information.<br> • Inculcate in students the importance and usefulness of reading.
 Encourage students to think about and evaluate what they have read.</p>
 			<p><img src="/images/b-e1581293936471-1024x561.jpg"><br><img src="/images/Photo-2-Reading-daily-1024x498.jpg"><center>Students cultivate a daily reading habit</center></p>
+		<p><b>Buy-A-Book Programme</b><br>All lower secondary students will participate in the Buy-A-Book programme and be involved in interesting classroom activities related to the books.<br><br>Students select a book of their preference from a specially curated list of 15 popular titles in the Buy-a-Book programme.  From a list of 15 specially selected titles, the students have the opportunity to choose a book title and purchase it for their personal reading. They are encouraged to read the book during assembly or at their own time to develop a habit of reading.  Students can explore ways to infuse ideas from the book and use the vocabulary or expressions in their Writing and Oral presentation.</p>
+		<p><img src="/images/c-1024x570.jpg"><br><img src="/images/d-1024x600.jpg"><center>Students select a book of their own preference for Buy-A-Book programme</center></p>
     </div>
 	</li>
 	  <li>
