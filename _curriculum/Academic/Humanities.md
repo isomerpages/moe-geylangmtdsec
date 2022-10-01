@@ -64,8 +64,7 @@ Inquiry is a purposeful act of seeking information or knowledge, activating prio
 			<p><img src="/images/HY.jpg"></p>
 			<p><b>Secondary 1 Historical Investigation</b><br>2020 was a special year for Secondary 1 Historical Investigation (HI project). Home-based learning and the digitalisation of learning saw teachers bringing the HI project to students’ homes, in place of the normal learning journeys that are required in HI. Students could easily access Little India, Chinatown, Kampong Glam and Beach Road through pictures in a Google Drive folder. While the key elements of working together, selecting evidence and formulating inferences remain, the end products were adjusted and well-designed and informative online posters were produced.</p>
 			<p><img src="/images/HY_Poster1-730x1024.jpg"></p>
-			<p><b>Secondary 1 Healthcare</b></p>
-			<p>2020 was the year when Covid-19 hogged the headlines. To help students see the historical connection of present pandemic to past pandemics, students embarked on a healthcare project to find out the state of healthcare conditions in early 19th century Singapore. Students had to gather data about hospitals, medical facilities and public health measures. They had to study one infectious disease and analyse how it was brought under control.</p>
+			<p><b>Secondary 1 Healthcare</b><br>2020 was the year when Covid-19 hogged the headlines. To help students see the historical connection of present pandemic to past pandemics, students embarked on a healthcare project to find out the state of healthcare conditions in early 19th century Singapore. Students had to gather data about hospitals, medical facilities and public health measures. They had to study one infectious disease and analyse how it was brought under control.</p>
 			<p><img src="/images/HY_Poster2.jpg"></p>
     </div>
 	</li>
