@@ -66,3 +66,6 @@ Tier-2 programme further develops students’ interest, abilities and attitudes 
 *   Provide opportunities for students to apply science and engineering concepts;
 *   Encourage students to develop independent thinking, scientific curiosity and scientific inquiry through project-based learning, which incorporates 21 CC; and
 *   Promotes interest in STEM subjects through inquiry-based experimentation under a Structured Experimentation Programme, which invites students to explore an idea, pose a question and to subsequently solve a problem or to test a hypothesis. This allows students to extend their learning beyond the walls of a classroom.
+
+![](/images/Group-photo-at-Greenhouse.jpg)
+Group Photo at Greenhouse
