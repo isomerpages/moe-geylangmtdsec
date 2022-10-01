@@ -8,10 +8,6 @@ third_nav_title: Academic
 
 ![](/images/English-Language-N-Literature-2048x1463.jpg)
 
-
-![](/images/Photo-4-Chorale-reading-1024x497.jpg)
-![](/images/2021A-1024x649.jpg)
-
 ![](/images/Photo-5-Poetry-Slam.png)
 
 
@@ -32,13 +28,15 @@ Encourage students to think about and evaluate what they have read.</p>
 		<p><h3>EL Programmes to Develop Effective Communicators</h3></p>
 		<p>The <b>Speak Good English Movement (SGEM)</b> aims to encourage students to speak English more fluently and instill a love of reading amongst students of all levels. It is also a platform for students to practise public speaking and develop their self-confidence. Every week, one to three representatives from each class make a presentation to the whole school. The presentation could be a response to an article they have read or on any topic of their interest.<br><br>Since Term 3 of 2020, our SGEM has gone digital due to the ongoing pandemic. This new platform of delivery has not only given students the opportunity to hone their communication skills but also their IT skills.<br><br>We hope students will find reading and speaking English fun through this programme!
 	<p><img src="/images/2021D-1024x640.jpg"><br><img src="/images/2021C-1024x683.png"><br><img src="/images/2021B-1024x657.png"></p>
+	<p>Our Choral Reading Programme aims to encourage students to articulate well through choral reading, and to develop in students public speaking skills. Students choose their favourite texts that reflect their experiences to read aloud in unison with their group mates. As this unique approach increases their level of engagement, the programme also helps students build their fluency and self-confidence.</p>
+	<p><img src="/images/Photo-4-Chorale-reading-1024x497.jpg"><br><img src="/images/2021A-1024x649.jpg"></p>
     </div>
 	</li>
 	  <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">Sec 2 ALP - Urban Agriculture</label>
+    <label for="accordion2">Literature</label>
     <div>
-			<p><b>Sec 2 ALP<br>Urban Agriculture</b><br><br>Sec 2 students are introduced to the concept of Urban Agriculture in a land-scarce, urban environment such as Singapore.  Together with ComCrop Pte Ltd, students engage in hands-on experiments and learn the Science, Technology, Engineering and Mathematics (STEM) behind Urban Agriculture. They consolidate their learning by germinating and nurturing the growth of leafy vegetables in the school’s greenhouse using the Nutrient Film Technique (NFT), a hydroponic system, over a span of 10 weeks.</p>
+			<p>A critical eye is essential in this time and age, and Literature definitely trains students to have this!<br><br>Students learn to interpret and engage with literary texts. Through drama, teachers create a positive classroom environment where literary texts are discussed; and provide opportunities for students to develop individual viewpoints and perspectives to various literary texts.<br><br>Students learn how to present their ideas clearly through constructive reasoning. The Literature programme also equips students with the ability to respond to others’ views on texts, including their peers’ and teachers’, and refine their own views in light of different perspectives.<br><br>Through the exposure to a wide range of literary texts across prose, poetry and drama, the department aims to develop students into sensitive and confident people with a sensible and mature view of the world.</p>
 			<p><img src="/images/Sec-2-ALP-Photo-3.jpg">Experiments inside and outside of classroom</p>
 			<p><img src="/images/Sec-2-ALP-Photo-4-768x1024.jpg">Students at the school’s greenhouse</p>
     </div>
