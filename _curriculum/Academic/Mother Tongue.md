@@ -56,3 +56,5 @@ Besides the use of ICT, the Mother Tongue Department adopts a wide range of peda
 ![](/images/Reading-Programme-1.png)
 
 One of the main highlights of the department’s enrichment programme for students is our Mother Tongue Reading Programme. Articles from newspapers and excerpts from novels are chosen for our students to read beyond their textbooks. Teachers firmly believe that extensive reading helps to foster language acquisition and strengthens one’s spoken and written skills.
+
+##### Cultural Programmes and Activities
