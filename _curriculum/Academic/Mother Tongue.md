@@ -75,3 +75,9 @@ Every year, learning journeys or field trips are organised to enhance our studen
 ![](/images/Inter-class%20and%20Inter-school%20Competitions.png)
 
 Mother Tongue department prepares our students to participate in various language competitions. Such competitions increase our students’ intrinsic motivation to learn their MTL and also strengthen their academic abilities. By participating in competitions, we develop and nurture their confidence and collaboration skills.
+
+##### GEMS Challenge: Overseas Immersion Programme
+
+![](/images/GEMS%20Challenge:%20Overseas%20Immersion%20Programme.png)
+
+This is Mother Tongue Department’s signature programme. It enables students to personally experience how fast developing countries are progressing. Students are also able to understand future societal development trends and to prepare themselves for the future. In this programme, students will visit some cultural sites and schools to participate in cultural activities in a different setting. Through this, students’ cultural awareness is enhanced. In 2018 and 2019, our school went to China where students interacted with Singaporeans residing there - students who were studying there and entrepreneurs with businesses in China. This programme helps to widen students’ perspectives beyond Singapore and prepare them to face challenges in the future.
