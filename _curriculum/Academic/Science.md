@@ -100,5 +100,7 @@ Group Photo at Greenhouse
     <label for="accordion3">Sec 3 ALP – Food sustainability and security</label>
     <div>
 			<p><b>Sec 3 ALP<br>Food sustainability and security</b><br>Sec 3 students across different academic streams, who have shown passion and interest in STEM and the ALP, are invited to participate in this programme.<br><br>The Tier 2 Applied Learning Programme in Science (ALP) is designed to further develop students’ interest, abilities and attitude towards science and technology. The program provides a platform for students to explore and connect their scientific knowledge to tackle authentic problems around them.<br><br>Students will also be taught scientific skills, such as design of investigative experiments, data acquisition and analysis, and presentation of findings. Students can look forward to interact with experts from ComCrop Pte Ltd and gain insights into urban agriculture.<br><br>In addition, students will be given the opportunity to interact with other organisations, such as Singapore Food Agency (SFA) and Republic Polytechnic (RP) ,to broaden their perspectives on food sustainability and security in Singapore, and to learn more about related educational prospects and possible career opportunities.</p>
+			<p><img src="/images/Sec-3-ALP-Photo-5-1024x768.jpg">Sec 3 ALP students harvesting their crops.</p>
+			<p><img src="/images/Sec-3-ALP-Photo-6-1024x768.jpg">Sec 3 ALP students and teacher working at the greenhouse.</p>
     </div>
 	</li>
