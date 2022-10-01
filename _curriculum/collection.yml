@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Academic/Mother Tongue.md
       - Academic/Humanities.md
       - Academic/Art.md
       - Academic/Computer Applications (CPA).md
