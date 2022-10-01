@@ -57,10 +57,11 @@ Inquiry is a purposeful act of seeking information or knowledge, activating prio
 	</li>
 		<li>
     <input type="checkbox" id="accordion5">
-    <label for="accordion5">Polytechnic Enrichment Programme</label>
+    <label for="accordion5">Lower and Upper Secondary History</label>
     <div>
-			<p><img src="/images/DNT-7.jpg"></p>
-			<p>The department collaborates with various polytechnics to provide our students with a different learning environment. This year, our students learn sketching skills that are taught at the polytechnic level. Students are also exposed to marker rendering, which is a method used to enhance their final presentations in the Design Process.</p>
+			<p><b>Lower Secondary – Young Docents Programme</b><br>This is the National Library student docent programme that offers students an opportunity to work closely with Librarians and immerse themselves in Singapore’s Heritage and History. Students will also have a chance to curate tour contents, narrate and share on exhibition contents through tours and storytelling.<br><br>Target Trainees: Secondary 1-2<br><br>Objectives:<br>This programme enables students to develop their skills in historical content curation and accuracy. They can also hone their public speaking skills through various techniques of storytelling and narratives, while sharing about Singapore Heritage and History.</p>
+			<p><b>Upper Secondary – Young Docents Programme</b><br>An opportunity for students to learn and appreciate Singapore’s National Heritage and History through their Upper Secondary seniors. The Docents Programme is to inculcate respect and appreciation for the History and Humanities as a subject.<br><br>Target Trainees: Secondary 3 HY students.<br><br>Objective:<br>This programme enables students to use their historical skills to impart knowledge about various artefacts on display; as well as learn narration of corroborated historical facts, build confidence in public speaking and appreciation for the history subject.<br><Br>[Pictures taken on the day – 19th July]
+				<p><img src="/images/HY.jpg"></p>
     </div>
 	</li>
 			<li>
