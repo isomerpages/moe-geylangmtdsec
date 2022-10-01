@@ -89,4 +89,4 @@ Inquiry is a purposeful act of seeking information or knowledge, activating prio
 			<p><img src="/images/GP_2.jpg"></p>
     </div>
 	</li>
-	<ul>
+	</ul>
