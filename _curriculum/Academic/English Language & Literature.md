@@ -36,7 +36,7 @@ third_nav_title: Academic
 			<p><h3>English Reading Programme<br>Urban Heat Island</h3></p>
 			<p>The school believes strongly in cultivating a strong reading habit among the students.  Regular reading underpins mastery of a language. We want our students to have access to good reading materials and we will provide a conducive environment to nurture the reading habit.<br><br><b>Objectives</b><br> • Cultivate in students a reading habit and expose them to a range of reading materials and genres.<br> • Stimulate students’ interest in reading for pleasure and information.<br> • Inculcate in students the importance and usefulness of reading.
 Encourage students to think about and evaluate what they have read.</p>
-			<p><img src="/images/b-e1581293936471-1024x561.jpg"><br><img src="/images/Photo-2-Reading-daily-1024x498.jpg">Students cultivate a daily reading habit</p>
+			<p><img src="/images/b-e1581293936471-1024x561.jpg"><br><img src="/images/Photo-2-Reading-daily-1024x498.jpg"><center>Students cultivate a daily reading habit</center></p>
     </div>
 	</li>
 	  <li>
