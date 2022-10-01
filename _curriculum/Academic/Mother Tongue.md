@@ -86,3 +86,17 @@ This is Mother Tongue Department’s signature programme. It enables students to
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZZdnlYvFjFk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+For more information, do refer to the following links:
+
+*   *   [Chinese Language (Secondary) Syllabus](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/mother-tongue-languages/files/chinese-secondary-2011.pdf) - file not found!
+    *   [Malay Language (Secondary) Syllabus](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/mother-tongue-languages/files/malay-secondary-2011.pdf) - file not found!
+    *   ['N(T)' level Basic Chinese](/files/1202_y22_sy.pdf)
+    *   ['N(T)' level Basic Malay](/files/1203_y22_sy.pdf)
+    *   ['N(A)' level Chinese](/files/1196_y22_sy.pdf)
+    *   ['N(A)' level Malay](/files/1197_y22_sy.pdf)
+    *   ['O' level Higher Chinese](/files/1116_y22_sy.pdf)
+    *   ['O' level Chinese](/files/1160_y22_sy.pdf)
+    *   ['O' level Chinese B](/files/1153_y22_sy.pdf)
+    *   ['O' level Malay](/files/1148_y22_sy.pdf)
