@@ -25,7 +25,6 @@ The use of contemporary issues in newspaper articles, ICT, group work and variou
 
 Throughout the year, various language and cultural enrichment activities will be organised to promote greater appreciation of the different cultures and traditions.
 
- 
 
 **Mother Tongue Subjects that We Offer:**
 
@@ -36,6 +35,13 @@ Throughout the year, various language and cultural enrichment activities will be
 * Basic Malay   
 * Chinese Syllabus B (Only At Sec 4 Level)
 
- 
-
 1. Pedagogical Approaches
+
+![](/images/Pedagogical-Approach-1.jpg)
+![](/images/Pedagogical-Approach-2.jpg)
+
+Promoting independent learning by fostering the necessary skills for acquiring MTL proficiency through the use of different ICT platforms.
+
+Our teachers focus on the use of SLS and iMTL to engage students in their learning. This is in line with the development of 21st Century Competencies (21CC) as these ICT platforms encourage students to be self-directed, and allow them to personalise their learning according to their needs and interests. Teachers also make use of a range of tools to customise and create meaningful learning experiences for students. With the support of various ICT platforms and tools, teachers design authentic language tasks and harness interactive features to enhance students’ oral, written and interpersonal skills.
+
+ 
