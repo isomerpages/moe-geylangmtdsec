@@ -44,4 +44,7 @@ Promoting independent learning by fostering the necessary skills for acquiring M
 
 Our teachers focus on the use of SLS and iMTL to engage students in their learning. This is in line with the development of 21st Century Competencies (21CC) as these ICT platforms encourage students to be self-directed, and allow them to personalise their learning according to their needs and interests. Teachers also make use of a range of tools to customise and create meaningful learning experiences for students. With the support of various ICT platforms and tools, teachers design authentic language tasks and harness interactive features to enhance students’ oral, written and interpersonal skills.
 
- 
+![](/images/Pedagogical-Approach-3.jpg)
+![](/images/Pedagogical-Approach-4.png)
+
+Besides the use of ICT, the Mother Tongue Department adopts a wide range of pedagogical approaches to cater to our students’ learning needs. Teachers also use pair work, collaborative learning, debates, Making Learning Visible tools, differentiated instruction and other teaching strategies to enrich students’ learning experiences.
