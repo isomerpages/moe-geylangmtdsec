@@ -44,3 +44,29 @@ Encourage students to think about and evaluate what they have read.</p>
     </div>
 	</li>
 	</ul>
+	
+	
+	
+	
+	
+	
+For more information, do refer to the following links:
+
+*   ['N(T)' level English Language](/files/1195_y22_sy_e.pdf)
+*  ['N(A)' level English Language](/files/1190_y22_sy.pdf)
+*   ['O' level English Language](/files/1128_y22_sy.pdf)
+*   ['N(A)' level English Literature](/files/2022_y22_sy.pdf)
+*   ['O' level English Literature](/files/2065_y22_sy.pdf)
+
+
+
+
+
+
+
+
+
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hRAHdbfRaBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
