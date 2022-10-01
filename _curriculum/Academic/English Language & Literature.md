@@ -8,7 +8,9 @@ third_nav_title: Academic
 
 ![](/images/English-Language-N-Literature-2048x1463.jpg)
 
-![](/images/Photo-5-Poetry-Slam.png)
+
+
+
 
 
 <ul class="jekyllcodex_accordion">
@@ -38,17 +40,7 @@ Encourage students to think about and evaluate what they have read.</p>
     <div>
 			<p>A critical eye is essential in this time and age, and Literature definitely trains students to have this!<br><br>Students learn to interpret and engage with literary texts. Through drama, teachers create a positive classroom environment where literary texts are discussed; and provide opportunities for students to develop individual viewpoints and perspectives to various literary texts.<br><br>Students learn how to present their ideas clearly through constructive reasoning. The Literature programme also equips students with the ability to respond to others’ views on texts, including their peers’ and teachers’, and refine their own views in light of different perspectives.<br><br>Through the exposure to a wide range of literary texts across prose, poetry and drama, the department aims to develop students into sensitive and confident people with a sensible and mature view of the world.</p>
 			<p><h3>Literature Enrichment Programme</h3><b>Poetry Slam</b>, also known as performative poetry, combines elements of performance, writing, competition, and audience participation.<br><br>In the Poetry Slam Enrichment Programme for secondary 2 students, the students are taught the necessary skills to perform a poem confidently with suitable expression and accurate diction, and accompanying their performance with purposeful choral speaking and actions to engage their audience.</p>
-			<p><img src="/images/Sec-2-ALP-Photo-3.jpg">Experiments inside and outside of classroom</p>
-			<p><img src="/images/Sec-2-ALP-Photo-4-768x1024.jpg">Students at the school’s greenhouse</p>
-    </div>
-	</li>
-		  <li>
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3">Sec 3 ALP – Food sustainability and security</label>
-    <div>
-			<p><b>Sec 3 ALP<br>Food sustainability and security</b><br>Sec 3 students across different academic streams, who have shown passion and interest in STEM and the ALP, are invited to participate in this programme.<br><br>The Tier 2 Applied Learning Programme in Science (ALP) is designed to further develop students’ interest, abilities and attitude towards science and technology. The program provides a platform for students to explore and connect their scientific knowledge to tackle authentic problems around them.<br><br>Students will also be taught scientific skills, such as design of investigative experiments, data acquisition and analysis, and presentation of findings. Students can look forward to interact with experts from ComCrop Pte Ltd and gain insights into urban agriculture.<br><br>In addition, students will be given the opportunity to interact with other organisations, such as Singapore Food Agency (SFA) and Republic Polytechnic (RP) ,to broaden their perspectives on food sustainability and security in Singapore, and to learn more about related educational prospects and possible career opportunities.</p>
-			<p><img src="/images/Sec-3-ALP-Photo-5-1024x768.jpg">Sec 3 ALP students harvesting their crops.</p>
-			<p><img src="/images/Sec-3-ALP-Photo-6-1024x768.jpg">Sec 3 ALP students and teacher working at the greenhouse.</p>
+			<p><img src="/images/Photo-5-Poetry-Slam.png"></p>
     </div>
 	</li>
 	</ul>
