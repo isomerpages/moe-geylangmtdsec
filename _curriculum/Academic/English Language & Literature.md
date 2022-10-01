@@ -25,3 +25,36 @@ third_nav_title: Academic
 ![](/images/2021A-1024x649.jpg)
 
 ![](/images/Photo-5-Poetry-Slam.png)
+
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">English Language</label>
+    <div>
+			<p>Language is a vehicle for communication and expression, and students are equipped with the essential skills to communicate effectively in English. It is precisely with this aim in mind that the English Language instructional programme provides many opportunities for students to use English in a variety of situations and contexts.<br><br>Using a wide range of materials other than the textbook, students learn to listen, read, view, write and speak with understanding, accuracy and critical appreciation. Through oral and writing activities such as debates, role-play, advertisements, and reports, students learn to speak, write and make presentations in standard English that is grammatical, fluent and appropriate for purpose, audience, context and culture.<br><br>Our mission is to provide opportunities for students to become<br>√   Proficient writers<br>√   Confident communicators<br>√   Critical thinkers
+			<p><b>Sec 1 ALP<br>Urban Heat Island</b></p>
+			<p>Students are introduced to the concept of Urban Heat Island (UHI). They then explore this concept through a series of theory and activity-based lessons and group work.<br><br>Students conduct fieldwork experiments using instruments such as data loggers, infra-red thermometers and anemometers to gather data such as surface and ambient temperature, and wind speed to construct a UHI profile of the school.<br><br>To deepen students’ understanding of UHI, further investigations and experiments are conducted to discover factors affecting the rate of absorption and reflection of thermal energy.  Students are also introduced to various ‘green buildings’ in Singapore.<br><br>Students embark on a mini-project, which involves designing and building a model house, incorporating all the elements of a ‘green building’.  Students will then present their designs and model houses and the effectiveness of their designs in mitigating the effects of UHI is evaluated.</p>
+			<p><img src="/images/Sec-1-ALP-Photo-1-1024x768.jpg">Fieldwork experiments using data loggers and infra-red thermometers.</p>
+			<p><img src="/images/Sec-1-ALP-Photo-2.jpeg">A model of a green building with cooling features by Sec 1 students.</p>
+    </div>
+	</li>
+	  <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">Sec 2 ALP - Urban Agriculture</label>
+    <div>
+			<p><b>Sec 2 ALP<br>Urban Agriculture</b><br><br>Sec 2 students are introduced to the concept of Urban Agriculture in a land-scarce, urban environment such as Singapore.  Together with ComCrop Pte Ltd, students engage in hands-on experiments and learn the Science, Technology, Engineering and Mathematics (STEM) behind Urban Agriculture. They consolidate their learning by germinating and nurturing the growth of leafy vegetables in the school’s greenhouse using the Nutrient Film Technique (NFT), a hydroponic system, over a span of 10 weeks.</p>
+			<p><img src="/images/Sec-2-ALP-Photo-3.jpg">Experiments inside and outside of classroom</p>
+			<p><img src="/images/Sec-2-ALP-Photo-4-768x1024.jpg">Students at the school’s greenhouse</p>
+    </div>
+	</li>
+		  <li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">Sec 3 ALP – Food sustainability and security</label>
+    <div>
+			<p><b>Sec 3 ALP<br>Food sustainability and security</b><br>Sec 3 students across different academic streams, who have shown passion and interest in STEM and the ALP, are invited to participate in this programme.<br><br>The Tier 2 Applied Learning Programme in Science (ALP) is designed to further develop students’ interest, abilities and attitude towards science and technology. The program provides a platform for students to explore and connect their scientific knowledge to tackle authentic problems around them.<br><br>Students will also be taught scientific skills, such as design of investigative experiments, data acquisition and analysis, and presentation of findings. Students can look forward to interact with experts from ComCrop Pte Ltd and gain insights into urban agriculture.<br><br>In addition, students will be given the opportunity to interact with other organisations, such as Singapore Food Agency (SFA) and Republic Polytechnic (RP) ,to broaden their perspectives on food sustainability and security in Singapore, and to learn more about related educational prospects and possible career opportunities.</p>
+			<p><img src="/images/Sec-3-ALP-Photo-5-1024x768.jpg">Sec 3 ALP students harvesting their crops.</p>
+			<p><img src="/images/Sec-3-ALP-Photo-6-1024x768.jpg">Sec 3 ALP students and teacher working at the greenhouse.</p>
+    </div>
+	</li>
+	</ul>
