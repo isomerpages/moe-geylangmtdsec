@@ -82,7 +82,7 @@ Group Photo at Greenhouse
     <div>
 			<p><b>Sec 1 ALP<br>Urban Heat Island</b></p>
 			<p>Students are introduced to the concept of Urban Heat Island (UHI). They then explore this concept through a series of theory and activity-based lessons and group work.<br><br>Students conduct fieldwork experiments using instruments such as data loggers, infra-red thermometers and anemometers to gather data such as surface and ambient temperature, and wind speed to construct a UHI profile of the school.<br><br>To deepen students’ understanding of UHI, further investigations and experiments are conducted to discover factors affecting the rate of absorption and reflection of thermal energy.  Students are also introduced to various ‘green buildings’ in Singapore.<br><br>Students embark on a mini-project, which involves designing and building a model house, incorporating all the elements of a ‘green building’.  Students will then present their designs and model houses and the effectiveness of their designs in mitigating the effects of UHI is evaluated.</p>
-			<p><img src="/images/Sec-1-ALP-Photo-1-1024x768.jpg"></p>
+			<p><img src="/images/Sec-1-ALP-Photo-1-1024x768.jpg">Fieldwork experiments using data loggers and infra-red thermometers.</p>
     </div>
 	</li>
 	  <li>
