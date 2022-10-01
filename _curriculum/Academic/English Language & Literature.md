@@ -9,16 +9,6 @@ third_nav_title: Academic
 ![](/images/English-Language-N-Literature-2048x1463.jpg)
 
 
-
-![](/images/c-1024x570.jpg)
-![](/images/d-1024x600.jpg)
-
-![](/images/Photo-3-Variety-of-books-and-magazines-1024x498.jpg)
-
-![](/images/2021D-1024x640.jpg)
-![](/images/2021C-1024x683.png)
-![](/images/2021B-1024x657.png)
-
 ![](/images/Photo-4-Chorale-reading-1024x497.jpg)
 ![](/images/2021A-1024x649.jpg)
 
@@ -37,6 +27,11 @@ Encourage students to think about and evaluate what they have read.</p>
 			<p><img src="/images/b-e1581293936471-1024x561.jpg"><br><img src="/images/Photo-2-Reading-daily-1024x498.jpg"><center>Students cultivate a daily reading habit</center></p>
 		<p><b>Buy-A-Book Programme</b><br>All lower secondary students will participate in the Buy-A-Book programme and be involved in interesting classroom activities related to the books.<br><br>Students select a book of their preference from a specially curated list of 15 popular titles in the Buy-a-Book programme.  From a list of 15 specially selected titles, the students have the opportunity to choose a book title and purchase it for their personal reading. They are encouraged to read the book during assembly or at their own time to develop a habit of reading.  Students can explore ways to infuse ideas from the book and use the vocabulary or expressions in their Writing and Oral presentation.</p>
 		<p><img src="/images/c-1024x570.jpg"><br><img src="/images/d-1024x600.jpg"><center>Students select a book of their own preference for Buy-A-Book programme</center></p>
+		<p><b>Magazines Subscription</b><br>To boost the language and critical thinking skills of students, the English Department has curated a range of educational magazines (namely iThink, Inspire or “I”) for students to subscribe to. These magazines complement the English curriculum and at the same time, extend students’ general knowledge.</p>
+		<p><img src="/images/Photo-3-Variety-of-books-and-magazines-1024x498.jpg"></p>
+		<p><h3>EL Programmes to Develop Effective Communicators</h3></p>
+		<p>The <b>Speak Good English Movement (SGEM)</b> aims to encourage students to speak English more fluently and instill a love of reading amongst students of all levels. It is also a platform for students to practise public speaking and develop their self-confidence. Every week, one to three representatives from each class make a presentation to the whole school. The presentation could be a response to an article they have read or on any topic of their interest.<br><br>Since Term 3 of 2020, our SGEM has gone digital due to the ongoing pandemic. This new platform of delivery has not only given students the opportunity to hone their communication skills but also their IT skills.<br><br>We hope students will find reading and speaking English fun through this programme!
+	<p><img src="/images/2021D-1024x640.jpg"><br><img src="/images/2021C-1024x683.png"><br><img src="/images/2021B-1024x657.png"></p>
     </div>
 	</li>
 	  <li>
