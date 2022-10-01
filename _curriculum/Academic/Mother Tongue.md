@@ -81,3 +81,8 @@ Mother Tongue department prepares our students to participate in various languag
 ![](/images/GEMS%20Challenge:%20Overseas%20Immersion%20Programme.png)
 
 This is Mother Tongue Department’s signature programme. It enables students to personally experience how fast developing countries are progressing. Students are also able to understand future societal development trends and to prepare themselves for the future. In this programme, students will visit some cultural sites and schools to participate in cultural activities in a different setting. Through this, students’ cultural awareness is enhanced. In 2018 and 2019, our school went to China where students interacted with Singaporeans residing there - students who were studying there and entrepreneurs with businesses in China. This programme helps to widen students’ perspectives beyond Singapore and prepare them to face challenges in the future.
+
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZZdnlYvFjFk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
