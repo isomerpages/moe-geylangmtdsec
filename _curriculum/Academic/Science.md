@@ -27,7 +27,6 @@ The curriculum aims to develop students who will become confident and competent 
 The modes of assessment include:
 
 *   continual assessment (theory, practical tests and project work);
-
 *   semestral assessment (mid-year exam and end-of-year exam).
 
 To enjoy science, pupils are encouraged to:
@@ -38,3 +37,10 @@ To enjoy science, pupils are encouraged to:
 *   be curious,
 *   have an awareness of safety and
 *   have an awareness of natural phenomena and science-related social issues.
+
+
+![](/images/Lab-activity-photo-1-1024x768.jpg)
+
+![](/images/Lab-activity-photo-2-1024x768.jpg)
+
+Apart from the core curriculum mentioned above, all students will have the opportunity to participate in, and be enriched through our applied learning programme in Science (ALP).
