@@ -78,4 +78,15 @@ Inquiry is a purposeful act of seeking information or knowledge, activating prio
 			<p><img src="/images/humanities-2.jpg"></p>
     </div>
 	</li>
+	<li>
+    <input type="checkbox" id="accordion7">
+    <label for="accordion7">School Events</label>
+    <div>
+			<p><b>School Event: Green Programme</b><br>Since 2015, NEA has been running a Food Waste Reduction Campaign (FWRC) to encourage Singaporeans to raise awareness, drive action and promote advocacy amongst consumers to reduce food waste. Singapore has set the target of producing 30% of its nutritional needs by 2030 – up from less than 10% today.<br><br>The Geography team has decided to embark on a school-wide initiative: to create awareness and understanding; to encourage mind-set change; and to encourage action on food waste reduction.<br><br>The graduating students embarked on spreading the message of reducing food wastage and solving possible food issues faced by Singapore through poster design.</p>
+			<p><b>Students’ Poster:</b></p>
+			<p><img src="/images/GP_1.jpg"></p>
+			<p><b>Students’ Poster:</b></p>
+			<p><img src="/images/GP_2.jpg"></p>
+    </div>
+	</li>
 	<ul>
