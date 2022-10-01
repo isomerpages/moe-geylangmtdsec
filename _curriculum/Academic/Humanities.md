@@ -71,10 +71,11 @@ Inquiry is a purposeful act of seeking information or knowledge, activating prio
 	</li>
 			<li>
     <input type="checkbox" id="accordion6">
-    <label for="accordion6">Industrial Visit</label>
+    <label for="accordion6">Humanities Interntionalisation Trip</label>
     <div>
-			<p><img src="/images/IMG-20191015-WA0014-768x576.jpg" style="width:70%"></p>
-			<p>The department collaborates with various polytechnics to provide our students with a different learning environment. This year, our students learn sketching skills that are taught at the polytechnic level. Students are also exposed to marker rendering, which is a method used to enhance their final presentations in the Design Process.</p>
+			<p><b>Humanities Internationalisation Programme</b><br>This internationalisation trip aims to teach our student travellers an appreciation of the world outside Singapore as well as equip them with knowledge, understanding, and a chance to witness the process of globalisation first-hand. Students on this trip also learn the importance of Singapore’s collaboration with Vietnam and other members within the ASEAN community. Singapore’s partnership with Vietnam began in 2013 with a strong economic cooperation culminating in the formation of the Vietnam-Singapore Industrial Parks (VSIPs).<br><br>The internationalisation trip also seeks to provide students with the opportunity to absorb the sights and sounds of modernisation as well as rural Vietnam; experience the lives of local Vietnamese by visiting organic farms, villages; and learn local culture and history by visiting the War Remnants Museum, Cu Chi tunnels and various other historical sites.<br><br>Through this, we hope to encourage our student travellers to respect the socio-economic and cultural differences and norms and become a global citizen ready for the 22nd century.<br><br>In 2020, the internationalisation trip was adapted into a virtual trip to Vietnam, due to restrictions as a result of Covid-19. In this virtual trip, students held Zoom sessions with local Vietnamese establishments, to learn the impact of Covid-19 on the people of Vietnam and their adaptability to socio-cultural changes. The focus was on the impact of Covid-19 on the Vietnamese economy, tourism as well as its impact on local student life and education.</p>
+			<p><img src="/images/humanities-1.jpg"></p>
+			<p><b>Humanities Internationalisation Thailand Trip</b><br>In adapting to the challenging Covid-19 situation to make our Humanities Internationalisation Trip the most interesting ever – a virtual ‘tour’ of Thailand was organised. Students held Zoom lessons with students of a Thai Secondary School, learnt how to cook Thai food, make traditional handicrafts, toured a factory and interviewed a Singaporean expatriate.</p>
     </div>
 	</li>
 	<ul>
