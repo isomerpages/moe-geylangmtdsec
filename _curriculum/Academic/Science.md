@@ -69,3 +69,35 @@ Tier-2 programme further develops students’ interest, abilities and attitudes 
 
 ![](/images/Group-photo-at-Greenhouse.jpg)
 Group Photo at Greenhouse
+
+
+
+
+
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">Sec 1 ALP - Urban Heat Island</label>
+    <div>
+			<p><b>Sec 1 ALP<br>Urban Heat Island</b></p>
+			<p>Students are introduced to the concept of Urban Heat Island (UHI). They then explore this concept through a series of theory and activity-based lessons and group work.<br><br>Students conduct fieldwork experiments using instruments such as data loggers, infra-red thermometers and anemometers to gather data such as surface and ambient temperature, and wind speed to construct a UHI profile of the school.<br><br>To deepen students’ understanding of UHI, further investigations and experiments are conducted to discover factors affecting the rate of absorption and reflection of thermal energy.  Students are also introduced to various ‘green buildings’ in Singapore.<br><br>Students embark on a mini-project, which involves designing and building a model house, incorporating all the elements of a ‘green building’.  Students will then present their designs and model houses and the effectiveness of their designs in mitigating the effects of UHI is evaluated.</p>
+    </div>
+	</li>
+	  <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">Social Studies</label>
+    <div>
+			<p><b>Social Studies</b><br>Social Studies is compulsory for all Express and Normal (Academic) students in Upper Secondary. Together with either Geography (Elective), History (Elective) or Literature (Elective), they make up the subject commonly known as Humanities.<br><br>In GMS(S), the Social Studies curriculum seeks to prepare our GEMS to be citizens of tomorrow by helping them to better understand the inter-connectedness of Singapore and the world they live in, and appreciate the complexities of the human experience. More importantly, we want to build up our GEMS and develop them to become concerned citizens who proactively extend their service outwards beyond the school to the community for the betterment of society.<br><br>The Department’s approach is firmly based on Critical Inquiry. Through inquiry and authentic learning experiences, our GEMS attain relevant knowledge and understanding about issues concerning Singapore; develop critical and reflective thinking skills; and develop solutions to the myriad of issues facing our society.</p>
+			<p><b>Issue Investigation</b><br>The Sec 3 Issue Investigation (II) is a critical part of the curriculum. It forms an integral part of our GEMS Continual Assessment. In II, our GEMS work to identify societal needs and the possible approaches to addressing them. Our GEMS have the choice of presenting their findings in the form of a poster, report, video or presentation, which form the base for their Values-in-Action project in Secondary 4.<br><br><a href="https://youtu.be/QgLE2RoijIM">Click Here</a> for a short clip</p>
+			<p><b>Enrichment Programmes/Competition</b><br>Our Sec 3 students continue to take part in various Model United Nations (MUN) as part of their GEMS Challenge. Through MUN, students hone their research and writing skills as well as build their confidence in public speaking and debating.</p>
+    </div>
+	</li>
+		  <li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">Lower Secondary Geography</label>
+    <div>
+			<p><h3>Sec 1 Geography</h3><br>The Secondary 1 Geographical Investigation examines the adaptive features of tropical rainforest plants and vegetation. Secondary 1 students will embark on a field trip to the Botanic Gardens, facilitated by the Upper Secondary Geography students. They gather primary data about the plant parts and do field sketching. Combined with secondary research on the plant parts, the students produce a group report and a poster on their findings. The Secondary 1 GI follows the geographical inquiry process closely.<br><br>During the COVID-19 situation, the Secondary 1 students created online posters on their findings from secondary research and videos of the heritage trees in Botanic Gardens. To enhance experiential learning, the students conducted water-testing activities to investigate the water quality of various water sources such as Kallang River.<br><br><img src="/images/S1-G-students-1024x681.png">Sec 1 Geography students examine a tropical rainforest tree in Botanic Gardens</p>
+				<p><h3>Sec 2 Geography</h3><br>The Secondary 2 Geographical Investigation explores the places that are special or elderly-friendly to the residents in their housing estate. The students learn to create good questionnaires and conduct surveys with residents to gather primary data. With secondary research, the students generate a mini-report and group-end product on their findings. The Secondary 2 GI follows closely the geographical inquiry process.<br><br>In 2020, due to the COVID-19 situation, the Secondary 2 students presented their findings via an online platform, using both secondary research and primary data collected from online interviews.<br><br>Every year, enrichment activities such as HDB Talk are organised to deepen the students’ knowledge on public housing in Singapore. Selected Secondary 2 students also participate in URA workshops to gain knowledge on urban planning. Under the HDB Friends of the Heartlands programme, students become HDB Ambassadors and reach out to residents who participate in various housing estates.<br><br><img src="/images/S2-G-students.png">HDB Youth Ambassadors interview residents in Pasir Ris estate</p>
+    </div>
+	</li>
