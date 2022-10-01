@@ -58,3 +58,13 @@ Besides the use of ICT, the Mother Tongue Department adopts a wide range of peda
 One of the main highlights of the department’s enrichment programme for students is our Mother Tongue Reading Programme. Articles from newspapers and excerpts from novels are chosen for our students to read beyond their textbooks. Teachers firmly believe that extensive reading helps to foster language acquisition and strengthens one’s spoken and written skills.
 
 ##### Cultural Programmes and Activities
+
+![](/images/Cultural%20Programmes%20and%20Activities.png)
+
+Every year, our students will also experience some form of cultural activities, whether in school or outside school. The department believes in supplementing the learning of MTL through the use of cultural activities whereby students not only get to experience but also appreciate our culture.
+
+##### Learning Journeys & Field Trips
+
+![](/images/Learning%20Journeys%20&%20Field%20Trips.png)
+
+Every year, learning journeys or field trips are organised to enhance our students’ learning experiences through visits to heritage centres, museums and places of interest.  Such trips are planned to reinforce experiential and contextual learning. In these activities, students learn by making real world connections that contribute to their understanding of the world.
