@@ -48,12 +48,6 @@ description: ""
     <label for="accordion5">ITE Early Admission Exercise (EAE)</label>
     <div>
 			<p><h3>ITE Early Admission Exercise (EAE)</h3><br> • <a href="https://www.ifaq.gov.sg/ite/apps/fcd_faqmain.aspx#TOPIC_11747">ITE EAE FAQs</a> - page not found<br> • <a href="https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/eae/ite-eae-2022-intake-factsheet.pdf?sfvrsn=1c32e634_14">ITE EAE 2022 Intake Factsheet</a> - page not found<br> • <a href="/files/Information-Note-on-2021-ITE-EAE-Exercise.pdf">Information Note on 2021 ITE-EAE Exercise</a></p>
-			<p><b>Upper Secondary – Young Docents Programme</b><br>An opportunity for students to learn and appreciate Singapore’s National Heritage and History through their Upper Secondary seniors. The Docents Programme is to inculcate respect and appreciation for the History and Humanities as a subject.<br><br>Target Trainees: Secondary 3 HY students.<br><br>Objective:<br>This programme enables students to use their historical skills to impart knowledge about various artefacts on display; as well as learn narration of corroborated historical facts, build confidence in public speaking and appreciation for the history subject.<br><Br>[Pictures taken on the day – 19th July]
-			<p><img src="/images/HY.jpg"></p>
-			<p><b>Secondary 1 Historical Investigation</b><br>2020 was a special year for Secondary 1 Historical Investigation (HI project). Home-based learning and the digitalisation of learning saw teachers bringing the HI project to students’ homes, in place of the normal learning journeys that are required in HI. Students could easily access Little India, Chinatown, Kampong Glam and Beach Road through pictures in a Google Drive folder. While the key elements of working together, selecting evidence and formulating inferences remain, the end products were adjusted and well-designed and informative online posters were produced.</p>
-			<p><img src="/images/HY_Poster1-730x1024.jpg"></p>
-			<p><b>Secondary 1 Healthcare</b><br>2020 was the year when Covid-19 hogged the headlines. To help students see the historical connection of present pandemic to past pandemics, students embarked on a healthcare project to find out the state of healthcare conditions in early 19th century Singapore. Students had to gather data about hospitals, medical facilities and public health measures. They had to study one infectious disease and analyse how it was brought under control.</p>
-			<p><img src="/images/HY_Poster2.jpg"></p>
     </div>
 	</li>
 			<li>
