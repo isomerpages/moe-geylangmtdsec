@@ -1,5 +1,5 @@
 collections:
-  cce:
+  cce-ecg:
     output: true
     order:
       - Character & Citizenship Education (CCE).md
