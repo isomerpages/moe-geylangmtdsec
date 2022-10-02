@@ -40,7 +40,7 @@ description: ""
     <input type="checkbox" id="accordion4">
     <label for="accordion4">Polytechnic Foundation Programme (PFP)</label>
     <div>
-			<p><h3>Polytechnic Foundation Programme (PFP)</h3><br>By carrying out the GI activities in school and in the community, Elective Geography students examine the fundamental concepts and essential principles involved in the Earth’s weather and climate system. They gain an understanding of the scientific basis of changing weather and climate and the complex interconnections among the physical and biological components of the Earth system. Through the study, students also appreciate that climate change poses challenges as well as opportunities.<img src="/images/A1-1024x576.jpg">By carrying out the GI activities in Chinatown, Core/Elective Geography students gain a better understanding of the challenges faced in the global competition for the tourist dollar and the management of tourist sites.<br><br>In 2020, due to the COVID-19 situation, the Secondary 3 students did a virtual Chinatown G.I. Students learnt how the growth in tourism had an impact on people and places and that careful management is required in order to ensure its sustainability.<img src="/images/Sec4-GI.jpg"></p>
+			<p><h3>Polytechnic Foundation Programme (PFP)</h3><br>Please find below collaterals on the polytechnic foundation programme (PFP) for N(A)-Level students for your reference and use.<br> • <a href="/files/2021-PFP-Factsheet-for-Students.pdf">2021 PFP Factsheet for Students</a><br> • <a href="/files/2020-PFP-FAQs.pdf">2020 PFP FAQs</a></p>
     </div>
 	</li>
 		<li>
