@@ -27,7 +27,6 @@ description: ""
     <label for="accordion2">Polytechnic Early Admission Exercise (EAE)</label>
     <div>
 			<p><h3>Early Admission Exercise (EAE)</h3><br>Please find below collaterals on the Polytechnic Early Admissions Exercise (Poly EAE) for O-Level students for your reference and use.<br> • <a href="/files/AY2021-Poly-EAE-Briefing-Slides.pdf">AY2021 Poly EAE Briefing Slides.pdf</a><br> • <a href="/files/AY2022-Poly-EAE-Factsheet.pdf">AY2022 Poly EAE Factsheet</a><br> • <a href="/files/AY2022-Poly-EAE-for-O-Level-FAQs-Schools.pdf">AY2022 Poly EAE for O-Level FAQs Schools</a></p>
-			<p><b>Enrichment Programmes/Competition</b><br>Our Sec 3 students continue to take part in various Model United Nations (MUN) as part of their GEMS Challenge. Through MUN, students hone their research and writing skills as well as build their confidence in public speaking and debating.</p>
     </div>
 	</li>
 		  <li>
