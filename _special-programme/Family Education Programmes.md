@@ -38,3 +38,7 @@ The school targets to run two Fathers@GM activities each year where father and c
 On 23 February 2019, nine father and child pairs took part in an obstacle course at Bedok Reservoir Forest Adventure.
 
 ![](/images/b3-1024x768.jpg)
+
+Due to the Covid pandemic, our Fathers@GM activities were cancelled this year.
+
+![](/images/FEP-4.jpg)
