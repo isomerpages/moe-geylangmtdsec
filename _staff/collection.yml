@@ -2,4 +2,4 @@ collections:
   staff:
     output: true
     order:
-      - ECG.md
+      - ECG Counsellor.md
