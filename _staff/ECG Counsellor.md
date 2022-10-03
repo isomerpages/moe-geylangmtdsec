@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/ECG.jpg)
 
-| [Appointment](https://moeecg.appointeze.com/onlinelink/KathrineYang) 	| [ECG Events](https://www.myskillsfuture.gov.sg/content/student/en/secondary/education-guide/events.html) 	| Resources 	|
+| [Appointment](https://moeecg.appointeze.com/onlinelink/KathrineYang) 	| [ECG Events](https://www.myskillsfuture.gov.sg/content/student/en/secondary/education-guide/events.html) 	| [Resources](https://staging.dnskg7mp0u9ot.amplifyapp.com/ecg-resources/) 	|
 |:---:	|:---:	|:---:	|
 
 The ECG Counsellor usually available every **Tuesday** at the **ECG Room** (at the back of the canteen).
