@@ -31,7 +31,7 @@ Every year, there are about seven training sessions for every challenge, each le
     <div>
 			<p><b>Objective</b><br>To provide students with opportunities to learn and use CAD (computer-aided design) software.</p>
 			<p><b>Programme</b><br>Students in the programme are challenged to design an original idea and make it come to reality through 3D printing. They are guided by industry professionals through 10 sessions from January till May. Ideas from paper sketches are then translated to the CAD software before printing.<br><br>The students also have the opportunity to visit the Singapore University of Technology and Design (SUTD), where they will be exposed to the courses offered in the higher learning institute.</p>
-			<p><img src=""></p>
+			<p><img src="/images/GEMS-1.jpg"></p>
     </div>
 	</li>
   <li>
