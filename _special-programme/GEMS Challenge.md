@@ -11,10 +11,6 @@ In 2020, there were a total of 13 challenges for our students to choose from, su
 
 Every year, there are about seven training sessions for every challenge, each leading up to a finale. The finale may take the form of a project or a presentation of the students’ work.
 
-![](/images/GEMS-5.jpg)
-![](/images/GEMS-6.jpg)
-![](/images/GEMS-7.jpg)
-![](/images/GEMS-8.jpg)
 
 <b>GEMS Challenge (Local)</b>
 <ul class="jekyllcodex_accordion">
@@ -96,21 +92,20 @@ Every year, there are about seven training sessions for every challenge, each le
 	</li>
 	  <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">Cycling Challenge</label>
+    <label for="accordion3">Overseas Service Learning (OSL)</label>
     <div>
-			<p><b>Objectives</b><br>To enable students:<br> • To develop perseverance, resilience and confidence<br> • To forge bonds and promote friendship through cycling<br> • To be a concerned and caring citizen by promoting safe and gracious cycling habits</p>
-			<p><b>Programme</b><br>Students take part in a cycling activity, which promotes safe cycling as well as challenges them to complete a 2D1N round-island trip. Prior to the ride, participants have to undergo training to build endurance and confidence. Participants will also attend the Safe Riding Programme conducted by the Land Transport Authority.</p>
-			<p><img src="/images/GEMS-3.jpg"></p>
+			<p><b>Objectives</b><br>• To develop further the spirit of selfless giving, service, empathy and leadership skills among our students.<br> • To share joy with others through our friendship and activities.</p>
+			<p><b>Programme</b><br>Two Overseas Service Learning (OSL) Journeys are organized each year, in May and November. During the OSL in Chiang Mai, Thailand, our students plan and conduct English and upcycling lessons, do mural painting and play games with the local children.<br><br>The students learn to step out of their comfort zone to lead the activities they have planned. Through daily debrief and reflections, they learn the values of care and compassion, and live out our school vision of being a Caring Citizen.</p>
+			<p><img src="/images/GEMS-7.jpg"></p>
     </div>
 	</li>
 	  <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">3D Design Challenge</label>
+    <label for="accordion4">Internationalisation Trip (China) Challenge</label>
     <div>
-			<p><b>Objective</b><br> • To provide students with opportunities to learn new concepts and industry-related technologies
-<br> • To develop in students a forward-thinking mindset</p>
-			<p><b>Programme</b><br>F1 in Schools Challenge is a multi-disciplinary challenge, which engages the students in the process of design and manufacture. Students deploy CAD/CAM software and collaborate to design, analyze, manufacture, test, and then race miniature gas-powered balsa wood F1 cars.<br><br>Three teams, Avetex, ABR Racing and Rapidite, competed in the ‘F1 in Schools Singapore National Finals 2019’. We are proud that all three teams walked away with accolades that affirmed them of their effort and resilience. Team Avetex also represented Singapore and competed against teams from around the world at the ‘F1 in Schools World Finals Abu Dhabi 2019’.</p>
-			<p><img src="/images/GEMS-4.jpg"></p>
+			<p><b>Objective</b><br> • *   To provide opportunities for students to experience the fast pace of progress in developing countries.<br> • To prepare students for the future through understanding societal development trends.</p>
+			<p><b>Programme</b><br>Students visit local and international schools to gain new perspectives in learning and exchange notes with their Shanghai counterparts. Through visits to Singapore enterprises in China,  they also learn to appreciate the challenges of starting a business in a foreign environment. Besides experiencing the local culture of using various technology platforms in their daily lives, our students also participate in various cultural appreciation activities, such as tea appreciation.</p>
+			<p><img src="/images/GEMS-8.jpg"></p>
     </div>
 	</li>
 </ul>
