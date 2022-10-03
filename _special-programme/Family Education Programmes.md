@@ -36,3 +36,5 @@ Every year, selected Secondary 2 students participate in the FamChamps annual tr
 The school targets to run two Fathers@GM activities each year where father and child pairs engage in meaningful activities to deepen bonds and build memories.
 
 On 23 February 2019, nine father and child pairs took part in an obstacle course at Bedok Reservoir Forest Adventure.
+
+![](/images/b3-1024x768.jpg)
