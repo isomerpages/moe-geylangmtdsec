@@ -5,7 +5,8 @@ description: ""
 ---
 ![](/images/ECG.jpg)
 
-<table border="1" style="box-sizing: border-box; border-collapse: collapse; border-spacing: 0px; background-color: rgb(27, 48, 242); width: 737px;"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box; height: 43px;"><td style="box-sizing: border-box; padding: 0px; width: 135.25px; text-align: center; height: 43px;"><span style="box-sizing: border-box; font-size: 18px; color: rgb(255, 255, 255);"><a href="https://go.gov.sg/ecggms-appt" target="_blank" rel="noopener" style="box-sizing: border-box; background-color: transparent; color: rgb(255, 255, 255); text-decoration: none;">Appointment</a></span></td><td style="box-sizing: border-box; padding: 0px; width: 144.75px; text-align: center; height: 43px;"><span style="box-sizing: border-box; font-size: 18px; color: rgb(255, 255, 255);"><a href="http://www.myskillsfuture.gov.sg/content/student/en/secondary/education-guide/events.html" target="_blank" rel="noopener" style="box-sizing: border-box; background-color: transparent; color: rgb(255, 255, 255); text-decoration: none;">ECG Events</a></span></td><td style="box-sizing: border-box; padding: 0px; width: 142px; text-align: center; height: 43px;"><span style="box-sizing: border-box; font-size: 18px; color: rgb(255, 255, 255);"><a href="https://geylangmethodistsec.moe.edu.sg/ecg-resources/" target="_blank" rel="noopener" style="box-sizing: border-box; background-color: transparent; color: rgb(255, 255, 255); text-decoration: none;">Resources</a></span></td></tr></tbody></table>
+| [Appointment](https://moeecg.appointeze.com/onlinelink/KathrineYang) 	| [ECG Events](https://www.myskillsfuture.gov.sg/content/student/en/secondary/education-guide/events.html) 	| Resources 	|
+|:---:	|:---:	|:---:	|
 
 The ECG Counsellor usually available every **Tuesday** at the **ECG Room** (at the back of the canteen).
 
