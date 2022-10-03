@@ -17,10 +17,10 @@ Every year, there are about seven training sessions for every challenge, each le
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">SHINE Programme</label>
+    <label for="accordion1">3D Design Challenge</label>
     <div>
-			<p>The programme provides opportunities for each Normal Course student to build his or her own aspiration journey. They will discover, develop, serve and aspire with their talents.</p>
-			<p>Secondary 1: Discovering Talents (Students go through all taster modules to discover interest)<br><br>Secondary 2: Developing Talents (Students choose one skill to develop according to interest)<br><br>Secondary 3: Serving with Talents (Service component – plan and organize VIA using talents)<br><br>Secondary 4: Aspiring with Talents (Career Exposure – Visit to various industries)</p>
+			<p><b>Objective</b><br>To provide students with opportunities to learn and use CAD (computer-aided design) software.</p>
+			<p><b>Programme</b><br>Students in the programme are challenged to design an original idea and make it come to reality through 3D printing. They are guided by industry professionals through 10 sessions from January till May. Ideas from paper sketches are then translated to the CAD software before printing.<br><br>The students also have the opportunity to visit the Singapore University of Technology and Design (SUTD), where they will be exposed to the courses offered in the higher learning institute.</p>
     </div>
 	</li>
   <li>
