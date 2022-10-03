@@ -36,3 +36,18 @@ Semester 1: Individual Work
 Semester 2: Individual/ Group Work
 
 End-of-Year: Secondary 1 SHINE and Secondary 2 MADD Fiesta
+
+
+| No. 	| Date 	| Programme 	| Duration 	| Day 	| Mode of Learning 	|
+|---	|---	|---	|---	|---	|---	|
+| Term 1 	|  	|  	|  	|  	|   	|
+| 1. 	| 17 Jan 	| Introduction to Student-Initiated Learning: STARS Programme 	| 30 mins 	| GEMS Time 	| Zoom Briefing 	|
+| 2. 	| 25 Jan 	| ECG Session 1 (MySkillsFuture) 	| 1 hour 	| HBL 	| Google Classroom 	|
+| 3. 	| 9 Feb 	| ECG Session 2 (MySkillsFuture)<br><br> <br>Getting Started<br>-         Exploring Options<br>-         Deciding on Area of Interest 	| 1 hour 	| HBL<br><br>  	| Google Classroom<br><br>  	|
+| 4. 	| 24 Feb 	| Embarking on Journey – Activity 1 	| 1 hour 	| HBL 	| SLS 	|
+| 5. 	| 28 Mar 	| Embarking on Journey – Activity 2 	| 1 hour 	| HBL 	| SLS 	|
+|   	|  	|  	|  	|  	|   	|
+| 6. 	| 12 Apr 	| Preparation of Presentation (Part 1) 	| 1 hour 	| HBL 	| SLS 	|
+| 7. 	| 27 Apr 	| Embarking on Journey – Activity 3 	| 1 hour 	| HBL 	| SLS 	|
+| 8. 	| 12 May 	| Embarking on Journey – Activity 4 Preparation of Presentation (Part 2) 	| 1.5 hours 	| HBL 	| SLS 	|
+| 9. 	| Last week of May 	| Showcase 	| 2 hours 	| During post-exam programme<br><br>(2 hours) 	| Presentation 	|
