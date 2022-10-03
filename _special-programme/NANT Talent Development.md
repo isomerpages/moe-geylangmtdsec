@@ -30,7 +30,7 @@ description: ""
 			<p><b>Begin with ACE</b><br>The programme aims to help our 1 N(T) students start it right with the learning and practice of study skills and SEL competencies. Students will connect with significant adults who will journey with them throughout the year as they learn and grow.</p>
 			<p><b>ACE through NYAA Bronze</b><br>The programme aims to meaningfully and purposefully engage our 2 N(T) students and seeks to help them to be reflective and develop leadership skills through achieving NYAA’s objectives of Healthy Living, Outdoor Appreciation and Service Learning.</p>
 						<p><b>Rise with Resilience</b><br>The programme is an academic coaching and resilience building programme that focuses on helping some of our graduating students Reframe Perspective (learn from failure), Reclaim Control (build responsibility and growth mindset), Regain Confidence (build self-esteem) and Request Support (build a supportive network).</p>
-						<p><b>Mentoring</b><br>e work with our partners to befriend and mentor some of our students with the aim of connecting students with significant adults who will help them navigate through their teenage years.</p>
+						<p><b>Mentoring</b><br>We work with our partners to befriend and mentor some of our students with the aim of connecting students with significant adults who will help them navigate through their teenage years.</p>
     </div>
 	</li>
 </ul>
