@@ -11,11 +11,6 @@ In 2020, there were a total of 13 challenges for our students to choose from, su
 
 Every year, there are about seven training sessions for every challenge, each leading up to a finale. The finale may take the form of a project or a presentation of the students’ work.
 
-![](/images/GEMS-1.jpg)
-![](/images/GEMS-2.jpg)
-![](/images/GEMS-3.jpg)
-![](/images/GEMS-4.jpg)
-![](/images/b13.png)
 ![](/images/b15.jpg)
 ![](/images/b16.jpg)
 ![](/images/GEMS-5.jpg)
@@ -52,19 +47,9 @@ Every year, there are about seven training sessions for every challenge, each le
 			<p><img src="/images/GEMS-3.jpg"></p>
     </div>
 	</li>
-  <li>
-    <input type="checkbox" id="accordion4">
-    <label for="accordion4">F1 in Schools Challenge</label>
-    <div>
-			<p><b>Objectives</b><br>To provide students with opportunities to learn and apply their Science, Technology, Engineering and Mathematics (STEM) knowledge and skills.</p>
-			<p><b>Programme</b><br>To provide students with opportunities to learn new concepts and industry-related technologies
-To develop in students a forward-thinking mindset</p>
-		<p><img src="/images/GEMS-2.jpg"></p>
-    </div>
-	</li>
 	  <li>
-    <input type="checkbox" id="accordion5">
-    <label for="accordion5">3D Design Challenge</label>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">3D Design Challenge</label>
     <div>
 			<p><b>Objective</b><br> • To provide students with opportunities to learn new concepts and industry-related technologies
 <br> • To develop in students a forward-thinking mindset</p>
@@ -73,11 +58,12 @@ To develop in students a forward-thinking mindset</p>
     </div>
 	</li>
   <li>
-    <input type="checkbox" id="accordion6">
-    <label for="accordion6">Applied Learning Programme in Science (ALPS) Challenge</label>
-    <div>To provide students with opportunities to learn and apply their Science, Technology, Engineering and Mathematics (STEM) knowledge and skills.</p>
-			<p><b>Programme</b><br>The ALPS Challenge, which is Tier 2 of the school’s Applied Learning Programme in Environmental Science and Sustainable Living, is designed for students who are passionate and interested in extending their scientific pursuits. The research-based and hands-on programme provides students with the opportunity to work with industry partners.<br><br>In 2019, the focus for the Secondary 3 ALP students was on water management (Semester 1) and food waste management (Semester 2). They had the privilege to learn from and work with our industry partner ECOSOFTT about rainwater harvesting. Our students also had the opportunity to build their own filtration system prototypes found in a rainwater harvesting system. To observe first-hand how a rainwater harvesting system is used in an industrial setting, they went on a guided site visit to CleanTech One.<br><br>In Semester 2, they worked with another industry partner, Lendlease, to embark on a food waste management project that aimed to reduce food waste not at the consumer’s end, but directly at the source (i.e. food vendors). To help them better understand the current food wastage situation in Singapore, they went on a field trip to Sustainable Singapore Gallery and had an exclusive back-of-house tour at Parkway Parade.</p>
-		<p><img src="/images/GEMS-2.jpg"></p>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">Model United Nations (MUN)</label>
+    <div>
+			<p><b>Objective</b><br>To engage and stretch students with a strong interest in Humanities and current affairs.</p>
+			<p><b>Programme</b><br>Model United Nations or MUN, is an educational simulation and academic activity in which students learn about diplomacy, international relations, and the United Nations. MUN involves and teaches participants researching, public speaking, debating, and writing skills, in addition to critical thinking, teamwork, and leadership abilities.<br><br>Our continued participation in Model United Nations (MUN) over the past few years has seen our students grow to become young adults with a keen interest in current affairs and contemporary social issues. Through MUN, the students gain confidence in expressing their opinions and views publicly and coherently.</p>
+		<p><img src="/images/b13.png" style="width:70%"></p>
     </div>
 	</li>
 </ul>
