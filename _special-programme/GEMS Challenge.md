@@ -68,7 +68,7 @@ To develop in students a forward-thinking mindset</p>
     <div>
 			<p><b>Objective</b><br> • To provide students with opportunities to learn new concepts and industry-related technologies
 <br> • To develop in students a forward-thinking mindset</p>
-			<p><b>Programme</b><br>Students in the programme are challenged to design an original idea and make it come to reality through 3D printing. They are guided by industry professionals through 10 sessions from January till May. Ideas from paper sketches are then translated to the CAD software before printing.<br><br>The students also have the opportunity to visit the Singapore University of Technology and Design (SUTD), where they will be exposed to the courses offered in the higher learning institute.</p>
+			<p><b>Programme</b><br>F1 in Schools Challenge is a multi-disciplinary challenge, which engages the students in the process of design and manufacture. Students deploy CAD/CAM software and collaborate to design, analyze, manufacture, test, and then race miniature gas-powered balsa wood F1 cars.<br><br>Three teams, Avetex, ABR Racing and Rapidite, competed in the ‘F1 in Schools Singapore National Finals 2019’. We are proud that all three teams walked away with accolades that affirmed them of their effort and resilience. Team Avetex also represented Singapore and competed against teams from around the world at the ‘F1 in Schools World Finals Abu Dhabi 2019’.</p>
 			<p><img src="/images/GEMS-1.jpg"></p>
     </div>
 	</li>
