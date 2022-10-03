@@ -66,4 +66,12 @@ Every year, there are about seven training sessions for every challenge, each le
 		<p><img src="/images/b13.png" style="width:70%"></p>
     </div>
 	</li>
+	  <li>
+    <input type="checkbox" id="accordion6">
+    <label for="accordion6">Mural Painting Challenge</label>
+    <div>
+			<p>Our Sec 3 GEMS came together to create a mural as part of the school’s 95th Anniversary celebrations. Students brainstormed for ideas which were then consolidated to produce the final output. The mural design incorporates elements from various CCAs and the school’s vision and core values.</p>
+		<p><img src="/images/b14-1024x183.jpg"><br><img src="/images/b15.jpg"><br><img src="/images/b16.jpg"></p>
+			</div>
+	</li>
 </ul>
