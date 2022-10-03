@@ -2,6 +2,7 @@ collections:
   special-programme:
     output: true
     order:
+      - GEMS Challenge.md
       - Applied Learning Programme (ALP).md
       - Learning For Life Programme (LLP).md
       - NANT Talent Development.md
