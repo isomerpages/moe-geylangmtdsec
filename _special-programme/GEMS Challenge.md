@@ -69,7 +69,7 @@ To develop in students a forward-thinking mindset</p>
 			<p><b>Objective</b><br> • To provide students with opportunities to learn new concepts and industry-related technologies
 <br> • To develop in students a forward-thinking mindset</p>
 			<p><b>Programme</b><br>F1 in Schools Challenge is a multi-disciplinary challenge, which engages the students in the process of design and manufacture. Students deploy CAD/CAM software and collaborate to design, analyze, manufacture, test, and then race miniature gas-powered balsa wood F1 cars.<br><br>Three teams, Avetex, ABR Racing and Rapidite, competed in the ‘F1 in Schools Singapore National Finals 2019’. We are proud that all three teams walked away with accolades that affirmed them of their effort and resilience. Team Avetex also represented Singapore and competed against teams from around the world at the ‘F1 in Schools World Finals Abu Dhabi 2019’.</p>
-			<p><img src="/images/GEMS-1.jpg"></p>
+			<p><img src="/images/GEMS-4.jpg"></p>
     </div>
 	</li>
   <li>
