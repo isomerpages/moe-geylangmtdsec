@@ -1,4 +1,5 @@
 collections:
   special-programme:
     output: true
-    order: []
+    order:
+      - Student Initiated Learning (SIL).md
