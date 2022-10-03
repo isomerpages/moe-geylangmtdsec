@@ -66,7 +66,8 @@ To develop in students a forward-thinking mindset</p>
     <input type="checkbox" id="accordion5">
     <label for="accordion5">3D Design Challenge</label>
     <div>
-			<p><b>Objective</b><br>To provide students with opportunities to learn and use CAD (computer-aided design) software.</p>
+			<p><b>Objective</b><br> • To provide students with opportunities to learn new concepts and industry-related technologies
+<br> • To develop in students a forward-thinking mindset</p>
 			<p><b>Programme</b><br>Students in the programme are challenged to design an original idea and make it come to reality through 3D printing. They are guided by industry professionals through 10 sessions from January till May. Ideas from paper sketches are then translated to the CAD software before printing.<br><br>The students also have the opportunity to visit the Singapore University of Technology and Design (SUTD), where they will be exposed to the courses offered in the higher learning institute.</p>
 			<p><img src="/images/GEMS-1.jpg"></p>
     </div>
