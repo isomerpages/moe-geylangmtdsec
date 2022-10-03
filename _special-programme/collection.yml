@@ -2,4 +2,5 @@ collections:
   special-programme:
     output: true
     order:
+      - NANT Talent Development.md
       - Student Initiated Learning (SIL).md
