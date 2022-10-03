@@ -2,5 +2,6 @@ collections:
   staff:
     output: true
     order:
+      - Teaching Staff & School Counsellor.md
       - EAS.md
       - ECG Counsellor.md
