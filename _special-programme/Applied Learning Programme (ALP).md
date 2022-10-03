@@ -32,6 +32,9 @@ Tier-2 programme further develops students’ interest, abilities and attitudes 
 
 
 
+
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MPWhoDGR8Rw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <center>SEC 1 Science ALP</center>
 
