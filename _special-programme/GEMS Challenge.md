@@ -18,6 +18,10 @@ Every year, there are about seven training sessions for every challenge, each le
 ![](/images/b13.png)
 ![](/images/b15.jpg)
 ![](/images/b16.jpg)
+![](/images/GEMS-5.jpg)
+![](/images/GEMS-6.jpg)
+![](/images/GEMS-7.jpg)
+![](/images/GEMS-8.jpg)
 
 <b>GEMS Challenge (Local)</b>
 <ul class="jekyllcodex_accordion">
