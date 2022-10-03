@@ -51,3 +51,7 @@ End-of-Year: Secondary 1 SHINE and Secondary 2 MADD Fiesta
 | 7. 	| 27 Apr 	| Embarking on Journey – Activity 3 	| 1 hour 	| HBL 	| SLS 	|
 | 8. 	| 12 May 	| Embarking on Journey – Activity 4 Preparation of Presentation (Part 2) 	| 1.5 hours 	| HBL 	| SLS 	|
 | 9. 	| Last week of May 	| Showcase 	| 2 hours 	| During post-exam programme<br><br>(2 hours) 	| Presentation 	|
+
+Click the link below for more information about the programme.
+
+*   [SIL (STARS Programme)](/files/SIL-STARS-Programme.pdf)
