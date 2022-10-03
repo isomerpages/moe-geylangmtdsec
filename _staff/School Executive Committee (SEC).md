@@ -3,22 +3,9 @@ title: School Executive Committee (SEC)
 permalink: /staff/school-executive-committee-sec/
 description: ""
 ---
-# **School Executive Committee (SEC)**
+<h1><b>School Executive Committee (SEC)</b></h1>
 
-![](/images/School-Executive-Committee-2048x1463.jpg)
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img src="/images/School-Executive-Committee-2048x1463.jpg">
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
