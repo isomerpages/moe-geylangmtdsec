@@ -37,7 +37,8 @@ Every year, there are about seven training sessions for every challenge, each le
   <li>
     <input type="checkbox" id="accordion2">
     <label for="accordion2">Applied Learning Programme in Science (ALPS) Challenge</label>
-    <div>To provide students with opportunities to learn and apply their Science, Technology, Engineering and Mathematics (STEM) knowledge and skills.</p>
+    <div>
+			<p><b>Objectives</b><br>To provide students with opportunities to learn and apply their Science, Technology, Engineering and Mathematics (STEM) knowledge and skills.</p>
 			<p><b>Programme</b><br>The ALPS Challenge, which is Tier 2 of the school’s Applied Learning Programme in Environmental Science and Sustainable Living, is designed for students who are passionate and interested in extending their scientific pursuits. The research-based and hands-on programme provides students with the opportunity to work with industry partners.<br><br>In 2019, the focus for the Secondary 3 ALP students was on water management (Semester 1) and food waste management (Semester 2). They had the privilege to learn from and work with our industry partner ECOSOFTT about rainwater harvesting. Our students also had the opportunity to build their own filtration system prototypes found in a rainwater harvesting system. To observe first-hand how a rainwater harvesting system is used in an industrial setting, they went on a guided site visit to CleanTech One.<br><br>In Semester 2, they worked with another industry partner, Lendlease, to embark on a food waste management project that aimed to reduce food waste not at the consumer’s end, but directly at the source (i.e. food vendors). To help them better understand the current food wastage situation in Singapore, they went on a field trip to Sustainable Singapore Gallery and had an exclusive back-of-house tour at Parkway Parade.</p>
 		<p><img src="/images/GEMS-2.jpg"></p>
     </div>
@@ -46,16 +47,18 @@ Every year, there are about seven training sessions for every challenge, each le
     <input type="checkbox" id="accordion3">
     <label for="accordion3">Cycling Challenge</label>
     <div>
-			<p><b>Objectives</b><br>To enable students:<br><br> • To develop perseverance, resilience and confidence<br> • To forge bonds and promote friendship through cycling<br> • To be a concerned and caring citizen by promoting safe and gracious cycling habits</p>
+			<p><b>Objectives</b><br>To enable students:<br> • To develop perseverance, resilience and confidence<br> • To forge bonds and promote friendship through cycling<br> • To be a concerned and caring citizen by promoting safe and gracious cycling habits</p>
 			<p><b>Programme</b><br>Students take part in a cycling activity, which promotes safe cycling as well as challenges them to complete a 2D1N round-island trip. Prior to the ride, participants have to undergo training to build endurance and confidence. Participants will also attend the Safe Riding Programme conducted by the Land Transport Authority.</p>
 			<p><img src="/images/GEMS-3.jpg"></p>
     </div>
 	</li>
   <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">Applied Learning Programme in Science (ALPS) Challenge</label>
-    <div>To provide students with opportunities to learn and apply their Science, Technology, Engineering and Mathematics (STEM) knowledge and skills.</p>
-			<p><b>Programme</b><br>The ALPS Challenge, which is Tier 2 of the school’s Applied Learning Programme in Environmental Science and Sustainable Living, is designed for students who are passionate and interested in extending their scientific pursuits. The research-based and hands-on programme provides students with the opportunity to work with industry partners.<br><br>In 2019, the focus for the Secondary 3 ALP students was on water management (Semester 1) and food waste management (Semester 2). They had the privilege to learn from and work with our industry partner ECOSOFTT about rainwater harvesting. Our students also had the opportunity to build their own filtration system prototypes found in a rainwater harvesting system. To observe first-hand how a rainwater harvesting system is used in an industrial setting, they went on a guided site visit to CleanTech One.<br><br>In Semester 2, they worked with another industry partner, Lendlease, to embark on a food waste management project that aimed to reduce food waste not at the consumer’s end, but directly at the source (i.e. food vendors). To help them better understand the current food wastage situation in Singapore, they went on a field trip to Sustainable Singapore Gallery and had an exclusive back-of-house tour at Parkway Parade.</p>
+    <label for="accordion4">F1 in Schools Challenge</label>
+    <div>
+			<p><b>Objectives</b><br>To provide students with opportunities to learn and apply their Science, Technology, Engineering and Mathematics (STEM) knowledge and skills.</p>
+			<p><b>Programme</b><br>To provide students with opportunities to learn new concepts and industry-related technologies
+To develop in students a forward-thinking mindset</p>
 		<p><img src="/images/GEMS-2.jpg"></p>
     </div>
 	</li>
