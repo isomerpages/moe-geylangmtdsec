@@ -11,9 +11,15 @@ In 2020, there were a total of 13 challenges for our students to choose from, su
 
 Every year, there are about seven training sessions for every challenge, each leading up to a finale. The finale may take the form of a project or a presentation of the students’ work.
 
+![](/images/GEMS-1.jpg)
+![](/images/GEMS-2.jpg)
+![](/images/GEMS-3.jpg)
+![](/images/GEMS-4.jpg)
+![](/images/b13.png)
+![](/images/b15.jpg)
+![](/images/b16.jpg)
+
 <b>GEMS Challenge (Local)</b>
-
-
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
@@ -21,6 +27,7 @@ Every year, there are about seven training sessions for every challenge, each le
     <div>
 			<p><b>Objective</b><br>To provide students with opportunities to learn and use CAD (computer-aided design) software.</p>
 			<p><b>Programme</b><br>Students in the programme are challenged to design an original idea and make it come to reality through 3D printing. They are guided by industry professionals through 10 sessions from January till May. Ideas from paper sketches are then translated to the CAD software before printing.<br><br>The students also have the opportunity to visit the Singapore University of Technology and Design (SUTD), where they will be exposed to the courses offered in the higher learning institute.</p>
+			<p><img src=""></p>
     </div>
 	</li>
   <li>
