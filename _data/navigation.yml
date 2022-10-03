@@ -8,3 +8,5 @@ links:
     collection: cce-ecg
   - title: Special Programme
     collection: special-programme
+  - title: Staff
+    collection: staff
