@@ -41,3 +41,4 @@ Term 1:
 			<p>Term 4:<br>• <a href="https://staging.dnskg7mp0u9ot.amplifyapp.com/t4-thematic-reading-article/">Thematic Reading</a></p>
     </div>
 	</li>
+	</ul>
