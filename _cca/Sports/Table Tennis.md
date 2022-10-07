@@ -39,17 +39,16 @@ third_nav_title: Sports
     <input type="checkbox" id="accordion2">
     <label for="accordion2">Student Leaders</label>
     <div>
-			<p>B Division Captains:<br>Tan Zi Teng (P45)<br>Josiah Elisiah Anandha (J33)</p>
-			<p>B Division Vice-Captains:<br>Ho Chi Hin (P47)<br>Alan Gurung (J36)</p>
-			<p>C Division Captain:<br>Chris Gurung (H25)</p>
-<p>C Division Vice-Captain:<br>Jenith Rai (H24)</p>
+			<p>Captain:<br>	Mattahew Mak Zhi Jie (J32)</p>
+			<p>Vice-Captains:<br>Wesley Adam Chow Jun (J32)<br>
+Son Quan Hao (J35)</p>
     </div>
 	</li>
 		  <li>
     <input type="checkbox" id="accordion3">
     <label for="accordion3">Coach</label>
     <div>
-			<p>•  Mr Winson Cheong</p>
+			<p>•  Mr Tan Ten Siong</p>
     </div>
 	</li>
 	</ul>
