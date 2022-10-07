@@ -37,7 +37,7 @@ Term 1:
     <input type="checkbox" id="accordion2">
     <label for="accordion2">2020</label>
     <div>
-			<p>Term 3:<br> • <a href="https://staging.dnskg7mp0u9ot.amplifyapp.com/secondary-1-thematic-reading/"></a> Secondary 1 Thematic Reading<br> • <a href="https://staging.dnskg7mp0u9ot.amplifyapp.com/secondary-2-thematic-reading/"></a>Secondary 2 Thematic Reading<br> • <a href="https://staging.dnskg7mp0u9ot.amplifyapp.com/secondary-345-thematic-reading/"></a>Secondary 3,4,5 Thematic Reading</p>
+			<p>Term 3:<br>•<a href="https://staging.dnskg7mp0u9ot.amplifyapp.com/secondary-1-thematic-reading/">Secondary 1 Thematic Reading </a><br> • <a href="https://staging.dnskg7mp0u9ot.amplifyapp.com/secondary-2-thematic-reading/">Secondary 2 Thematic Reading</a><br> • <a href="https://staging.dnskg7mp0u9ot.amplifyapp.com/secondary-345-thematic-reading/">Secondary 3,4,5 Thematic Reading</a></p>
 			<p>Term 4:<br>• <a href="https://staging.dnskg7mp0u9ot.amplifyapp.com/">Thematic Reading</a></p>
     </div>
 	</li>
