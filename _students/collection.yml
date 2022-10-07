@@ -2,7 +2,7 @@ collections:
   students:
     output: true
     order:
-      - Rules for Special Rooms/Design and Technology (D&T) Studio Rules.md
+      - Rules for Special Rooms/Design and Technology (D&T).md
       - Rules for Special Rooms/FCE Food Laboratory.md
       - Rules for Special Rooms/Computer Laboratory Rules.md
       - Rules for Special Rooms/School Library Rules.md
