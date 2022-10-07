@@ -27,3 +27,11 @@ Term 1:
 [Article 2_Acts of Kindness](/files/2-Silent-Reading-_Article-2_Acts-of-Kindness.pdf)
 [](/files/Youth-to-youth-how-are-you-feeling.pdf)
 [](/files/Generation-Grit-Hearing-loss-cant-mute-musical-passion.pdf)
+
+<li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">2021</label>
+    <div>
+      <p>Term 4:<br><a href="/files/2021_T4_Thematic-Reading_Celebrating-Success.pdf">2021_T4_Thematic Reading_Celebrating Success</a></p>
+    </div>
+	</li>
