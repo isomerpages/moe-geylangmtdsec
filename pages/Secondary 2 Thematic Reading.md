@@ -3,8 +3,7 @@ title: Secondary 2 Thematic Reading
 permalink: /secondary-2-thematic-reading/
 description: ""
 ---
-**THEMATIC READING- TERM 3 :** CARING CITIZENS (Sec 2)
-======================================================
+# **THEMATIC READING- TERM 3 :** CARING CITIZENS (Sec 2)
 
 **BACKGROUND READING- for all**
 
