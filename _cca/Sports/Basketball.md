@@ -41,7 +41,7 @@ third_nav_title: Sports
     <input type="checkbox" id="accordion3">
     <label for="accordion3">Coaches</label>
     <div>
-			<p>1.  Mr Danny Wang<br>2 Mr Wong Yee Min</p>
+			<p>1.  Mr Hiu Guo Rong<br>2. Mr Laurenz Garcon</p>
     </div>
 	</li>
 	</ul>
