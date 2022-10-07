@@ -38,6 +38,6 @@ Term 1:
     <label for="accordion2">2020</label>
     <div>
 			<p>Term 3:<br>•<a href="https://staging.dnskg7mp0u9ot.amplifyapp.com/secondary-1-thematic-reading/">Secondary 1 Thematic Reading </a><br> • <a href="https://staging.dnskg7mp0u9ot.amplifyapp.com/secondary-2-thematic-reading/">Secondary 2 Thematic Reading</a><br> • <a href="https://staging.dnskg7mp0u9ot.amplifyapp.com/secondary-345-thematic-reading/">Secondary 3,4,5 Thematic Reading</a></p>
-			<p>Term 4:<br>• <a href="https://staging.dnskg7mp0u9ot.amplifyapp.com/">Thematic Reading</a></p>
+			<p>Term 4:<br>• <a href="https://staging.dnskg7mp0u9ot.amplifyapp.com/t4-thematic-reading-article/">Thematic Reading</a></p>
     </div>
 	</li>
