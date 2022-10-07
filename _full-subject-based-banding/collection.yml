@@ -1,0 +1,4 @@
+collections:
+  full-subject-based-banding:
+    output: true
+    order: []
