@@ -50,28 +50,7 @@ Click [here](http://gmssvolleyball.weebly.com/) to find out more out the Volle
     <input type="checkbox" id="accordion3">
     <label for="accordion3">Coach</label>
     <div>
-			<p> •  Mr Winson Cheong</p>
-    </div>
-	</li>
-	<li>
-    <input type="checkbox" id="accordion4">
-    <label for="accordion4">Polytechnic Foundation Programme (PFP)</label>
-    <div>
-			<p><h3>Polytechnic Foundation Programme (PFP)</h3><br>Please find below collaterals on the polytechnic foundation programme (PFP) for N(A)-Level students for your reference and use.<br> • <a href="/files/2021-PFP-Factsheet-for-Students.pdf">2021 PFP Factsheet for Students</a><br> • <a href="/files/2020-PFP-FAQs.pdf">2020 PFP FAQs</a></p>
-    </div>
-	</li>
-		<li>
-    <input type="checkbox" id="accordion5">
-    <label for="accordion5">ITE Early Admission Exercise (EAE)</label>
-    <div>
-			<p><h3>ITE Early Admission Exercise (EAE)</h3><br> • <a href="https://www.ifaq.gov.sg/ite/apps/fcd_faqmain.aspx#TOPIC_11747">ITE EAE FAQs</a> - page not found<br> • <a href="https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/eae/ite-eae-2022-intake-factsheet.pdf?sfvrsn=1c32e634_14">ITE EAE 2022 Intake Factsheet</a> - page not found<br> • <a href="/files/Information-Note-on-2021-ITE-EAE-Exercise.pdf">Information Note on 2021 ITE-EAE Exercise</a></p>
-    </div>
-	</li>
-			<li>
-    <input type="checkbox" id="accordion6">
-    <label for="accordion6">Junior Colleges (DSA-JC) Exercise</label>
-    <div>
-			<p><h3>Junior Colleges (DSA-JC) Exercise</h3><br> • <a href="/files/Information-Note-on-2021-DSA-JC-Exercise.pdf">Information Note on 2021 DSA-JC Exercise</a></p>
+			<p>•  Mr Winson Cheong</p>
     </div>
 	</li>
 	</ul>
