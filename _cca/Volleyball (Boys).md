@@ -48,9 +48,9 @@ Click [here](http://gmssvolleyball.weebly.com/) to find out more out the Volle
 	</li>
 		  <li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">Direct-Entry Scheme to Polytechnic Programme (DPP)</label>
+    <label for="accordion3">Coach</label>
     <div>
-			<p><h3>Direct-Entry Scheme to Polytechnic Programme (DPP)</h3><br>Please find below collaterals on the direct entry scheme to the polytechnic programme (DPP) for N(A)-Level students for your reference and use.<br> • <a href="/files/2021-DPP-Factsheet-for-Students.pdf">2021 DPP Factsheet for Students</a><br> • <a href="/files/2021-DPP-FAQs.pdf">2021 DPP FAQs</a></p>
+			<p> •  Mr Winson Cheong</p>
     </div>
 	</li>
 	<li>
