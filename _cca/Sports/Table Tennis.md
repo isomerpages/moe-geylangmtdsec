@@ -32,7 +32,7 @@ third_nav_title: Sports
     <input type="checkbox" id="accordion1">
     <label for="accordion1">Teachers-in-charge</label>
     <div>
-			<p>1. Mr Lawrence Lim (I/C)<br>2. Mdm Loh Jenny Esther<br>3. 1.  Ms Jayanthi D/O Sigamani</p>
+			<p>1. Mr Lawrence Lim (I/C)<br>2. Mdm Loh Jenny Esther<br>3. Ms Jayanthi D/O Sigamani</p>
     </div>
 	</li>
 	  <li>
