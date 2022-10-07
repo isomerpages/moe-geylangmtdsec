@@ -38,9 +38,12 @@ Click [here](http://gmssvolleyball.weebly.com/) to find out more out the Volle
 	</li>
 	  <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">Polytechnic Early Admission Exercise (EAE)</label>
+    <label for="accordion2">Student Leaders</label>
     <div>
-			<p><h3>Early Admission Exercise (EAE)</h3><br>Please find below collaterals on the Polytechnic Early Admissions Exercise (Poly EAE) for O-Level students for your reference and use.<br> • <a href="/files/AY2021-Poly-EAE-Briefing-Slides.pdf">AY2021 Poly EAE Briefing Slides.pdf</a><br> • <a href="/files/AY2022-Poly-EAE-Factsheet.pdf">AY2022 Poly EAE Factsheet</a><br> • <a href="/files/AY2022-Poly-EAE-for-O-Level-FAQs-Schools.pdf">AY2022 Poly EAE for O-Level FAQs Schools</a></p>
+			<p>B Division Captains:<br>Tan Zi Teng (P45)<br>Josiah Elisiah Anandha (J33)</p>
+			<p>B Division Vice-Captains:<br>Ho Chi Hin (P47)<br>Alan Gurung (J36)</p>
+			<p>C Division Captain:<br>Chris Gurung (H25)</p>
+<p>C Division Vice-Captain:<br>Jenith Rai (H24)</p>
     </div>
 	</li>
 		  <li>
