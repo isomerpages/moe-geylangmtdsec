@@ -43,7 +43,7 @@ third_nav_title: Sports
     <input type="checkbox" id="accordion1">
     <label for="accordion1">Teachers-in-charge</label>
     <div>
-			<p>1.  Mr Cheng Xin Jin (I/C)<br>2. Mr Ishwarinder Singh<br>3. Mr Christopher Wong</p>
+			<p>1.  Ms Ong Hui Qi (I/C)<br>2. Mrs Goh Heng Mei</p>
     </div>
 	</li>
 	  <li>
