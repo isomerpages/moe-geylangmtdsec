@@ -12,3 +12,5 @@ links:
     collection: staff
   - title: Students
     collection: students
+  - title: CCA
+    collection: cca
