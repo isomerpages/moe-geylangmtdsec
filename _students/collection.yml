@@ -1,4 +1,5 @@
 collections:
   students:
     output: true
-    order: []
+    order:
+      - Full Subject Based Banding (FSBB).md
