@@ -10,3 +10,5 @@ links:
     collection: special-programme
   - title: Staff
     collection: staff
+  - title: Students
+    collection: students
