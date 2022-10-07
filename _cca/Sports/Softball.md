@@ -52,7 +52,7 @@ third_nav_title: Sports
     <input type="checkbox" id="accordion3">
     <label for="accordion3">Coach</label>
     <div>
-			<p>•  Mr Tan Ten Siong</p>
+			<p>• Ms Carvalho Mavis Margaret</p>
     </div>
 	</li>
 	</ul>
