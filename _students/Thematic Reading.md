@@ -20,3 +20,8 @@ Term 1:
 
 1.  [Thematic-Reading-2022-Term-1-lower-sec.pdf](/files/Thematic-Reading-2022-Term-1-lower-sec.pdf)
 2.  [Thematic-Reading-2022-Term-1-upper-sec.pdf](/files/Thematic-Reading-2022-Term-1-upper-sec.pdf)
+
+
+[Article 2_Acts of Kindness](/files/2-Silent-Reading-_Article-2_Acts-of-Kindness.pdf)
+[](/files/Youth-to-youth-how-are-you-feeling.pdf)
+[](/files/Generation-Grit-Hearing-loss-cant-mute-musical-passion.pdf)
