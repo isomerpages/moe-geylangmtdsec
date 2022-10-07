@@ -35,5 +35,6 @@ Term 1:
       <p>Term 4:<br><a href="/files/2021_T4_Thematic-Reading_Celebrating-Success.pdf">2021_T4_Thematic Reading_Celebrating Success</a></p>
 			<p>Term 3:<br><a href=""></a>1. 2021_T3_Thematic Reading_Caring Citizens_Lower Sec - file in word doc<br><a href=""></a>2. 2021_T3_Thematic Reading_Caring Citizens_Upper Sec - file in word doc</p>
 			<p>Term 2:<br>1. <a href="/files/1-Silent-Reading_Article-1_Generation-Grit-Paying-it-Forward_1.pdf">Article 1_Generation Grit Paying it Forward_1</a><br>2. <a href="/files/2-Silent-Reading-_Article-2_Acts-of-Kindness.pdf">Article 2_Acts of Kindness</a></p>
+			<p>Term 1:<br>1. <a href="/files/Youth-to-youth-how-are-you-feeling.pdf">Youth to youth how are you feeling</a><br>2. <a href="/files/Generation-Grit-Hearing-loss-cant-mute-musical-passion.pdf">Generation Grit - Hearing loss can't mute musical passion</a></p>
     </div>
 	</li>
