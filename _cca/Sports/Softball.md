@@ -32,3 +32,30 @@ third_nav_title: Sports
 
 *   Champion for Bedok Green Softball Invitation Games 2020 B division girls
 *   Participated in B division National competition
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion1">
+    <label for="accordion1">Teachers-in-charge</label>
+    <div>
+			<p>1. Mr James Lim (I/C)<br>2. Ms Gayathiri<br>3. Mr Jonathan Koh</p>
+    </div>
+	</li>
+	  <li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">Student Leaders</label>
+    <div>
+			<p>B Division:<br>Captain:<br>	Aw Sin Yee (P43)</p>
+			<p>Vice-Captain:<br>Clariss Chua (P47)</p>
+			<p>B Division:<br>Captain:<br>	Phee Xin Ting Tricia (J33)</p>
+			<p>Vice-Captain:<br>	Wong Xin Wei, Chloe (J32)</p>
+    </div>
+	</li>
+		  <li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">Coach</label>
+    <div>
+			<p>•  Mr Tan Ten Siong</p>
+    </div>
+	</li>
+	</ul>
