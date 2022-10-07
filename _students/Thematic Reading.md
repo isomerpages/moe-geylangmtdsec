@@ -33,5 +33,7 @@ Term 1:
     <label for="accordion1">2021</label>
     <div>
       <p>Term 4:<br><a href="/files/2021_T4_Thematic-Reading_Celebrating-Success.pdf">2021_T4_Thematic Reading_Celebrating Success</a></p>
+			<p>Term 3:<br><a href=""></a>1. 2021_T3_Thematic Reading_Caring Citizens_Lower Sec - file in word doc<br><a href=""></a>2. 2021_T3_Thematic Reading_Caring Citizens_Upper Sec - file in word doc</p>
+			<p>Term 2:<br>1. <a href="/files/1-Silent-Reading_Article-1_Generation-Grit-Paying-it-Forward_1.pdf">Article 1_Generation Grit Paying it Forward_1</a><br>2. <a href="/files/2-Silent-Reading-_Article-2_Acts-of-Kindness.pdf">Article 2_Acts of Kindness</a></p>
     </div>
 	</li>
