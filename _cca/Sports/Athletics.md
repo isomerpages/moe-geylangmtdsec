@@ -52,7 +52,7 @@ third_nav_title: Sports
     <input type="checkbox" id="accordion3">
     <label for="accordion3">Coaches</label>
     <div>
-			<p>School Team<br>	Mr Liu Qing Dong</p>
+			<p> • Ms Tan Chew Peng<br> • Mr Lin Jun Ren</p>
     </div>
 	</li>
 	</ul>
