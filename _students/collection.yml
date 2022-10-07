@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Students' Timetable.md
       - Subject Combination.md
       - Thematic Reading.md
       - Full Subject Based Banding (FSBB).md
