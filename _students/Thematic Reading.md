@@ -38,6 +38,6 @@ Term 1:
     <label for="accordion2">2020</label>
     <div>
 			<p>Term 3:<br> • <a href=""></a> Secondary 1 Thematic Reading<br> • <a href=""></a>Secondary 2 Thematic Reading<br> • <a href=""></a>Secondary 3,4,5 Thematic Reading</p>
-			<p>Term 4:<br>• <a href="/files/1-Silent-Reading_Article-1_Generation-Grit-Paying-it-Forward_1.pdf">Thematic Reading</a></p>
+			<p>Term 4:<br>• <a href="">Thematic Reading</a></p>
     </div>
 	</li>
