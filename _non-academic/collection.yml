@@ -2,6 +2,7 @@ collections:
   non-academic:
     output: true
     order:
+      - CCE, ECG & Sexuality Education/Character & Citizenship Education (CCE).md
       - CCE, ECG & Sexuality Education/Post Secondary Pathways.md
       - CCE, ECG & Sexuality Education/Sexuality Education.md
       - CCE, ECG & Sexuality Education/.keep
