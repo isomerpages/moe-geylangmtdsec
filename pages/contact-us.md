@@ -5,25 +5,31 @@ permalink: /contact-us/
 agency_name: Geylang Methodist School (Secondary)
 locations:
   - address:
-      - 31 Sesame Street
-      - Big Bird Building
-      - Singapore 123456
+      - 2 Geylang East Central
+      - Singapore 389705
+      - ""
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-        description: ""
-    maps_link: ""
-    title: Main Office
+        time: 7.30am - 6pm
+        description: Closed on Weekends & Public Holidays
+    maps_link: https://goo.gl/maps/5ybWVNcrSRzHAfCw8
+    title: Address
   - address:
-      - 109 North Bridge Road
-      - Singapore 179097
+      - 4 Geylang East Central
+      - Singapore 389706
       - ""
-    operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
-    title: Branch Office
+    operating_hours:
+      - days: Tues and Thurs
+        time: 8am-5.30pm
+        description: ""
+      - days: Fri
+        time: 8am-5pm
+        description: ""
+      - days: Lunch Time
+        time: 12.30pm-1.30pm
+        description: "* Dental Clinic residing at Geylang Methodist School(Primary)"
+    maps_link: ""
+    title: Dental Clinic
 contacts:
   - content:
       - phone: +65 6123 4567
