@@ -44,7 +44,7 @@ locations:
       - days: Lunch Time
         time: 11.30am to 12.30pm
         description: "If parent have any enquiries, please contact the bookshop directly. "
-    maps_link: ""
+    maps_link: https://goo.gl/maps/5ybWVNcrSRzHAfCw8
     title: Bookshop Vendor
 contacts:
   - content:
