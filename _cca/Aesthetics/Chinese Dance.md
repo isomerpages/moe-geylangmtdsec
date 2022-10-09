@@ -58,7 +58,7 @@ third_nav_title: Aesthetics
     <input type="checkbox" id="accordion3">
     <label for="accordion3">Instructors</label>
     <div>
-			<p><table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:medium;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Main Instructor:</th><th style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:medium;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Ms Deborah</th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:medium;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Assistant Instructor:</td><td style="background-color:#FFF;border-color:#ffffff;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:medium;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Ms Shalyn</td></tr></tbody></table></p>
+			<p>Mr Zhou Lei</p>
     </div>
 	</li>
 			</ul>
