@@ -2,8 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - UGs/NPCC.md
-      - UGs/.keep
       - Sports/.keep
       - Sports/Athletics.md
       - Sports/Badminton.md
@@ -14,11 +12,13 @@ collections:
       - Sports/Softball.md
       - Sports/Table Tennis.md
       - Sports/Volleyball (Boys).md
+      - UGs/.keep
+      - UGs/NPCC.md
+      - Aesthetics/.keep
       - Aesthetics/Concert Band.md
       - Aesthetics/Chinese Dance.md
       - Aesthetics/Choir.md
       - Aesthetics/English Drama Club.md
-      - Aesthetics/.keep
       - Clubs and Societies/.keep
       - Clubs and Societies/Board Games Club.md
       - Clubs and Societies/Digital Media Society.md
