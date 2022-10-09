@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Aesthetics/.keep
       - Sports/.keep
       - Sports/Athletics.md
       - Sports/Badminton.md
@@ -13,8 +12,9 @@ collections:
       - Sports/Softball.md
       - Sports/Table Tennis.md
       - Sports/Volleyball (Boys).md
+      - Aesthetics/.keep
+      - Clubs and Societies/.keep
       - Clubs and Societies/Board Games Club.md
       - Clubs and Societies/Digital Media Society.md
       - Clubs and Societies/Media Resources (MR).md
-      - Clubs and Societies/.keep
       - Clubs and Societies/Photography & Videography Society (PVS).md
