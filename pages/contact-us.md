@@ -34,7 +34,6 @@ locations:
       - Pacific Book Stores
       - 2 Geylang East Central
       - Singapore 389705
-    title: Bookshop Vendor
     operating_hours:
       - days: Mon-Fri
         time: 7am to 3pm
@@ -44,17 +43,23 @@ locations:
         description: ""
       - days: Lunch Time
         time: 11.30am to 12.30pm
-        description: "If parent have any enquiries, please contact the bookshop. "
+        description: "If parent have any enquiries, please contact the bookshop directly. "
     maps_link: ""
+    title: Bookshop Vendor
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
+      - phone: +65 6746 6503
+      - email: gmss@moe.edu.sg
+      - other: "Fax: 6747 7317"
+    title: GMS (Secondary)
   - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
+      - phone: +65 6435 3794
+      - email: ""
+      - other: You may contact the clinic to make an appointment.
+    title: Dental Clinic
+  - content:
+      - phone: +65 6745 7271
+      - email: ""
       - other: ""
-    title: Careers
+    title: "Bookshop "
 ---
