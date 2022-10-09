@@ -28,7 +28,7 @@ locations:
       - days: Lunch Time
         time: 12.30pm-1.30pm
         description: "* If parent have any enquiries, please contact the clinic directly."
-    maps_link: ""
+    maps_link: https://goo.gl/maps/BfXnNH74q89sk4uv8
     title: Dental Clinic
   - address:
       - Pacific Book Stores
