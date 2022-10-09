@@ -24,12 +24,28 @@ locations:
         description: ""
       - days: Fri
         time: 8am-5pm
-        description: ""
+        description: "* Dental Clinic residing at Geylang Methodist School(Primary)"
       - days: Lunch Time
         time: 12.30pm-1.30pm
-        description: "* Dental Clinic residing at Geylang Methodist School(Primary)"
+        description: "* If parent have any enquiries, please contact the clinic directly."
     maps_link: ""
     title: Dental Clinic
+  - address:
+      - Pacific Book Stores
+      - 2 Geylang East Central
+      - Singapore 389705
+    title: Bookshop Vendor
+    operating_hours:
+      - days: Mon-Fri
+        time: 7am to 3pm
+        description: "* Bookshop is opened on from 7am to 3pm Mon, Wed, Thurs and Fri"
+      - days: Tues
+        time: 7am to 2.45pm
+        description: ""
+      - days: Lunch Time
+        time: 11.30am to 12.30pm
+        description: "If parent have any enquiries, please contact the bookshop. "
+    maps_link: ""
 contacts:
   - content:
       - phone: +65 6123 4567
