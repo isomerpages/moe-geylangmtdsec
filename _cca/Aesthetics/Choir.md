@@ -66,3 +66,15 @@ third_nav_title: Aesthetics
 			</ul>
 			
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bj59mSQ8Qh0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Choir remains the only Co-Curricular Activity to be suspended during this pandemic. We miss the friendship, the laughter, and especially coming together (physically) to sing and make music.
+
+This project, in a way, is a culmination of our digital learning journey - from grappling with new apps and recording techniques to a new norm of singing into the computer screen. Still, it has brought us closer to our own voices and made us more resilient and disciplined.
+
+We stand not only with all choirs but other performing art groups to keep the arts alive.
+
+Please enjoy.
+
+Somewhere Out There  
+SSAA arranged by Kirby Shaw  
+Words and music by James Horner, Barry Mann, Cynthia Weil
