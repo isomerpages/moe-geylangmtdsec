@@ -14,6 +14,9 @@ third_nav_title: Clubs and Societies
 
 ![](/images/5-13-1024x683.jpg)
 
+![](/images/Intan-01-1024x726.jpg)
+(uploaded 5 images only)
+
 **Objectives of CCA**
 
 *   Expose students to new media and areas of Information Technology i.e. Photography and Videography.
@@ -53,3 +56,37 @@ third_nav_title: Clubs and Societies
     </div>
 	</li>
 </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Photo Gallery - Members' works for the year 2020
+
+Theme: Home during Home-Based Learning (Still Life Photography)
+
+\[Exhibition @ Geylang East Public Library Sept 2021\]
+
+
+![](/images/Ashley-01-1024x726.jpg)
+
+![](/images/Mariam-Banu-01-1024x726.jpg)
+
+![](/images/Mariam-Banu-02-1024x726.jpg)
+
+![](/images/Min-Zhen-01-1024x726.jpg)
+
+![](/images/Ong-Zi-Ning-Xylia-01-1024x726.jpg)
+(uploaded 5 images only)
