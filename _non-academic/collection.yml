@@ -1,0 +1,4 @@
+collections:
+  non-academic:
+    output: true
+    order: []
