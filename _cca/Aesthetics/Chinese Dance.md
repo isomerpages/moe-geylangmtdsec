@@ -44,7 +44,7 @@ third_nav_title: Aesthetics
     <input type="checkbox" id="accordion1">
     <label for="accordion1">Teachers-in-charge</label>
     <div>
-			<p>1. Miss Sylvia Lai (I/C)<br>2. Mr Pek Han Wei<br>3. Ms Tan Lay Ming</p>
+			<p>1. Mdm Li Ping (I/C)<br>2. Mrs Toh Chwee Hong<br>3. Mdm Fion Thia<br>4. Ms Yee Siau Foon</p>
     </div>
 	</li>
 	  <li>
