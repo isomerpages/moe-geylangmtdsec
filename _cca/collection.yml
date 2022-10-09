@@ -2,8 +2,7 @@ collections:
   cca:
     output: true
     order:
-      - Clubs and Societies/Photography & Videography Society (PVS).md
-      - Clubs and Societies/.keep
+      - Sports/.keep
       - Sports/Athletics.md
       - Sports/Badminton.md
       - Sports/Basketball.md
@@ -13,4 +12,5 @@ collections:
       - Sports/Softball.md
       - Sports/Table Tennis.md
       - Sports/Volleyball (Boys).md
-      - Sports/.keep
+      - Clubs and Societies/.keep
+      - Clubs and Societies/Photography & Videography Society (PVS).md
