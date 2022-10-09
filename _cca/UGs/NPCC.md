@@ -60,9 +60,9 @@ third_nav_title: UGs
 	</li>
 	<li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">Instructors</label>
+    <label for="accordion3">Honorary Offices</label>
     <div>
-			<p> •  Mr Samuel Tan Sim Wah (Conductor)<br> •  Mr Izac Lim (Instructor)</p>
+			<p>1.  Mr Lim Kian Wah</p>
     </div>
 	</li>
 			</ul>
