@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Clubs and Societies/Photography & Videography Society (PVS).md
       - Clubs and Societies/.keep
       - Sports/Athletics.md
       - Sports/Badminton.md
