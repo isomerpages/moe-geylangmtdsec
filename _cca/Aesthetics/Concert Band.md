@@ -58,7 +58,7 @@ third_nav_title: Aesthetics
     <input type="checkbox" id="accordion3">
     <label for="accordion3">Instructors</label>
     <div>
-			<p>Mr Zhou Lei</p>
+			<p> •  Mr Samuel Tan Sim Wah (Conductor)<br> •  Mr Izac Lim (Instructor)</p>
     </div>
 	</li>
 			</ul>
