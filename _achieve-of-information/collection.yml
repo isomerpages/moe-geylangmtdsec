@@ -1,4 +1,5 @@
 collections:
   achieve-of-information:
     output: true
-    order: []
+    order:
+      - Archive of Information.md
