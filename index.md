@@ -14,8 +14,8 @@ sections:
           description: Important highlight A is important
           url: https://google.com
         - title: Important Information
-          description: Important highlight B is equally important
-          url: https://gmail.com
+          description: ""
+          url: /archive-of-information/
         - title: Useful Links
           description: ""
           url: /useful-links/gms-calendar/
