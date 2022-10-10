@@ -17,6 +17,6 @@ sections:
           description: Important highlight B is equally important
           url: https://gmail.com
         - title: Useful Links
-          description: Page A is important too
-          url: /privacy/
+          description: ""
+          url: /useful-links/gms-calendar/
 ---
