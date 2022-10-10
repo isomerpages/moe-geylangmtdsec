@@ -2,4 +2,5 @@ collections:
   useful-links:
     output: true
     order:
+      - Useful Links for Students.md
       - Useful Links for Parents.md
