@@ -11,7 +11,7 @@ sections:
       background: /images/gmss.gif
       key_highlights:
         - title: Announcements
-          description: Important highlight A is important
+          description: ""
           url: https://google.com
         - title: Important Information
           description: ""
