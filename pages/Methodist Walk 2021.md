@@ -18,4 +18,11 @@ Please give generously by donating via the link below:
 Or via the QR Code
 
 <img src="/images/WhatsApp-Image-2021-03-21.jpeg" 
-     style="width:25%">
+     style="width:50%">
+		 
+		 
+Or via UEN number 199703727C002 and  
+Add GMSS to the “Bill reference number.”
+
+Please watch the video  
+[https://drive.google.com/file/d/1\_cH18Zeo\_K2rC1AVJ9lLNz7gEHxgJpdK/view?usp=drivesdk](https://drive.google.com/file/d/1_cH18Zeo_K2rC1AVJ9lLNz7gEHxgJpdK/view?usp=drivesdk)
