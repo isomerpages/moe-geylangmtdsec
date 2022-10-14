@@ -1,4 +1,5 @@
 collections:
   archive-of-announcement:
     output: true
-    order: []
+    order:
+      - Archive of Announcement.md
