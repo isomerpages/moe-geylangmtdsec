@@ -14,3 +14,6 @@ description: ""
 7.  [PSG Presentation Sec 1 MTP 2022](https://youtu.be/1Jsg_o4wnyM)
 
 Thank you for partnering with us. If you have any enquiries, please [click here](https://go.gov.sg/s1engagement-enquiry-form) or scan the QR code below.
+
+<img src="/images/Sec1-Engagement-enquiry-form.png" 
+     style="width:25%">
