@@ -12,7 +12,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: https://google.com
+          url: /archive-of-announcement/
         - title: Important Information
           description: ""
           url: /archive-of-information/
