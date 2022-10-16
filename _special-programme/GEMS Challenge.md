@@ -111,10 +111,10 @@ Every year, there are about seven training sessions for every challenge, each le
 </ul>
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vkv330Cm4OY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<center>Over view</center>
+Over view
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6kNJRR7IzoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<center>Asean Internationalisation programme</center>
+Asean Internationalisation programme
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6wDrQklkE5w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<center>Young Docents</center>
+Young Docents
