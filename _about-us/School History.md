@@ -165,6 +165,6 @@ It was during Mrs Daniel’s time.</p>
 
 <h3>Photo Galleries</h3>
 
-*   [1924 - 1984](https://geylangmethodistsec.moe.edu.sg/1924-1983/)
-*   [1984 onwards](https://geylangmethodistsec.moe.edu.sg/1984-onward/)
-*   [2017](https://geylangmethodistsec.moe.edu.sg/photo-gallery-2017/) / [2018](https://geylangmethodistsec.moe.edu.sg/photo-gallery-2018/)
+*   [1924 - 1984](https://staging.dnskg7mp0u9ot.amplifyapp.com/photo-galleries-1924-1983/)
+*   [1984 onwards](https://staging.dnskg7mp0u9ot.amplifyapp.com/photo-galleries-1984-onward/)
+*   [2017](https://staging.dnskg7mp0u9ot.amplifyapp.com/about-us/Photo-Gallery/photo-gallery-2017/) / [2018](https://staging.dnskg7mp0u9ot.amplifyapp.com/about-us/Photo-Gallery/photo-gallery-2018/)
