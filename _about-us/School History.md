@@ -159,11 +159,41 @@ It was during Mrs Daniel’s time.</p>
     </div>
 	</li>
 	</ul>
-	
-
-
-
+	<br>
 <h3>Photo Galleries</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 *   [1924 - 1984](https://staging.dnskg7mp0u9ot.amplifyapp.com/photo-galleries-1924-1983/)
 *   [1984 onwards](https://staging.dnskg7mp0u9ot.amplifyapp.com/photo-galleries-1984-onward/)
