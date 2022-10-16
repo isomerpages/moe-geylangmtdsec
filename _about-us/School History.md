@@ -161,40 +161,8 @@ It was during Mrs Daniel’s time.</p>
 	</ul>
 	<br>
 <h3>Photo Galleries</h3>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-*   [1924 - 1984](https://staging.dnskg7mp0u9ot.amplifyapp.com/photo-galleries-1924-1983/)
-*   [1984 onwards](https://staging.dnskg7mp0u9ot.amplifyapp.com/photo-galleries-1984-onward/)
-*   [2017](https://staging.dnskg7mp0u9ot.amplifyapp.com/about-us/Photo-Gallery/photo-gallery-2017/) / [2018](https://staging.dnskg7mp0u9ot.amplifyapp.com/about-us/Photo-Gallery/photo-gallery-2018/)
+<a href="https://staging.dnskg7mp0u9ot.amplifyapp.com/photo-galleries-1924-1983/">1924 - 1984</a>
+<br>
+<a href="https://staging.dnskg7mp0u9ot.amplifyapp.com/photo-galleries-1984-onward/">1984 onwards</a>
+<br>
+<a href="https://staging.dnskg7mp0u9ot.amplifyapp.com/about-us/Photo-Gallery/photo-gallery-2017/">2017</a> / <a href="https://staging.dnskg7mp0u9ot.amplifyapp.com/about-us/Photo-Gallery/photo-gallery-2018/">2018</a>
