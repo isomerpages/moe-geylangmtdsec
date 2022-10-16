@@ -2,18 +2,20 @@ collections:
   about-us:
     output: true
     order:
-      - School Achievements/.keep
       - Principal’s Message.md
       - School History.md
       - Vision, Mission and Values.md
       - School Crest and Song.md
       - School Virtual Tour.md
+      - School Achievements/.keep
       - Board of Management.md
       - Our GM Community/.keep
       - Our GM Community/Our GM Community.md
       - Our GM Community/Our Alumni.md
       - Our GM Community/Our Partners.md
       - Our GM Community/Our Staff.md
+      - Student Achievement.md
+      - Academic Matters/.keep
       - Academic Matters/2018 GCE ‘N’ Level.md
       - Academic Matters/2018 GCE 'O' Level.md
       - Academic Matters/2019 GCE 'N' level.md
@@ -22,13 +24,11 @@ collections:
       - Academic Matters/2020 GCE 'O' level.md
       - Academic Matters/2021 GCE 'N' Level.md
       - Academic Matters/2021 GCE 'O' Level.md
-      - Academic Matters/.keep
-      - Student Achievement.md
       - Former Students' Achievement.md
+      - Photo Gallery/.keep
       - Photo Gallery/2018.md
       - Photo Gallery/2019.md
       - Photo Gallery/2020.md
       - Photo Gallery/2021.md
-      - Photo Gallery/.keep
       - Photo Gallery/2022.md
       - Non Financial Information.md
