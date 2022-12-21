@@ -2,11 +2,11 @@ title: Geylang Methodist School (Secondary)
 url: https://geylangmethodistsec.moe.edu.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#4438a4"
-  secondary-color: "#e0bf2c"
+  primary-color: "#f7fc2d"
+  secondary-color: "#3535fc"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#edf650"
     - title: media-color-two
       color: "#744d9f"
     - title: media-color-three
