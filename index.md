@@ -18,4 +18,7 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-links/gms-calendar/
+  - resources:
+      subtitle: News and Events
+      button: Next
 ---
