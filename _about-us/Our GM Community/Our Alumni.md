@@ -4,7 +4,7 @@ permalink: /about-us/Our-GM-Community/our-alumni/
 description: ""
 third_nav_title: Our GM Community
 ---
-# **Our Alumni**
+# **GM Alumni**
 
 ![](/images/GMSS_A3-Posters_Alumni_ver2_Page_01.jpg)
 
