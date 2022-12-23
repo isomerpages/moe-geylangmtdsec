@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - GM Family/School Executive Committee (SEC).md
       - GM Family/.keep
       - School Executive Committee/.keep
       - Principal’s Message.md
