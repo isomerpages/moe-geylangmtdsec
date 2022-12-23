@@ -4,7 +4,7 @@ permalink: /about-us/Our-GM-Community/Our-Partners/
 description: ""
 third_nav_title: Our GM Community
 ---
-# **Our Partners**
+# **GM Partners**
 
 ![](/images/GMSS_A3-Posters_Our-Partners_ver2_Page_1.jpg)
 
