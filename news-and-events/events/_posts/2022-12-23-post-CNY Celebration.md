@@ -6,3 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
+CNY celebration on 20 Jan, Friday
