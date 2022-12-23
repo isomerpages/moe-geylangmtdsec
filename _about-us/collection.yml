@@ -2,14 +2,14 @@ collections:
   about-us:
     output: true
     order:
-      - GM Family/School Executive Committee (SEC).md
-      - GM Family/.keep
       - Principal’s Message.md
       - Vision, Mission and Values.md
       - School Crest and Song.md
       - School Virtual Tour.md
       - School History.md
       - Board of Management.md
+      - GM Family/.keep
+      - GM Family/School Executive Committee (SEC).md
       - GM Community/.keep
       - GM Community/GM Alumni.md
       - GM Community/GM Partners.md
