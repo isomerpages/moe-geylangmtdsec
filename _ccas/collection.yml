@@ -1,5 +1,5 @@
 collections:
-  cca:
+  ccas:
     output: true
     order:
       - CCAs Schedule.md
