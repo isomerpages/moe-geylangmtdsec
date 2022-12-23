@@ -21,7 +21,14 @@ description: ""
 | **Mother Tongue Languages**     | Mr Neo Ping Leng     |[neo\_ping\_leng@schools.gov.sg](mailto:neo_ping_leng@schools.gov.sg) |
 | **Mathematics** | Ms Nainee Naah Ismail | [nainee\_naah\_ismail@schools.gov.sg](mailto:nainee_naah_ismail@schools.gov.sg) |
 | **Science**     | Miss Ng Peck Suan     | [ng\_peck\_suan@schools.gov.sg](mailto:ng_peck_suan@schools.gov.sg) |
-
-
-
-
+| **Humanities**    | Ms Thian Wan Eng     | [Thian\_Wan\_Eng@schools.gov.sg](mailto:Thian_Wan_Eng@schools.gov.sg)     |
+| **ICT & C&T**| Mr Yeo Wee Pung     | [yeo\_wee\_pung@schools.gov.sg](mailto:yeo_wee_pung@schools.gov.sg)     |
+| **Co-Curricular-Activities/ Physical Education**     | Mdm Rachel Cheng     | [cheng\_sze\_wan\_rachel@schools.gov.sg](mailto:cheng_sze_wan_rachel@schools.gov.sg)    |
+| **Pupil Management & Development**     | Mr Kelvin Tay     | [tay\_yew\_kuan\_kelvin@schools.gov.sg](mailto:tay_yew_kuan_kelvin@schools.gov.sg)     |
+| **Curriculum & Pupil Development (Educational Support)**     | Miss Wendy Wong     | [wong\_yoke\_chan\_wendy@schools.gov.sg](mailto:wong_yoke_chan_wendy@schools.gov.sg)     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
