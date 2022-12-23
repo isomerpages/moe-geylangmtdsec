@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Geylang Methodist School (Secondary)
       background: /images/gmss.gif
       key_highlights:
         - title: Announcements
