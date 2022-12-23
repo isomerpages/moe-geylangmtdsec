@@ -6,6 +6,7 @@ layout: post
 description: ""
 image: /images/1-1024x683.jpg
 ---
+![](/images/2-1024x683.jpg)
 Dear Parents,
 
 Greetings from Geylang Methodist School (Secondary) and a very warm welcome to you and your child to our GM family.
