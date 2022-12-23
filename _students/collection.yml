@@ -2,15 +2,15 @@ collections:
   students:
     output: true
     order:
+      - Financial Assistance and Bursary Schemes.md
+      - Full Subject Based Banding (FSBB).md
+      - Information on Edusave Awards.md
+      - Rules for Special Rooms/.keep
       - Rules for Special Rooms/Science Laboratory.md
       - Rules for Special Rooms/Design and Technology (D&T).md
       - Rules for Special Rooms/FCE Food Laboratory.md
       - Rules for Special Rooms/Computer Laboratory Rules.md
       - Rules for Special Rooms/School Library Rules.md
-      - Rules for Special Rooms/.keep
-      - Financial Assistance and Bursary Schemes.md
-      - Information on Edusave Awards.md
       - Students' Timetable.md
       - Subject Combination.md
       - Thematic Reading.md
-      - Full Subject Based Banding (FSBB).md
