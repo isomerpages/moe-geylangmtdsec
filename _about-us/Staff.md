@@ -17,7 +17,7 @@ description: ""
 
 | Department | Name | Email |
 | -------- | -------- | -------- |
-| **English Language & Literature**     | Mdm Sng Swee Lian     |[sng\_swee\_lian@schools.gov.sg](mailto:sng_swee_lian@schools.gov.sg) |
+| **English Language & Literature**     | Mrs Ong Li Tyng     |[loong\_li\_tyng@schools.gov.sg](mailto:loong_li_tyng@schools.gov.sg) |
 | **Mother Tongue Languages**     | Mr Neo Ping Leng     |[neo\_ping\_leng@schools.gov.sg](mailto:neo_ping_leng@schools.gov.sg) |
 | **Mathematics** | Ms Nainee Naah Ismail | [nainee\_naah\_ismail@schools.gov.sg](mailto:nainee_naah_ismail@schools.gov.sg) |
 | **Science**     | Miss Ng Peck Suan     | [ng\_peck\_suan@schools.gov.sg](mailto:ng_peck_suan@schools.gov.sg) |
@@ -26,6 +26,26 @@ description: ""
 | **Co-Curricular-Activities/ Physical Education**     | Mdm Rachel Cheng     | [cheng\_sze\_wan\_rachel@schools.gov.sg](mailto:cheng_sze_wan_rachel@schools.gov.sg)    |
 | **Pupil Management & Development**     | Mr Kelvin Tay     | [tay\_yew\_kuan\_kelvin@schools.gov.sg](mailto:tay_yew_kuan_kelvin@schools.gov.sg)     |
 | **Curriculum & Pupil Development (Educational Support)**     | Miss Wendy Wong     | [wong\_yoke\_chan\_wendy@schools.gov.sg](mailto:wong_yoke_chan_wendy@schools.gov.sg)     |
+| **Character and Citizenship Education**   | Mr Chin Khai Ying    | [chin\_khai\_ying@schools.gov.sg](mailto:chin_khai_ying@schools.gov.sg)     |
+| **School Staff Developer**     | Mrs Low Phek Mui     | [koh\_phek\_mui@schools.gov.sg](mailto:koh_phek_mui@schools.gov.sg)     |
+| **Lower Sec Year Head**     | Mr Kelvin Teo    | [teo\_kian\_ming\_kelvin@schools.gov.sg](mailto:teo_kian_ming_kelvin@schools.gov.sg)
+| **Upper Sec Year Head**     | Mrs Sandra Theseira   | [de\_souza\_Sandra@schools.gov.sg](mailto:de_souza_Sandra@schools.gov.sg)     |
+| **Administration Manager**     | Ms Linda Chuang    | [CHUANG\_Toon\_Ling@schools.gov.sg](mailto:CHUANG_Toon_Ling@schools.gov.sg)     |
+| **Administration Manager**    | Mdm Azline Ibrahim     | [Nur\_Azline\_IBRAHIM@schools.gov.sg](mailto:Nur_Azline_IBRAHIM@schools.gov.sg)    |
+| **Operation Manager**   | Mr Koay Chin Wah   | [koay\_chin\_wah@schools.gov.sg](mailto:koay_chin_wah@schools.gov.sg)    |
+| **Operation Manager**    | Mr Tan Pin Eddie    | [Tan\_Pin\_Eddie@schools.gov.sg](mailto:Tan_Pin_Eddie@schools.gov.sg)    |
+
+# Level / Subject Heads
+
+
+| Department | Name | Email |
+| -------- | -------- | -------- |
+| **Mother Tongue Languages**     | Mdm Li Ping     | [li\_ping@schools.gov.sg](mailto:li_ping@schools.gov.sg)    |
+| **Science (Lower Sec)**   | Mr Sng Peng Hock    | [sng\_peng\_hock@schools.gov.sg](mailto:sng_peng_hock@schools.gov.sg)     |
+| **Science (Physics)**   | Mr Yip Cheng Hou    | [yip\_cheng\_hou@schools.gov.sg](mailto:yip_cheng_hou@schools.gov.sg)     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
