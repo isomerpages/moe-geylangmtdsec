@@ -3,14 +3,14 @@ url: https://geylangmethodistsec.moe.edu.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#1f0cf6"
-  secondary-color: "#3535fc"
+  secondary-color: "#9013fe"
   media-colors:
     - title: media-color-one
-      color: "#1711f5"
+      color: "#f1fa58"
     - title: media-color-two
-      color: "#1d1df1"
+      color: "#fdbe13"
     - title: media-color-three
-      color: "#f65519"
+      color: "#d0021b"
     - title: media-color-four
       color: "#1c16fa"
     - title: media-color-five
