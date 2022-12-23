@@ -2,9 +2,9 @@ collections:
   special-programme:
     output: true
     order:
+      - Applied Learning Programme (ALP).md
       - Family Education Programmes.md
       - GEMS Challenge.md
-      - Applied Learning Programme (ALP).md
       - Learning For Life Programme (LLP).md
       - NANT Talent Development.md
       - Student Initiated Learning (SIL).md
