@@ -1,5 +1,5 @@
 collections:
-  special-programme:
+  special-programmes:
     output: true
     order:
       - Applied Learning Programme (ALP).md
