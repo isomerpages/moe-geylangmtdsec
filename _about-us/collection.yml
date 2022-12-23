@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - GM Family/.keep
       - School Executive Committee/.keep
       - Principal’s Message.md
       - Vision, Mission and Values.md
