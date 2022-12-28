@@ -4,7 +4,7 @@ permalink: /about-us/GM-Family/Teaching-Staff/
 description: ""
 third_nav_title: GM Family
 ---
-**Secondary 1 Form Teachers**
+#### **Secondary 1 Form Teachers**
 
 
 | **Faith 1-1** | | |
@@ -24,6 +24,12 @@ third_nav_title: GM Family
 | **Faith 1-5** | | |
 | MR JAMES KEE    |  [kee\_yeng\_koon\_james@schools.gov.sg](mailto:kee_yeng_koon_james@schools.gov.sg)  |
 | MDM NORTHASIA SADEKAN     | [northasia\_mohamed\_sadekan@schools.gov.sg](mailto:northasia_mohamed_sadekan@schools.gov.sg)   |
+| **Faith 1-6** |  | |
+| MDM NORHAMIDAH HASSAN   | [norhamidah\_hassan@schools.gov.sg](mailto:norhamidah_hassan@schools.gov.sg)     | 
+|  MR JOSEPH LIM  | lim_tuan_zheng@schools.gov.sg   | 
+| **Faith 1-7** | | |
+| MRS LIAN YOK KHOON    |  [tan\_yok\_khoon@schools.gov.sg](mailto:tan_yok_khoon@schools.gov.sg)  |
+| MDM NURHAYATI MOHD HAMLI     | [nurhayati\_binte\_mohamed\_hamli@schools.gov.sg](mailto:nurhayati_binte_mohamed_hamli@schools.gov.sg)   |
 
 
 **Secondary 2 Form Teachers**
