@@ -87,8 +87,12 @@ third_nav_title: GM Family
 | MISS NORASIYA MAN    | norasiya_man@schools.gov.sg    |     |
 | MR JAMES LIM   | lim_boon_tiong_james@schools.gov.sg     |     |
 | **Joy 3-6** |  |  |
-| Text     | Text     |     |
-| Text     | Text     |     |
+| MS GAYATHIRI     | [gayathiri\_ilango@schools.gov.sg](mailto:gayathiri_ilango@schools.gov.sg)     |     |
+| MDM YEUNG SUK MUN     | [yeong\_suk\_mun@schools.gov.sg](mailto:yeong_suk_mun@schools.gov.sg)     |     |
+| **Joy 3-7** |  |  |
+| MISS CARLYN CHAN     | [chan\_carlyn@schools.gov.sg](mailto:chan_carlyn@schools.gov.sg)     |     |
+| MS TAN KAI WEI   | tan_kai_wei@schools.gov.sg     |     |
+
 
 
 
