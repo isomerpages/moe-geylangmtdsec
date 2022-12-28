@@ -3,7 +3,7 @@ title: Students' Timetable
 permalink: /students/timetable/
 description: ""
 ---
-# **Students' Timetable**
+### **Students' Timetable**
 
 |  	|  	|
 |---	|---	|
