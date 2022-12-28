@@ -4,7 +4,7 @@ permalink: /curriculum/Non-Academic/permalink/
 description: ""
 third_nav_title: Non Academic
 ---
-# **Values-in-Action (VIA)**
+
 
 ![](/images/Values-in-Action-scaled.jpg)
 
