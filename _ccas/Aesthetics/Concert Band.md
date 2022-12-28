@@ -4,23 +4,8 @@ permalink: /cca/aesthetics/concert-band/
 description: ""
 third_nav_title: Aesthetics
 ---
-# **Concert Band**
-
-![](/images/GMSS-95-Anniversary-13-1024x684.jpg)
-
-![](/images/GMSS-95-Anniversary-15-1024x684.jpg)
-
 ![](/images/GMSS-95-Anniversary-135-1024x684.jpg)
 
-![](/images/IMG_6067-1024x683.jpg)
-
-![](/images/IMG_9638-1024x683.jpg)
-
-![](/images/Concert-Band-1-1024x681.jpeg)
-
-![](/images/Concert-Band-2.jpeg)
-
-![](/images/Concert-Band-3-1024x632.jpeg)
 
 **Objectives of CCA**
 
