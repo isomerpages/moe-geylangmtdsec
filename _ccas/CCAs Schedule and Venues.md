@@ -16,6 +16,23 @@ description: ""
 | Bowling (not offered in 2023)     | Wed-SAFRA TP/Yishun 1500 – 1800     | Fri-SAFRA TP/Yishun 1500 – 1800     |      |
 | Football (boys)     | Mon-Field 1500 – 1730     | Wed-Field 1500 – 1730     |      |
 | Netball (girls)     | Wed-\*Quad/OC 1530 – 1730     | Fri-\*Quad/OC 1530 – 1730     |      |
+| Softball (girls)     | Tue-Field 1500 – 1730     | Fri-Field 1500 – 1730     |      |
+| Text     | Text     | Text     | Text     |
+| Text     | Text     | Text     | Text     |
+| Text     | Text     | Text     | Text     |
+| Text     | Text     | Text     | Text     |
+| Text     | Text     | Text     | Text     |
+| Text     | Text     | Text     | Text     |
+| Text     | Text     | Text     | Text     |
+| Text     | Text     | Text     | Text     |
+| Text     | Text     | Text     | Text     |
+| Text     | Text     | Text     | Text     |
+| Text     | Text     | Text     | Text     |
+| Text     | Text     | Text     | Text     |
+| Text     | Text     | Text     | Text     |
+| Text     | Text     | Text     | Text     |
+| Text     | Text     | Text     | Text     |
+
 
 NO CCA on Thursday.
 
@@ -31,5 +48,3 @@ Venues:
 | OC     | Outdoor Court     |     |
 | Quad    | Quadrangle     |     |
 | FH    | Friendship Hall     |     |
-
-
