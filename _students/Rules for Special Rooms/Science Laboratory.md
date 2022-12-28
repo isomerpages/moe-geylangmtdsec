@@ -4,7 +4,7 @@ permalink: /students/Rules-for-Special-Rooms/science-lab/
 description: ""
 third_nav_title: Rules for Special Rooms
 ---
-# **Science Laboratory Safety Rules**
+### **Science Laboratory Safety Rules**
 
 1.  Do not enter the laboratory unless a teacher is present.
 2.  Do not tamper with the gas taps or electric sockets at your bench. 
