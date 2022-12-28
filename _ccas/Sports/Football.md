@@ -4,17 +4,9 @@ permalink: /cca/Sports/Football/
 description: ""
 third_nav_title: Sports
 ---
-# **Football**
-
-![](/images/WhatsApp-Image-2020-01-23.jpeg)
-
 ![](/images/WhatsApp-Image-2020-01-23-1.jpeg)
 
-![](/images/Football-2-768x1024.jpeg)
 
-![](/images/Football-3-1024x576.jpeg)
-
-![](/images/Football-1-768x1024.jpeg)
 
 **Objectives of CCA**
 
