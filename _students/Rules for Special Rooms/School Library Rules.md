@@ -4,8 +4,6 @@ permalink: /students/Rules-for-Special-Rooms/media-resource-library/
 description: ""
 third_nav_title: Rules for Special Rooms
 ---
-### **School Library Rules**
-
 **OPENING HOURS**
 
 During term time, the school library is open from 7.30 am - 4.30pm, Monday to Friday.
