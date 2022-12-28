@@ -23,7 +23,7 @@ description: ""
 
 
 
-| CCA (UGs) | Day 1 | Day 2 | Day 3 |  
+| CCA (UGs) | Day 1 | Day 2 |  |  
 | -------- | -------- | -------- | -------- | 
 | Boys Brigade    | Sat-School 0830 – 1230     |      | 
 | Girls Brigade    | Sat-School 0830 – 1230     |      |      |
