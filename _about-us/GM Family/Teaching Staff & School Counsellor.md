@@ -44,6 +44,12 @@ third_nav_title: GM Family
 | **Hope 2-2** |  |  |
 | MDM JENNY LOH    | [loh\_jenny\_esther@schools.gov.sg](mailto:loh_jenny_esther@schools.gov.sg)     |     |
 | MS HO HWEE LING    | ho_hwee_ling@schools.gov.sg    |     |
+| **Hope 2-3**|  |  |
+| MS TEO JIA MIN    |     |     |
+| MR WONG KOK WOEI    | wong_kok_woei@schools.gov.sg  |    | 
+| **Hope 2-4** |  |  |
+| MISS CINDY LIM    | [lim\_fung\_yee\_cindy@schools.gov.sg](mailto:lim_fung_yee_cindy@schools.gov.sg)     |      |
+| MR SNG PENG HOCK     | [sng\_peng\_hock@schools.gov.sg](mailto:sng_peng_hock@schools.gov.sg)    |      |
 
 
 
