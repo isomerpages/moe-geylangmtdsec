@@ -4,12 +4,7 @@ permalink: /curriculum/academic/english-language-literature/
 description: ""
 third_nav_title: Academic
 ---
-# **English Language and Literature**
-
 ![](/images/English-Language-N-Literature-2048x1463.jpg)
-
-
-
 
 
 
