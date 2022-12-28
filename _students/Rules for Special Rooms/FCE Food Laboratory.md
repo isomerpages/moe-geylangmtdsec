@@ -4,8 +4,6 @@ permalink: /students/Rules-for-Special-Rooms/fce-food-laboratory/
 description: ""
 third_nav_title: Rules for Special Rooms
 ---
-# **FCE Food Laboratory**
-
 ### Nutrition and Food Science (NFS) Food Laboratory Rules
 
 **GENERAL**
@@ -26,4 +24,4 @@ third_nav_title: Rules for Special Rooms
 2\.  To prevent falls; keep the food laboratory floor dry. Wipe up spills on the floor immediately.    
 3\.  To prevent burns and scalds: turn handles of saucepans on the cooker inwards to avoid knocking into them. Use pot holders or oven gloves to remove hot pot, pan and utensils from stove or oven.    
 4\.  To prevent being electrocuted: do not use switches or electrical appliances with wet hands. Switch off the cooker after use, then clean the cooker.        
-5\.  Report all accidents to your teacher immediately.    
+5\.  Report all accidents to your teacher immediately.
