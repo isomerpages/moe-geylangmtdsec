@@ -32,7 +32,7 @@ third_nav_title: GM Family
 | MDM NURHAYATI MOHD HAMLI     | [nurhayati\_binte\_mohamed\_hamli@schools.gov.sg](mailto:nurhayati_binte_mohamed_hamli@schools.gov.sg)   |
 
 
-### **Secondary 2 Form Teachers**
+#### **Secondary 2 Form Teachers**
 
 
 
@@ -67,7 +67,7 @@ third_nav_title: GM Family
 
 
 
-### **Secondary 3 Form Teachers**
+#### **Secondary 3 Form Teachers**
 
 
 | **Joy 3-1** |  |  |
@@ -97,7 +97,7 @@ third_nav_title: GM Family
 
 
 
-### **Secondary 4 & 5 Form Teachers**
+#### **Secondary 4 & 5 Form Teachers**
 
 
 | **Peace 4-1** |  |  |
@@ -111,5 +111,7 @@ third_nav_title: GM Family
 | **Peace 4-3** |  |  |
 | MISS NG SIO YING     | [ng\_sio\_ying@schools.gov.sg](mailto:ng_sio_ying@schools.gov.sg)     |      |
 | MR JONATHAN KOH     | [onathan\_koh@schools.gov.sg](mailto:jonathan_koh@schools.gov.sg)     |      |
-
-
+| **Peace 4-4** |  |  |
+| MR FAHD SAID     | [ahd\_mohd\_said@schools.gov.sg](mailto:fahd_mohd_said@schools.gov.sg)     |      |
+| MS LAU CHAU KING     | [lau\_chau\_king@schools.gov.sg](mailto:lau_chau_king@schools.gov.sg)     |      |
+| MR CYRIL KHOO SU MING (LDT)     | khoo_su_ming_cyril@schools.gov.sg     |      |
