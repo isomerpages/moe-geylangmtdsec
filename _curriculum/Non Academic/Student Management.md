@@ -29,4 +29,6 @@ The Student Management Team Personnel
 |  	| Miss Tan Lay Ming 	| [tan_lay_ming@schools.gov.sg](mailto:tan_lay_ming@schools.gov.sg) 	|
 |  	| Mr Ishwarinder Singh Mohan 	| [ishwarinder_singh_mohan@schools.gov.sg](mailto:ishwarinder_singh_mohan@schools.gov.sg) 	|
 |  	| Mdm Lau Chau King 	| lau_chau_king@schools.gov.sg 	|
-| Operation Manager (OM) 	| Mr Leslie Tan Chee Wee 	| [leslie_tan_a@schools.gov.sg](mailto:leslie_tan_a@schools.gov.sg) 	|
+| Operation Manager (OM) 	| Mr Tan Pin Eddie 	| [Tan\_Pin\_Eddie@schools.gov.sg](mailto:Tan_Pin_Eddie@schools.gov.sg)	|
+|     | Mr Koay Chin Wah    | [koay\_chin\_wah@schools.gov.sg](mailto:koay_chin_wah@schools.gov.sg)    |
+
