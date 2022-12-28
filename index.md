@@ -20,5 +20,5 @@ sections:
           url: /useful-links/gms-calendar/
   - resources:
       subtitle: News and Events
-      button: Next
+      button: View All
 ---
