@@ -108,3 +108,8 @@ third_nav_title: GM Family
 | **Peace 4-2** |  |  |
 | MS ANDREA LAU    | [andrea\_lau\_mei\_zhin@schools.gov.sg](mailto:andrea_lau_mei_zhin@schools.gov.sg)     |     |
 | MR MARK GOH     | [goh\_nai\_lee\_mark@schools.gov.sg](mailto:goh_nai_lee_mark@schools.gov.sg)     |     |
+| **Peace 4-3** |  |  |
+| MISS NG SIO YING     | [ng\_sio\_ying@schools.gov.sg](mailto:ng_sio_ying@schools.gov.sg)     |      |
+| MR JONATHAN KOH     | [onathan\_koh@schools.gov.sg](mailto:jonathan_koh@schools.gov.sg)     |      |
+
+
