@@ -19,7 +19,7 @@ description: ""
 | Softball (girls)     | Tue-Field 1500 – 1730     | Fri-Field 1500 – 1730     |      |
 | Table tennis    | Mon-MPR (Competition) 1500 – 1730     | Wed-FH/ISH 1500 - 1730    |      |
 | Volleyball (boys)     | Mon-ISH/SC & OC 1500 – 1730     | Wed-ISH/SC & OC 1500 – 1730     | Fri-ISH/OC 1400 – 1700     |
-| Chinese Dance (girls)     | Wed-Dance room 1445 – 1745     | Fri-Dance room 1445 – 1700     | Text     |
+| Chinese Dance (girls)     | Wed-Dance room 1445 – 1745     | Fri-Dance room 1445 – 1700     |      |
 | Text     | Text     | Text     | Text     |
 | Text     | Text     | Text     | Text     |
 | Text     | Text     | Text     | Text     |
