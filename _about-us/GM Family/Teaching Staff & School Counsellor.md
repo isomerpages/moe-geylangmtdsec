@@ -121,5 +121,28 @@ third_nav_title: GM Family
 | **Peace 4-6** |  |  |
 | MR NGM YEW FAI     | ngm_yew_fai@schools.gov.sg    |      |
 | MS NAZEERA OMAR    |     [siti\_nazeera\_omar@schools.gov.sg](mailto:siti_nazeera_omar@schools.gov.sg)   |
+| **Peace 4-7** |  |  |
+| MS FAHARIAH YEO     | fahariah_yeo_noorhisham@schools.gov.sg     |     |
+| MR PEK HAN WEI     | [pek\_han\_wei@schools.gov.sg](mailto:pek_han_wei@schools.gov.sg)     |     |
+| **Peace 4-8** |  |  |
+| MRS LOH KIM WOON    | [wong\_kim\_woon@schools.gov.sg](mailto:wong_kim_woon@schools.gov.sg)     |      |
+| MR JOHN SEAH    | [john\_seah\_yong\_han@schools.gov.sg](mailto:john_seah_yong_han@schools.gov.sg)    |      |
+| **Peace 5-1** |  |  |
+| MDM FION THIA    | [hia\_yue\_wen@schools.gov.sg](mailto:thia_yue_wen@schools.gov.sg)     |      |
+| MS FARIDAH AHMAD   | [faridah\_ahmad\_a@schools.gov.sg](mailto:faridah_ahmad_a@schools.gov.sg)     |     |
+
+
+
+#### **Non-Form Teachers**
+
+
+
+
+
+| Mrs Lee Fan Lan  | [wong\_fang\_lan@schools.gov.sg](mailto:wong_fang_lan@schools.gov.sg)  |     |
+| -------- | -------- | -------- |
+| Mrs Toh Chwee Hong     | [toh\_teck\_wang@schools.gov.sg](mailto:toh_teck_wang@schools.gov.sg)     |     |
+
+
 
 
