@@ -4,8 +4,6 @@ permalink: /curriculum/non-academic/student-leadership/
 description: ""
 third_nav_title: Non Academic
 ---
-# **Student Leadership**
-
 ![](/images/Student-Leadership-Development-2048x1463.jpg)
 
 Vision: Every GEM has the COURAGE and COMPETENCY to SERVE as they LEAD. 
