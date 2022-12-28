@@ -98,3 +98,13 @@ third_nav_title: GM Family
 
 
 ### **Secondary 4 & 5 Form Teachers**
+
+
+| **Peace 4-1** |  |  |
+| -------- | -------- | -------- |
+| MRS DEBORAH TONG     | [koh\_shujuan\_deborah@schools.gov.sg](mailto:koh_shujuan_deborah@schools.gov.sg)     |      |
+| MISS ATHIRAH HASRI     | [Nurulathirah\_hasri@schools.gov.sg](mailto:Nurulathirah_hasri@schools.gov.sg)     |      |
+| MR BERNARD CHEONG     | [cheong\_chee\_kong\_bernard@schools.gov.sg](mailto:cheong_chee_kong_bernard@schools.gov.sg)     |      |
+| **Peace 4-2** |  |  |
+| MS ANDREA LAU    | [andrea\_lau\_mei\_zhin@schools.gov.sg](mailto:andrea_lau_mei_zhin@schools.gov.sg)     |     |
+| MR MARK GOH     | [goh\_nai\_lee\_mark@schools.gov.sg](mailto:goh_nai_lee_mark@schools.gov.sg)     |     |
