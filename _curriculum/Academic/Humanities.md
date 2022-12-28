@@ -4,8 +4,6 @@ permalink: /curriculum/Academic/Humanities/
 description: ""
 third_nav_title: Academic
 ---
-# **Humanities**
-
 ![](/images/Humanities-1536x1097.jpg)
 
 **Humanities Inquiry-based Learning as Key Pedagogy**
