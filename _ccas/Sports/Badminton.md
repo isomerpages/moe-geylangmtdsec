@@ -4,18 +4,9 @@ permalink: /cca/Sports/badminton/
 description: ""
 third_nav_title: Sports
 ---
-
-![](/images/DSC07702-790x1024.jpeg)
-
-![](/images/DSC07708-701x1024.jpeg)
-
-![](/images/DSC07805-683x1024.jpeg)
-
 ![](/images/IMG_0468-1024x683.jpeg)
 
-![](/images/DSC07479-693x1024.jpeg)
 
-![](/images/DSC07504-683x1024.jpeg)
 
 
 **Objectives of CCA**
