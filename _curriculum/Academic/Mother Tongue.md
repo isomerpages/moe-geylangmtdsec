@@ -4,8 +4,6 @@ permalink: /curriculum/academic/mother-tongue/
 description: ""
 third_nav_title: Academic
 ---
-# **Mother Tongue**
-
 ![](/images/Mother-Tongue-2048x1463.jpg)
 
 ### MOTHER TONGUE LANGUAGES
