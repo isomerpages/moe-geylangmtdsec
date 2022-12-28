@@ -6,17 +6,8 @@ third_nav_title: Sports
 ---
 
 
-![](/images/WhatsApp-Image-2020-08-10.jpeg)
-
-![](/images/WhatsApp-Image-2020-08-10-1.jpeg)
-
-![](/images/WhatsApp-Image-2020-08-10-2.jpeg)
-
-![](/images/WhatsApp-Image-2020-08-10-3.jpeg)
-
 ![](/images/WhatsApp-Image-2020-08-10-4.jpeg)
 
-![](/images/WhatsApp-Image-2020-08-11.jpeg)
 
 **Objectives of CCA**
 
@@ -40,7 +31,7 @@ third_nav_title: Sports
     <input type="checkbox" id="accordion1">
     <label for="accordion1">Teachers-in-charge</label>
     <div>
-			<p>1. Mr Xiao Kaiwen (OIC)<br>2. Mr John Seah Yong Han<br>3. Mrs Hooi Meiyi</p>
+			<p>1. Mr Xiao Kaiwen (OIC)<br>2. Mr John Seah Yong Han<br></p>
     </div>
 	</li>
 	  <li>
