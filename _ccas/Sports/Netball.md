@@ -4,10 +4,6 @@ permalink: /cca/Sports/netball/
 description: ""
 third_nav_title: Sports
 ---
-# **Netball**
-
-![](/images/IMG_7389-1024x768.jpg)
-
 ![](/images/453fef35-0f1b-4132-95c2-b7760e0d28b4-1024x768.jpg)
 
 **Objectives of CCA**
