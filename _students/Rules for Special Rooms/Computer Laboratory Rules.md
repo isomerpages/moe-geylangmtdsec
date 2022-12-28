@@ -4,9 +4,9 @@ permalink: /students/Rules-for-Special-Rooms/computer-lab/
 description: ""
 third_nav_title: Rules for Special Rooms
 ---
-# **Computer Laboratory Rules**
+### **Computer Laboratory Rules**
 
-**USE OF COMPUTER LABORATORY**
+
 
 The computer laboratory is another venue for teaching and learning. Hence, students are to use the computer laboratory only in the presence of a teacher. There should not be any playing of computer games, surfing the net and listening to music without the teacher's supervision and permission.
 
