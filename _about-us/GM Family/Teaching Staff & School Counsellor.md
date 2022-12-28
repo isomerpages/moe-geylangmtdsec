@@ -50,6 +50,14 @@ third_nav_title: GM Family
 | **Hope 2-4** |  |  |
 | MISS CINDY LIM    | [lim\_fung\_yee\_cindy@schools.gov.sg](mailto:lim_fung_yee_cindy@schools.gov.sg)     |      |
 | MR SNG PENG HOCK     | [sng\_peng\_hock@schools.gov.sg](mailto:sng_peng_hock@schools.gov.sg)    |      |
+| **Hope 2-5** |  |  |
+| MDM KHALIDAH BEGUM     | [khalidah\_begum@schools.gov.sg](mailto:khalidah_begum@schools.gov.sg)     |      |
+| MRS DENISE LOK     | [tan\_li\_loo\_denise@schools.gov.sg](mailto:tan_li_loo_denise@schools.gov.sg)     |      |
+| **Hope 2-6** |  |  |
+| MISS JANELLE CHUA    | [chua\_hwee\_woon\_janelle@schools.gov.sg](mailto:chua_hwee_woon_janelle@schools.gov.sg)     |      |
+| MS NG CHARLENE     | [Charlene\_Ng\_Jia\_Ling@schools.gov.sg](mailto:Charlene_Ng_Jia_Ling@schools.gov.sg)    |      |
+
+
 
 
 
