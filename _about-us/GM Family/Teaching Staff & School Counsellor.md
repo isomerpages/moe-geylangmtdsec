@@ -115,3 +115,11 @@ third_nav_title: GM Family
 | MR FAHD SAID     | [ahd\_mohd\_said@schools.gov.sg](mailto:fahd_mohd_said@schools.gov.sg)     |      |
 | MS LAU CHAU KING     | [lau\_chau\_king@schools.gov.sg](mailto:lau_chau_king@schools.gov.sg)     |      |
 | MR CYRIL KHOO SU MING (LDT)     | khoo_su_ming_cyril@schools.gov.sg     |      |
+| **Peace 4-5** |  |  |
+| MISS TAN LAY MING     | [tan\_lay\_ming@schools.gov.sg](mailto:tan_lay_ming@schools.gov.sg)     |      |
+| MRS GOH HENG MEI     | [ho\_heng\_mei@schools.gov.sg](mailto:ho_heng_mei@schools.gov.sg)     |      |
+| **Peace 4-6** |  |  |
+| MR NGM YEW FAI     | ngm_yew_fai@schools.gov.sg    |      |
+| MS NAZEERA OMAR    |     [siti\_nazeera\_omar@schools.gov.sg](mailto:siti_nazeera_omar@schools.gov.sg)   |
+
+
