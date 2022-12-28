@@ -4,8 +4,6 @@ permalink: /curriculum/academic/mathematics-poa/
 description: ""
 third_nav_title: Academic
 ---
-# **Mathematics / POA**
-
 ![](/images/Mathematics-2048x1463.jpg)
 
 Mathematics and Principles of Accounts are subjects that help students develop numeracy and analytical skills as well as logical thinking and problem-solving skills.
