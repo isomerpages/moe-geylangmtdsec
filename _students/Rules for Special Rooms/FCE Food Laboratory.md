@@ -4,7 +4,7 @@ permalink: /students/Rules-for-Special-Rooms/fce-food-laboratory/
 description: ""
 third_nav_title: Rules for Special Rooms
 ---
-### Nutrition and Food Science (NFS) Food Laboratory Rules
+### **Nutrition and Food Science (NFS) Food Laboratory Rules**
 
 **GENERAL**
 
