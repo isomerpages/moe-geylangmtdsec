@@ -13,6 +13,9 @@ third_nav_title: Clubs and Societies
 *   Provide a platform for using graphics as a language to communicate one’s thoughts to others.
 *   Display talents of creative minds in the areas of photography and videography.
 *   Equip students with the skills in professional photography, video production and live streaming technology.
+*   To provide a platform for artistic self-expression through digital media.
+*   Display talents of creative minds in digital media.
+*   Equip students with the latest skills in multimedia design.
 
 **Highlights of 2022:**
 
@@ -22,6 +25,10 @@ third_nav_title: Clubs and Societies
 *   Training is done by professionals who are specialized in media.
 *   Members are taught how to use their handphones and online platform to present their ideas.
 *   Students learned skills in “Nature/Reflection/Food/Light Painting/Perspective/Illusion/Crystal Ball” Photography.
+*   Went on a learning journey and learnt skills like video editing; making of animation etc.
+*   Participated in the “live on” competition 2022.
+*   Participated in the “DGF” competition 2022
+*   Students had the opportunity to learnt how to create logos; business card etc
 
 
 <ul class="jekyllcodex_accordion">
