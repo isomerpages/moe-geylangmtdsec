@@ -4,29 +4,9 @@ permalink: /cca/sports/volleyball/
 description: ""
 third_nav_title: Sports
 ---
-# **Volleyball (Boys)**
-
-![](/images/IMG20190726154020-1024x577.jpg)
-
-![](/images/DSC_8802-1024x680.jpg)
-
-![](/images/File_034-1024x768.jpeg)
-
 ![](/images/IMG_8246-1024x768.jpg)
 
-![](/images/spiking-n-blocking-1-1024x768.jpg)
 
-![](/images/3-1-1024x683.jpg)
-
-![](/images/DSC_8628-1024x680.jpg)
-
-![](/images/DSC_8630-1024x680.jpg)
-
-![](/images/DSC_8643-1024x680.jpg)
-
-![](/images/DSC_8647-1024x680.jpg)
-
-![](/images/DSC_8651-1024x680.jpg)
 
 **Objectives of CCA**
 
