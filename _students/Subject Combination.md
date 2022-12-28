@@ -3,19 +3,24 @@ title: Subject Combination
 permalink: /students/subject-combination/
 description: ""
 ---
-# **Subject Combination Briefing 2021**
+### **Subject Combination Briefing 2022**
 
-*   [Subject Combination Briefing 2021](/files/Subject-Combination-Briefing-2021.pdf)
-*   [1_Sec-3_AM_Subj-Writeup-2021.pdf](/files/1_Sec-3_AM_Subj-Writeup-2021.pdf)
-*   [2a_Sec-3_SC_P_Subj-Writeup-2021.pdf](/files/2a_Sec-3_SC_P_Subj-Writeup-2021.pdf)
-*   [2b_Sec-3_SC_C_Subj-Writeup-2021.pdf](/files/2b_Sec-3_SC_C_Subj-Writeup-2021.pdf)
-*   [3_Sec-3_SS_Subj-Writeup-2021.pdf](/files/3_Sec-3_SS_Subj-Writeup-2021.pdf)
-*   [4_Sec-3_GY_Subj-Writeup-2021.pdf](/files/4_Sec-3_GY_Subj-Writeup-2021.pdf)
-*  [5_Sec-3_HY_Subj-Writeup-2021.pdf](/files/5_Sec-3_HY_Subj-Writeup-2021.pdf)
-*   [6_Sec-3_LT_Subj-Writeup-2021.pdf](/files/6_Sec-3_LT_Subj-Writeup-2021.pdf)
-*   [7_Sec-3_PoA_Subj-Writeup-2021.pdf](/files/7_Sec-3_PoA_Subj-Writeup-2021.pdf)
-*   [8_Sec-3_AT_Subj-Writeup-2021.pdf](/files/8_Sec-3_AT_Subj-Writeup-2021.pdf)
-*   [9_Sec-3_NFS_Subj-Writeup-2021.pdf](/files/9_Sec-3_NFS_Subj-Writeup-2021.pdf)
-*   [10_Sec-3_DT_Subj-Writeup-2021.pdf](/files/10_Sec-3_DT_Subj-Writeup-2021.pdf)
-*   [11_Sec-3_ESS_Subj-Writeup-2021.pdf](/files/11_Sec-3_ESS_Subj-Writeup-2021.pdf)
-*   [12-FAQ-2020-Presentation_Updated-with-new-2020-Qn.pdf](/files/12-FAQ-2020-Presentation_Updated-with-new-2020-Qn.pdf)
+Subject Combination Briefing 2022
+=================================
+
+Published in Term 1
+
+*   [Subject Combination for the Express (E) Stream](https://youtu.be/Nge6mxuao90)
+*   [Subject Combination for the Normal Academic (NA) Stream](https://youtu.be/UVbCUrbNWQQ)
+*   [Subject Combination for the Normal technical (NT) Stream](https://youtu.be/LveS1TYRJTk)
+*   [Out-of-Stream Subjects Briefing for Sec 2 N(A) & 2 N(T)](https://geylangmethodistsec.moe.edu.sg/wp-content/uploads/2022/09/Out-of-Stream-Subjects-Briefing-for-Sec-2-NA-2-NT.pdf)
+*   [Education and Career Guidance (ECG)](https://youtu.be/XCQ_0TGKuGc)
+*   [Frequently Asked Questions (FAQ)](https://geylangmethodistsec.moe.edu.sg/wp-content/uploads/2022/03/Frequently-Asked-Questions-FAQ.pdf)
+*   [Enquiries or Feedback for the Subject Combination Briefing](https://form.gov.sg/621c1f41a71f3d0013eb4247)
+
+Published in Term 4
+
+*   [ACTUAL Subject Combi briefing 2022\_ Exp](https://geylangmethodistsec.moe.edu.sg/wp-content/uploads/2022/08/ACTUAL-Subject-Combi-briefing-2022_-Exp.pdf)
+*   [ACTUAL Subject Combi briefing 2022\_ NA](https://geylangmethodistsec.moe.edu.sg/wp-content/uploads/2022/08/ACTUAL-Subject-Combi-briefing-2022_-NA.pdf)
+*   [ACTUAL Subject Combi briefing 2022\_ NT](https://geylangmethodistsec.moe.edu.sg/wp-content/uploads/2022/08/ACTUAL-Subject-Combi-briefing-2022_-NT.pdf)
+*   [Out-of-Stream Subjects Briefing for Sec 2 N(A) & 2 N(T)](https://geylangmethodistsec.moe.edu.sg/wp-content/uploads/2022/09/Out-of-Stream-Subjects-Briefing-for-Sec-2-NA-2-NT.pdf)
