@@ -15,7 +15,6 @@ third_nav_title: Sports
 *   Develop sportsmanship and fair play.
 *   Foster effective communication and team spirit.
 
-Click [here](http://gmssvolleyball.weebly.com/) to find out more out the Volleyball team.
 
 
 
