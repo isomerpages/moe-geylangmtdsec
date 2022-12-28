@@ -3,9 +3,9 @@ title: Student Initiated Learning (SIL)
 permalink: /special-programme/student-initiated-learning-sil/
 description: ""
 ---
-# **Student-Initiated Learning (SIL)**
 
-**STUDENT-INITIATED LEARNING 2022**
+### 
+### **STUDENT-INITIATED LEARNING 2022**
 
 **SECONDARY 1 & 2 STARS PROGRAMME**
 
