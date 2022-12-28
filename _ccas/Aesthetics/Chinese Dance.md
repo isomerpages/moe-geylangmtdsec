@@ -4,18 +4,6 @@ permalink: /cca/aesthetics/chinese-dance/
 description: ""
 third_nav_title: Aesthetics
 ---
-# **Chinese Dance**
-
-![](/images/GMSS-95-Anniversary-1-1024x683.jpg)
-
-![](/images/GMSS-95-Anniversary-203-1024x681.jpg)
-
-![](/images/GMSS-95-Anniversary-204-1024x681.jpg)
-
-![](/images/GMSS-95-Anniversary-206-1024x681.jpg)
-
-![](/images/GMSS-95-Anniversary-207-1024x681.jpg)
-
 ![](/images/Header-Photo-1024x683.jpg)
 
 **Objectives of CCA**
