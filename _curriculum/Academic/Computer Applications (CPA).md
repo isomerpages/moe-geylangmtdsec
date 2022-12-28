@@ -4,8 +4,6 @@ permalink: /curriculum/academic/cpa/
 description: ""
 third_nav_title: Academic
 ---
-# **Computer Applications (CPA)**
-
 ![](/images/Aesthetics-Craft-N-Technology-1536x1097.jpg)
 
 Computer Applications (CPA) is a compulsory subject for all Normal Technical (NT) students. The CPA curriculum spans four years, from Secondary 1 to Secondary 4, leading to the National Examinations at the end of Secondary 4.
