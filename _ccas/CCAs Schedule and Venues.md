@@ -4,7 +4,6 @@ permalink: /cca/ccas-schedule/
 description: ""
 ---
 
-# **CCAs Schedule & Venues**
 
 ![](/images/MG_9935eee.jpg)
 
