@@ -4,8 +4,6 @@ permalink: /curriculum/academic/ebs/
 description: ""
 third_nav_title: Academic
 ---
-# **Elements of Business Skills (EBS)**
-
 ![](/images/Humanities-1536x1097.jpg)
 
 Elements of Business Skills (EBS) is under the purview of the Humanities Department. 
