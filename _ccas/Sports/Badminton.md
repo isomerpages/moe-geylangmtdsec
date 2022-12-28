@@ -4,7 +4,6 @@ permalink: /cca/Sports/badminton/
 description: ""
 third_nav_title: Sports
 ---
-# **Badminton**
 
 ![](/images/DSC07702-790x1024.jpeg)
 
