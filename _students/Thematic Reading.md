@@ -3,6 +3,8 @@ title: Thematic Reading
 permalink: /students/thematic-reading/
 description: ""
 ---
+### Year 2022
+
 Term 4:
 
 *   [2022_T4_Thematic Reading\_Overcoming Difficulties](/files/2022_T4_Thematic-Reading_Overcoming-Difficulties.pdf)
@@ -20,9 +22,3 @@ Term 1:
 
 *  [Thematic-Reading-2022-Term-1-lower-sec.pdf](/files/Thematic-Reading-2022-Term-1-lower-sec.pdf)
 * [Thematic-Reading-2022-Term-1-upper-sec.pdf](/files/Thematic-Reading-2022-Term-1-upper-sec.pdf)
-
-
-
-
-
-
