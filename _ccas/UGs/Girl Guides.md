@@ -7,8 +7,6 @@ third_nav_title: UGs
 ![](/images/Grp-1-1024x768.jpg)
 
 
-
-
 **Objectives of CCA**
 
 *   To develop the girls into responsible citizens of the world.
