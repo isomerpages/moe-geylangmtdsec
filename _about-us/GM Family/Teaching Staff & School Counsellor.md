@@ -56,7 +56,13 @@ third_nav_title: GM Family
 | **Hope 2-6** |  |  |
 | MISS JANELLE CHUA    | [chua\_hwee\_woon\_janelle@schools.gov.sg](mailto:chua_hwee_woon_janelle@schools.gov.sg)     |      |
 | MS NG CHARLENE     | [Charlene\_Ng\_Jia\_Ling@schools.gov.sg](mailto:Charlene_Ng_Jia_Ling@schools.gov.sg)    |      |
-
+| **Hope 2-7** |  |  |
+| MR QUEK ROB HUEI     | [quek\_rob\_huei@schools.gov.sg](mailto:quek_rob_huei@schools.gov.sg)    |
+| MDM ZURAIDAH OMAR   | zuraidah_omar@schools.gov.sg   |
+| **Hope 2-8** |  |  |
+| MR MOHD FAIZAL     | [mohammad\_faizal\_b\_fadzlillah@schools.gov.sg](mailto:mohammad_faizal_b_fadzlillah@schools.gov.sg)     |     |
+| MS PHOEBE TOH     | phoebe_toh_cui_yan@schools.gov.sg    |     |
+| MS GRACE YAP     | grace_yap_szu_hui@schools.gov.sg     |     |
 
 
 
