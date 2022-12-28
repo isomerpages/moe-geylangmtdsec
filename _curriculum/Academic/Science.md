@@ -4,8 +4,6 @@ permalink: /curriculum/Academic/science/
 description: ""
 third_nav_title: Academic
 ---
-# **Science**
-
 ![](/images/Science-scaled.jpg)
 
 <img src="/images/science-300x175.jpg" style="width:300px;height:175px;margin-left:15px;" align = "right">
