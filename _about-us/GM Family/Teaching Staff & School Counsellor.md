@@ -135,13 +135,40 @@ third_nav_title: GM Family
 
 #### **Non-Form Teachers**
 
-
-
-
-
 | Mrs Lee Fan Lan  | [wong\_fang\_lan@schools.gov.sg](mailto:wong_fang_lan@schools.gov.sg)  |     |
 | -------- | -------- | -------- |
 | Mrs Toh Chwee Hong     | [toh\_teck\_wang@schools.gov.sg](mailto:toh_teck_wang@schools.gov.sg)     |     |
+
+
+#### **School Counsellors**
+
+
+Allied Educator (Learning and Behavioural Support)
+| |  | |
+| -------- | -------- | -------- |
+| Ms Menaga Subaramaniam    | [menaga\_subaramaniam@schools.gov.sg](mailto:menaga_subaramaniam@schools.gov.sg)    |      |
+
+
+School Counselor
+
+
+
+|  |  |  |
+| -------- | -------- | -------- |
+| Mr Lewis Lam     | lam_ying_hao@schools.gov.sg     |      |
+| MS Lim Soo Ling | lim_soo_ling@schools.gov.sg    |      |
+
+
+
+
+
+
+Student Welfare Education Officer (SWEO)
+
+
+|  |  |  |
+| -------- | -------- | -------- |
+| Mr Bernard Cheong     | [cheong\_chee\_kong\_bernard@schools.gov.sg](mailto:cheong_chee_kong_bernard@schools.gov.sg)     |     |
 
 
 
