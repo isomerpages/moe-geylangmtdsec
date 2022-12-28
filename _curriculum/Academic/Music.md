@@ -4,16 +4,16 @@ permalink: /curriculum/Academic/music/
 description: ""
 third_nav_title: Academic
 ---
-# **Music**
+
 
 ![](/images/Aesthetics-Craft-N-Technology-1536x1097.jpg)
 
-Mission
+### Mission
 -------
 
 Every GEM would be able to appreciate and develop a connection to music.
 
-Vision
+### Vision
 ------
 
 Students will be able to:
@@ -22,7 +22,7 @@ Students will be able to:
 2.  Communicate their musical ideas through creative expression.
 3.  See the value and recognise the relevance of music.
 
-Framework
+### Framework
 ---------
 
 The objectives of the Music Curriculum are achieved through listening, creating and performing. These three behavioral domains of listening, creating and performing take into consideration the cognitive, affective and psychomotor dimensions that students are involved in when learning/making music.
