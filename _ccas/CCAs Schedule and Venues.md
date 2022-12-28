@@ -17,7 +17,7 @@ description: ""
 | Football (boys)     | Mon-Field 1500 – 1730     | Wed-Field 1500 – 1730     |      |
 | Netball (girls)     | Wed-\*Quad/OC 1530 – 1730     | Fri-\*Quad/OC 1530 – 1730     |      |
 | Softball (girls)     | Tue-Field 1500 – 1730     | Fri-Field 1500 – 1730     |      |
-| Text     | Text     | Text     | Text     |
+| Table tennis    | Mon-MPR (Competition) 1500 – 1730     | Wed-FH/ISH 1500 - 1730    |      |
 | Text     | Text     | Text     | Text     |
 | Text     | Text     | Text     | Text     |
 | Text     | Text     | Text     | Text     |
