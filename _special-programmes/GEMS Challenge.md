@@ -3,7 +3,6 @@ title: GEMS Challenge
 permalink: /special-programme/gems-challenge/
 description: ""
 ---
-<h1><b>GEMS Challenge</b></h1>
 
 The Secondary 3 GEMS Challenge is a signature programme in GMS(S). In this programme, our Secondary 3 students will choose a challenge to embark on during the course of the year. These challenges stretch our students physically, cognitively and/or aesthetically. These challenges are also set in social contexts, which will develop students’ social awareness and interpersonal skills through their interactions with one another.
 
