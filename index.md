@@ -7,7 +7,7 @@ permalink: /
 notification: Welcome to Geylang Methodist School (Secondary)
 sections:
   - hero:
-      background: /images/website cover v2 copy.jpg
+      background: /images/website cover v2.jpg
       key_highlights:
         - title: Announcements
           description: ""
