@@ -25,7 +25,7 @@ sections:
       title: Traffic-Advisory
       subtitle: "2022"
       button: View more
-      url: home
+      url: /traffic-advisory
       image: /images/Singapore-Police.png
       alt: Image alt text
 ---
