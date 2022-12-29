@@ -149,13 +149,13 @@ third_nav_title: GM Family
 #### **School Counsellors**
 
 
-Allied Educator (Learning and Behavioural Support)
+**Allied Educator (Learning and Behavioural Support**)
 | |  | |
 | -------- | -------- | -------- |
 | Ms Menaga Subaramaniam    | [menaga\_subaramaniam@schools.gov.sg](mailto:menaga_subaramaniam@schools.gov.sg)    |      |
 
 
-School Counselor
+**School Counselor**
 
 
 
@@ -169,7 +169,7 @@ School Counselor
 
 
 
-Student Welfare Education Officer (SWEO)
+**Student Welfare Education Officer (SWEO)**
 
 
 |  |  |  |
