@@ -4,7 +4,7 @@ title: Geylang Methodist School (Secondary)
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Welcome to Geylang Methodist School (Secondary)
 sections:
   - hero:
       background: /images/gmss.gif
