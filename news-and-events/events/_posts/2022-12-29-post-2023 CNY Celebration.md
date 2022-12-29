@@ -6,3 +6,5 @@ layout: post
 description: ""
 image: ""
 ---
+CNY celebration on 20 Jan, 2023. 
+Lessons will be carried out on that day. 
