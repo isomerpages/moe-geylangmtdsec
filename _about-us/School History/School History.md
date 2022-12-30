@@ -4,9 +4,6 @@ permalink: /about-us/school-history/
 description: ""
 third_nav_title: School History
 ---
-
-# **School History**
-
 <img src="/images/history-300x165.jpg" style="width:303px;height:170px;margin-left:15px;" align = "right">
 
 The school began in 1924 as Geylang Methodist Girls’ School when it was founded by Rev Lloyd Sullivan, together with Mrs Chia Han Kiat and Miss Walker, who were members of the Methodist Church.  With a pupil enrolment of 27 girls, lessons were conducted in the sanctuary of Geylang Chinese Methodist Church.
