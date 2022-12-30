@@ -28,4 +28,11 @@ sections:
       url: /traffic-advisory
       image: /images/Singapore-Police.png
       alt: Image alt text
+  - infopic:
+      title: National Digital Literacy Programme
+      subtitle: "2021"
+      button: View More
+      url: /NDLP
+      image: /images/meta-digital-literacy.jpg
+      alt: Image alt text
 ---
