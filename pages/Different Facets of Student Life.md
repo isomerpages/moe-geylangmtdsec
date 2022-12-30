@@ -4,7 +4,6 @@ permalink: /different-facets-of-student-life/
 description: ""
 ---
 
-# **Different Facets of Student Life**
 
 ### Student Council
 
@@ -20,4 +19,3 @@ description: ""
 ### A Day in the Life of a GM Student
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZrjZlLUUdPk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
