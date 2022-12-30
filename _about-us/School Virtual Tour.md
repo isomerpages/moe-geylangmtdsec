@@ -3,7 +3,7 @@ title: School Virtual Tour
 permalink: /about-us/school-virtual-tour/
 description: ""
 ---
-<h1><b>School Virtual Tour</b></h1>
+
 
 
 
