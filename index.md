@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/website cover v2.jpg
       key_highlights:
-        - title: Announcements
+        - title: Vision Mission Values
           description: ""
-          url: /archive-of-announcement/
+          url: /about-us/vision-mission-and-values/
         - title: Important Information
           description: ""
           url: /archive-of-information/
