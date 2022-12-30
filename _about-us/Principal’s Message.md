@@ -3,7 +3,7 @@ title: Principal’s Message
 permalink: /about-us/principals-msg/
 description: ""
 ---
-# **Principal’s Message**
+
 
 <img src="/images/Mr-Victor-copy.jpg" style="width:230px;height:270px;margin-left:15px;" align = "right">
 
