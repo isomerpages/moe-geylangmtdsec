@@ -128,7 +128,6 @@ Students are given opportunities to participate in external Science competitions
 
 
 *   For more information, do refer to the following links:
-    *   [Science (Secondary) Syllabus](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/mother-tongue-languages/files/chinese-secondary-2011.pdf)- file not found!
     *   ['N(T)' level Science](/files/5148_y22_sy.pdf)
     *   [N(A)' level Science (Physics, Chemistry)](/files/5105_y22_sy.pdf)
     *   [N(A)' level Science (Chemistry, Biology)](/files/5107_y22_sy.pdf)
