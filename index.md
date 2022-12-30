@@ -12,9 +12,9 @@ sections:
         - title: Vision Mission Values
           description: ""
           url: /about-us/vision-mission-and-values/
-        - title: Important Information
+        - title: School Virtual Tour
           description: ""
-          url: /archive-of-information/
+          url: /about-us/school-virtual-tour/
         - title: Useful Links
           description: ""
           url: /useful-links/gms-calendar/
