@@ -3,8 +3,6 @@ title: GM Principals
 permalink: /about-us/GM-Principals/
 description: ""
 ---
-
-
 | Years |  | Principals |
 | -------- | -------- | -------- |
 | 1924 - 1926    |      | Mrs Chua Han Kiat    |
