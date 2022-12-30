@@ -3,8 +3,6 @@ title: School Crest and Song
 permalink: /about-us/school-crest-and-song/
 description: ""
 ---
-# **School Crest / Song**
-
 ### School Crest
 
 <img src="/images/schlogo.png" style="width:150px;height:140px;margin-left:15px;" align = "right">
