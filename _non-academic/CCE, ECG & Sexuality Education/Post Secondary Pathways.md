@@ -4,10 +4,6 @@ permalink: /curriculum/non-academic/cce-ecg/post-secondary-pathways/
 description: ""
 third_nav_title: CCE, ECG & Sexuality Education
 ---
-
-
-# **Post Secondary Pathways**
-
 ![](/images/Education-and-Career-Guidance-2048x1463.jpg)
 
 
