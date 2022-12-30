@@ -3,8 +3,6 @@ title: National Digital Literacy Programme
 permalink: /national-digital-literacy-programme/
 description: ""
 ---
-### **National Digital Literacy Programme**
-
 *   [Parent Handbook I on Learning with a PLD](/files/Parent-Handbook-I-on-Learning-with-a-PLD.pdf)
 *   [Resource Kit - Experiencing Blended Learning BL with Our Children](/files/Resource-Kit-Experiencing-Blended-Learning-BL-with-Our-Children.pdf)
 *   [Parent Handbook (II) - ON LEARNING WITH A PERSONAL LEARNING DEVICE]
