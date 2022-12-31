@@ -1,4 +1,5 @@
 collections:
   gm-100:
     output: true
-    order: []
+    order:
+      - Celebration.md
