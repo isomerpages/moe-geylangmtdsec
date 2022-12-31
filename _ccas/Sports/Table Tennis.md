@@ -16,6 +16,22 @@ third_nav_title: Sports
 *   Participated in NSG National C Division Boys and Girls in Table tennis East Competition 2022.
 *   Participated in NSG National B Division Boys in Table tennis East Competition 2022.
 
+**Teachers-in-charge**
+| 1. |  | Mr Lawrence Lim (I/C)  |
+| -------- | -------- | -------- |
+| 2.     |      | Mdm Loh Jenny Esther    |
 
 
 
+**Student Leaders**
+| Captain: |  | Gareth |
+| -------- | -------- | -------- |
+| Vice-Captains:    |      | Helik     |
+|    |      | Ethan Koh     |
+
+
+
+**Coach**
+
+
+1. Mr Tan Ten Siong
