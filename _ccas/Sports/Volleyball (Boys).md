@@ -30,12 +30,12 @@ third_nav_title: Sports
 
 
 **Student Leaders**
-| B Division Captains: |  | Jenith Rai |
+| B Division Captain: |  | Jenith Rai |
 | -------- | -------- | -------- |
 | B Division Vice-Captains:    |      | Chris Gurung     |
 |    |      | Kenneth Lee     |
 |  C Division Captain:  |      | Muhammad Fitri Danish Bin Abdullah     |
-|  C Division Vice-Captain:  |      | Aniq Azry Bin Salleh     |
+|  C Division Vice-Captains:  |      | Aniq Azry Bin Salleh     |
 |    |      | Prajwal Jeet Gurung     |
 
 
@@ -45,4 +45,3 @@ third_nav_title: Sports
 | 1 |  | Mr Winson Cheong |
 | -------- | -------- | -------- |
 | 2    |     |  Mr Daniel Lee     |
-
