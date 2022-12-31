@@ -4,7 +4,6 @@ permalink: /cca/Sports/Softball/
 description: ""
 third_nav_title: Sports
 ---
-
 ![](/images/Softball_1-1024x768.jpeg)
 
 
@@ -26,16 +25,17 @@ third_nav_title: Sports
 
 
 **Student Leaders**
-| B Division Captain: |  | Jenith Rai |
+| B Division  |  |  |
 | -------- | -------- | -------- |
-| B Division Vice-Captains:    |      | Chris Gurung     |
-|    |      | Kenneth Lee     |
-|  C Division Captain:  |      | Muhammad Fitri Danish Bin Abdullah     |
-|  C Division Vice-Captains:  |      | Aniq Azry Bin Salleh     |
-|    |      | Prajwal Jeet Gurung     |
+| Captain:    |      | Phee Xin Ting Tricia     |
+|  Vice-Captain:  |      | Syahrifah Nuryorani     |
+
+| C Division |  |  |
+| -------- | -------- | -------- |
+| Captain:     |      | Fong Shu Ting Emma     |
+|  Vice-Captain:  |      | Queenie Lim Jie Ying    |
 
 
-**Coaches**
 
-
+**Coach**
 1. Ms Carvalho Mavis Margaret
