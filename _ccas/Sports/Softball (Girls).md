@@ -18,10 +18,10 @@ third_nav_title: Sports
 *   Participated in National School Games 2022 in both B and C Division
 
 **Teachers-in-charge**
-| 1. |  | Mrs Deborah Tong (OIC)  |
+| 1. |  | 1.  Mr James Lim (I/C) |
 | -------- | -------- | -------- |
-| 2.     |      | Mr Ngm Yew Fai     |
-| 3.     |      | Ms Cindy Lim     |
+| 2.     |      | 1.  Ms Gayathiri    |
+| 3.     |      | 1.  Mr Jonathan Koh     |
 
 
 **Student Leaders**
