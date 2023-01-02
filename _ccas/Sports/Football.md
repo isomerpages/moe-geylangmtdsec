@@ -25,7 +25,7 @@ third_nav_title: Sports
 | 1. |  | Mr Ishwarinder Singh (OIC)  |
 | -------- | -------- | -------- |
 | 2.     |      |      |
-| 3.     |      |      |
+
 
 
 **Student Leaders**
