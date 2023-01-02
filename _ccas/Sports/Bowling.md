@@ -29,7 +29,6 @@ third_nav_title: Sports
 | Captain: |  | Ng Yi Han |
 | -------- | -------- | -------- |
 | Vice-Captains:    |      | Lim Jia Jun, Bryan     |
-|    |      | Kenneth Lee     |
 |    |      | Tan Khim Seah     |
 |    |      | Chan Li Ting    |
 
