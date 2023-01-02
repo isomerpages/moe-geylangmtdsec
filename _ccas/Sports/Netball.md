@@ -17,9 +17,22 @@ third_nav_title: Sports
 *   Participated in National School Games C Division 2022
 *   Participated in Carnival organised by The Netball Academy (C division)
 
+**Teachers-in-charge**
+| 1. |  | Mdm Zuraidah Omar (OIC)  |
+| -------- | -------- | -------- |
+| 2.     |      | Miss Nurulathirah Bte Hasri    |
+| 3.     |      | Miss Charlene Ng     |
 
 
+**Student Leaders**
+| Captain: |  | Tan Wen Xi |
+| -------- | -------- | -------- |
+| Vice-Captain:    |      | Amelia Tan     |
+|  Head of Training:  |      | Loh Jia Xuan     |
+|  Head of Welfare:  |      | Lim Kay Woon Khloe     |
+|  Heads of Logistic:  |      | Kimi Sembiring Kembaren     |
+|    |      | Thylis Tay Thio Hui Ning     |
+| Head of Discipline:   |      | Chan Yan Xin Pearlene     |
 
-
-
-
+**Coach**
+1. Ms Diandra Chua 
