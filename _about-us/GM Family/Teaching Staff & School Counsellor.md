@@ -16,7 +16,7 @@ third_nav_title: GM Family
 | MR MICHAEL KOH    | [koh\_kim\_hua\_michael@schools.gov.sg](mailto:koh_kim_hua_michael@schools.gov.sg)    |
 | MS FATTASHA ITHNIN     | [siti\_fattasha\_ithnin@schools.gov.sg](mailto:siti_fattasha_ithnin@schools.gov.sg)    |
 | **Faith 1-3** | | |
-| MR SYAFRIN    |     |
+| MR SYAFRIN    |  ardi_senawi_syafrin@schools.gov.sg   |
 | MS ONG HUI QI     | [ong\_hui\_qi@schools.gov.sg](mailto:ong_hui_qi@schools.gov.sg)    |
 | **Faith 1-4** | | |
 | MR JAMES KEE    |  [kee\_yeng\_koon\_james@schools.gov.sg](mailto:kee_yeng_koon_james@schools.gov.sg)  |
