@@ -27,7 +27,8 @@ locations:
         description: "* Dental Clinic residing at Geylang Methodist School(Primary)"
       - days: Lunch Time
         time: 12.30pm-1.30pm
-        description: "* If parent have any enquiries, please contact the clinic directly."
+        description: "* If parent have any enquiries, please contact the clinic directly
+          at 8940 2459."
     maps_link: https://goo.gl/maps/BfXnNH74q89sk4uv8
     title: Dental Clinic
   - address:
