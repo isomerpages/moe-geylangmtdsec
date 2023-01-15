@@ -1,5 +1,5 @@
 collections:
-  useful-links:
+  school-calendar:
     output: true
     order:
       - School Calendar.md
