@@ -15,7 +15,7 @@ sections:
         - title: School Virtual Tour
           description: ""
           url: /about-us/school-virtual-tour/
-        - title: Useful Links
+        - title: School Calendar
           description: ""
           url: /useful-links/gms-calendar/
   - resources:
