@@ -12,10 +12,10 @@ sections:
         - title: GM Heartbeats
           description: ""
           url: https://www.facebook.com/profile.php?id=100027880047289
-        - title: School Virtual Tour
+        - title: GM Virtual Tour
           description: ""
           url: /about-us/school-virtual-tour/
-        - title: School Calendar
+        - title: GM Calendar
           description: ""
           url: /useful-links/gms-calendar/
   - resources:
