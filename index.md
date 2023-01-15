@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/website cover v2.jpg
       key_highlights:
-        - title: Vision Mission Values
+        - title: GM Heartbeats
           description: ""
-          url: /about-us/vision-mission-and-values/
+          url: https://www.facebook.com/profile.php?id=100027880047289
         - title: School Virtual Tour
           description: ""
           url: /about-us/school-virtual-tour/
