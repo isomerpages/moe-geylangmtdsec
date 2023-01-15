@@ -2,7 +2,6 @@ collections:
   students:
     output: true
     order:
-      - Useful Links for Students.md
       - Education and Career Guidance.md
       - Financial Assistance and Bursary Schemes.md
       - Full Subject Based Banding (FSBB).md
@@ -16,3 +15,4 @@ collections:
       - Students' Timetable.md
       - Subject Combination.md
       - Thematic Reading.md
+      - Useful Links for Students.md
