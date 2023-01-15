@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - School Calendar.md
-      - Useful Links for Students.md
       - Useful Links for Parents.md
