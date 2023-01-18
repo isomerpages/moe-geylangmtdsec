@@ -3,8 +3,6 @@ title: Principal’s Message
 permalink: /about-us/principals-msg/
 description: ""
 ---
-
-
 <img src="/images/Mr-Victor-copy.jpg" style="width:230px;height:270px;margin-left:15px;" align = "right">
 
 My name is Victor Owyong and I have been appointed as the Principal of Geylang Methodist School (Secondary) with effect from 15 December 2021. I feel honoured and count it a blessing to be given this opportunity to serve and lead at Geylang Methodist School (Secondary).  I invite you to find out more about our school as you scroll through our website.  GMS(S) was founded in 1924 and has a long and rich history of 98 years in 2022.  Learn more about the strong team of dedicated staff behind the excellent programmes.  The GM team is united in our belief that every child is teachable and we affectionately call our students our GEMS as each one of them is so precious.  The acronym GEMS also encapsulates our school values of Godliness, Excellence, Mastery and Service.  Our vision is to develop our students into Passionate Learners, Courageous Leaders and Caring Citizens.
