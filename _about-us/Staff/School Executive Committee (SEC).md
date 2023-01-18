@@ -4,17 +4,24 @@ permalink: /about-us/SEC/
 description: ""
 third_nav_title: Staff
 ---
-
 ![](/images/School%20Executive%20Committee%20v2.jpg)
-# School Leaders
-
-<table class="table table-bordered table-striped table-responsive" style="box-sizing: border-box; border-collapse: collapse; border-spacing: 0px; background-color: rgb(255, 255, 255); width: 841px; max-width: 100%; margin-bottom: 20px; border: 1px solid rgb(221, 221, 221); min-height: 0.01%; overflow-x: auto; color: rgb(128, 128, 128); font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box; background-color: rgb(249, 249, 249);"><td style="box-sizing: border-box; padding: 8px; line-height: 1.42857; vertical-align: top; border: 1px solid rgb(221, 221, 221); width: 271px;"><strong style="box-sizing: border-box; font-weight: 700;">Principal</strong></td><td style="box-sizing: border-box; padding: 8px; line-height: 1.42857; vertical-align: top; border: 1px solid rgb(221, 221, 221); width: 206px;">Mr Victor Owyong</td><td style="box-sizing: border-box; padding: 8px; line-height: 1.42857; vertical-align: top; border: 1px solid rgb(221, 221, 221); width: 344px;"><a class="rABsFf RffVmb AL18ce" href="mailto:Victor_OWYONG@schools.gov.sg" target="_blank" rel="noopener" data-tooltip-position="top" data-tooltip="From your Google Contacts" style="box-sizing: border-box; background-color: transparent; color: rgb(66, 139, 202); text-decoration: none;">Victor_OWYONG@schools.gov.sg</a></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 8px; line-height: 1.42857; vertical-align: top; border: 1px solid rgb(221, 221, 221); width: 271px;"><strong style="box-sizing: border-box; font-weight: 700;">Vice-Principal</strong></td><td style="box-sizing: border-box; padding: 8px; line-height: 1.42857; vertical-align: top; border: 1px solid rgb(221, 221, 221); width: 206px;">Mrs Chang-Loy Wee Meng</td><td style="box-sizing: border-box; padding: 8px; line-height: 1.42857; vertical-align: top; border: 1px solid rgb(221, 221, 221); width: 344px;"><a href="mailto:LOY_Wee_Meng@schools.gov.sg" style="box-sizing: border-box; background-color: transparent; color: rgb(66, 139, 202); text-decoration: none;">LOY_Wee_Meng@schools.gov.sg</a></td></tr><tr style="box-sizing: border-box; background-color: rgb(249, 249, 249);"><td style="box-sizing: border-box; padding: 8px; line-height: 1.42857; vertical-align: top; border: 1px solid rgb(221, 221, 221); width: 271px;"><strong style="box-sizing: border-box; font-weight: 700;">Vice-Principal</strong></td><td style="box-sizing: border-box; padding: 8px; line-height: 1.42857; vertical-align: top; border: 1px solid rgb(221, 221, 221); width: 206px;">Mr Lew King Lun Julian</td><td style="box-sizing: border-box; padding: 8px; line-height: 1.42857; vertical-align: top; border: 1px solid rgb(221, 221, 221); width: 344px;"><a href="mailto:lew_king_lun_julian@schools.gov.sg" style="box-sizing: border-box; background-color: transparent; color: rgb(66, 139, 202); text-decoration: none;">lew_king_lun_julian@schools.gov.sg</a></td></tr></tbody></table>
+### School Leaders
 
 
+| Principal | Mr Victor Owyong | [Victor\_OWYONG@schools.gov.sg](mailto:Victor_OWYONG@schools.gov.sg) |
+| -------- | -------- | -------- |
+| Vice-Principal     | Mrs Chang-Loy Wee Meng    | [LOY\_Wee\_Meng@schools.gov.sg](mailto:LOY_Wee_Meng@schools.gov.sg)     |
+| Vice-Principal    | Mr Lew King Lun Julian     | [lew\_king\_lun\_julian@schools.gov.sg](mailto:lew_king_lun_julian@schools.gov.sg)     |
 
 
 
-# Head of Departments
+
+
+
+
+
+
+### Head of Departments
 
 
 | Department | Name | Email |
@@ -37,7 +44,7 @@ third_nav_title: Staff
 | **Operation Manager**   | Mr Koay Chin Wah   | [koay\_chin\_wah@schools.gov.sg](mailto:koay_chin_wah@schools.gov.sg)    |
 | **Operation Manager**    | Mr Tan Pin Eddie    | [Tan\_Pin\_Eddie@schools.gov.sg](mailto:Tan_Pin_Eddie@schools.gov.sg)    |
 
-# Level / Subject Heads
+### Level / Subject Heads
 
 
 | Department | Name | Email |
