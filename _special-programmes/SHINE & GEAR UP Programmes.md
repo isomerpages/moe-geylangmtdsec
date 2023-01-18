@@ -3,10 +3,7 @@ title: SHINE & GEAR UP Programmes
 permalink: /special-programme/shine-gear-up-programmes/
 description: ""
 ---
-
-
-
-![](/images/Gear-Up-2048x1463.jpg)
+![](/images/Gear-Up%20Committee%20copy.jpg)
 
 
 
