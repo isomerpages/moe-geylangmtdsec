@@ -4,7 +4,6 @@ permalink: /about-us/Academic-Matters/2021-gce-n-level/
 description: ""
 third_nav_title: Academic Matters
 ---
-
 <h3>GCE N(T)-Level</h3>
 
 <img src="/images/IMG_1525-copy-scaled.jpg">
@@ -32,7 +31,7 @@ third_nav_title: Academic Matters
 	</li>
 </ul>
 <br>
-<h3>GCE 'N(A)' Level</h3>
+<h3>GCE N(A)-Level</h3>
 <img src="/images/IMG_1540-copy-scaled.jpg">
 <ul class="jekyllcodex_accordion">
   <li>
