@@ -2,19 +2,19 @@ collections:
   about-us:
     output: true
     order:
-      - Alumni.md
-      - Parent Support Group.md
       - Principal’s Message.md
       - Vision, Mission and Values.md
       - School Crest and Song.md
       - School Virtual Tour.md
       - Board of Management.md
+      - Alumni.md
+      - Parent Support Group.md
       - School History/.keep
       - School History/School History.md
       - School History/Principals.md
       - School History/BOM Chairmen.md
-      - Staff/Useful Links for Staff.md
       - Staff/.keep
+      - Staff/Useful Links for Staff.md
       - Staff/School Executive Committee (SEC).md
       - Staff/Teaching Staff & School Counsellor.md
       - Staff/Executive and Administrative Staff (EAS).md
