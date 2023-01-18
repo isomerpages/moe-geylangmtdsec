@@ -3,7 +3,6 @@ title: Student Achievement
 permalink: /about-us/student-achievement/
 description: ""
 ---
-**GM All-Round Excellence Award**
 
 The GM All-Round Excellence Award recognizes GEMS who have excelled in both the academic and non-academic spheres. These GEMS are exemplary in conduct, display moral integrity, show care and concern for others, are able to work in teams and contribute to school, community and society.
 
