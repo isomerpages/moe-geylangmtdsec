@@ -4,7 +4,6 @@ permalink: /about-us/GM-Family/Teaching-Staff/
 description: ""
 third_nav_title: Staff
 ---
-
 #### **Secondary 1 Form Teachers**
 
 
@@ -111,7 +110,7 @@ third_nav_title: Staff
 | MR MARK GOH     | [goh\_nai\_lee\_mark@schools.gov.sg](mailto:goh_nai_lee_mark@schools.gov.sg)     |     |
 | **Peace 4-3** |  |  |
 | MISS NG SIO YING     | [ng\_sio\_ying@schools.gov.sg](mailto:ng_sio_ying@schools.gov.sg)     |      |
-| MR JONATHAN KOH     | [onathan\_koh@schools.gov.sg](mailto:jonathan_koh@schools.gov.sg)     |      |
+| MR JONATHAN KOH     | [jonathan\_koh@schools.gov.sg](mailto:jonathan_koh@schools.gov.sg)     |      |
 | **Peace 4-4** |  |  |
 | MR FAHD SAID     | [ahd\_mohd\_said@schools.gov.sg](mailto:fahd_mohd_said@schools.gov.sg)     |      |
 | MS LAU CHAU KING     | [lau\_chau\_king@schools.gov.sg](mailto:lau_chau_king@schools.gov.sg)     |      |
