@@ -4,7 +4,7 @@ permalink: /curriculum/academic/design-technology/
 description: ""
 third_nav_title: Academic
 ---
-![](/images/Aesthetics-Craft-N-Technology-1536x1097.jpg)
+![](/images/Aesthetics%20Craft%20n%20Technology%20copy.jpg)
 
 The Design and Technology (D&T) department aims to prepare students for the rapidly changing environment in the world by giving them opportunities to think and intervene creatively through the Design process. The curriculum is structured with the aim to develop in students the ability to contribute to society through knowledge and technology that are both innovative and intellectual.
 
