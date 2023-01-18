@@ -4,9 +4,7 @@ permalink: /curriculum/Academic/music/
 description: ""
 third_nav_title: Academic
 ---
-
-
-![](/images/Aesthetics-Craft-N-Technology-1536x1097.jpg)
+![](/images/Aesthetics%20Craft%20n%20Technology%20copy.jpg)
 
 ### Mission
 -------
