@@ -97,11 +97,11 @@ Every year, the Literature students participate in a series of workshops to enri
 	
 For more information, do refer to the following links:
 
-*   ['N(T)' level English Language](/files/1195_y22_sy_e.pdf)
-*  ['N(A)' level English Language](/files/1190_y22_sy.pdf)
-*   ['O' level English Language](/files/1128_y22_sy.pdf)
-*   ['N(A)' level English Literature](/files/2022_y22_sy.pdf)
-*   ['O' level English Literature](/files/2065_y22_sy.pdf)
+*   [GCE O-Level English Language](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/1184_y23_sy.pdf)
+*  [GCE N(A)-Level English Language](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/1190_y23_sy.pdf)
+*  [GCE N(T)-Level English Language](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/1195_y23_sy.pdf)
+*  [GCE N(A)-Level English Literature](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/2022_y23_sy.pdf)
+*   [GCE O-Level English Literature](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/2065_y23_sy.pdf)
 
 
 
