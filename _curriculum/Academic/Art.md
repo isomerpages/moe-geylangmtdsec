@@ -4,7 +4,7 @@ permalink: /curriculum/academic/art/
 description: ""
 third_nav_title: Academic
 ---
-![](/images/Aesthetics-Craft-N-Technology-1536x1097.jpg)
+![](/images/Aesthetics%20Craft%20n%20Technology%20copy.jpg)
 
 The Art syllabus is a journey of discovery where students test new concepts, translate ideas, thoughts and feelings through visual and tactile forms.  The aims of the art education are to enable every child to be visually literate and to appreciate art. With this framework in mind, the school‘s Art programme will help students develop competency in these areas using art and design principles, materials and processes to broaden their engagement in the visual art.
 
