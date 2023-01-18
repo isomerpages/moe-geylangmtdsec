@@ -3,10 +3,6 @@ title: Applied Learning Programme (ALP)
 permalink: /special-programme/applied-learning-programme-alp/
 description: ""
 ---
-
-
-### APPLIED LEARNING PROGRAMME IN SCIENCE (ALP)
-
 **Introduction**
 
 Theme: Sustainability – Promoting a Sustainable World.
