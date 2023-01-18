@@ -30,7 +30,7 @@ Objectives
 *   Inculcate in students the importance and usefulness of reading.
 *   Encourage students to think about and evaluate what they have read.
 
-![](https://geylangmethodistsec.moe.edu.sg/wp-content/uploads/2020/02/b-e1581293936471-1024x561.jpg)
+![](/images/b-e1581293936471-1024x561.jpg)
 
 ![](https://geylangmethodistsec.moe.edu.sg/wp-content/uploads/2022/11/silent-reading-new-pic_EL-1024x758.jpg)
 
