@@ -5,9 +5,7 @@ description: ""
 third_nav_title: Academic Matters
 ---
 
-<h1>2020 GCE 'N' level</h1>
-
-<h3>GCE 'N(T)' Level</h3>
+<h3>GCE N(T)-Level</h3>
 
 <img src="/images/MG_5188e.jpg">
 <ul class="jekyllcodex_accordion">
@@ -21,7 +19,7 @@ third_nav_title: Academic Matters
 	</li>
 </ul>
 <br>
-<h3>GCE 'N(A)' Level</h3>
+<h3>GCE N(A)-Level</h3>
 <img src="/images/MG_5171e.jpg">
 <ul class="jekyllcodex_accordion">
   <li>
