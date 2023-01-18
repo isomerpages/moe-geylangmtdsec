@@ -15,13 +15,13 @@ In the Mathematics Department, teachers are committed to helping students gain c
 
 For more information, do refer to the following links:
 
-*   ['N(T)' level Mathematics](/files/1195_y22_sy.pdf)
-*   [N(A)' level Mathematics](/files/4045_y22_sy.pdf)
-*   ['N(A)' level Additional Mathematics](/files/4051_y22_sy.pdf)
-*   ['N(A)' level Principles of Accounts](/files/7086_y22_sy.pdf)
-*   [O' level Mathematics](/files/4048_y22_sy.pdf)
-*   [''O' level Additional Mathematics](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/4049_y22_sy.pdf)
-*  ['O' level Principles of Accounts](/files/7087_y22_sy.pdf)
+*   [N(T)-Level Mathematics](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/4046_y23_sy.pdf)
+*   [N(A)-Level Mathematics](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/4045_y23_sy.pdf)
+*   [N(A)-Level Additional Mathematics](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/4051_y23_sy.pdf)
+*   [N(A)-Level Principles of Accounts](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/7086_y23_sy.pdf)
+*   [O-Level Mathematics](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/4052_y23_sy.pdf)
+*   [O-Level Additional Mathematics](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/4049_y23_sy.pdf)
+*   [O-Level Principles of Accounts](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/7087_y23_sy.pdf)
 
 ![](/images/Dept-Pix-2-1024x768.jpeg)
 
