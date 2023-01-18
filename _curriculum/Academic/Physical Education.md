@@ -4,7 +4,7 @@ permalink: /curriculum/academic/physical-education/
 description: ""
 third_nav_title: Academic
 ---
-![](/images/Physical-Education-1536x1097.jpg)
+![](/images/Physical%20Education%20copy.jpg)
 
 1\.  Objectives of the PE Programme
 
