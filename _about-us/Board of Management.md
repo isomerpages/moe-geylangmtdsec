@@ -20,3 +20,5 @@ The BOM acknowledges the work of the staff and has implemented the five-year Lon
 | Secretary 	| Mr Victor Owyong<br>– Principal, GMS(Secondary) 	|
 | Members 	| Prof Lionel Lee Kim Hock<br><br>Mr Chou Fang Soong<br><br>Mr Kim Seah Kim Teck<br><br>Dr Raymond Teo Cheng Soon<br><br>Mr Wong Kwang Yong<br><br>Mdm Jennifer Han (Mrs Jennifer Choy)<br>– Principal, GMS(Primary)<br><br>Mdm Ng Cher Siang, Cheryl<br>– Alumni Rep 	|
 | Ex-Officio Member 	| Rev Dr Peter Wong Keen Mun<br>– Pastor-in-charge, Christalite Methodist Chapel 	|
+
+![](/images/GMSS_A3-Posters_Our-Partners_ver2_Page_3-copy.jpg)
