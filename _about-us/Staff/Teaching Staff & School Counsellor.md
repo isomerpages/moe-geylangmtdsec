@@ -76,7 +76,7 @@ third_nav_title: Staff
 | MISS VANESSA TAN     | tan_guan_hui_vanessa@schools.gov.sg     |      |
 | **Joy 3-2** |  |  |
 | MR NG JUN QIANG     | [ng\_jun\_qiang@schools.gov.sg](mailto:ng_jun_qiang@schools.gov.sg)     |      |
-| ONG SIEW SIANG     |      | Text     |
+| ONG SIEW SIANG     |      |      |
 | **Joy 3-3** |  |  |
 | MISS YEO PENG PENG     | yeo_peng_peng_a@schools.gov.sg    |      |
 | MISS WONG HUI FEN    | [wong\_hui\_fen@schools.gov.sg](mailto:wong_hui_fen@schools.gov.sg)     |      |
@@ -156,9 +156,6 @@ third_nav_title: Staff
 
 
 **School Counselor**
-
-
-
 |  |  |  |
 | -------- | -------- | -------- |
 | Mr Lewis Lam     | lam_ying_hao@schools.gov.sg     |      |
@@ -168,10 +165,7 @@ third_nav_title: Staff
 
 
 
-
 **Student Welfare Education Officer (SWEO)**
-
-
 |  |  |  |
 | -------- | -------- | -------- |
 | Mr Bernard Cheong     | [cheong\_chee\_kong\_bernard@schools.gov.sg](mailto:cheong_chee_kong_bernard@schools.gov.sg)     |     |
