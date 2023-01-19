@@ -6,8 +6,6 @@ third_nav_title: CCE, ECG & Sexuality Education
 ---
 
 
-# **Character & Citizenship Education (CCE)**
-
 ![](/images/Character-Citizenship-Education-1536x1097.jpg)
 
 ### CCE (Character & Citizenship Education) Curriculum
