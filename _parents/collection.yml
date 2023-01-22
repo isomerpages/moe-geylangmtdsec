@@ -2,11 +2,11 @@ collections:
   parents:
     output: true
     order:
-      - National Digital Literacy Programme.md
       - Family Education Programmes.md
       - Financial Assistance and Bursary Schemes.md
       - Full Subject Based Banding (FSBB).md
       - Information on Edusave Awards.md
+      - National Digital Literacy Programme.md
       - Parent Support Group.md
       - Sexuality Education.md
       - Useful Links for Parents.md
