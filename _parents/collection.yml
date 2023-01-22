@@ -2,9 +2,9 @@ collections:
   parents:
     output: true
     order:
-      - Sexuality Education.md
       - Financial Assistance and Bursary Schemes.md
       - Full Subject Based Banding (FSBB).md
       - Information on Edusave Awards.md
       - Parent Support Group.md
+      - Sexuality Education.md
       - Useful Links for Parents.md
