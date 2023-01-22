@@ -621,5 +621,15 @@ b.&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="151"><p class="MsoNormal"><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
   mso-bidi-font-weight:bold" lang="EN-GB">Term 2 Week 4</span></p></td></tr></tbody></table>
 	
-	
-	
+
+
+
+#### **Information for Parents**
+
+10.     Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+11.     Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete a hardcopy opt-out form. The opt-out form is attached with the programme letter disseminated to parents at the start of the year on Parents Gateway (PG). The completed form is to be submitted by **16/01/2023.**
+
+12.     Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete and sign a hardcopy opt-out form. The hardcopy opt-out form will be given to the Sec 3s through their Form Teachers. Information regarding the programme will be disseminated to parents on Parents Gateway (PG).  The hardcopy form, duly completed and signed, is to be submitted to the school in **Term 1 2023****.**
+
+13.     Parents can contact the school at 67466503 for discussion or to seek clarification about the school’s Sexuality Education programme.
