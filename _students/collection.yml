@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Education and Career Guidance.md
-      - Full Subject Based Banding (FSBB).md
       - Rules for Special Rooms/.keep
       - Rules for Special Rooms/Science Laboratory.md
       - Rules for Special Rooms/Design and Technology (D&T).md
