@@ -5,9 +5,11 @@ description: ""
 third_nav_title: Non Academic
 ---
 ![](/images/Student-Management-2048x1463.jpg)
-*Discipline your children while they are young enough to learn.*   
-*Listen to counsel and accept discipline, that you may be wise the rest of your days.*   
-*Proverbs 19:18, 20*
+_Discipline your children while they are young enough to learn._
+
+_Listen to counsel and accept discipline, that you may be wise the rest of your days._
+
+_Proverbs 19:18, 20_
 
 In Geylang Methodist School (Secondary), the Student Management Team supports our students to make sound and responsible choices in life.
 
@@ -16,6 +18,7 @@ Discipline is an important aspect of a student’s life as there is a positive c
 We believe that strong teacher-student relationships, respect for rules and adherence to routines will yield positive behavioural outcomes. For more details on our school rules and routines, please refer to the Student’s Handbook.
 
 We believe that parents play an important role in a child’s growth and school-home partnership is critical. We hope to work with parents to provide your child with the necessary support in their journey of self-discipline in school. We look forward to this partnership with you.
+
 
 The Student Management Team Personnel
 
@@ -31,4 +34,3 @@ The Student Management Team Personnel
 |  	| Mdm Lau Chau King 	| lau_chau_king@schools.gov.sg 	|
 | Operation Manager (OM) 	| Mr Tan Pin Eddie 	| [Tan\_Pin\_Eddie@schools.gov.sg](mailto:Tan_Pin_Eddie@schools.gov.sg)	|
 |     | Mr Koay Chin Wah    | [koay\_chin\_wah@schools.gov.sg](mailto:koay_chin_wah@schools.gov.sg)    |
-
