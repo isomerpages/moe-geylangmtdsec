@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Education and Career Guidance.md
-      - Financial Assistance and Bursary Schemes.md
       - Full Subject Based Banding (FSBB).md
       - Information on Edusave Awards.md
       - Rules for Special Rooms/.keep
