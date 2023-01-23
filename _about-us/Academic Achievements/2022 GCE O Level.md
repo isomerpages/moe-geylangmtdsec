@@ -38,6 +38,21 @@ third_nav_title: Academic Achievements
 
 #### COMMENDABLE IMPROVEMENT
 ![](/images/2022%20CI%20Sec4%20.jpeg)
+* (P42) Chloe Ng (Wu Xuan Hui)
+* (P42) Gooi Kai Lyn Ainsley
+* (P42) Jaimin Ong Weixuan
+* (P42) Lim Jia Jun, Bryan
+* (P42) Matthew Mak Zhi Jie
+* (P43) Ismaa’eel Hafez Khan
+* (P43) Loo Jian Ning
+* (P43) Quek Ye Zuo , Kiefer
+* (P44) Lee Li Wen
+* (P44) Nathanael Goh Ern Yi
+* (P44) Rachel Shania Yeo
+* (P45) Valerie Tan Yun Lin
+* (P46) Akshan Budha Magar
+* (P46) Sarah Chua Yinn
+* (P46) Kumamaru Rei
 
 
 
