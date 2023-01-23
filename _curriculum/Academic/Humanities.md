@@ -26,6 +26,32 @@ The GM Humanities Department seeks to nurture in our GEMs learning dispositions 
 
 
 #### Humanities Department Enrichment Programme
+The Humanities Department also offer enrichment programme to help our students gain deeper appreciation of the Humanities and its relevance to Singapore and the world.
+
+
+**1\. GEM Challenge ASEAN**
+
+**Objective**
+
+The aim of the ASEAN internationalisation Programme (AIP) is for students to better understand globalisation and its impact on economy, society and culture. With the changing trends from the global pandemic and climate change, students are exposed to these issues through differing perspective.
+
+**Programme**
+
+The AIP to Thailand provided the students with the opportunity to engage in meaningful activities to learn more about Thailand through virtual school exchange and online lessons to learn more about the Thai language
+
+To help students better understand how local companies stay competitive in a globalising world,  Ya Kun Kaya Toast was invited to share via zoom with our students on how they have ventured abroad to set up branches in Thailand and other countries To understand how companies adopt sustainable practices, a speaker from the Elephant Poopoopaper Park in Thailand was invited to share on the sustainability approaches they have adopted in their business operations to leave a smaller footprint for future generations.
+
+This exchange allowed our students to foster empathy, resilience and humility as they interact with the locals and appreciate a world outside of Singapore.
+
+![](/images/Picture23-768x577.jpg)
+Photograph 1: Online cultural exchange with students PLD
+
+
+
+
+
+
+
 
 
 
