@@ -29,10 +29,10 @@ sections:
       image: /images/Singapore-Police.png
       alt: Image alt text
   - infopic:
-      title: National Digital Literacy Programme
-      subtitle: "2021"
+      title: Photo Gallery
+      subtitle: "2023"
       button: View More
-      url: /NDLP
+      url: /Photo Gallery
       image: /images/meta-digital-literacy.jpg
       alt: Image alt text
 ---
