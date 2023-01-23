@@ -58,11 +58,20 @@ third_nav_title: Academic Achievements
 
 #### Sec 5NA Top Students
 ![](/images/2022%20Sec5.jpeg)
-
+* (P51) Zephaniah Lim
+* (P51) Elka Ghale
+* (P51) Tine Htet Moe Tha
+* (P52) Lim Kai En Esther
+* (P52) Fuster Audric Gabriel Bugayong
 
 #### COMMENDABLE IMPROVEMENT
 ![](/images/2022%20CI%20Sec5.jpeg)
-
+* (P51) Hoh Ron Jun
+* (P51) Aidan Wong Kin Onn
+* (P51) Low Chuan En
+* (P51) Sin Kyi Moe Zatt
+* (P52) Muhammad Qiff Bin Muhammad Faizal
+* (P52) Fong Peng Shin Ranen
 
 #### MSF Good Steward Award
 ![](/images/2022%20MSF.jpeg)
