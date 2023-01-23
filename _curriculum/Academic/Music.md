@@ -6,12 +6,12 @@ third_nav_title: Academic
 ---
 ![](/images/Aesthetics%20Craft%20n%20Technology%20copy.jpg)
 
-### Mission
+#### Mission
 -------
 
 Every GEM would be able to appreciate and develop a connection to music.
 
-### Vision
+#### Vision
 ------
 
 Students will be able to:
@@ -20,7 +20,7 @@ Students will be able to:
 2.  Communicate their musical ideas through creative expression.
 3.  See the value and recognise the relevance of music.
 
-### Framework
+#### Framework
 ---------
 
 The objectives of the Music Curriculum are achieved through listening, creating and performing. These three behavioral domains of listening, creating and performing take into consideration the cognitive, affective and psychomotor dimensions that students are involved in when learning/making music.
