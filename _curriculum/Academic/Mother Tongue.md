@@ -72,6 +72,7 @@ Every year, Learning Journeys or Fieldtrips are organised to enhance our student
 
 Mother Tongue department prepares our students to participate in various language competitions. Such competitions increase our students’ intrinsic motivation to learn their MTL and also strengthen their academic abilities. By participating in competitions, we develop and nurture their confidence and collaboration skills.
 
+
 ##### GEMS Challenge: Overseas Immersion Programme
 ![](/images/GEMS%20Challenge:%20Overseas%20Immersion%20Programme.png)
 This is the Mother Tongue Department’s signature programme. It enables students to personally experience the fast pace of progress in developing countries. Students are also able to understand future societal development trends and prepare themselves for the future. For this programme, students will visit some cultural sites and schools and participate in cultural activities in different setting so as to enhance their cultural awareness. In 2018 and 2019, we went to China, and students interacted with Singapore students who were studying in China and also with entrepreneurs who had experience doing business in China. From this, students would be able to widen their perspectives beyond Singapore and prepare themselves as they understand the challenges that they will face in the future. During covid years, the department still carries out this prgrammes online. Students did research online about cities in China and they had a chance for a virtual exchange with school in China.
@@ -83,14 +84,11 @@ This is the Mother Tongue Department’s signature programme. It enables student
 
 
 For more information, do refer to the following links:
-
-*   *   [Chinese Language (Secondary) Syllabus](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/mother-tongue-languages/files/chinese-secondary-2011.pdf) - file not found!
-    *   [Malay Language (Secondary) Syllabus](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/mother-tongue-languages/files/malay-secondary-2011.pdf) - file not found!
-    *   ['N(T)' level Basic Chinese](/files/1202_y22_sy.pdf)
-    *   ['N(T)' level Basic Malay](/files/1203_y22_sy.pdf)
-    *   ['N(A)' level Chinese](/files/1196_y22_sy.pdf)
-    *   ['N(A)' level Malay](/files/1197_y22_sy.pdf)
-    *   ['O' level Higher Chinese](/files/1116_y22_sy.pdf)
-    *   ['O' level Chinese](/files/1160_y22_sy.pdf)
-    *   ['O' level Chinese B](/files/1153_y22_sy.pdf)
-    *   ['O' level Malay](/files/1148_y22_sy.pdf)
+* N(T) level Basic Chinese
+* N(T) level Basic Malay
+* N(A) level Chinese
+* N(A) level Malay
+* [GCE O-Level Higher Chinese](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/1116_y23_sy.pdf)
+* [GCE O-Level Chinese](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/1160_y23_sy.pdf)
+* [GCE O-Level Chinese Basic](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/1153_y23_sy.pdf)
+* [GCE O-Level Malay](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/1148_y23_sy.pdf)
