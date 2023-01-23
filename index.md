@@ -32,5 +32,5 @@ sections:
       title: Photo Gallery
       subtitle: "2023"
       button: View all
-      url: /
+      url: /about-us/Photo-Gallery/photo-gallery-2023/
 ---
