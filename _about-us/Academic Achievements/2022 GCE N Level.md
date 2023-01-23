@@ -50,3 +50,11 @@ third_nav_title: Academic Achievements
 
 
 #### Commendable Improvement
+![](/images/2022%20CI%20Sec4na.jpg)
+* (P47) Yeo Rue Hwee
+* (P48) Aaron Boo Zi Hao
+* (P48) Cheong Jia Jun
+* (P48) Lee Jun Fu
+* (P48) Lim Junkai
+* (P48) Sarah Lin Qingfang
+* (P48) Thomas Tan
