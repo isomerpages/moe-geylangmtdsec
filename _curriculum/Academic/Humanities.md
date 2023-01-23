@@ -16,8 +16,59 @@ The GM Humanities Department seeks to nurture in our GEMs learning dispositions 
 *   Inquiry is rooted in a constructive approach which aims to enhance the quality and effectiveness of learning, promote student agency and help engage students with content and concepts in Humanities in a meaningful and authentic way.
 *   It promotes student-centred learning by creating opportunities for students to take ownership of their learning through questioning, investing issues, examining different perspectives, gathering information, constructing explanation, and also offering possible solutions to address complex societal and real world issues.
 *   It ties in aptly with our school’s vision to develop our students to become Passionate Learners, Courageous Leaders, Caring Citizens.
+![](/images/Picture6.png)
+
+
 
 #### Geography
+### **LOWER SECONDARY GEOGRAPHY**
+
+The Secondary 1 Geographical Investigation (GI) requires students to conduct one of the two investigations on:
+
+*   adaptive features of tropical rainforest plants and vegetation. They gather primary data about the plant parts and do field sketching. Combined with secondary research on the plant parts, the students produce a group report and a poster on their findings and create online posters on their findings from secondary research and videos of the heritage trees in Botanic Gardens.
+*   water quality of different water sources. It involves an experiential learning where the students conduct water-testing activities to investigate the water quality of various water sources such as Kallang River.
+
+
+![](/images/S1-G-students-1024x681.png)
+<table style="box-sizing: border-box; border-collapse: collapse; border-spacing: 0px; background-color: rgb(255, 255, 255); color: rgb(128, 128, 128); font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 904.25px;"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; width: 582px; text-align: center;">Picture 1: Fieldtrip at the Botanical Gardens</td></tr></tbody></table>
+
+The Secondary 2 GI explores places that are special or elderly-friendly to the residents in their housing estate. The students learn to create good questionnaires and conduct surveys with residents to gather primary data. With secondary research using various online platforms, the students generate a mini-report and group-end product on their findings. Secondary 2 students presented their findings via an online platform.
+
+Enrichment activities are organised to deepen the students’ understanding on public housing in Singapore. One such example is the Housing Development Board (HDB) Talk. Under the HDB Friends of the Heartlands programme, students can become HDB Ambassadors and reach out to residents. This gives the students the opportunities to relate the content and concepts learnt in the syllabus to the real-life situations.
+
+![](/images/S2-G-students.png)
+Picture 2: HDB Youth Ambassadors interviewing residents
+
+
+
+**Upper Secondary Geography**
+
+The Secondary 3 students participated in a virtual tour of Chinatown for their Tourism Geographical Investigation.  Students gained a better understanding of how they can  investigate, collect data, analyse and synthesize information to construct their own understanding of tourism in Singapore.
+
+Video 1: [Hyperlpase video of the fieldwork site, Chinatown.](https://youtu.be/AZpj_lv5TzA)
+
+Video 2: [An example of an interview conducted by the student during the fieldwork.](https://youtu.be/vA12EsvBvQM)
+
+With the advent of technology and emphasis on 21st Century Competencies, learning has changed significantly in and out of the classroom. The students are well versed with the available technological platforms to learn independently and share their learning with their peers across topics in the syllabus.
+
+
+![](/images/Picture37.png)
+Picture 3: Students’ learning on volcanoes
+Link: [https://padlet.com/elise\_look/o0tq4ajg316i6ldx](https://padlet.com/elise_look/o0tq4ajg316i6ldx)
+
+![](/images/Picture38.png)
+Picture 4: Students’ learning on impacts of climate change
+Link: [https://padlet.com/ishwarindersinghmohan/yd0sqlxg9a49f2cl](https://padlet.com/ishwarindersinghmohan/yd0sqlxg9a49f2cl)
+
+In light of the global challenges of sustainability, students explored the topic on food resources. This included the research on the role of technology in resolving issues related to food production and its impact on man and the environment. Through this process, students discovered the variations in the capacities of countries in tackling food shortages.
+
+![](/images/Picture39.jpg)
+![](/images/Picture40.png)
+Pictures 5 and 6: Poster on food shortage and the solutions by Ayden and Kelda
+
+![](/images/Picture41-768x431.png)
+Picture 7: Poster on food shortage case study by Kayla Yap and Looi Jia Ning
+
 
 
 
@@ -47,7 +98,7 @@ Photograph 2: Students at the theatre
 ![](/images/Picture32.jpg)
 Photograph 3: Cast of the LKY Musical taking a bow at the end of the show.
 
-**2\. National Heritage Board: Founder’s Memorial Exhibition**
+**2. National Heritage Board: Founder’s Memorial Exhibition**
 
 The National Heritage Board (NHB) has organised an exhibition called the Founder’s Memorial that aims to commemorate the values and ideals exemplified by the late Founding Prime Minister Mr Lee Kuan Yew and Singapore’s first-generation leaders, as well as other key personalities who played important roles in Singapore’s path to independence. This exhibition is slated to open in 2027 at Bay East Garden where it is envisioned to be an integrated gallery and gardens experience commemorating how independent Singapore came to be, and inspire Singaporeans to commit themselves to building the nation’s future, together.
 
@@ -58,7 +109,7 @@ In the 2022 edition of this exhibition, the NHB has called for schools to partic
 Photograph 1: Interview with Mdm Catherine Chua, former assistant director of IMH from 1993-2010.
 
 
-**3\. MOE History Challenge**
+**3. MOE History Challenge**
 
 The MOE History Challenge aims to engage students in the disciplinary aspects of History where they can demonstrate their knowledge of the subject and apply conceptual understanding across different historical periods.
 
