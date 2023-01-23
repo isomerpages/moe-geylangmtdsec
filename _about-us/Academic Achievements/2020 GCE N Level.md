@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Academic Achievements
 ---
 #### GCE N(T)-Level
-
+![](/images/MG_5188e.jpg)
 * Celeste Lim Tong En
 * Sieng Jin Siong
 * Kelly Rezanna
@@ -19,14 +19,14 @@ third_nav_title: Academic Achievements
 
 
 #### GCE N(A)-Level
-<img src="/images/MG_5171e.jpg">
-<ul class="jekyllcodex_accordion">
-  <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">GM N(A) Top Students</label>
-    <div>
-      <p>Students with 4 or more Distinctions:</p>
-			<p>1. Ang Howe Jun (P46)<br>2. Jayden Phoon (P46)<br>3. Lim Jian Feng (P46)<br>4. Jeremy Luo Wenbin (P47)<br>5. Ong Jun Yang Benjamin (P47)<br>6. Puah Qi Tai (P47)<br>7. Chong Yu Yi (P48)<br>8. Kelly Azaryas Chen (P48)<br>9. Teo Yi Xuan (P48)<br>10. Soh Junheng, Bryan (P48)</p>
-    </div>
-	</li>
-</ul>
+![](/images/MG_5171e.jpg)
+* Ang Howe Jun (P46)
+* Jayden Phoon (P46)
+* Lim Jian Feng (P46)
+* Jeremy Luo Wenbin (P47)
+* Ong Jun Yang Benjamin (P47)
+* Puah Qi Tai (P47)
+* Chong Yu Yi (P48)
+* Kelly Azaryas Chen (P48)
+* Teo Yi Xuan (P48)
+* Soh Junheng, Bryan (P48)
