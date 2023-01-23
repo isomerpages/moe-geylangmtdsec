@@ -67,7 +67,6 @@ Every year, Learning Journeys or Fieldtrips are organised to enhance our student
 
 
 ##### Inter-class and Inter-school Competitions
-
 ![](/images/Inter-class%20and%20Inter-school%20Competitions.png)
 ![](/images/2022%20MT_Page_2.jpg)
 
