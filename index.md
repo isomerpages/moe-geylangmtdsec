@@ -28,11 +28,9 @@ sections:
       url: /traffic-advisory
       image: /images/Singapore-Police.png
       alt: Image alt text
-  - infopic:
+  - infobar:
       title: Photo Gallery
       subtitle: "2023"
-      button: View More
-      url: /Photo Gallery
-      image: /images/meta-digital-literacy.jpg
-      alt: Image alt text
+      button: View all
+      url: /
 ---
