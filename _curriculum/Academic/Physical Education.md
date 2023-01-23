@@ -6,14 +6,14 @@ third_nav_title: Academic
 ---
 ![](/images/Physical%20Education%20copy.jpg)
 
-1\.  Objectives of the PE Programme
+#### 1.  Objectives of the PE Programme
 
 *   to acquire a range of motor skills, concepts, principles and strategies to participate in 6 different sports
 *   to display positive personal and social behaviour across different experiences and environments
 *   to acquire health, diet, fitness and sports knowledge for lifelong commitment to a physically active and healthy lifestyle
 *   to build a resilient character with an appreciation of the outdoors
 
-2\.  The PE Programme
+#### 2.  The PE Programme
 
 *   Physical games and sports skills / concepts 
 	*   Football
@@ -26,7 +26,7 @@ third_nav_title: Academic
 *   Outdoor Education
 *   Elements of Physical Health and Fitness
 
-3\.  Modes of Assessment
+#### 3.  Modes of Assessment
 
 *   NAPFA test  (PFT)
 *   Theory assessment through SLS and HBL
