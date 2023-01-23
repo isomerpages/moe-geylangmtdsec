@@ -46,14 +46,30 @@ This exchange allowed our students to foster empathy, resilience and humility as
 ![](/images/Picture23-768x577.jpg)
 Photograph 1: Online cultural exchange with students PLD
 
+![](/images/Picture24.jpg)
+Photograph 2: Hands-on making of traditional Thai Handicraft
+
+![](/images/Picture25.jpg)
+Photograph 3: Online Learning of Thai language
+
+![](/images/Picture26.jpg)
+Photograph 4: Zoom Conference with Thai students
 
 
+**2\. GEMS Challenge – Model United Nations (MUN)**
+
+To foster critical thinking and hone research and writing skills, the Humanities department offers the Model United Nations (MUN) GEMS Challenge to selected Secondary 3 students. Through participating in various MUNs, students gained a better understanding of global issues and insights on the mechanisms of international relations. They also learn to sharpen their public speaking and debating skills during these academic simulations.
+
+Our GEMS participated in the Singapore Model Cabinet (SMC), organised by the People’s Association (PA) and Victoria Junior College (VJC). Our GEMS adopted the role of Singapore policymakers and discussed how Singapore can tackle various issues, given our constraints and differing needs.
+
+Our GEMS also participated in the Raffles Model United Nation (RMUN), conducted by Raffles Institution. Through RMUN, our GEMS worked with other students to analyse current societal issues that have global significance and discussed on how countries could manage them.
 
 
+![](/images/Picture27-768x653.png)
 
+![](/images/Picture28-768x620.png)
 
-
-
+![](/images/Picture29-1024x868.png)
 
 #### Social Studies
 **Overview**
