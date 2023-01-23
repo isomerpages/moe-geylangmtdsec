@@ -12,7 +12,7 @@ The Computer Applications syllabus aims to prepare our Normal Technical (NT) stu
 
 The syllabus emphasizes fundamental knowledge and skills, and includes the appreciation and use of software application packages for word processing, computer drawing and image editing, multimedia presentations and documents, spreadsheet calculations and charts, game design, programming, and applications on the Internet.
 
-### Computer Applications (CPA) Curriculum
+#### Computer Applications (CPA) Curriculum
 
 In lower secondary, the syllabus focuses on equipping students with fundamental ICT skills that will support learning of the other NT subjects and are useful in their personal life.
 
