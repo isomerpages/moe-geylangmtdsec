@@ -84,10 +84,10 @@ This is the Mother Tongue Department’s signature programme. It enables student
 
 
 For more information, do refer to the following links:
-* N(T) level Basic Chinese
-* N(T) level Basic Malay
-* N(A) level Chinese
-* N(A) level Malay
+* [GCE N(T)-Level Basic Chinese](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/1202_y23_sy.pdf)
+* [GCE N(T)-Level Basic Malay](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/1203_y23_sy.pdf)
+* [GCE N(A)-Level Chinese](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/1196_y23_sy.pdf)
+* [GCE N(A)-Level Malay](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/1197_y23_sy.pdf)
 * [GCE O-Level Higher Chinese](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/1116_y23_sy.pdf)
 * [GCE O-Level Chinese](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/1160_y23_sy.pdf)
 * [GCE O-Level Chinese Basic](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/1153_y23_sy.pdf)
