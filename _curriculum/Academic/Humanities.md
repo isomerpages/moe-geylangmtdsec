@@ -22,14 +22,65 @@ The GM Humanities Department seeks to nurture in our GEMs learning dispositions 
 
 
 #### History
+**History Curriculum**
+
+History education in Geylang Methodist School (Secondary) seeks to develop in students an appreciation of past human experiences, critical awareness of the nature of historical knowledge, and the ability to make connections between the past and present. In a world where attention is often divided between concerns over the present and the future, the relevance of History is often questioned. Learning to manage the present and anticipate the future would not be possible without knowing the past.
+
+History equips students with knowledge and skills that enable them to draw connections between the past and present by understanding how the nature and impact of past developments explain today’s world. Students will gain a better understanding of why things happened in the past and how past events shape the present, and thus be better able to anticipate what might take place in the future. They will develop a disciplined and critical mind and an ability to operate in a volatile, uncertain, complex and ambiguous world.
+
+History also plays a critical role in developing students’ identities through an understanding of the subject at the personal, national and international levels. The learning of history should spark their curiosity and help them empathise with the beliefs, decisions and dilemmas of people in the past. Through historical inquiry, students pose questions about the past and the present and draw connections between the two.
+
+Students are also given the opportunity to learn more about History and its relevance to present day through a variety of experiences and activities such as watching the LKY Musical, participating in virtual learning Journey, visit to the museums, amongst others. Students who are interested in the subject will also have opportunities to extend their interest through a series of talent development programmes such as participation in the MOE History challenge, Model United Nation models, amongst others.
+
+**1. NE Cum Art Appreciation Programme - The LKY Musical 2022**
+
+As part of the National Education (NE) cum Art Appreciation Programme, the Secondary 2 students were given the opportunity to watch 'The LKY Musical', a home-grown musical which tells the story of Mr Lee Kuan Yew, from his student days in 1941 to the struggles leading to Singapore's independence in 1965.
+
+Through this experience, it is hoped that our students will develop a greater sense of appreciation and understanding of the role played by Mr Lee Kuan Yew and the early leaders in the development and growth of Singapore, and at the same time, gain an appreciation of the creative processes involved in a musical. The viewing of this musical is also part of National Education programme, to foster a sense of belonging amongst our students and an emotional rootedness to Singapore.
+
+![](/images/Picture30.jpg)
+Picture 1: A newspaper poster on the LKY Musical
+
+![](/images/Picture31.jpg)
+Photograph 2: Students at the theatre
+
+![](/images/Picture32.jpg)
+Photograph 3: Cast of the LKY Musical taking a bow at the end of the show.
+
+**2\. National Heritage Board: Founder’s Memorial Exhibition**
+
+The National Heritage Board (NHB) has organised an exhibition called the Founder’s Memorial that aims to commemorate the values and ideals exemplified by the late Founding Prime Minister Mr Lee Kuan Yew and Singapore’s first-generation leaders, as well as other key personalities who played important roles in Singapore’s path to independence. This exhibition is slated to open in 2027 at Bay East Garden where it is envisioned to be an integrated gallery and gardens experience commemorating how independent Singapore came to be, and inspire Singaporeans to commit themselves to building the nation’s future, together.
+
+In the 2022 edition of this exhibition, the NHB has called for schools to participate in the Student Archivist Project that will run from January to April 2022. Geylang Methodist School (Secondary) has nominated two teams of two students to collect personal stories from senior interviewees about how they were involved in key policies and developments in Singapore’s public health and medicine sector between the 1950s and 1970s, and their reflections on the values demonstrated in those times. Our students were trained in oral history interview methodology before they plan and conduct their own oral history interviews with senior interviewees aged 60 and above. Through this process, our students deepened their understanding about the experiences and contributions of individuals who played important roles in Singapore’s development post-independence.
 
 
+![](/images/Picture33.jpg)
+Photograph 1: Interview with Mdm Catherine Chua, former assistant director of IMH from 1993-2010.
+
+
+**3\. MOE History Challenge**
+
+The MOE History Challenge aims to engage students in the disciplinary aspects of History where they can demonstrate their knowledge of the subject and apply conceptual understanding across different historical periods.
+
+Students who perform well in the History Challenge will be invited to join the History Talent Development Programme (HTDP), which aims to develop students’ interest in History and deepen their understanding of the discipline. Through their participation in the HTDP, students will be given opportunities to engage with history experts on a range of historical issues.
+
+In 2021, 4 of our Secondary 3 students participated in this online Challenge which was conducted via the Singapore Student Learning Space (SLS) due to the COVID-19 situation. Out of 440 students from 110 schools, we are proud to announce that Lee Choon Yee of J3-3 was shortlisted for the History Talent Development Programme (HTDP)! Congratulations Choon Yee!
+
+
+![](/images/Picture34.jpg)
+Photograph 1: Our students, Katriel and Shue Rou
+
+![](/images/Picture35.jpg)
+Photograph 2: Lerniz showing off her certificate of participation
+
+![](/images/Picture36.jpg)
+Photograph 3: Choon Yee showing off his certificate of participation
 
 #### Humanities Department Enrichment Programme
 The Humanities Department also offer enrichment programme to help our students gain deeper appreciation of the Humanities and its relevance to Singapore and the world.
 
 
-**1\. GEM Challenge ASEAN**
+**1. GEM Challenge ASEAN**
 
 **Objective**
 
@@ -56,7 +107,7 @@ Photograph 3: Online Learning of Thai language
 Photograph 4: Zoom Conference with Thai students
 
 
-**2\. GEMS Challenge – Model United Nations (MUN)**
+**2. GEMS Challenge – Model United Nations (MUN)**
 
 To foster critical thinking and hone research and writing skills, the Humanities department offers the Model United Nations (MUN) GEMS Challenge to selected Secondary 3 students. Through participating in various MUNs, students gained a better understanding of global issues and insights on the mechanisms of international relations. They also learn to sharpen their public speaking and debating skills during these academic simulations.
 
