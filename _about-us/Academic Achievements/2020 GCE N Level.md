@@ -17,7 +17,8 @@ third_nav_title: Academic Achievements
 * Dominic Paul Phuntsog
 * Tan Jun Long, Harel
 
-<h3>GCE N(A)-Level</h3>
+
+#### GCE N(A)-Level
 <img src="/images/MG_5171e.jpg">
 <ul class="jekyllcodex_accordion">
   <li>
