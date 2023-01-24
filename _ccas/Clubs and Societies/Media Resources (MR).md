@@ -17,5 +17,3 @@ third_nav_title: Clubs and Societies
 *   Completion of Digital MRC Handbook
 *   Learning Journey to The Gym Esportscentre
 *   Student-Initiated Mentoring Programme and Peer Review
-
-
