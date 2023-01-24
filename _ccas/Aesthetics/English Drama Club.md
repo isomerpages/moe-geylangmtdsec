@@ -22,3 +22,23 @@ third_nav_title: Aesthetics
 *   National Day School Concert 2022
 
 
+**Teachers-in-Charge**
+| 1. |  | Miss Sylvia Lai (I/C) |
+| -------- | -------- | -------- |
+| 2.     |      | Miss Tan Lay Ming     |
+| 3.     |      | Miss Carlyn Chan   |
+
+
+**Student Leaders**
+| President: |  | Edelyn Ho Xin En |
+| -------- | -------- | -------- |
+| Vice President:    |      | Shevelle Ong Zi Xuan    |
+|     |      | Reagan Goh    |
+
+
+
+**Instructor**
+| Main Instructor: |  | Ms Deborah Hoon |
+| -------- | -------- | -------- |
+| Assistant Instructor:    |      |  Mr Kay Kay Nizam   |
+			
