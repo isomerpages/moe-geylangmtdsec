@@ -22,10 +22,21 @@ third_nav_title: UGs
 
 
 
+**Teachers-in-Charge**
+| 1. |  | Ms Andrea Lau (I/C) |
+| -------- | -------- | -------- |
+| 2.     |      | Mdm Lau Chau King     |
+| 3.     |      | Miss Janelle Chua Hwee Woon    |
 
 
-
-
-
-
-
+**Student Leaders**
+| Company Leader: |  | Tan Min Sze(J33) |
+| -------- | -------- | -------- |
+|Assistant Company Leaders:    |      | Lim En Hui (J31)     |
+|      |      | Chan Ling Qi (J34)     |
+| Quartermistresses:     |      | Pang Shi Qing Christabel (J32)    |
+|      |      | Pwee Yi Han Reann (H22)     |
+|  Patrol Leaders:    |      |  Kingfisher – Putri Mellissa (H25)   |
+|      |      |  Mynah- Shayna Seah (J35)   |
+|      |      |  Oriole- Louise Low (J35)    |	
+|      |      |  Sparrow- Ashlyn Tan Xin Xuan (J33)    |	
