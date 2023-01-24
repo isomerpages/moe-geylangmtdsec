@@ -3,7 +3,7 @@ title: School Crest and Song
 permalink: /about-us/school-crest-and-song/
 description: ""
 ---
-### School Crest
+#### School Crest
 
 <img src="/images/schlogo.png" style="width:150px;height:140px;margin-left:15px;" align = "right">
 
@@ -16,7 +16,7 @@ The white 27-point starburst is inspired by our heritage when the school started
 The colours blue and gold frame our crest and represent heaven and earth respectively, reflecting our heavenly aspirations which are firmly grounded in our earthly realism to ‘Grow in Friendship, Body and Mind’.
 
 
-### School Song
+#### School Song
 
 In Geylang Methodist we strive  
 To grow in friendship, body, mind  
@@ -32,12 +32,12 @@ And cares of life around us press
 One thing will live within each heart  
 The memory of G.M.S
 
-(upload sch song to yt)
 
 
 
 
-### School Motto
+
+#### School Motto
 
 To grow in friendship, body and mind.
 
