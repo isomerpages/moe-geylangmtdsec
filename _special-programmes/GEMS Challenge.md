@@ -54,4 +54,40 @@ Three teams, Avetex, ABR Racing and Rapidite, competed in the ‘F1 in Schools S
 
 ![](/images/GEMS-4.jpg)
 
+**Model United Nations (MUN)**
+Objective
+
+To engage and stretch students with a strong interest in Humanities and current affairs.
+
+Programme
+
+Model United Nations or MUN, is an educational simulation and academic activity in which students learn about diplomacy, international relations, and the United Nations. MUN involves and teaches participants researching, public speaking, debating, and writing skills, in addition to critical thinking, teamwork, and leadership abilities.
+
+Our continued participation in Model United Nations (MUN) over the past few years has seen our students grow to become young adults with a keen interest in current affairs and contemporary social issues. Through MUN, the students gain confidence in expressing their opinions and views publicly and coherently.
+![](/images/b13.png)
+
+
 #### GEMS Challenge (Overseas)
+**Humanities Internationalization Challenge**
+Objective
+
+To enable students to appreciate the current movement of globalization, and the importance of global partnerships in economic, social and cultural exchange.
+
+Programme
+
+The Humanities Internationalization Challenge provides our Secondary 3 students with the opportunity to visit an ASEAN country to learn about its history and culture. The experience aims to foster empathy, resilience and humility in our students as they interact with the locals and appreciate a world outside of Singapore.
+
+In 2019, our students visited Vietnam’s Ho Chi Minh City where they experienced the social milieu of a city that is progressing towards modernization while keeping itself firmly grounded in its traditions. Students also learnt about Singapore’s partnership with Vietnam during the visit to the Vietnam Singapore Industrial Park (VSIP).
+![](/images/GEMS-5.jpg)
+
+**Trekking Challenge**
+Objective
+
+To bring out the best in our GEMS, reflecting the school’s motto “To Grow in Friendship, Body and Mind”.
+
+Programme
+
+In this Challenge, students work with one another to complete one of Asia’s trekking trails.  To prepare and train their physical and mental endurance, students attend weekly training sessions prior to the trek in the middle of the year.
+
+In 2019, seventeen Secondary 3 students participated in the annual GEMS Trekking Challenge in Hong Kong. Our students also spent time at the YMCA College and interacted with the college students. The YMCA students displayed some of their STEM projects in Robotics and Augmented Reality while our students taught them some uniquely Singaporean games such as the ‘country eraser game’ and ‘zero point’.
+![](/images/GEMS-6.jpg)
