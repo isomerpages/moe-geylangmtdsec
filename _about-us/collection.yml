@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Former Students' Achievements/.keep
       - Principal’s Message.md
       - Vision, Mission and Values.md
       - School Crest and Song.md
