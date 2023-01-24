@@ -21,3 +21,22 @@ third_nav_title: UGs
 *   Participated in the E-Crime Scene Investigation competition organized by HQ NPCC
 
 
+**Teachers-in-Charge**
+| 1. |  | Mr Mohd Faizal (I/C) |
+| -------- | -------- | -------- |
+| 2.     |      | Mr Ng Jun Qiang (DyOC)     |
+| 3.     |      | Mr Wong Kok Woei    |
+| 4.     |      | 1.  Mr Zhao Yilin    |
+
+**Student Leaders**
+| Unit Secretary: |  | Tan Aik Hian |
+| -------- | -------- | -------- |
+|Vice-Unit Secretary:    |      | Charlie Chan Li Shun     |
+
+
+**Honorary Officers**
+|  1. |  | Mr Lim Kian Wah |
+| -------- | -------- | -------- |
+|  2.     |      | Mr Teoh Hock Ming     |
+|  3.     |      | Mr Tay Chi Keng     |
+|  4.     |      | Mr Loh Sher Chien     |
