@@ -23,9 +23,10 @@ third_nav_title: Clubs and Societies
 
 
 **Teachers-in-Charge**
-*  Mr Quek Rob Huei (I/C)
-*  Mdm Siti Nazeera Omar
-*  Mdm Khalidah Begum
+| 1. |  | Mr Quek Rob Huei (I/C) |
+| -------- | -------- | -------- |
+| 2.     |      | Mdm Siti Nazeera Omar     |
+| 3.     |      | Mdm Khalidah Begum     |
 
 
 **Student Leaders**
