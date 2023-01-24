@@ -43,20 +43,22 @@ Student Leaders
 
 
 
-| Year | Chairperson | Vice-Chairperson 1 | Vice-Chairperson 2 | Vice-Chairperson 3 |
+| Year | Chairperson | Vice-Chairperson 1 | Vice-Chairperson 2 | Vice-Chairperson 3/4 |
 | -------- | -------- | -------- | -------- | -------- |
 | **2010/11**     | Yanny (F33/F43)    | Daisy Wong (H33/H43)    | Yeo Wei Wen (H32/H42)    | Soh Wei Lin (F31/F43)     |
 | **2011/12**    | Aaron Wong (F35/F45)    | Soong Yi Ning (F34/F44)     | Sarah Chin (F21/F31)     | Andy Lim (H33/H43)    |
 | **2012/13**     | Text     | Text     | Text     | Text     |
 | **2013/14**    | Text     | Text     | Text     | Text     |
-| **2014/15**     | Text     | Text     | Text     | Text     |
-| **2015/16**     | Text     | Text     | Text     | Text     |
-| **2016/17**    | Text     | Text     | Text     | Text     |
-| **2017/18**     | Text     | Text     | Text     | Text     |
+| **2014/15**     | Venus Goh (F31/F41)     | Jaryl Seah (H31/H41)    | Victoria Chew (F34/F44)     | Elieen Heng (F31/F41)    |
+|      |     |      |      | Tang Xin Wei (F33/F43)     |
+| **2015/16**     | Toh Han Wei (F33/F43)     | Yeo Low Byang (F31/F41)     | Ni Nanyu (F33/F43)    | Elaine Kwang (F31/F41)    |
+|      |      |      |    |  Matthew Chan (J31/J41) |
+| **2016/17**    | Loi Jun Hao (F32/F42)     | K Zin Lynn (F31/F41)     | Koh Jin Zhen (F31/F41)     | Solaiy Meyapan (F32/F42)     |
+| **2017/18**     | Jolin Sow (F31/F41)     | Josh Soon (F31/F41)     | Ang Sin Nee (F33/F43)     | Isabelle Tan (F33/F43)     |
 | **2018/19**     | Amanda Ong (F31/P42)     | Alethea Chua (F33/P44)     | Jocelyn Tan (H31/P46)     | Monyi Moe Zatt (H32/P47)     |
 | **2019/20**     | Chua Qi Yun (J33/P43)     | Ocampo Nathania Calleja (J38/P48)     | Phua Xing Yi (J33/P43)     | Jannzel Sng (H23/J36)     |
 | **2020/21**     | Seow Vivienne (J33/P43)     | Adele Yong (J36/P46)     | Sng Jannzel (J36/P46)     |      |
 | **2021/22**     | Fariha Rasyiqah (J38/P48)    | Julie Chan (J38/P48)    | MIKAYLA HOI (H25/J36)     |     |
 | **2022/23**   | Mikayla Hoi (J36/P46)    | Gwendolyn Lam (J38/P48)     | Rei Goh (J37/P47)    | Yang Zi Heng (J32/P42)    |
-|      | Jaslyn Tan (J35/P45)     | Ella Chew  (J37/P47)   |      |      |
+|      | Jaslyn Tan (J35/P45)     |  Ella Chew  (J37/P47)  |      |      |
 | **2023/24**     | Text     | Text     | Text     | Text     |
