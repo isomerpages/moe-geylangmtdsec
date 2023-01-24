@@ -18,5 +18,3 @@ third_nav_title: Aesthetics
 *   Bonding activities
 *   Sec 4 and 5 Graduation
 
-
-
