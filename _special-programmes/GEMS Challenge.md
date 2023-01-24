@@ -91,3 +91,29 @@ In this Challenge, students work with one another to complete one of Asia’s tr
 
 In 2019, seventeen Secondary 3 students participated in the annual GEMS Trekking Challenge in Hong Kong. Our students also spent time at the YMCA College and interacted with the college students. The YMCA students displayed some of their STEM projects in Robotics and Augmented Reality while our students taught them some uniquely Singaporean games such as the ‘country eraser game’ and ‘zero point’.
 ![](/images/GEMS-6.jpg)
+
+**Overseas Service Learning (OSL)**
+Objectives
+
+*   To develop further the spirit of selfless giving, service, empathy and leadership skills among our students.
+*   To share joy with others through our friendship and activities.
+
+Programme
+
+Two Overseas Service Learning (OSL) Journeys are organized each year, in May and November. During the OSL in Chiang Mai, Thailand, our students plan and conduct English and upcycling lessons, do mural painting and play games with the local children.
+
+The students learn to step out of their comfort zone to lead the activities they have planned. Through daily debrief and reflections, they learn the values of care and compassion, and live out our school vision of being a Caring Citizen.
+
+![](/images/GEMS-7.jpg)
+
+
+Internationalisation Trip (China) Challenge
+Objectives
+
+*   To provide opportunities for students to experience the fast pace of progress in developing countries.
+*   To prepare students for the future through understanding societal development trends.
+
+Programme
+
+Students visit local and international schools to gain new perspectives in learning and exchange notes with their Shanghai counterparts. Through visits to Singapore enterprises in China,  they also learn to appreciate the challenges of starting a business in a foreign environment. Besides experiencing the local culture of using various technology platforms in their daily lives, our students also participate in various cultural appreciation activities, such as tea appreciation.
+![](/images/GEMS-8.jpg)
