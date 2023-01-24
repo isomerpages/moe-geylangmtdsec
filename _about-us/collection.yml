@@ -2,9 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Former Students' Achievements/.keep
-      - Former Students' Achievements/2022.md
-      - Former Students' Achievements/2021.md
       - Principal’s Message.md
       - Vision, Mission and Values.md
       - School Crest and Song.md
@@ -32,9 +29,12 @@ collections:
       - Academic Achievements/2021 GCE N Level.md
       - Academic Achievements/2020 GCE O Level.md
       - Academic Achievements/2020 GCE N Level.md
+      - Former Students' Achievements/.keep
+      - Former Students' Achievements/2022.md
+      - Former Students' Achievements/2021.md
       - Former Students' Achievements.md
       - All Round Excellence Award.md
-      - Photo Gallery/2023.md
       - Photo Gallery/.keep
+      - Photo Gallery/2023.md
       - Photo Gallery/2022.md
       - Non Financial Information.md
