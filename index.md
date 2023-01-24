@@ -10,13 +10,13 @@ sections:
       background: /images/website cover v2.jpg
       key_highlights:
         - title: GM Heartbeats
-          description: ""
+          description: Facebook
           url: https://www.facebook.com/profile.php?id=100027880047289
-        - title: GM Virtual Tour
-          description: ""
-          url: /about-us/school-virtual-tour/
-        - title: GM Calendar
-          description: ""
+        - title: Virtual Introduction
+          description: of the school
+          url: /about-us/virtual-introduction/
+        - title: Calendar
+          description: School
           url: /useful-links/gms-calendar/
   - resources:
       subtitle: News and Events
