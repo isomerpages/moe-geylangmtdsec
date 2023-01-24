@@ -39,3 +39,17 @@ third_nav_title: UGs
 |      |      |  Squad 2: Lin Zitong, Heran (J35)   |
 |      |      |  Squad 3: Shee Yue Zhen (J37)    |	
 |      |      |  Squad 4: Phoebe Tay Hui Wen (J35)    |
+
+**Officers and Senior NCOs**
+| Captain: |  | Ms Grace See |
+| -------- | -------- | -------- |
+| Warrant Officers:     |      | Ms Grace See     |
+|      |      | Miss Huang Jianwei     |
+|      |      | Ms Dorcas Leow Yuen Shin     |
+|      |      | Miss Oh Jia Jia     |
+|      |      | Miss Mandy Mak     |
+|      |      | Miss Jolisa Koh     |
+| Warrant Officers:     |      | Miss Gloria Fong     |
+|      |      | Miss Tan Le En, Leanne    |
+|      |      | Miss Goh Ai Li    |
+|      |      | Miss Ang Soo Hui     |
