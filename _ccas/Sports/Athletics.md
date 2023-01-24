@@ -22,7 +22,7 @@ third_nav_title: Sports
 
 
 **Teachers-in-charge**
-| 1. |  | Mr Xiao Kaiwen (OIC)  |
+| 1. |  | Mr Xiao Kaiwen (I/C)  |
 | -------- | -------- | -------- |
 | 2.     |      | Mr John Seah Yong Han     |
 | 3.     |      | Mr Johney Joseph    |
