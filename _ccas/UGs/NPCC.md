@@ -7,7 +7,6 @@ third_nav_title: UGs
 ![](/images/Inter-Unit-Drill-Competition-2019.jpg)
 
 
-
 **Objectives of NPCC**
 
 *   To develop cadets to be active citizens and community leaders, by working in partnership with the Singapore Police Force to fight crime and keep Singapore safe.
