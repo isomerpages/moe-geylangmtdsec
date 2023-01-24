@@ -19,10 +19,10 @@ third_nav_title: Clubs and Societies
 *   Student-Initiated Mentoring Programme and Peer Review
 
 **Teachers-in-Charge**
-* Ms Norfudlana Mayatim
-* Ms Siti Fattasha Ithnin
-* Mrs Denise Lok
-
+| 1. |  | Ms Norfudlana Mayatim (I/C) |
+| -------- | -------- | -------- |
+| 2.     |      | Ms Siti Fattasha Ithnin     |
+| 3.     |      | Mrs Denise Lok    |
 
 **Student Leaders**
 | Chairperson |  | Lim Tze Xuan (J33) |
