@@ -34,11 +34,8 @@ third_nav_title: UGs
 **Student Leaders**
 | Company Leader: |  | Lin Meixi (J35) |
 | -------- | -------- | -------- |
-|Assistant Company Leaders:    |      | Lim En Hui (J31)     |
-|      |      | Chan Ling Qi (J34)     |
-| Quartermistresses:     |      | Pang Shi Qing Christabel (J32)    |
-|      |      | Pwee Yi Han Reann (H22)     |
-|  Patrol Leaders:    |      |  Kingfisher – Putri Mellissa (H25)   |
-|      |      |  Mynah- Shayna Seah (J35)   |
-|      |      |  Oriole- Louise Low (J35)    |	
-|      |      |  Sparrow- Ashlyn Tan Xin Xuan (J33)    |
+|Assistant Company Leaders:    |      | Shee Yue Zhen (J37)     |
+|  Squad Leaders:    |      |  Squad 1: Lucy Liew Yen Nhi (J31)   |
+|      |      |  Squad 2: Lin Zitong, Heran (J35)   |
+|      |      |  Squad 3: Shee Yue Zhen (J37)    |	
+|      |      |  Squad 4: Phoebe Tay Hui Wen (J35)    |
