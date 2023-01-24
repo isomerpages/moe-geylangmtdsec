@@ -57,11 +57,6 @@ third_nav_title: UGs
 |    |      | Leong Jovan  |	
 |    |      | Zach Wong  |		
 	
-	
-	
-	
-	
-	
-	
+
 
 ![](/images/20160416_112025-1024x576.jpg)
