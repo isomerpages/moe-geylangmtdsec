@@ -4,6 +4,7 @@ permalink: /ccas/Clubs-and-Societies/MediaGM/
 description: ""
 third_nav_title: Clubs and Societies
 ---
+![](/images/IMG-20220314-WA0000.jpg)
 **Objectives of CCA**
 
 *   Expose students to new media and areas of Information Technology i.e. Photography and Videography.
