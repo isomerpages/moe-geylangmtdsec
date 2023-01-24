@@ -26,13 +26,36 @@ third_nav_title: UGs
 *   Gave residents in the Pipit Rd Estate Masks as part of BB Cares VIA Outreach programme
 
 
+**Teachers-in-Charge**
+| 1. |  | Mr Cyril Khoo (I/C) |
+| -------- | -------- | -------- |
+| 2.     |      | Mr Kenneth Soh     |
+| 3.     |      | Ms Teo Jia Min    |
 
 
+**Student Leaders**
+| Company Sergeant Major |  | Sergeant Jaedon Ho Jia Jie |
+| -------- | -------- | -------- |
+| Deputy Company Sergeant Major:    |      | Sergeant Joseph Pang Kuan Le     |
+| Sec 3 Platoon Sgt.:     |      | Sergeant Han Qi Li     |
+| Sec 2 Platoon Sgt.:     |      | Sergeant Oakley Ang Kai Yang     |
+| Sec 1 Platoon Sgt.:     |      | Sergeant Joseph Pang Kuan Le     |
+|      |      |   |
 
-			
-			
-	
-	
+
+**Officers and Primers**
+| Captain: |  | Mr David Seetoh |
+| -------- | -------- | -------- |
+| Officers:    |      | Mr Chong Loi Fong     |
+|     |      | Mr Genson Teo    |
+|      |      | Mr Tan Li Yong     |
+|      |      | Mr Lawrence Liu     |
+| Primers:   |      | Bryan Lee  |
+|    |      | Chia Wen Jie  |
+|    |      | Colin Tang  |			
+|    |      | Xander Chua  |			
+|    |      | Leong Jovan  |	
+|    |      | Zach Wong  |		
 	
 	
 	
