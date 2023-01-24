@@ -17,3 +17,15 @@ third_nav_title: Clubs and Societies
 *   Completion of Digital MRC Handbook
 *   Learning Journey to The Gym Esportscentre
 *   Student-Initiated Mentoring Programme and Peer Review
+
+**Teachers-in-Charge**
+* Ms Norfudlana Mayatim
+* Ms Siti Fattasha Ithnin
+* Mrs Denise Lok
+
+
+**Student Leaders**
+| Chairperson |  | Lim Tze Xuan (J33) |
+| -------- | -------- | -------- |
+| Vice Chairperson (Logistics):     |      | Ryan Wong Hao Wei (J36)     |
+| Vice Chairperson (Training)     |      | Kawanishi Takuto (J36)     |
