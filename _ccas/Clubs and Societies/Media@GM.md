@@ -32,23 +32,21 @@ third_nav_title: Clubs and Societies
 
 
 
-Teachers-in-Charge
+**Teachers-in-Charge**
 * Mr Kelvin Chia (I/C)
 * Mr Pek Han Wei
 * Mr Syafrin
 
 
-Student Leaders
-<table style="box-sizing: border-box; border-collapse: collapse; border-spacing: 0px; background-color: rgb(255, 255, 255); color: rgb(128, 128, 128); font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 311.375px;"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; width: 152.203px;">Chairperson (PVS):</td><td style="box-sizing: border-box; padding: 0px; width: 159.172px;">Mikayla Hoi En Le (J36)</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; width: 152.203px;">Chairperson (DMS):</td><td style="box-sizing: border-box; padding: 0px; width: 159.172px;">Jaslyn Tan</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; width: 152.203px;"></td><td style="box-sizing: border-box; padding: 0px; width: 159.172px;"></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; width: 152.203px;">Vice-Chairperson (PVS):</td><td style="box-sizing: border-box; padding: 0px; width: 159.172px;">Gwendolyn Lam Yee Hei (J38)</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; width: 152.203px;">Vice-Chairperson (PVS):</td><td style="box-sizing: border-box; padding: 0px; width: 159.172px;">Rei Goh Yu En (J37)</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; width: 152.203px;">Vice-Chairperson (PVS):</td><td style="box-sizing: border-box; padding: 0px; width: 159.172px;">Yang Zi Heng (J32)</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; width: 152.203px;">Vice-Chairperson (DMS):</td><td width="228" style="box-sizing: border-box; padding: 0px; width: 159.172px;">Ella Chew</td></tr></tbody></table>
-
-
-
+**Student Leaders**
 | Year | Chairperson | Vice-Chairperson 1 | Vice-Chairperson 2 | Vice-Chairperson 3/4 |
 | -------- | -------- | -------- | -------- | -------- |
 | **2010/11**     | Yanny (F33/F43)    | Daisy Wong (H33/H43)    | Yeo Wei Wen (H32/H42)    | Soh Wei Lin (F31/F43)     |
 | **2011/12**    | Aaron Wong (F35/F45)    | Soong Yi Ning (F34/F44)     | Sarah Chin (F21/F31)     | Andy Lim (H33/H43)    |
-| **2012/13**     | Text     | Text     | Text     | Text     |
-| **2013/14**    | Text     | Text     | Text     | Text     |
+| **2012/13**     | Qian Ru (F31/F41)     | Kendra Koh (F34/F44)     | Chian Yuan Han (F31/F41)     | Cynthia (F34/F44)     |
+|      |     |      |      | Jia Wei (F32/F42)     |
+| **2013/14**    | Syazlyn Koh (F33/F43)     | Lim Jun Jie (F33/F43)     | Parvyn (H31/H41)     | Ong Jia Hui (F31/F41)     |
+|      |     |      |      | Velasca (F34/F44)     |
 | **2014/15**     | Venus Goh (F31/F41)     | Jaryl Seah (H31/H41)    | Victoria Chew (F34/F44)     | Elieen Heng (F31/F41)    |
 |      |     |      |      | Tang Xin Wei (F33/F43)     |
 | **2015/16**     | Toh Han Wei (F33/F43)     | Yeo Low Byang (F31/F41)     | Ni Nanyu (F33/F43)    | Elaine Kwang (F31/F41)    |
