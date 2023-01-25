@@ -27,6 +27,7 @@ Click the following links for more information.
 * [A student's essay taken from "1955 Activities of the School Student Essay"](https://geylangmethodistsec.moe.edu.sg/student-essay/)
 * [Interview with Former BOM Chairman, Prof Lionel Lee Kim Hock](https://geylangmethodistsec.moe.edu.sg/interview-Prof-Lionel/)
 * [Interview with Former BOM member, Mr Tan Wee Pin](https://geylangmethodistsec.moe.edu.sg/Interview-Mr-Tan-Wee-Pin/)
+* [Interview with Former Principal, Mr Lim Yan Hock](https://geylangmethodistsec.moe.edu.sg/Interview-Mr-Lim-Yan-Hock/)
 
 
 #### Photo Galleries
