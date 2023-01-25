@@ -4,8 +4,6 @@ permalink: /useful-links/useful-links-for-staff/
 description: ""
 third_nav_title: Staff
 ---
-
-
 |  [Academy of Singapore Teachers](https://www.academyofsingaporeteachers.moe.gov.sg/) | | https://www.academyofsingaporeteachers.moe.gov.sg |
 | -------- | -------- | -------- |
 | [Resource Booking System](https://rbs.avero-tech.com/)     |      | https://rbs.avero-tech.com/     |
@@ -25,3 +23,5 @@ third_nav_title: Staff
 | [Singapore Examinations and Assessment Board](https://www.seab.gov.sg/)     |      | https://www.seab.gov.sg/     |
 | [Singapore Student Learning Space](https://learning.moe.edu.sg/)     |      | https://learning.moe.edu.sg    |
 | [Values in Action: Animation Series](https://www.moe.gov.sg/education/secondary/values-in-action)     |      | https://www.moe.gov.sg/education/secondary/values-in-action    |
+| [MIMS Portal](https://portal.mims.moe.gov.sg/)    |      | https://portal.mims.moe.gov.sg     |
+
