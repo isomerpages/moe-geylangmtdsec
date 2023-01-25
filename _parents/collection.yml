@@ -2,11 +2,11 @@ collections:
   parents:
     output: true
     order:
-      - Group Personal Accident (GPA) Insurance for Students.md
       - Family Education Programmes.md
       - Financial Assistance and Bursary Schemes.md
       - Full Subject Based Banding (FSBB).md
       - Information on Edusave Awards.md
+      - Group Personal Accident (GPA) Insurance for Students.md
       - National Digital Literacy Programme.md
       - Parent Support Group.md
       - Sexuality Education.md
