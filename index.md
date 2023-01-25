@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/website cover v2.jpg
       key_highlights:
-        - title: GM Heartbeats
+        - title: GM Heartbeat
           description: Facebook
           url: https://www.facebook.com/profile.php?id=100027880047289
         - title: Virtual Introduction
