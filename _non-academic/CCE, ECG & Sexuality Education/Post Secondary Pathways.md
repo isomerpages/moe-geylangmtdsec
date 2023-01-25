@@ -27,4 +27,22 @@ Please find below collaterals on the Polytechnic Early Admissions Exercise (Poly
 
 *   [AY2021 Poly EAE Briefing Slides](/files/AY2021-Poly-EAE-Briefing-Slides.pdf)
 *   [AY2022 Poly EAE Factsheet](/files/AY2022-Poly-EAE-Factsheet.pdf)
-*   [[AY2022 Poly EAE for O Level FAQs](/files/AY2022-Poly-EAE-for-O-Level-FAQs-Schools.pdf)]
+*   [AY2022 Poly EAE for O Level FAQs](/files/AY2022-Poly-EAE-for-O-Level-FAQs-Schools.pdf)
+
+
+#### **Direct-Entry Scheme to Polytechnic Programme (DPP)**
+
+
+Please find below collaterals on the direct entry scheme to the polytechnic programme (DPP) for N(A)-Level students for your reference and use.
+
+*   [2021 DPP Factsheet for Students](/files/2021-DPP-Factsheet-for-Students.pdf)
+*   [2021 DPP FAQs](/files/2021-DPP-FAQs.pdf)
+
+
+#### **Polytechnic Foundation Programme (PFP)**
+#### 
+
+Please find below collaterals on the polytechnic foundation programme (PFP) for N(A)-Level students for your reference and use.
+
+*   [2021 PFP Factsheet for Students](/files/2021-PFP-Factsheet-for-Students.pdf)
+*   [2020 PFP FAQs](/files/2020-PFP-FAQs.pdf)
