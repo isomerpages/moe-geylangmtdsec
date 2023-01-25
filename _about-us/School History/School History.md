@@ -26,6 +26,7 @@ Click the following links for more information.
 * [GM Houses](https://geylangmethodistsec.moe.edu.sg/GM-Houses/)
 * [A student's essay taken from "1955 Activities of the School Student Essay"](https://geylangmethodistsec.moe.edu.sg/student-essay/)
 * [Interview with Former BOM Chairman, Prof Lionel Lee Kim Hock](https://geylangmethodistsec.moe.edu.sg/interview-Prof-Lionel/)
+* [Interview with Former BOM member, Mr Tan Wee Pin](https://geylangmethodistsec.moe.edu.sg/Interview-Mr-Tan-Wee-Pin/)
 
 
 #### Photo Galleries
