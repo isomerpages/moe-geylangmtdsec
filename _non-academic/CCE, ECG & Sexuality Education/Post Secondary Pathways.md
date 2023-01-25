@@ -46,3 +46,10 @@ Please find below collaterals on the polytechnic foundation programme (PFP) fo
 
 *   [2021 PFP Factsheet for Students](/files/2021-PFP-Factsheet-for-Students.pdf)
 *   [2020 PFP FAQs](/files/2020-PFP-FAQs.pdf)
+
+
+**ITE Early Admission Exercise (EAE)**
+
+*   [ITE EAE FAQs](https://www.ifaq.gov.sg/ite/apps/fcd_faqmain.aspx#TOPIC_11747)
+*   [ITE EAE 2022 Intake Factsheet](https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/eae/ite-eae-2022-intake-factsheet.pdf?sfvrsn=1c32e634_14)
+*  [Information Note on 2021 DSA JC Exercise](/files/Information-Note-on-2021-DSA-JC-Exercise.pdf)
