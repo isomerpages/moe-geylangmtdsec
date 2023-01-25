@@ -21,7 +21,9 @@ The school was upgraded in 1998 and God continued to pour out His blessings.  I
 We celebrate our 95th anniversary in 2019.  We are grateful for the past 95 years of blessings and believe that God will continue to watch over His students for many more years to come as we welcome future generations of students.
 
 
-[Full School History](https://geylangmethodistsec.moe.edu.sg/about-us/school-history/Full-School-History/)
+* [Full School History](https://geylangmethodistsec.moe.edu.sg/about-us/school-history/Full-School-History/)
+* [GM Houses](https://geylangmethodistsec.moe.edu.sg/GM-Houses/)
+* 
 
 
 #### Photo Galleries
