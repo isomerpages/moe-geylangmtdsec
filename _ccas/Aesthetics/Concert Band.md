@@ -38,5 +38,3 @@ third_nav_title: Aesthetics
 | 1. |  | Mr Samuel Tan Sim Wah (Conductor) |
 | -------- | -------- | -------- |
 | 2.    |      | Mr Izac Lim (Instructor)     |
-	
-	
