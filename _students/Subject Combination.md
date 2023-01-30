@@ -21,5 +21,5 @@ Published in Term 4
 
 *   [ACTUAL Subject Combi briefing 2022\_ Exp](https://geylangmethodistsec.moe.edu.sg/wp-content/uploads/2022/08/ACTUAL-Subject-Combi-briefing-2022_-Exp.pdf)
 *   [ACTUAL Subject Combi briefing 2022\_ NA](https://geylangmethodistsec.moe.edu.sg/wp-content/uploads/2022/08/ACTUAL-Subject-Combi-briefing-2022_-NA.pdf)
-*   [ACTUAL Subject Combi briefing 2022\_ NT](https://geylangmethodistsec.moe.edu.sg/wp-content/uploads/2022/08/ACTUAL-Subject-Combi-briefing-2022_-NT.pdf)
-*   [Out-of-Stream Subjects Briefing for Sec 2 N(A) & 2 N(T)](https://geylangmethodistsec.moe.edu.sg/wp-content/uploads/2022/09/Out-of-Stream-Subjects-Briefing-for-Sec-2-NA-2-NT.pdf)
+*   [ACTUAL Subject Combi briefing 2022\_ NT](/files/ACTUAL-Subject-Combi-briefing-2022_-NT.pdf)
+*  [Out-of-Stream Subjects Briefing for Sec 2 N(A) & 2 N(T)](/files/Out-of-Stream-Subjects-Briefing-for-Sec-2-NA-2-NT.pdf)
