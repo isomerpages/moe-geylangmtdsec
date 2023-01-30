@@ -43,8 +43,7 @@ third_nav_title: UGs
 **Officers and Senior NCOs**
 | Captain: |  | Ms Grace See |
 | -------- | -------- | -------- |
-| Warrant Officers:     |      | Ms Grace See     |
-|      |      | Miss Huang Jianwei     |
+|  Officers:      |      | Miss Huang Jianwei     |
 |      |      | Ms Dorcas Leow Yuen Shin     |
 |      |      | Miss Oh Jia Jia     |
 |      |      | Miss Mandy Mak     |
