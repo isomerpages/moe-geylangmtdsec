@@ -30,13 +30,13 @@ third_nav_title: UGs
 
 
 **Student Leaders**
-| Company Leader: |  | Tan Min Sze(J33) |
+| Company Leader: |  | Tan Min Sze |
 | -------- | -------- | -------- |
-|Assistant Company Leaders:    |      | Lim En Hui (J31)     |
-|      |      | Chan Ling Qi (J34)     |
-| Quartermistresses:     |      | Pang Shi Qing Christabel (J32)    |
-|      |      | Pwee Yi Han Reann (H22)     |
-|  Patrol Leaders:    |      |  Kingfisher – Putri Mellissa (H25)   |
-|      |      |  Mynah- Shayna Seah (J35)   |
-|      |      |  Oriole- Louise Low (J35)    |	
-|      |      |  Sparrow- Ashlyn Tan Xin Xuan (J33)    |	
+|Assistant Company Leaders:    |      | Lim En Hui     |
+|      |      | Chan Ling Qi      |
+| Quartermistresses:     |      | Pang Shi Qing Christabel     |
+|      |      | Pwee Yi Han Reann     |
+|  Patrol Leaders:    |      |  Kingfisher – Putri Mellissa   |
+|      |      |  Mynah- Shayna Seah    |
+|      |      |  Oriole- Louise Low     |	
+|      |      |  Sparrow- Ashlyn Tan Xin Xuan    |
