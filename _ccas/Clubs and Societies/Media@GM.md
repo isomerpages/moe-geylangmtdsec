@@ -57,7 +57,7 @@ third_nav_title: Clubs and Societies
 | **2018/19**     | Amanda Ong (F31/P42)     | Alethea Chua (F33/P44)     | Jocelyn Tan (H31/P46)     | Monyi Moe Zatt (H32/P47)     |
 | **2019/20**     | Chua Qi Yun (J33/P43)     | Ocampo Nathania Calleja (J38/P48)     | Phua Xing Yi (J33/P43)     | Jannzel Sng (H23/J36)     |
 | **2020/21**     | Seow Vivienne (J33/P43)     | Adele Yong (J36/P46)     | Sng Jannzel (J36/P46)     |      |
-| **2021/22**     | Fariha Rasyiqah (J38/P48)    | Julie Chan (J38/P48)    | MIKAYLA HOI (H25/J36)     |     |
+| **2021/22**     | Fariha Rasyiqah (J38/P48)    | Julie Chan (J38/P48)    | Mikayla Hoi (H25/J36)     |     |
 | **2022/23**   | Mikayla Hoi (J36/P46)    | Gwendolyn Lam (J38/P48)     | Rei Goh (J37/P47)    | Yang Zi Heng (J32/P42)    |
 |      | Jaslyn Tan (J35/P45)     |  Ella Chew  (J37/P47)  |      |      |
 | **2023/24**     | Text     | Text     | Text     | Text     |
