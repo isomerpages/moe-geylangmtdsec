@@ -8,10 +8,19 @@ description: ""
 
 
 **Published in Term 1**
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Nge6mxuao90" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *   [Subject Combination for the Express (E) Stream](https://youtu.be/Nge6mxuao90)
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=UVbCUrbNWQQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 *   [Subject Combination for the Normal Academic (NA) Stream](https://youtu.be/UVbCUrbNWQQ)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=LveS1TYRJTk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 *   [Subject Combination for the Normal technical (NT) Stream](https://youtu.be/LveS1TYRJTk)
+
+
 *   [Education and Career Guidance (ECG)](https://youtu.be/XCQ_0TGKuGc)
 *   [Frequently Asked Questions (FAQ)](/files/Frequently-Asked-Questions-FAQ.pdf)
 *   [Enquiries or Feedback for the Subject Combination Briefing](https://form.gov.sg/621c1f41a71f3d0013eb4247)
