@@ -25,7 +25,7 @@ third_nav_title: UGs
 | -------- | -------- | -------- |
 | 2.     |      | Mr Ng Jun Qiang (DyOC)     |
 | 3.     |      | Mr Wong Kok Woei    |
-| 4.     |      | 1.  Mr Zhao Yilin    |
+| 4.     |      | Mr Zhao Yilin    |
 
 **Student Leaders**
 | Unit Secretary: |  | Tan Aik Hian |
