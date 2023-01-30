@@ -35,9 +35,9 @@ third_nav_title: Aesthetics
 | President: |  | Yong Ke Xuan |
 | -------- | -------- | -------- |
 | Vice President:    |      | Sim Xiao En    |
-|     |      | Tsai Yi Jie (J36)    |
-|     |      | Md Mustaqim Bin Md Faisal (J38)    |
-| Librarian:    |      | Reyhan Daffa Adithya (J31)    |
+|     |      | Tsai Yi Jie     |
+|     |      | Md Mustaqim Bin Md Faisal     |
+| Librarian:    |      | Reyhan Daffa Adithya    |
 
 
 **Instructor**
