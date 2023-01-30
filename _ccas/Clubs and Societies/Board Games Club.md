@@ -30,10 +30,10 @@ third_nav_title: Clubs and Societies
 
 
 **Student Leaders**
-| Chairperson: |  | Lee Sze Hui Bernice, H23 |
+| Chairperson: |  | Lee Sze Hui Bernice |
 | -------- | -------- | -------- |
-| Vice-chairperson:    |      | Jermaine Wong Jie Min, H23     |
-| Head of IT:     |      | Ayush Rai, H22     |
-| Head of Training:     |      | Raphael Goh Lim Sivanthan, H26     |
-| Head of Logistics:     |      | Lim Kai Jyun Dominique, J38     |
-|      |      | Lim Kai En, J38  |
+| Vice-chairperson:    |      | Jermaine Wong Jie Min     |
+| Head of IT:     |      | Ayush Rai     |
+| Head of Training:     |      | Raphael Goh Lim Sivanthan     |
+| Head of Logistics:     |      | Lim Kai Jyun Dominique     |
+|      |      | Lim Kai En  |
