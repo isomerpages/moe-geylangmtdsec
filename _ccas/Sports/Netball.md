@@ -18,10 +18,10 @@ third_nav_title: Sports
 *   Participated in Carnival organised by The Netball Academy (C division)
 
 **Teachers-in-charge**
-| 1. |  | Mdm Zuraidah Omar (OIC)  |
+| 1. |  | Mdm Zuraidah Omar (I/C)  |
 | -------- | -------- | -------- |
 | 2.     |      | Miss Nurulathirah Bte Hasri    |
-| 3.     |      | Miss Charlene Ng     |
+| 3.     |      | Ms Ong Siew Siang     |
 
 
 **Student Leaders**
@@ -35,4 +35,4 @@ third_nav_title: Sports
 | Head of Discipline:   |      | Chan Yan Xin Pearlene     |
 
 **Coach**
-1. Ms Diandra Chua 
+1. Ms Diandra Chua
