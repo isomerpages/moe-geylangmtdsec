@@ -28,7 +28,7 @@ third_nav_title: Sports
 **Student Leaders**
 | Captain: |  | Ng Yi Han |
 | -------- | -------- | -------- |
-| Vice-Captains:    |      | Lim Jia Jun, Bryan     |
+| Vice-Captains:    |      | Lim Jia Jun, Bryan      |
 |    |      | Tan Khim Seah     |
 |    |      | Chan Li Ting    |
 
