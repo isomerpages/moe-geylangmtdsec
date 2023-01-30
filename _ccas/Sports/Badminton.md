@@ -20,4 +20,28 @@ third_nav_title: Sports
 *   Our B & C Girls took part in Paya Lebar Methodist Badminton Cup 2022 @ PLMGS on 4 Nov'22. Came in 2nd Runner-Up.
 
 
+**Teachers-in-charge**
+| 1. |  | Mr Yip Cheng Hou (I/C)  |
+| -------- | -------- | -------- |
+| 2.     |      | Mr Joseph Lim     |
+| 3.     |      | Mr Bernard Cheong    |
+| 4.     |      | Ms Fahariah Yeo Bte Noorhisham    |
 
+
+**Student Leaders**
+| B Division Boys Captain: |  | Jonah Tong |
+| -------- | -------- | -------- |
+| B Division Boys Vice-Captain:    |      | Isaac Lee     |
+| B Division Girls Captain:    |      | Esther Gan     |
+| B Division Girls Vice-Captain:    |      | Lee Ke En     |
+| C Division Boys Captain: |  | Lim Yong Jun |
+| C Division Boys Vice-Captain:    |      | Nigel Lee     |
+| C Division Girls Captain:    |      | Zovonne Lai     |
+| C Division Girls Vice-Captain:    |      | Jessica Feng     |
+
+**School Team Coaches**
+
+
+| 1 |  | Mr Liu Qing Dong |
+| -------- | -------- | -------- |
+| 2    |     |  Mr Ng Choon Kang    |
