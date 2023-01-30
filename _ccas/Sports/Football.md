@@ -22,9 +22,9 @@ third_nav_title: Sports
     Participated in the National School Games 2022.
 		
 		**Teachers-in-charge**
-| 1. |  | Mr Ishwarinder Singh (OIC)  |
+| 1. |  | Mr Ishwarinder Singh (I/C)  |
 | -------- | -------- | -------- |
-| 2.     |      |      |
+| 2.     |      |   Mr Jonathan Koh   |
 
 
 
