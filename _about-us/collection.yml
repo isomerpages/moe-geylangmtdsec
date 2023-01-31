@@ -1,0 +1,39 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal’s Message.md
+      - Vision, Mission and Values.md
+      - School Crest and Song.md
+      - School History/.keep
+      - School History/School History.md
+      - School History/Principals.md
+      - School History/BOM Chairmen.md
+      - Virtual Introduction.md
+      - Board of Management.md
+      - Staff/.keep
+      - Staff/School Executive Committee (SEC).md
+      - Staff/Teaching Staff & School Counsellor.md
+      - Staff/Executive and Administrative Staff (EAS).md
+      - Staff/Useful Links for Staff.md
+      - Alumni.md
+      - Parent Support Group.md
+      - School Achievements/.keep
+      - School Achievements/2022.md
+      - School Achievements/2021.md
+      - School Achievements/2020.md
+      - Academic Achievements/.keep
+      - Academic Achievements/2022 GCE O Level.md
+      - Academic Achievements/2022 GCE N Level.md
+      - Academic Achievements/2021 GCE O Level.md
+      - Academic Achievements/2021 GCE N Level.md
+      - Academic Achievements/2020 GCE O Level.md
+      - Academic Achievements/2020 GCE N Level.md
+      - Former Students' Achievements/.keep
+      - Former Students' Achievements/2022.md
+      - Former Students' Achievements/2021.md
+      - All Round Excellence Award.md
+      - Photo Gallery/.keep
+      - Photo Gallery/2023.md
+      - Photo Gallery/2022.md
+      - Non Financial Information.md

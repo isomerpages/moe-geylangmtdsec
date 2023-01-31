@@ -1,0 +1,5 @@
+collections:
+  archive-of-information:
+    output: true
+    order:
+      - Archive of Information.md

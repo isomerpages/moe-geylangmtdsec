@@ -1,0 +1,8 @@
+collections:
+  special-programmes:
+    output: true
+    order:
+      - Applied Learning Programme (ALP).md
+      - GEMS Challenge.md
+      - Learning For Life Programme (LLP).md
+      - Student Initiated Learning (SIL).md

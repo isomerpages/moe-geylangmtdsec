@@ -1,0 +1,5 @@
+collections:
+  archive-of-announcement:
+    output: true
+    order:
+      - Archive of Announcement.md

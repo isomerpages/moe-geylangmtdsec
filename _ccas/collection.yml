@@ -1,0 +1,29 @@
+collections:
+  ccas:
+    output: true
+    order:
+      - CCAs Schedule and Venues.md
+      - Sports/.keep
+      - Sports/Athletics.md
+      - Sports/Badminton.md
+      - Sports/Basketball (Boys).md
+      - Sports/Bowling.md
+      - Sports/Football.md
+      - Sports/Netball.md
+      - Sports/Softball (Girls).md
+      - Sports/Table Tennis.md
+      - Sports/Volleyball (Boys).md
+      - UGs/Boys' Brigade.md
+      - UGs/Girl Guides.md
+      - UGs/Girls’ Brigade.md
+      - UGs/.keep
+      - UGs/NPCC.md
+      - Aesthetics/.keep
+      - Aesthetics/Concert Band.md
+      - Aesthetics/Chinese Dance.md
+      - Aesthetics/Choir.md
+      - Aesthetics/English Drama Club.md
+      - Clubs and Societies/.keep
+      - Clubs and Societies/Board Games Club.md
+      - Clubs and Societies/Media@GM.md
+      - Clubs and Societies/Media Resources (MR).md

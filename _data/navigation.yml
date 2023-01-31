@@ -1,15 +1,16 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/hero page header v5.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    collection: about-us
+  - title: Curriculum
+    collection: curriculum
+  - title: CCAs
+    collection: ccas
+  - title: Special Programmes
+    collection: special-programmes
+  - title: Students
+    collection: students
+  - title: Parents
+    collection: parents
+  - title: GM 100
+    collection: gm-100
