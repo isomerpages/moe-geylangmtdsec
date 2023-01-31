@@ -14,7 +14,7 @@ description: ""
 | [ITE Prospectus](https://www.ite.edu.sg/admissions/prospectus) | Information on ITE courses, including Traineeship |
 | [CourseFinder](https://go.gov.sg/coursefinder) | List of ITE & Polytechnic courses |
 | [ITE Early Admissions Exercise (for N/O-level students)](https://go.gov.sg/applyeae) | Applicable to all graduating students |
-| [Poly Early Admissions Exercise (for O-level students)](https://go.gov.sg/polyeae) | Applicable to 'O'-level students |
+| [Poly Early Admissions Exercise (for O-level students)](https://www.moe.gov.sg/post-secondary/admissions/poly-eae) | Applicable to 'O'-level students |
 | [Poly EAE FAQ](https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp?type=FAQs) | FAQ for Poly EAE (Important: read if you are considering EAE) |
 | [Direct School Admission - Junior Colleges](https://go.gov.sg/applyjcdsa) | Applicable to 'O'-level students |
 | [Polytechnic Foundation Programme (PFP)](https://go.gov.sg/pfp) | Applicable to 4NA students |
