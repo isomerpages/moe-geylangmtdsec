@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - ICT Account.md
       - Education and Career Guidance.md
       - Rules for Special Rooms/.keep
       - Rules for Special Rooms/Science Laboratory.md
