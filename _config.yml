@@ -3,10 +3,10 @@ url: https://geylangmethodistsec.moe.edu.sg
 favicon: /images/GMS(S) ver3 png.png
 colors:
   primary-color: "#2f3191"
-  secondary-color: "#ec1d24"
+  secondary-color: "#f1fa58"
   media-colors:
     - title: media-color-one
-      color: "#f1fa58"
+      color: "#ec1d24"
     - title: media-color-two
       color: "#fdbe13"
     - title: media-color-three
