@@ -3,6 +3,9 @@ title: ICT Matters
 permalink: /students/ICT-Matters/
 description: ""
 ---
+![](/images/GMS(S)%20PLD%20Acceptable%20User%20Policy.jpg)
+![](/images/GMS(S)%20PLD%20Routines%20for%20Students.jpg)
+
 ![](/images/PLD%20Issue%20Reporting.jpg)
 
 Every student will be provisioned with the following ICT accounts:
