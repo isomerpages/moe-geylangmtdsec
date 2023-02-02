@@ -3,7 +3,6 @@ title: ICT Matters
 permalink: /students/ICT-Matters/
 description: ""
 ---
-
 ![](/images/PLD%20Issue%20Reporting.jpg)
 
 Every student will be provisioned with the following ICT accounts:
@@ -16,3 +15,8 @@ whenever the student enters the school compound.
 * Every student will be issued a PLD. The information below can be found on the school website and the ICT Helpline.
 
 ![](/images/PLD%20Issue%20Reporting%202.jpg)
+
+
+
+*  [ GMS(S) Chromebook Acceptable Use Policy](/files/GMSS-Chromebook-Acceptable-Use-Policy.pdf)
+*  [Student Device Information Kit](/files/Student%20Device%20Information%20Kit_23%20Jun%2022.pdf)
