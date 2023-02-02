@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Education and Career Guidance.md
-      - ICT Account.md
+      - ICT Matters.md
       - Rules for Special Rooms/.keep
       - Rules for Special Rooms/Science Laboratory.md
       - Rules for Special Rooms/Design and Technology (D&T) Studio.md
