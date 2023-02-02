@@ -12,5 +12,3 @@ description: ""
 *  [ DMA Parent Guide v2.0 - Option A (Chrome OS)](/files/DMA-Parent-Guide-v2-Option-A-Chrome-OS.pdf)
 *  [ DMA Parent Guide v2.0 - Option B (Chrome OS)](/files/DMA-Parent-Guide-v2-Option-B-Chrome-OS.pdf)
 *   [ DMA Parent Guide v2.0 - Default (Chrome OS)](/files/DMA-Parent-Guide-v2-Default-Chrome-OS.pdf)
-*  [ GMS(S) Chromebook Acceptable Use Policy](/files/GMSS-Chromebook-Acceptable-Use-Policy.pdf)
-*  [Student Device Information Kit](/files/Student%20Device%20Information%20Kit_23%20Jun%2022.pdf)
