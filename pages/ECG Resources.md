@@ -8,13 +8,13 @@ description: ""
 | Resource | **Remarks** |
 | --- | --- |
 | [MySkillsFuture (Secondary School)](https://go.gov.sg/mysfsec) | A one-stop ECG portal with information and tools for students |
-| [O-level Joint Admissions Exercise (JAE)](http://www.moe.gov.sg/jaebooklet) | O-levels Post-sec options, entry requirements, aggregate, etc. |
-| [N-level Joint Intake Exercise (JIE)](https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2022.pdf) | N-levels Post-sec options, entry requirements, aggregate, etc. |
+| [O-level Joint Admissions Exercise (JAE)](https://www.moe.gov.sg/-/media/files/post-secondary/2023-jae/2023-jae-booklet.ashx) | O-levels Post-sec options, entry requirements, aggregate, etc. |
+| [N-level Joint Intake Exercise (JIE)](https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2023.pdf) | N-levels Post-sec options, entry requirements, aggregate, etc. |
 | [ITE Courses](https://www.ite.edu.sg/courses/full-time-courses) | List of all ITE Courses |
-| [ITE Prospectus](https://www.ite.edu.sg/admissions/full-time-courses/prospectus) | Information on ITE courses, including Traineeship |
+| [ITE Prospectus](https://www.ite.edu.sg/admissions/prospectus) | Information on ITE courses, including Traineeship |
 | [CourseFinder](https://go.gov.sg/coursefinder) | List of ITE & Polytechnic courses |
 | [ITE Early Admissions Exercise (for N/O-level students)](https://go.gov.sg/applyeae) | Applicable to all graduating students |
-| [Poly Early Admissions Exercise (for O-level students)](https://go.gov.sg/polyeae) | Applicable to 'O'-level students |
+| [Poly Early Admissions Exercise (for O-level students)](https://www.moe.gov.sg/post-secondary/admissions/poly-eae) | Applicable to 'O'-level students |
 | [Poly EAE FAQ](https://eae.polytechnic.edu.sg/eaeStudIns/menu.jsp?type=FAQs) | FAQ for Poly EAE (Important: read if you are considering EAE) |
 | [Direct School Admission - Junior Colleges](https://go.gov.sg/applyjcdsa) | Applicable to 'O'-level students |
 | [Polytechnic Foundation Programme (PFP)](https://go.gov.sg/pfp) | Applicable to 4NA students |

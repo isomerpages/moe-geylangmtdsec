@@ -20,8 +20,8 @@ The GM Humanities Department seeks to nurture in our GEMs learning dispositions 
 
 
 
-#### Geography
-### **LOWER SECONDARY GEOGRAPHY**
+### Geography
+##### **LOWER SECONDARY GEOGRAPHY**
 
 The Secondary 1 Geographical Investigation (GI) requires students to conduct one of the two investigations on:
 
@@ -30,7 +30,7 @@ The Secondary 1 Geographical Investigation (GI) requires students to conduct one
 
 
 ![](/images/S1-G-students-1024x681.png)
-<table style="box-sizing: border-box; border-collapse: collapse; border-spacing: 0px; background-color: rgb(255, 255, 255); color: rgb(128, 128, 128); font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 904.25px;"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; width: 582px; text-align: center;">Picture 1: Fieldtrip at the Botanical Gardens</td></tr></tbody></table>
+Picture 1: Fieldtrip at the Botanical Gardens
 
 The Secondary 2 GI explores places that are special or elderly-friendly to the residents in their housing estate. The students learn to create good questionnaires and conduct surveys with residents to gather primary data. With secondary research using various online platforms, the students generate a mini-report and group-end product on their findings. Secondary 2 students presented their findings via an online platform.
 
@@ -41,7 +41,7 @@ Picture 2: HDB Youth Ambassadors interviewing residents
 
 
 
-**Upper Secondary Geography**
+##### **Upper Secondary Geography**
 
 The Secondary 3 students participated in a virtual tour of Chinatown for their Tourism Geographical Investigation.  Students gained a better understanding of how they can  investigate, collect data, analyse and synthesize information to construct their own understanding of tourism in Singapore.
 
