@@ -150,25 +150,23 @@ third_nav_title: Staff
 
 
 **Allied Educator (Learning and Behavioural Support**)
-| |  | |
-| -------- | -------- | -------- |
-| Ms Menaga Subaramaniam    | [menaga\_subaramaniam@schools.gov.sg](mailto:menaga_subaramaniam@schools.gov.sg)    |      |
+
+* Ms Menaga Subaramaniam   [menaga\_subaramaniam@schools.gov.sg](mailto:menaga_subaramaniam@schools.gov.sg)
 
 
 **School Counselor**
-|  |  |  |
-| -------- | -------- | -------- |
-| Mr Lewis Lam     | [lam_ying_hao@schools.gov.sg](mailto:lam_ying_hao@schools.gov.sg)     |      |
-| MS Lim Soo Ling |[ lim_soo_ling@schools.gov.sg](mailto:lim_soo_ling@schools.gov.sg)    |      |
+* Mr Lewis Lam     
+[lam_ying_hao@schools.gov.sg](mailto:lam_ying_hao@schools.gov.sg)
+* Ms Lim Soo Ling  
+[lim_soo_ling@schools.gov.sg](mailto:lim_soo_ling@schools.gov.sg)
 
 
 
 
 
 **Student Welfare Education Officer (SWEO)**
-|  |  |  |
-| -------- | -------- | -------- |
-| Mr Bernard Cheong     | [cheong\_chee\_kong\_bernard@schools.gov.sg](mailto:cheong_chee_kong_bernard@schools.gov.sg)     |     |
+* Mr Bernard Cheong   
+[cheong\_chee\_kong\_bernard@schools.gov.sg](mailto:cheong_chee_kong_bernard@schools.gov.sg)
 
 
 ![](/images/GMSS_A3-Posters_Our-Staff_ver2_Page_1-1.jpg)
