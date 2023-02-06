@@ -22,7 +22,7 @@ third_nav_title: Staff
 | MR JAMES KEE    |  [kee\_yeng\_koon\_james@schools.gov.sg](mailto:kee_yeng_koon_james@schools.gov.sg)  |
 | MDM NORTHASIA SADEKAN     | [northasia\_mohamed\_sadekan@schools.gov.sg](mailto:northasia_mohamed_sadekan@schools.gov.sg)   |
 | **Faith 1-5** | | |
-| MR KENNETH SOH    |    |
+| MR KENNETH SOH    |  [soh_joo_kiat_kenneth@moe.edu.sg](mailto:soh_joo_kiat_kenneth@moe.edu.sg) |
 | MDM NORTHASIA SADEKAN     | [northasia\_mohamed\_sadekan@schools.gov.sg](mailto:northasia_mohamed_sadekan@schools.gov.sg)   |
 | **Faith 1-6** |  | |
 | MDM NORHAMIDAH HASSAN   | [norhamidah\_hassan@schools.gov.sg](mailto:norhamidah_hassan@schools.gov.sg)     | 
