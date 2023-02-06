@@ -22,11 +22,11 @@ third_nav_title: Staff
 | MR JAMES KEE    |  [kee\_yeng\_koon\_james@schools.gov.sg](mailto:kee_yeng_koon_james@schools.gov.sg)  |
 | MDM NORTHASIA SADEKAN     | [northasia\_mohamed\_sadekan@schools.gov.sg](mailto:northasia_mohamed_sadekan@schools.gov.sg)   |
 | **Faith 1-5** | | |
-| MR JAMES KEE    |  [kee\_yeng\_koon\_james@schools.gov.sg](mailto:kee_yeng_koon_james@schools.gov.sg)  |
+| MR KENNETH SOH    |    |
 | MDM NORTHASIA SADEKAN     | [northasia\_mohamed\_sadekan@schools.gov.sg](mailto:northasia_mohamed_sadekan@schools.gov.sg)   |
 | **Faith 1-6** |  | |
 | MDM NORHAMIDAH HASSAN   | [norhamidah\_hassan@schools.gov.sg](mailto:norhamidah_hassan@schools.gov.sg)     | 
-|  MR JOSEPH LIM  | lim_tuan_zheng@schools.gov.sg   | 
+|  MR JOSEPH LIM  | [lim_tuan_zheng@schools.gov.sg](mailto:lim_tuan_zheng@schools.gov.sg)   | 
 | **Faith 1-7** | | |
 | MRS LIAN YOK KHOON    |  [tan\_yok\_khoon@schools.gov.sg](mailto:tan_yok_khoon@schools.gov.sg)  |
 | MDM NURHAYATI MOHD HAMLI     | [nurhayati\_binte\_mohamed\_hamli@schools.gov.sg](mailto:nurhayati_binte_mohamed_hamli@schools.gov.sg)   |
@@ -43,10 +43,10 @@ third_nav_title: Staff
 | MR ISHWARINDER MOHAN SINGH (LDT)    | [ishwarinder\_singh\_mohan@schools.gov.sg](mailto:ishwarinder_singh_mohan@schools.gov.sg)    | |
 | **Hope 2-2** |  |  |
 | MDM JENNY LOH    | [loh\_jenny\_esther@schools.gov.sg](mailto:loh_jenny_esther@schools.gov.sg)     |     |
-| MS HO HWEE LING    | ho_hwee_ling@schools.gov.sg    |     |
+| MS HO HWEE LING    | [ho_hwee_ling@schools.gov.sg](mailto:ho_hwee_ling@schools.gov.sg)    |     |
 | **Hope 2-3**|  |  |
 | MS TEO JIA MIN    |  [teo_jiamin@schools.gov.sg](mailto:teo_jiamin@schools.gov.sg)  |     |
-| MR WONG KOK WOEI    | wong_kok_woei@schools.gov.sg  |    | 
+| MR WONG KOK WOEI    | [wong_kok_woei@schools.gov.sg](mailto:wong_kok_woei@schools.gov.sg)  |    | 
 | **Hope 2-4** |  |  |
 | MISS CINDY LIM    | [lim\_fung\_yee\_cindy@schools.gov.sg](mailto:lim_fung_yee_cindy@schools.gov.sg)     |      |
 | MR SNG PENG HOCK     | [sng\_peng\_hock@schools.gov.sg](mailto:sng_peng_hock@schools.gov.sg)    |      |
