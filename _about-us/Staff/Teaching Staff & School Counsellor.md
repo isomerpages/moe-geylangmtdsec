@@ -58,7 +58,7 @@ third_nav_title: Staff
 | MS NG CHARLENE     | [Charlene\_Ng\_Jia\_Ling@schools.gov.sg](mailto:Charlene_Ng_Jia_Ling@schools.gov.sg)    |      |
 | **Hope 2-7** |  |  |
 | MR QUEK ROB HUEI     | [quek\_rob\_huei@schools.gov.sg](mailto:quek_rob_huei@schools.gov.sg)    |
-| MDM ZURAIDAH OMAR   | zuraidah_omar@schools.gov.sg   |
+| MDM ZURAIDAH OMAR   | [zuraidah_omar@schools.gov.sg](mailto:zuraidah_omar@schools.gov.sg)   |
 | **Hope 2-8** |  |  |
 | MR MOHD FAIZAL     | [mohammad\_faizal\_b\_fadzlillah@schools.gov.sg](mailto:mohammad_faizal_b_fadzlillah@schools.gov.sg)     |     |
 | MS PHOEBE TOH     | [phoebe_toh_cui_yan@schools.gov.sg](mailto:phoebe_toh_cui_yan@schools.gov.sg)    |     |
@@ -73,7 +73,7 @@ third_nav_title: Staff
 | **Joy 3-1** |  |  |
 | -------- | -------- | -------- |
 | MRS TAN HUIPING     | [chen\_huiping@schools.gov.sg](mailto:chen_huiping@schools.gov.sg)     |      |
-| MISS VANESSA TAN     | tan_guan_hui_vanessa@schools.gov.sg     |      |
+| MISS VANESSA TAN     | [tan_guan_hui_vanessa@schools.gov.sg](mailto:tan_guan_hui_vanessa@schools.gov.sg)     |      |
 | **Joy 3-2** |  |  |
 | MR NG JUN QIANG     | [ng\_jun\_qiang@schools.gov.sg](mailto:ng_jun_qiang@schools.gov.sg)     |      |
 | ONG SIEW SIANG     |  [ong_siew_siang@schools.gov.sg](mailto:ong_siew_siang@schools.gov.sg)     |      |
