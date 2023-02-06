@@ -155,10 +155,12 @@ third_nav_title: Staff
 
 
 **School Counselor**
+
 * Mr Lewis Lam     
 [lam_ying_hao@schools.gov.sg](mailto:lam_ying_hao@schools.gov.sg)
 * Ms Lim Soo Ling  
 [lim_soo_ling@schools.gov.sg](mailto:lim_soo_ling@schools.gov.sg)
+
 
 
 
