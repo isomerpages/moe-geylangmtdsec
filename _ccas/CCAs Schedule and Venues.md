@@ -27,7 +27,7 @@ description: ""
 | -------- | -------- | -------- | -------- | 
 | Boys Brigade    | Sat-School 0830 – 1230     |      | 
 | Girls Brigade    | Sat-School 0830 – 1230     |      |      |
-| Girl Guides    | Fri-School 1430 – 1700     |      |      |
+| Girl Guides    | Fri-School 1400 – 1700     |      |      |
 | National Police Cadet Corp     | Fri-School 1430 – 1730     | Sat-1ST week of the month 0800 – 1200     |      |
 
 
