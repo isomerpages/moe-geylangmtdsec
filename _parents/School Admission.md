@@ -3,8 +3,6 @@ title: School Admission
 permalink: /parents/school-admission/
 description: ""
 ---
-To apply admission to our school, click on the link below to download the form. Fill up the form and email to the school Admission Manager.
-
-[Student Admission Form](/files/Student-Admission-Form_2023.pdf)
+To apply admission to our school for your child, [click here ](/files/Student-Admission-Form_2023.pdf) to download the form. Email the completed form to the school Admission Manager.
 
 Thank you.
