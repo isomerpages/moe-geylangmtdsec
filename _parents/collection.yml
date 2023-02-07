@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - School Admission.md
       - Family Education Programmes.md
       - Financial Assistance and Bursary Schemes.md
       - Full Subject Based Banding (FSBB).md
@@ -10,5 +9,6 @@ collections:
       - Information on Edusave Awards.md
       - National Digital Literacy Programme.md
       - Parent Support Group.md
+      - School Admission.md
       - Sexuality Education.md
       - Useful Links for Parents.md
