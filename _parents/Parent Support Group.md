@@ -50,6 +50,7 @@ Gloria Kong
 | Vice-Chairperson 2     |      | Ms Belinda Sim     |
 | Vice-Chairperson 3     |      | Ms Lina Goh     |
 | Vice-Chairperson 4     |      | Ms Kristina Purawinata     |
+| Prayer Coordinator     |      | Mrs Grace Ng     |
 
 ![](/images/GMSS_A3-Posters_Our-Partners_ver2_Page_2-2.jpg)
 ![](/images/GMSS_A3-Posters_Our-Partners_ver2_Page_1.jpg)
