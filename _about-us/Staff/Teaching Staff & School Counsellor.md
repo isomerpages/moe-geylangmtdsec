@@ -22,11 +22,11 @@ third_nav_title: Staff
 | MR JAMES KEE    |  [kee\_yeng\_koon\_james@schools.gov.sg](mailto:kee_yeng_koon_james@schools.gov.sg)  |
 | MDM NORTHASIA SADEKAN     | [northasia\_mohamed\_sadekan@schools.gov.sg](mailto:northasia_mohamed_sadekan@schools.gov.sg)   |
 | **Faith 1-5** | | |
-| MR JAMES KEE    |  [kee\_yeng\_koon\_james@schools.gov.sg](mailto:kee_yeng_koon_james@schools.gov.sg)  |
+| MR KENNETH SOH    |  [soh_joo_kiat_kenneth@moe.edu.sg](mailto:soh_joo_kiat_kenneth@moe.edu.sg) |
 | MDM NORTHASIA SADEKAN     | [northasia\_mohamed\_sadekan@schools.gov.sg](mailto:northasia_mohamed_sadekan@schools.gov.sg)   |
 | **Faith 1-6** |  | |
 | MDM NORHAMIDAH HASSAN   | [norhamidah\_hassan@schools.gov.sg](mailto:norhamidah_hassan@schools.gov.sg)     | 
-|  MR JOSEPH LIM  | lim_tuan_zheng@schools.gov.sg   | 
+|  MR JOSEPH LIM  | [lim_tuan_zheng@schools.gov.sg](mailto:lim_tuan_zheng@schools.gov.sg)   | 
 | **Faith 1-7** | | |
 | MRS LIAN YOK KHOON    |  [tan\_yok\_khoon@schools.gov.sg](mailto:tan_yok_khoon@schools.gov.sg)  |
 | MDM NURHAYATI MOHD HAMLI     | [nurhayati\_binte\_mohamed\_hamli@schools.gov.sg](mailto:nurhayati_binte_mohamed_hamli@schools.gov.sg)   |
@@ -43,10 +43,10 @@ third_nav_title: Staff
 | MR ISHWARINDER MOHAN SINGH (LDT)    | [ishwarinder\_singh\_mohan@schools.gov.sg](mailto:ishwarinder_singh_mohan@schools.gov.sg)    | |
 | **Hope 2-2** |  |  |
 | MDM JENNY LOH    | [loh\_jenny\_esther@schools.gov.sg](mailto:loh_jenny_esther@schools.gov.sg)     |     |
-| MS HO HWEE LING    | ho_hwee_ling@schools.gov.sg    |     |
+| MS HO HWEE LING    | [ho_hwee_ling@schools.gov.sg](mailto:ho_hwee_ling@schools.gov.sg)    |     |
 | **Hope 2-3**|  |  |
 | MS TEO JIA MIN    |  [teo_jiamin@schools.gov.sg](mailto:teo_jiamin@schools.gov.sg)  |     |
-| MR WONG KOK WOEI    | wong_kok_woei@schools.gov.sg  |    | 
+| MR WONG KOK WOEI    | [wong_kok_woei@schools.gov.sg](mailto:wong_kok_woei@schools.gov.sg)  |    | 
 | **Hope 2-4** |  |  |
 | MISS CINDY LIM    | [lim\_fung\_yee\_cindy@schools.gov.sg](mailto:lim_fung_yee_cindy@schools.gov.sg)     |      |
 | MR SNG PENG HOCK     | [sng\_peng\_hock@schools.gov.sg](mailto:sng_peng_hock@schools.gov.sg)    |      |
@@ -58,7 +58,7 @@ third_nav_title: Staff
 | MS NG CHARLENE     | [Charlene\_Ng\_Jia\_Ling@schools.gov.sg](mailto:Charlene_Ng_Jia_Ling@schools.gov.sg)    |      |
 | **Hope 2-7** |  |  |
 | MR QUEK ROB HUEI     | [quek\_rob\_huei@schools.gov.sg](mailto:quek_rob_huei@schools.gov.sg)    |
-| MDM ZURAIDAH OMAR   | zuraidah_omar@schools.gov.sg   |
+| MDM ZURAIDAH OMAR   | [zuraidah_omar@schools.gov.sg](mailto:zuraidah_omar@schools.gov.sg)   |
 | **Hope 2-8** |  |  |
 | MR MOHD FAIZAL     | [mohammad\_faizal\_b\_fadzlillah@schools.gov.sg](mailto:mohammad_faizal_b_fadzlillah@schools.gov.sg)     |     |
 | MS PHOEBE TOH     | [phoebe_toh_cui_yan@schools.gov.sg](mailto:phoebe_toh_cui_yan@schools.gov.sg)    |     |
@@ -73,7 +73,7 @@ third_nav_title: Staff
 | **Joy 3-1** |  |  |
 | -------- | -------- | -------- |
 | MRS TAN HUIPING     | [chen\_huiping@schools.gov.sg](mailto:chen_huiping@schools.gov.sg)     |      |
-| MISS VANESSA TAN     | tan_guan_hui_vanessa@schools.gov.sg     |      |
+| MISS VANESSA TAN     | [tan_guan_hui_vanessa@schools.gov.sg](mailto:tan_guan_hui_vanessa@schools.gov.sg)     |      |
 | **Joy 3-2** |  |  |
 | MR NG JUN QIANG     | [ng\_jun\_qiang@schools.gov.sg](mailto:ng_jun_qiang@schools.gov.sg)     |      |
 | ONG SIEW SIANG     |  [ong_siew_siang@schools.gov.sg](mailto:ong_siew_siang@schools.gov.sg)     |      |
@@ -150,25 +150,25 @@ third_nav_title: Staff
 
 
 **Allied Educator (Learning and Behavioural Support**)
-| |  | |
-| -------- | -------- | -------- |
-| Ms Menaga Subaramaniam    | [menaga\_subaramaniam@schools.gov.sg](mailto:menaga_subaramaniam@schools.gov.sg)    |      |
+
+* Ms Menaga Subaramaniam   [menaga\_subaramaniam@schools.gov.sg](mailto:menaga_subaramaniam@schools.gov.sg)
 
 
 **School Counselor**
-|  |  |  |
-| -------- | -------- | -------- |
-| Mr Lewis Lam     | [lam_ying_hao@schools.gov.sg](mailto:lam_ying_hao@schools.gov.sg)     |      |
-| MS Lim Soo Ling |[ lim_soo_ling@schools.gov.sg](mailto:lim_soo_ling@schools.gov.sg)    |      |
+
+* Mr Lewis Lam     
+[lam_ying_hao@schools.gov.sg](mailto:lam_ying_hao@schools.gov.sg)
+* Ms Lim Soo Ling  
+[lim_soo_ling@schools.gov.sg](mailto:lim_soo_ling@schools.gov.sg)
+
 
 
 
 
 
 **Student Welfare Education Officer (SWEO)**
-|  |  |  |
-| -------- | -------- | -------- |
-| Mr Bernard Cheong     | [cheong\_chee\_kong\_bernard@schools.gov.sg](mailto:cheong_chee_kong_bernard@schools.gov.sg)     |     |
+* Mr Bernard Cheong   
+[cheong\_chee\_kong\_bernard@schools.gov.sg](mailto:cheong_chee_kong_bernard@schools.gov.sg)
 
 
 ![](/images/GMSS_A3-Posters_Our-Staff_ver2_Page_1-1.jpg)

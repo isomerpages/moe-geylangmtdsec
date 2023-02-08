@@ -3,8 +3,10 @@ title: ICT Matters
 permalink: /students/ICT-Matters/
 description: ""
 ---
+
 ![](/images/GMS(S)%20PLD%20Acceptable%20User%20Policy.jpg)
 ![](/images/GMS(S)%20PLD%20Routines%20for%20Students.jpg)
+
 
 ![](/images/PLD%20Issue%20Reporting.jpg)
 
@@ -22,4 +24,12 @@ whenever the student enters the school compound.
 
 
 *  [ GMS(S) Chromebook Acceptable Use Policy](/files/GMSS-Chromebook-Acceptable-Use-Policy.pdf)
+
 *  [Student Device Information Kit](/files/Student%20Device%20Information%20Kit_23%20Jun%2022.pdf)
+
+
+![](/images/GMS(S)%20PLD%20Acceptable%20User%20Policy.jpg)
+![](/images/GMS(S)%20PLD%20Routines%20for%20Students.jpg)
+
+*  [Student Device Information Kit](/files/Student%20Device%20Information%20Kit_23%20Jun%2022.pdf)
+
