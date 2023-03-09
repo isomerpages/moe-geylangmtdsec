@@ -163,12 +163,13 @@ third_nav_title: Staff
 
 
 
-
-
-
 **Student Welfare Education Officer (SWEO)**
 * Mr Bernard Cheong   
 [cheong\_chee\_kong\_bernard@schools.gov.sg](mailto:cheong_chee_kong_bernard@schools.gov.sg)
+
+**ICT Manager**
+* Mr Leong Chogn Kin
+* [leong_chong_kin@schools.gov.sg](leong_chong_kin@schools.gov.sg)
 
 
 ![](/images/GMSS_A3-Posters_Our-Staff_ver2_Page_1-1.jpg)
