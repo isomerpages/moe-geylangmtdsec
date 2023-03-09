@@ -81,7 +81,7 @@ third_nav_title: Staff
 | MISS YEO PENG PENG     | [yeo_peng_peng_a@schools.gov.sg](mailto:yeo_peng_peng_a@schools.gov.sg)    |      |
 | MISS WONG HUI FEN    | [wong\_hui\_fen@schools.gov.sg](mailto:wong_hui_fen@schools.gov.sg)     |      |
 | **Joy 3-4** |  |  |
-| MS NORFULANA     | [norfudlana\_mayatim@schools.gov.sg](mailto:norfudlana_mayatim@schools.gov.sg)     |     |
+| MS NORFUDLANA     | [norfudlana\_mayatim@schools.gov.sg](mailto:norfudlana_mayatim@schools.gov.sg)     |     |
 | MS PHANG SHI HUI     | [phang_shi_hui@schools.gov.sg](mailto:phang_shi_hui@schools.gov.sg)    |     |
 | **Joy 3-5** |  |  |
 | MISS NORASIYA MAN    | [norasiya_man@schools.gov.sg](mailto:norasiya_man@schools.gov.sg)    |     |
