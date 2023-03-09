@@ -23,7 +23,7 @@ third_nav_title: Staff
 | MDM NORTHASIA SADEKAN     | [northasia\_mohamed\_sadekan@schools.gov.sg](mailto:northasia_mohamed_sadekan@schools.gov.sg)   |
 | **Faith 1-5** | | |
 | MR KENNETH SOH    |  [soh_joo_kiat_kenneth@moe.edu.sg](mailto:soh_joo_kiat_kenneth@moe.edu.sg) |
-| MDM NORTHASIA SADEKAN     | [northasia\_mohamed\_sadekan@schools.gov.sg](mailto:northasia_mohamed_sadekan@schools.gov.sg)   |
+| MISS SYLVIA LAI     | [sylvia_lai@schools.gov.sg](mailto:sylvia_lai@schools.gov.sg)   |
 | **Faith 1-6** |  | |
 | MDM NORHAMIDAH HASSAN   | [norhamidah\_hassan@schools.gov.sg](mailto:norhamidah_hassan@schools.gov.sg)     | 
 |  MR JOSEPH LIM  | [lim_tuan_zheng@schools.gov.sg](mailto:lim_tuan_zheng@schools.gov.sg)   | 
@@ -168,7 +168,7 @@ third_nav_title: Staff
 [cheong\_chee\_kong\_bernard@schools.gov.sg](mailto:cheong_chee_kong_bernard@schools.gov.sg)
 
 **ICT Manager**
-* Mr Leong Chogn Kin
+* Mr Leong Chong Kin
 * [leong_chong_kin@schools.gov.sg](leong_chong_kin@schools.gov.sg)
 
 
