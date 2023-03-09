@@ -23,7 +23,7 @@ third_nav_title: Staff
 | MDM NORTHASIA SADEKAN     | [northasia\_mohamed\_sadekan@schools.gov.sg](mailto:northasia_mohamed_sadekan@schools.gov.sg)   |
 | **Faith 1-5** | | |
 | MR KENNETH SOH    |  [soh_joo_kiat_kenneth@moe.edu.sg](mailto:soh_joo_kiat_kenneth@moe.edu.sg) |
-| MDM NORTHASIA SADEKAN     | [northasia\_mohamed\_sadekan@schools.gov.sg](mailto:northasia_mohamed_sadekan@schools.gov.sg)   |
+| MISS SYLVIA LAI     | [sylvia_lai@schools.gov.sg](mailto:sylvia_lai@schools.gov.sg)   |
 | **Faith 1-6** |  | |
 | MDM NORHAMIDAH HASSAN   | [norhamidah\_hassan@schools.gov.sg](mailto:norhamidah_hassan@schools.gov.sg)     | 
 |  MR JOSEPH LIM  | [lim_tuan_zheng@schools.gov.sg](mailto:lim_tuan_zheng@schools.gov.sg)   | 
@@ -81,7 +81,7 @@ third_nav_title: Staff
 | MISS YEO PENG PENG     | [yeo_peng_peng_a@schools.gov.sg](mailto:yeo_peng_peng_a@schools.gov.sg)    |      |
 | MISS WONG HUI FEN    | [wong\_hui\_fen@schools.gov.sg](mailto:wong_hui_fen@schools.gov.sg)     |      |
 | **Joy 3-4** |  |  |
-| MS NORFULANA     | [norfudlana\_mayatim@schools.gov.sg](mailto:norfudlana_mayatim@schools.gov.sg)     |     |
+| MS NORFUDLANA     | [norfudlana\_mayatim@schools.gov.sg](mailto:norfudlana_mayatim@schools.gov.sg)     |     |
 | MS PHANG SHI HUI     | [phang_shi_hui@schools.gov.sg](mailto:phang_shi_hui@schools.gov.sg)    |     |
 | **Joy 3-5** |  |  |
 | MISS NORASIYA MAN    | [norasiya_man@schools.gov.sg](mailto:norasiya_man@schools.gov.sg)    |     |
@@ -163,12 +163,13 @@ third_nav_title: Staff
 
 
 
-
-
-
 **Student Welfare Education Officer (SWEO)**
 * Mr Bernard Cheong   
 [cheong\_chee\_kong\_bernard@schools.gov.sg](mailto:cheong_chee_kong_bernard@schools.gov.sg)
+
+**ICT Manager**
+* Mr Leong Chong Kin
+* [leong_chong_kin@schools.gov.sg](leong_chong_kin@schools.gov.sg)
 
 
 ![](/images/GMSS_A3-Posters_Our-Staff_ver2_Page_1-1.jpg)
