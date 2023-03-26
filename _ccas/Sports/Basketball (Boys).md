@@ -17,28 +17,22 @@ third_nav_title: Sports
 
 
 **Teachers-in-charge**
-| 1. |  | Mr Tan Wah Kum (I/C)  |
-| -------- | -------- | -------- |
-| 2.     |      | Mr Fahd Mohd Said     |
-| 3.     |      | Mr Mark Goh    |
-
+* Mr Tan Wah Kum (I/C)
+* Mr Fahd Mohd Said
+* Mr Mark Goh  
 
 
 **Student Leaders**
-| B Division Captain: |  | Lu Yu Song |
-| -------- | -------- | -------- |
-| B Division Vice-Captain:    |      | Chen Yue Yang Titus     |
-|  B Division Vice-Captain 2:     |      | Weng Yuk Shing Steve     |
-| Publicity Head:    |      | Glendon Chia     |
-| Logistics/Welfare Head:    |      | Kevan Leong     |
-| C Division Captain: |  | Sng Ming Xuan |
-| C Division Vice-Captain:    |      | Dzeul Adly B Norshahrin     |
-| Logistics/Welfare Head:    |      | Charles Isaac Ong     |
+* B Division Captain: Lu Yu Song
+* B Division Vice-Captain:  Chen Yue Yang Titus
+* B Division Vice-Captain 2:  Weng Yuk Shing Steve
+* Publicity Head:  Glendon Chia 
+* Logistics/Welfare Head: Kevan Leong
+* C Division Captain: Sng Ming Xuan
+* C Division Vice-Captain:  Dzeul Adly B Norshahrin
+* Logistics/Welfare Head:  Charles Isaac Ong
 
 
 **Coaches**
-
-
-| 1 |  | Mr Hiu Guo Rong |
-| -------- | -------- | -------- |
-| 2    |     |  Mr Laurenz Garcon    |
+* Mr Hiu Guo Rong
+* Mr Laurenz Garcon
