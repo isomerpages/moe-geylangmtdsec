@@ -22,18 +22,29 @@ third_nav_title: Sports
 
 
 **Teachers-in-charge**
-* Mr Xiao Kaiwen (I/C)
-* Mr John Seah Yong Han 
-* Mr Johney Joseph
+
+
+| Mr Xiao Kaiwen (I/C) |  |  |
+| -------- | -------- | -------- |
+| Mr John Seah Yong Han     |      |      |
+| Mr Johney Joseph    |      |     |
+
 
 
 **Student Leaders**
-* Captain: Janet Tan
-* Vice-Captains: Isabelle Lim
-* Vice-Captains: Kurt Goh Ke Wee
+
+| Captain:  |  | Janet Tan |
+| -------- | -------- | -------- |
+| Vice-Captains:    |     | Isabelle Lim    |
+|     |     | Kurt Goh Ke Wee    |
+
 
 
 
 **Coaches**
-* Ms Tan Chew Peng
-* Mr Lin Jun Ren
+
+
+
+| Ms Tan Chew Peng |  |  |
+| -------- | -------- | -------- |
+| Mr Lin Jun Ren    |      |     |
