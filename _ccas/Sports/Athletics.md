@@ -14,6 +14,7 @@ third_nav_title: Sports
 *   Inculcate discipline, mental resilience and positive thinking.
 *   Learn good sportsmanship.
 
+
 **Highlights of 2022**
 
 *   Participated in National School Games Cross Country Championship 2022
@@ -22,7 +23,6 @@ third_nav_title: Sports
 
 
 **Teachers-in-charge**
-
 
 | Mr Xiao Kaiwen (I/C) |  |  |
 | -------- | -------- | -------- |
