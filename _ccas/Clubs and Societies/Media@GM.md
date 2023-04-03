@@ -39,6 +39,7 @@ third_nav_title: Clubs and Societies
 | -------- | -------- | -------- |
 | 2.     |      | Mr Pek Han Wei     |
 | 3.     |      | Mr Syafrin     |
+| 4.     |      | Ms Doris Khoo     |
 
 **Student Leaders**
 
