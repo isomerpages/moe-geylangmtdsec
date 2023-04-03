@@ -49,7 +49,6 @@ third_nav_title: Sports
 
 **School Team Coaches**
 
-
-| Mr Liu Qing Dong|  |  |
+| 1. |  | Mr Liu Qing Dong |
 | -------- | -------- | -------- |
-| Mr Ng Choon Kang     |      |      |
+| 2.    |      | Mr Ng Choon Kang     |
