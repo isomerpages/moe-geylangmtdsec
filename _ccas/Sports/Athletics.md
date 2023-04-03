@@ -43,8 +43,6 @@ third_nav_title: Sports
 
 **Coaches**
 
-
-
-| Ms Tan Chew Peng |  |  |
+| 1. |  | Ms Tan Chew Peng |
 | -------- | -------- | -------- |
-| Mr Lin Jun Ren    |      |     |
+| 2.    |      | Mr Lin Jun Ren     |
