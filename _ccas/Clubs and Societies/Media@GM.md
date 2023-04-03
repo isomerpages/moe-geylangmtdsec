@@ -34,12 +34,14 @@ third_nav_title: Clubs and Societies
 
 
 **Teachers-in-Charge**
+
 | 1. |  | Mr Kelvin Chia (I/C) |
 | -------- | -------- | -------- |
 | 2.     |      | Mr Pek Han Wei     |
 | 3.     |      | Mr Syafrin     |
 
 **Student Leaders**
+
 | Year | Chairperson | Vice-Chairperson 1 | Vice-Chairperson 2 | Vice-Chairperson 3/4 |
 | -------- | -------- | -------- | -------- | -------- |
 | **2010/11**     | Yanny (F33/F43)    | Daisy Wong (H33/H43)    | Yeo Wei Wen (H32/H42)    | Soh Wei Lin (F31/F43)     |
