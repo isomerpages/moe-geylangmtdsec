@@ -21,6 +21,7 @@ third_nav_title: UGs
 
 
 **Teachers-in-Charge**
+
 | 1. |  | Mr Mohd Faizal (I/C) |
 | -------- | -------- | -------- |
 | 2.     |      | Mr Ng Jun Qiang (DyOC)     |
@@ -28,12 +29,14 @@ third_nav_title: UGs
 | 4.     |      | Mr Zhao Yilin    |
 
 **Student Leaders**
+
 | Unit Secretary: |  | Tan Aik Hian |
 | -------- | -------- | -------- |
 |Vice-Unit Secretary:    |      | Charlie Chan Li Shun     |
 
 
 **Honorary Officers**
+
 |  1. |  | Mr Lim Kian Wah |
 | -------- | -------- | -------- |
 |  2.     |      | Mr Teoh Hock Ming     |
