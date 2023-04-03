@@ -21,7 +21,7 @@ third_nav_title: Sports
 *   C Division  
     Participated in the National School Games 2022.
 		
-		**Teachers-in-charge**
+**Teachers-in-charge**
 
 | 1. |  | Mr Ishwarinder Singh (I/C)  |
 | -------- | -------- | -------- |
