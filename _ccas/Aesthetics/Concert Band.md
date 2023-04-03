@@ -21,6 +21,7 @@ third_nav_title: Aesthetics
 
 
 **Teachers-in-Charge**
+
 | 1. |  | Ms Grace Yap (I/C) |
 | -------- | -------- | -------- |
 | 2.     |      | Mr James Kee     |
@@ -28,6 +29,7 @@ third_nav_title: Aesthetics
 | 4.     |      | Mdm Yeong Suk Mun (2nd Semester)    |
 
 **Student Leaders**
+
 | Band Major: |  | Fong Yan Kit David |
 | -------- | -------- | -------- |
 | Assistant band major (Admin):    |      | Low Zhi Yu    |
@@ -35,6 +37,7 @@ third_nav_title: Aesthetics
 
 
 **Instructors**
+
 | 1. |  | Mr Samuel Tan Sim Wah (Conductor) |
 | -------- | -------- | -------- |
 | 2.    |      | Mr Izac Lim (Instructor)     |
