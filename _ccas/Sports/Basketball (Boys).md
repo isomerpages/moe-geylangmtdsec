@@ -41,5 +41,7 @@ third_nav_title: Sports
 
 
 **Coaches**
-* Mr Hiu Guo Rong
-* Mr Laurenz Garcon
+
+| 1. |  | Mr Hiu Guo Rong |
+| -------- | -------- | -------- |
+| 2.    |      | Mr Laurenz Garcon     |
