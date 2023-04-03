@@ -40,5 +40,7 @@ third_nav_title: Sports
 
 
 **Coaches**
-* Mr Danny Wang
-* Mr Wong Yee Min
+
+| 1. |  | Mr Danny Wang |
+| -------- | -------- | -------- |
+| 2.    |      | Mr Wong Yee Min     |
