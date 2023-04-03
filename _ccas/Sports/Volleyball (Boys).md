@@ -23,6 +23,7 @@ third_nav_title: Sports
 
 
 **Teachers-in-charge**
+
 | 1. |  | Mrs Deborah Tong (I/C)  |
 | -------- | -------- | -------- |
 | 2.     |      | Mr Ngm Yew Fai     |
@@ -30,6 +31,7 @@ third_nav_title: Sports
 
 
 **Student Leaders**
+
 | B Division Captain: |  | Jenith Rai |
 | -------- | -------- | -------- |
 | B Division Vice-Captains:    |      | Chris Gurung     |
@@ -40,7 +42,6 @@ third_nav_title: Sports
 
 
 **Coaches**
-
 
 | 1 |  | Mr Winson Cheong |
 | -------- | -------- | -------- |
