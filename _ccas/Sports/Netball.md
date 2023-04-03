@@ -37,4 +37,7 @@ third_nav_title: Sports
 | Head of Discipline:   |      | Chan Yan Xin Pearlene     |
 
 **Coach**
-* Ms Diandra Chua
+
+| 1. |  | Ms Diandra Chua |
+| -------- | -------- | -------- |
+
