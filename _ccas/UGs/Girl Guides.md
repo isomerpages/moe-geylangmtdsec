@@ -23,6 +23,7 @@ third_nav_title: UGs
 
 
 **Teachers-in-Charge**
+
 | 1. |  | Ms Andrea Lau (I/C) |
 | -------- | -------- | -------- |
 | 2.     |      | Mdm Lau Chau King     |
@@ -30,6 +31,7 @@ third_nav_title: UGs
 
 
 **Student Leaders**
+
 | Company Leader: |  | Tan Min Sze |
 | -------- | -------- | -------- |
 |Assistant Company Leaders:    |      | Lim En Hui     |
