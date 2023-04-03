@@ -62,4 +62,5 @@ third_nav_title: Clubs and Societies
 | **2021/22**     | Fariha Rasyiqah (J38/P48)    | Julie Chan (J38/P48)    | Mikayla Hoi (H25/J36)     |     |
 | **2022/23**   | Mikayla Hoi (J36/P46)    | Gwendolyn Lam (J38/P48)     | Rei Goh (J37/P47)    | Yang Zi Heng (J32/P42)    |
 |      | Jaslyn Tan (J35/P45)     |  Ella Chew  (J37/P47)  |      |      |
-| **2023/24**     | Text     | Text     | Text     | Text     |
+| **2023/24**     | Tan Shi Ying (J34)     | Foo Xin En, Faith (J33)     | Elin Swee (J35)    | Luo Yanxin (J34)     |
+|      |     |      |     | Zoe Erika (J33)     |
