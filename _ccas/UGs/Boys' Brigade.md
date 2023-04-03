@@ -27,6 +27,7 @@ third_nav_title: UGs
 
 
 **Teachers-in-Charge**
+
 | 1. |  | Mr Cyril Khoo (I/C) |
 | -------- | -------- | -------- |
 | 2.     |      | Mr Kenneth Soh     |
@@ -34,6 +35,7 @@ third_nav_title: UGs
 
 
 **Student Leaders**
+
 | Company Sergeant Major |  | Sergeant Jaedon Ho Jia Jie |
 | -------- | -------- | -------- |
 | Deputy Company Sergeant Major:    |      | Sergeant Joseph Pang Kuan Le     |
@@ -44,6 +46,7 @@ third_nav_title: UGs
 
 
 **Officers and Primers**
+
 | Captain: |  | Mr David Seetoh |
 | -------- | -------- | -------- |
 | Officers:    |      | Mr Chong Loi Fong     |
