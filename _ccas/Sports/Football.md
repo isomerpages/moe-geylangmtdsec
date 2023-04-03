@@ -22,6 +22,7 @@ third_nav_title: Sports
     Participated in the National School Games 2022.
 		
 		**Teachers-in-charge**
+
 | 1. |  | Mr Ishwarinder Singh (I/C)  |
 | -------- | -------- | -------- |
 | 2.     |      |   Mr Jonathan Koh   |
@@ -29,6 +30,7 @@ third_nav_title: Sports
 
 
 **Student Leaders**
+
 | B Division Captain: |  | GAIUS LOW SHAO WEN |
 | -------- | -------- | -------- |
 | B Division Vice-Captains:    |      | MUHAMMAD NABIL ANAQI BIN ROSLAN     |
@@ -39,7 +41,6 @@ third_nav_title: Sports
 
 
 **Coaches**
-
 
 | 1 |  | Mr Raffiey |
 | -------- | -------- | -------- |
