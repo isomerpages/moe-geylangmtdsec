@@ -23,6 +23,7 @@ third_nav_title: Clubs and Societies
 
 
 **Teachers-in-Charge**
+
 | 1. |  | Mr Quek Rob Huei (I/C) |
 | -------- | -------- | -------- |
 | 2.     |      | Mdm Siti Nazeera Omar     |
@@ -30,6 +31,7 @@ third_nav_title: Clubs and Societies
 
 
 **Student Leaders**
+
 | Chairperson: |  | Lee Sze Hui Bernice |
 | -------- | -------- | -------- |
 | Vice-chairperson:    |      | Jermaine Wong Jie Min     |
