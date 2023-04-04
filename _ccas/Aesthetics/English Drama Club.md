@@ -23,6 +23,7 @@ third_nav_title: Aesthetics
 
 
 **Teachers-in-Charge**
+
 | 1. |  | Miss Sylvia Lai (I/C) |
 | -------- | -------- | -------- |
 | 2.     |      | Miss Tan Lay Ming     |
@@ -30,6 +31,7 @@ third_nav_title: Aesthetics
 
 
 **Student Leaders**
+
 | President: |  | Edelyn Ho Xin En |
 | -------- | -------- | -------- |
 | Vice President:    |      | Shevelle Ong Zi Xuan    |
@@ -38,7 +40,7 @@ third_nav_title: Aesthetics
 
 
 **Instructor**
+
 | Main Instructor: |  | Ms Deborah Hoon |
 | -------- | -------- | -------- |
 | Assistant Instructor:    |      |  Mr Kay Kay Nizam   |
-			

@@ -18,6 +18,7 @@ third_nav_title: Sports
 *   Participated in Carnival organised by The Netball Academy (C division)
 
 **Teachers-in-charge**
+
 | 1. |  | Mdm Zuraidah Omar (I/C)  |
 | -------- | -------- | -------- |
 | 2.     |      | Miss Nurulathirah Bte Hasri    |
@@ -25,6 +26,7 @@ third_nav_title: Sports
 
 
 **Student Leaders**
+
 | Captain: |  | Tan Wen Xi |
 | -------- | -------- | -------- |
 | Vice-Captain:    |      | Amelia Tan     |
@@ -35,4 +37,7 @@ third_nav_title: Sports
 | Head of Discipline:   |      | Chan Yan Xin Pearlene     |
 
 **Coach**
-* Ms Diandra Chua
+
+| 1. |  | Ms Diandra Chua |
+| -------- | -------- | -------- |
+

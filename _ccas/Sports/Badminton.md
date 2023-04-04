@@ -21,22 +21,34 @@ third_nav_title: Sports
 
 
 **Teachers-in-charge**
-* Mr Yip Cheng Hou (I/C)
-*  Mr Joseph Lim
-*  Mr Bernard Cheong 
-*  Ms Fahariah Yeo Bte Noorhisham 
+
+
+| Mr Yip Cheng Hou (I/C) |  |  |
+| -------- | -------- | -------- |
+| Mr Joseph Lim     |      |      |
+| Mr Bernard Cheong     |      |      |
+| Ms Fahariah Yeo Bte Noorhisham     |      |      |
+  
 
 
 **Student Leaders**
-* B Division Boys Captain: Jonah Tong
-* B Division Boys Vice-Captain:  Isaac Lee
-* B Division Girls Captain: Esther Gan 
-* B Division Girls Vice-Captain: Lee Ke En 
-* C Division Boys Captain: Lim Yong Jun
-* C Division Boys Vice-Captain: Nigel Lee
-* C Division Girls Captain: Zovonne Lai
-* C Division Girls Vice-Captain: Jessica Feng  
+
+
+| B Division Boys Captain: |  | Jonah Tong |
+| -------- | -------- | -------- |
+| B Division Boys Vice-Captain:       |     | Isaac Lee     |
+| B Division Girls Captain:       |     | Esther Gan      |
+| B Division Girls Vice-Captain:       |     | Lee Ke En      |
+| C Division Boys Captain:      |     | Lim Yong Jun      |
+| C Division Boys Vice-Captain:       |     | Nigel Lee      |
+| C Division Girls Captain:      |     | Zovonne Lai     |
+| C Division Girls Vice-Captain:        |     | Jessica Feng       |
+
+
+
 
 **School Team Coaches**
-* Mr Liu Qing Dong
-* Mr Ng Choon Kang
+
+| 1. |  | Mr Liu Qing Dong |
+| -------- | -------- | -------- |
+| 2.    |      | Mr Ng Choon Kang     |

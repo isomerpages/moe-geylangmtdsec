@@ -18,24 +18,29 @@ third_nav_title: Sports
 *   Participated in National School Games 2022 in both B and C Division
 
 **Teachers-in-charge**
+
 | 1. |  | Mr James Lim (I/C) |
 | -------- | -------- | -------- |
-| 2.     |      | Ms Gayathiri    |
-| 3.     |      | Mr Chng Kiong Choon     |
+| 2. |  | Ms Gayathiri |
+| 3. |  | Mr Chng Kiong Choon |
 
 
 **Student Leaders**
+
 | B Division  |  |  |
 | -------- | -------- | -------- |
-| Captain:    |      | Phee Xin Ting Tricia     |
-|  Vice-Captain:  |      | Syahrifah Nuryorani     |
+| Captain: |  | Phee Xin Ting Tricia |
+| Vice-Captain:  | | Syahrifah Nuryorani |
 
 | C Division |  |  |
 | -------- | -------- | -------- |
-| Captain:     |      | Fong Shu Ting Emma     |
-|  Vice-Captain:  |      | Queenie Lim Jie Ying    |
+| Captain: | | Fong Shu Ting Emma |
+| Vice-Captain: | | Queenie Lim Jie Ying |
 
 
 
 **Coach**
-1. Ms Carvalho Mavis Margaret
+
+| 1. |  | Ms Carvalho Mavis Margaret |
+| -------- | -------- | -------- |
+|    |      |     |

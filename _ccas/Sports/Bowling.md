@@ -19,19 +19,28 @@ third_nav_title: Sports
 *   Participated in SSSC National C Division Bowling Championships 2022
 
 **Teachers-in-charge**
-* Ms Ong Hui Qi (OIC)
-* Mrs Goh Heng Mei 
+
+
+| 1. |  | Ms Ong Hui Qi (OIC) |
+| -------- | -------- | -------- |
+| 2. |      | Mrs Goh Heng Mei     |
+
 
 
 
 **Student Leaders**
-* Captain: Ng Yi Han
-* Vice-Captains: Lim Jia Jun, Bryan
-* Vice-Captains: Tan Khim Seah
-* Vice-Captains: Chan Li Ting
+
+
+| Captain: |  | Ng Yi Han |
+| -------- | -------- | -------- |
+| Vice-Captains:    |      | Lim Jia Jun, Bryan    |
+| Vice-Captains:    |      | Tan Khim Seah    |
+| Vice-Captains:    |      | Chan Li Ting    |
 
 
 
 **Coaches**
-* Mr Danny Wang
-* Mr Wong Yee Min
+
+| 1. |  | Mr Danny Wang |
+| -------- | -------- | -------- |
+| 2.    |      | Mr Wong Yee Min     |

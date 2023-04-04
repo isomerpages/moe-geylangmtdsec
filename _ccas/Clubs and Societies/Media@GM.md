@@ -4,7 +4,7 @@ permalink: /ccas/Clubs-and-Societies/MediaGM/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-![](/images/IMG-20220314-WA0000.jpg)
+![](/images/2023%20media@gme.jpg)
 **Objectives of CCA**
 
 *   Expose students to new media and areas of Information Technology i.e. Photography and Videography.
@@ -34,12 +34,15 @@ third_nav_title: Clubs and Societies
 
 
 **Teachers-in-Charge**
+
 | 1. |  | Mr Kelvin Chia (I/C) |
 | -------- | -------- | -------- |
 | 2.     |      | Mr Pek Han Wei     |
 | 3.     |      | Mr Syafrin     |
+| 4.     |      | Ms Doris Khoo     |
 
 **Student Leaders**
+
 | Year | Chairperson | Vice-Chairperson 1 | Vice-Chairperson 2 | Vice-Chairperson 3/4 |
 | -------- | -------- | -------- | -------- | -------- |
 | **2010/11**     | Yanny (F33/F43)    | Daisy Wong (H33/H43)    | Yeo Wei Wen (H32/H42)    | Soh Wei Lin (F31/F43)     |
@@ -60,4 +63,5 @@ third_nav_title: Clubs and Societies
 | **2021/22**     | Fariha Rasyiqah (J38/P48)    | Julie Chan (J38/P48)    | Mikayla Hoi (H25/J36)     |     |
 | **2022/23**   | Mikayla Hoi (J36/P46)    | Gwendolyn Lam (J38/P48)     | Rei Goh (J37/P47)    | Yang Zi Heng (J32/P42)    |
 |      | Jaslyn Tan (J35/P45)     |  Ella Chew  (J37/P47)  |      |      |
-| **2023/24**     | Text     | Text     | Text     | Text     |
+| **2023/24**     | Tan Shi Ying (J34)     | Foo Xin En, Faith (J33)     | Elin Swee (J35)    | Luo Yanxin (J34)     |
+|      |     |      |     | Zoe Erika (J33)     |

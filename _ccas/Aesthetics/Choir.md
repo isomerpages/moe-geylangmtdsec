@@ -25,6 +25,7 @@ third_nav_title: Aesthetics
 
 
 **Teachers-in-Charge**
+
 | 1. |  | Miss Wong Hui Fen (I/C) |
 | -------- | -------- | -------- |
 | 2.     |      | Mrs Lian Yok Khoon     |
@@ -32,6 +33,7 @@ third_nav_title: Aesthetics
 
 
 **Student Leaders**
+
 | President: |  | Yong Ke Xuan |
 | -------- | -------- | -------- |
 | Vice President:    |      | Sim Xiao En    |
@@ -41,11 +43,12 @@ third_nav_title: Aesthetics
 
 
 **Instructor**
+
 | Conductor: |  | Ms Ho Lian Ian |
 | -------- | -------- | -------- |
 | Assistant Instructor:    |      |  Ms Fenny Low   |
 			
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Bj59mSQ8Qh0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bj59mSQ8Qh0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 Choir remains the only Co-Curricular Activity to be suspended during this pandemic. We miss the friendship, the laughter, and especially coming together (physically) to sing and make music.
 

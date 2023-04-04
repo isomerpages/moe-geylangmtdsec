@@ -24,6 +24,7 @@ third_nav_title: Aesthetics
 
 
 **Teachers-in-Charge**
+
 | 1. |  | Mdm Li Ping (I/C) |
 | -------- | -------- | -------- |
 | 2.     |      | Mdm Thia Fion     |
@@ -31,6 +32,7 @@ third_nav_title: Aesthetics
 | 4.     |      | Ms Phoebe Toh    |
 
 **Student Leaders**
+
 | Chairman: |  | Grace Foong |
 | -------- | -------- | -------- |
 | Vice-Chairman:    |      | Yurie Ang Sze Ting    |
@@ -38,6 +40,7 @@ third_nav_title: Aesthetics
 
 
 **Instructor**
+
 | 1. |  | Mr Zhou Lei |
 | -------- | -------- | -------- |
 |     |      |     |

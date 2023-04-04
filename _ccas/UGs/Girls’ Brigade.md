@@ -25,6 +25,7 @@ third_nav_title: UGs
 
 
 **Teachers-in-Charge**
+
 | 1. |  | Miss Lydia Soh En Ping (I/C) |
 | -------- | -------- | -------- |
 | 2.     |      | Ms Desiree Ho Hwee Ling     |
@@ -32,6 +33,7 @@ third_nav_title: UGs
 
 
 **Student Leaders**
+
 | Company Leader: |  | Lin Meixi (J35) |
 | -------- | -------- | -------- |
 |Assistant Company Leaders:    |      | Shee Yue Zhen (J37)     |
@@ -41,6 +43,7 @@ third_nav_title: UGs
 |      |      |  Squad 4: Phoebe Tay Hui Wen (J35)    |
 
 **Officers and Senior NCOs**
+
 | Captain: |  | Ms Grace See |
 | -------- | -------- | -------- |
 |  Officers:      |      | Miss Huang Jianwei     |
