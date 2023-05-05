@@ -11,7 +11,6 @@ third_nav_title: Staff
 | Principal | Mr Victor Owyong | [Victor\_OWYONG@schools.gov.sg](mailto:Victor_OWYONG@schools.gov.sg) |
 | -------- | -------- | -------- |
 | Vice-Principal (Education)     | Mrs Chang-Loy Wee Meng    | [LOY\_Wee\_Meng@schools.gov.sg](mailto:LOY_Wee_Meng@schools.gov.sg)     |
-| Vice-Principal (Education)   | Mr Lew King Lun Julian     | [lew\_king\_lun\_julian@schools.gov.sg](mailto:lew_king_lun_julian@schools.gov.sg)     |
 | Vice-Principal (Administration)   | Ms Corie Lee     | [corie_lee@schools.gov.sg](mailto:corie_lee@schools.gov.sg)     |
 
 
