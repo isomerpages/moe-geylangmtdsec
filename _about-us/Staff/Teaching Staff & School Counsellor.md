@@ -128,7 +128,7 @@ third_nav_title: Staff
 | MRS LOH KIM WOON    | [wong\_kim\_woon@schools.gov.sg](mailto:wong_kim_woon@schools.gov.sg)     |      |
 | MR JOHN SEAH    | [john\_seah\_yong\_han@schools.gov.sg](mailto:john_seah_yong_han@schools.gov.sg)    |      |
 | **Peace 5-1** |  |  |
-| MDM FION THIA    | [hia\_yue\_wen@schools.gov.sg](mailto:thia_yue_wen@schools.gov.sg)     |      |
+| MDM FION THIA    | [thia\_yue\_wen@schools.gov.sg](mailto:thia_yue_wen@schools.gov.sg)     |      |
 | MS FARIDAH AHMAD   | [faridah\_ahmad\_a@schools.gov.sg](mailto:faridah_ahmad_a@schools.gov.sg)     |     |
 
 
