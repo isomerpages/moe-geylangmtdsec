@@ -44,7 +44,7 @@ locations:
         description: ""
       - days: Lunch Time
         time: 11.30am to 12.30pm
-        description: "If parent have any enquiries, please contact the bookshop directly. "
+        description: If parent have any enquiries, please contact the bookshop directly.
     maps_link: https://goo.gl/maps/5ybWVNcrSRzHAfCw8
     title: Bookshop Vendor
 contacts:
@@ -61,6 +61,8 @@ contacts:
   - content:
       - phone: +65 6745 7271
       - email: ""
-      - other: ""
-    title: "Bookshop "
+      - other: Please be informed that our school bookstore will be closed from 5 to 16
+          June 2023
+    title: Bookshop
+feedback: https://forms.cwp.gov.sg/geylangmethodistsec/feedback
 ---
