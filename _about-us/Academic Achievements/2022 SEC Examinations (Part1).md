@@ -4,7 +4,7 @@ permalink: /about-us/academic-matters/2022-sec-exam-pt1/
 description: ""
 third_nav_title: Academic Achievements
 ---
-#### GCE N(T)-Level GM Top Students
+#### SEC Examination GM Top G1 Students
 ![](/images/IMG_3230-2048x1365.jpg)
 * Denison Tan Jun Bin
 * Krishiv Rai
@@ -27,7 +27,7 @@ third_nav_title: Academic Achievements
 * Woo Yuen Cheng Crystal
 
 
-#### GCE N(A)-Level GM Top Students
+#### SEC Examination GM G2 Top Students
 ![](/images/2022%20top%204NA.jpg)
 * (P47) Chloe Foo Kai yi
 * (P47) Eddison Chua
