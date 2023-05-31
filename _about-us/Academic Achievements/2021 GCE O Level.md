@@ -4,7 +4,7 @@ permalink: /about-us/Academic-Matters/2021-gce-o-level/
 description: ""
 third_nav_title: Academic Achievements
 ---
-#### Sec 4EX Top Students
+#### SEC Examination GM G3 Top Students
 ![](/images/IMG_0247e-2048x1075.jpg)
 * (P42) Bae Hyun Seok
 * (P42) Ethan Tan Wee Him
@@ -48,7 +48,7 @@ third_nav_title: Academic Achievements
 * (P43) Lew Tongyi Sabrina
 * (P42) Clare Ng hui
 
-#### Sec 5NA Top Students
+#### SEC Examination GM Sec 5 Top Students
 ![](/images/IMG_0259e-2048x1314.jpg)
 * (P51) Sia Kai En Javier
 * (P51) Che Jun Hao
