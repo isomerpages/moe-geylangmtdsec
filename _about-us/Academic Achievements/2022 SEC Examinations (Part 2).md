@@ -4,7 +4,7 @@ permalink: /about-us/academic-matters/2022-sec-exam-pt2/
 description: ""
 third_nav_title: Academic Achievements
 ---
-#### Sec 4 G3 Top Students
+#### SEC Examination GM G3 Top Students
 ![](/images/2022%20o%20level%20.jpeg)
 * (P42) Bryan Lai Ken Yang
 * (P42) Lee Tze Kia
@@ -58,7 +58,7 @@ third_nav_title: Academic Achievements
 
 
 
-#### Sec 5 Top Students
+#### SEC Examination GM Sec 5 Top Students
 ![](/images/2022%20Sec5.jpeg)
 * (P51) Zephaniah Lim
 * (P51) Elka Ghale
