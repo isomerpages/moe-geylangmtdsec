@@ -1,6 +1,6 @@
 ---
 title: 2022 GCE N Level
-permalink: /about-us/Academic-Matters/permalink/
+permalink: /about-us/academic-matters/2022-gce-n-lvl/
 description: ""
 third_nav_title: Academic Achievements
 ---

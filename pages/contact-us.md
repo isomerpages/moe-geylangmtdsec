@@ -61,8 +61,7 @@ contacts:
   - content:
       - phone: +65 6745 7271
       - email: ""
-      - other: Please be informed that our school bookstore will be closed from 5 to 16
-          June 2023
+      - other: ""
     title: Bookshop
 feedback: https://forms.cwp.gov.sg/geylangmethodistsec/feedback
 ---

@@ -1,10 +1,10 @@
 ---
 title: 2022 GCE O Level
-permalink: /about-us/Academic-Matters/permalink/
+permalink: /about-us/academic-matters/2022-gce-o-lvl/
 description: ""
 third_nav_title: Academic Achievements
 ---
-#### Sec 4EX Top Students
+#### Sec 4 GCE O-Level GM Top Students
 ![](/images/2022%20o%20level%20.jpeg)
 * (P42) Bryan Lai Ken Yang
 * (P42) Lee Tze Kia
@@ -58,7 +58,7 @@ third_nav_title: Academic Achievements
 
 
 
-#### Sec 5NA Top Students
+#### Sec 5 GCE O-Level GM Top Students
 ![](/images/2022%20Sec5.jpeg)
 * (P51) Zephaniah Lim
 * (P51) Elka Ghale
