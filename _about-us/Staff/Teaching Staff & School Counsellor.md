@@ -61,7 +61,6 @@ third_nav_title: Staff
 | MDM ZURAIDAH OMAR   | [zuraidah_omar@schools.gov.sg](mailto:zuraidah_omar@schools.gov.sg)   |
 | **Hope 2-8** |  |  |
 | MR MOHD FAIZAL     | [mohammad\_faizal\_b\_fadzlillah@schools.gov.sg](mailto:mohammad_faizal_b_fadzlillah@schools.gov.sg)     |     |
-| MS PHOEBE TOH     | [phoebe_toh_cui_yan@schools.gov.sg](mailto:phoebe_toh_cui_yan@schools.gov.sg)    |     |
 | MS GRACE YAP     | [grace_yap_szu_hui@schools.gov.sg](mailto:grace_yap_szu_hui@schools.gov.sg)     |     |
 
 
@@ -82,7 +81,6 @@ third_nav_title: Staff
 | MISS WONG HUI FEN    | [wong\_hui\_fen@schools.gov.sg](mailto:wong_hui_fen@schools.gov.sg)     |      |
 | **Joy 3-4** |  |  |
 | MS NORFUDLANA     | [norfudlana\_mayatim@schools.gov.sg](mailto:norfudlana_mayatim@schools.gov.sg)     |     |
-| MS PHANG SHI HUI     | [phang_shi_hui@schools.gov.sg](mailto:phang_shi_hui@schools.gov.sg)    |     |
 | **Joy 3-5** |  |  |
 | MISS NORASIYA MAN    | [norasiya_man@schools.gov.sg](mailto:norasiya_man@schools.gov.sg)    |     |
 | MR JAMES LIM   | [lim_boon_tiong_james@schools.gov.sg](mailto:lim_boon_tiong_james@schools.gov.sg)     |     |
