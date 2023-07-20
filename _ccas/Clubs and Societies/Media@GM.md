@@ -18,18 +18,15 @@ third_nav_title: Clubs and Societies
 *   Display talents of creative minds in digital media.
 *   Equip students with the latest skills in multimedia design.
 
-**Highlights of 2022:**
+**Highlights of 2023:**
+1) newly formed CCA with Photography & Videography and Digital Media.  
+2) Outings to different local bazaars  
+3) taking part in competition "Our Schools, Our Stories"   
+4) Organised a photo-exhibition theme “Local Bazaars Photography”  
+5) Leadership opportunities for seniors to lead and conduct workshops while honing their skills and confident.  
+6) Exposure to "Tech for good and Emerging Technologies" organised by IDMA.  
+7) Trainings are done by professionals who are specialized in field.
 
-*   Participated in Our Schools, Our Stories 2022 Photo Contest organised by MOE.
-*   Organised a photo-exhibition theme “Food Photography”, held at Geylang East Public Library.
-*   Students were given the opportunity to undergo training in different areas of Photography and Videography.
-*   Training is done by professionals who are specialized in media.
-*   Members are taught how to use their handphones and online platform to present their ideas.
-*   Students learned skills in “Nature/Reflection/Food/Light Painting/Perspective/Illusion/Crystal Ball” Photography.
-*   Went on a learning journey and learnt skills like video editing; making of animation etc.
-*   Participated in the “live on” competition 2022.
-*   Participated in the “DGF” competition 2022
-*   Students had the opportunity to learnt how to create logos; business card etc
 
 
 
@@ -37,13 +34,13 @@ third_nav_title: Clubs and Societies
 
 | 1. |  | Mr Kelvin Chia (I/C) |
 | -------- | -------- | -------- |
-| 2.     |      | Mr Pek Han Wei     |
-| 3.     |      | Mr Syafrin     |
+| 2.     |      | Mr Syafrin     |
+| 3.     |      | Mr Pek Han Wei    |
 | 4.     |      | Ms Doris Khoo     |
 
 **Student Leaders**
 
-| Year | Chairperson | Vice-Chairperson 1 | Vice-Chairperson 2 | Vice-Chairperson 3/4 |
+| Year | President: | Vice-President 1 | Vice-President: 2 | Vice-President: 3/4 |
 | -------- | -------- | -------- | -------- | -------- |
 | **2010/11**     | Yanny (F33/F43)    | Daisy Wong (H33/H43)    | Yeo Wei Wen (H32/H42)    | Soh Wei Lin (F31/F43)     |
 | **2011/12**    | Aaron Wong (F35/F45)    | Soong Yi Ning (F34/F44)     | Sarah Chin (F21/F31)     | Andy Lim (H33/H43)    |
