@@ -14,11 +14,12 @@ third_nav_title: Aesthetics
 *   Instil a love for the performing arts and culture.
 *   Develop and nurture students’ potential in leadership.
 
-**Highlights of 2022:**
+**Highlights of 2023:**
 
-*   Chinese New Year performance
-*   Practice during CCA
-*   National Day Celebration performance
+*   SYF Arts Presentation 
+*   Chinese New Year Concert
+*   Little Night Concert
+*   Singapore's International Vanda Dance Festival
 
 
 
@@ -28,16 +29,16 @@ third_nav_title: Aesthetics
 | 1. |  | Mdm Li Ping (I/C) |
 | -------- | -------- | -------- |
 | 2.     |      | Mdm Thia Fion     |
-| 3.     |      | Ms Phang Shi Hui    |
-| 4.     |      | Ms Phoebe Toh    |
+| 3.     |      | Ms Yeong Suk Mun    |
+
 
 **Student Leaders**
 
-| Chairman: |  | Grace Foong |
+| President: |  | Keziah Leong Yahn |
 | -------- | -------- | -------- |
-| Vice-Chairman:    |      | Yurie Ang Sze Ting    |
-|     |      | Lau En Yu Gladys    |
-
+| Vice-Presidents:    |      | Tricia Lim Zhi Xuan    |
+|     |      | Megan Lee Yee Ning    |
+| Head of Events and Logistics:   |      | Chung Zhi Xuan    |
 
 **Instructor**
 
