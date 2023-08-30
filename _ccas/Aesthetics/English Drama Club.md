@@ -15,11 +15,12 @@ third_nav_title: Aesthetics
 *   Cultivate a sense of sensitivity and consideration towards one another.
 *   To equip students with skills – communication, physical movements, theatre management, script writing skills, speech and elocution.
 
+
 **Highlights of 2023:**
 
 *   Little Night Concert
 *   National Day Celebration
-*   
+*   SYF Arts Presentation
 
 
 **Teachers-in-Charge**
@@ -32,15 +33,15 @@ third_nav_title: Aesthetics
 
 **Student Leaders**
 
-| President: |  | Edelyn Ho Xin En |
+| President: |  | Vrinda Jeyakumar |
 | -------- | -------- | -------- |
-| Vice President:    |      | Shevelle Ong Zi Xuan    |
-|     |      | Reagan Goh    |
-
+| Vice President:    |      | Lim Hong Xiang Keith    |
+|  Sec 1 I/C   |      | Aly Pan Siyin    |
+|  Sec 2 I/C   |      | Phua Hieu Boon    |
 
 
 **Instructor**
 
 | Main Instructor: |  | Ms Deborah Hoon |
 | -------- | -------- | -------- |
-| Assistant Instructor:    |      |  Mr Kay Kay Nizam   |
+| Assistant Instructor:    |      |  Mr Kay Kay   |
