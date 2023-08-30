@@ -7,8 +7,7 @@ third_nav_title: Sports
 
 
 
-
-**Objectives of CCA**
+![](/images/2023%20vollayball.jpeg)**Objectives of CCA**
 
 *   Learn skills and strategies of competitive volleyball.
 *   Build physical fitness and mental toughness.
