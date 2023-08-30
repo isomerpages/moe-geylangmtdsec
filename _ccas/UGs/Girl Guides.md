@@ -11,14 +11,14 @@ third_nav_title: UGs
 
 *   To develop the girls into responsible citizens of the world.
 
-**Highlights of 2022:**
+**Highlights of 2023:**
 
-*   Awarded Gold for Puan Noor Aishah Award 2021
-*   Assistant Company Leader Chan Ling Qi was awarded the Baden Powell Award (BPA), the highest award given out by the Chief Commissioner of Girl Guides to a Girl Guide
-*   Guides participated in the Gardens by the Bay Ambassador Programme
-*   Guides took part in the East Division Day 2022 competitions and took home 3rd place for Recycled Fashion
-*   Participated in the National Day Parade as part of the marching contingent
-*   Guide Leaders attended the Patrol Leaders Training Camp 2022
+*   Awarded Gold for Puan Noor Aishah Award 2022
+*   Patrol Leader Putri Mellissa was awarded the Baden Powell Award (BPA), the highest award given out by the Chief Commissioner of Girl Guides to a Girl Guide
+*   Guides Eileen Lua and Putri Mellissa participated in the National Day Parade at the Padang
+*   Guides took part in the East Division Day 2023 competitions and took home 1st place for Dance and 2nd place for Poster Design
+*   Participated in the National Day Parade in the annual school celebration as part of the marching contingent
+*   Company Leader Reann Pwee and Assistant Company Leader Desmartes Maelys attended the Let's Go Camping 2023 Camp at Camp Christine
 
 
 
@@ -32,13 +32,11 @@ third_nav_title: UGs
 
 **Student Leaders**
 
-| Company Leader: |  | Tan Min Sze |
+| Company Leader: |  | Pwee Yi Han Reann (J32) |
 | -------- | -------- | -------- |
-|Assistant Company Leaders:    |      | Lim En Hui     |
-|      |      | Chan Ling Qi      |
-| Quartermistresses:     |      | Pang Shi Qing Christabel     |
-|      |      | Pwee Yi Han Reann     |
-|  Patrol Leaders:    |      |  Kingfisher – Putri Mellissa   |
-|      |      |  Mynah- Shayna Seah    |
-|      |      |  Oriole- Louise Low     |	
-|      |      |  Sparrow- Ashlyn Tan Xin Xuan    |
+|Assistant Company Leaders:    |      | Desmartes Maelys Tim Xin (J33)    |
+| Quartermistresses:     |      | Heng Yee Seng (J32)     |
+|  Patrol Leaders:    |      |  Kingfisher – Putri Mellissa (J34)   |
+|      |      |  Mynah- Lua Yi Lin, Eileen (J36)    |
+|      |      |  Dove- Ella Tan Hui En (J37)     |	
+|      |      |  Sparrow- Chung Way Shin, Mirai (J34)    |
