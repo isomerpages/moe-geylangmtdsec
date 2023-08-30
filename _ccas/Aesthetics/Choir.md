@@ -4,8 +4,7 @@ permalink: /cca/Aesthetics/Choir/
 description: ""
 third_nav_title: Aesthetics
 ---
-![](/images/GMSS-95-Anniversary-225-1024x681.jpg)
-
+![](/images/2023%20choir.jpg)
 
 
 **Objectives of CCA**
