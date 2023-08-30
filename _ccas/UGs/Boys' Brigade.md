@@ -4,7 +4,6 @@ permalink: /cca/ugs/boys-brigade/
 description: ""
 third_nav_title: UGs
 ---
-
 ![](/images/2023%20bb.jpeg)
 
 
@@ -61,4 +60,4 @@ third_nav_title: UGs
 	
 
 
-![](/images/20160416_112025-1024x576.jpg)
+![](/images/jm_fraser_2023.jpeg)![](/images/20160416_112025-1024x576.jpg)
