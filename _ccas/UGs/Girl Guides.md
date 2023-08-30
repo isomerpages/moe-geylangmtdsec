@@ -4,7 +4,7 @@ permalink: /cca/ugs/girl-guides/
 description: ""
 third_nav_title: UGs
 ---
-![](/images/Grp-1-1024x768.jpg)
+![](/images/2023%20gg.png)
 
 
 **Objectives of CCA**
