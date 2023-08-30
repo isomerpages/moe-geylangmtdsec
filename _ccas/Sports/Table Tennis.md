@@ -28,7 +28,7 @@ third_nav_title: Sports
 
 **Student Leaders**
 
-|  |  | Vincent Tan Xin Sheng (J33) |
+| Captains & Vice |  | Vincent Tan Xin Sheng (J33) |
 | -------- | -------- | -------- |
 |  |  | Zheng Zexi (J33) |
 |  |  | Lim Lee Ban (J35) |
