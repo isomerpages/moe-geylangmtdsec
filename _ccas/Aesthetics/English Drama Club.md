@@ -15,11 +15,11 @@ third_nav_title: Aesthetics
 *   Cultivate a sense of sensitivity and consideration towards one another.
 *   To equip students with skills – communication, physical movements, theatre management, script writing skills, speech and elocution.
 
-**Highlights of 2022:**
+**Highlights of 2023:**
 
-*   Chinese New Year 2022 - Recorded performance.
-*   Little Night Concert - Recorded performance.
-*   National Day School Concert 2022
+*   Little Night Concert
+*   National Day Celebration
+*   
 
 
 **Teachers-in-Charge**
