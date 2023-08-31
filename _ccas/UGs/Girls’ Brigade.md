@@ -4,7 +4,7 @@ permalink: /cca/ugs/girls-brigade/
 description: ""
 third_nav_title: UGs
 ---
-![](/images/Feb-Valentine-Special-1024x768.jpg)
+![](/images/2023%20gb.jpg)
 
 
 
@@ -13,13 +13,11 @@ third_nav_title: UGs
 *   Our girls will blossom to be servant leaders who will Grow and Go Beyond – Extend, Serve and Lead.
 *   To help our girls to become followers of the Lord Jesus Christ, and through Self-Control, Reverence and A Sense of Responsibility, to find True Enrichment of Life.
 
-**Highlights of 2022:**
+**Highlights of 2023:**
 
-*   Awarded Sliver for company award for 2021
-*   Sec 3 girls participated in the Leadership Conference organised by GB HQ
-*   Awarded Sliver for Dr Low Guat Tin Challenge organised by GB HQ.
-
-
+* Gold for Company Award 2022
+* Awarded Gold Award for Drill Competition
+* 2 Girls participanted in the National Day Parade as part of the marching contingent
 
 
 
@@ -29,18 +27,18 @@ third_nav_title: UGs
 | 1. |  | Miss Lydia Soh En Ping (I/C) |
 | -------- | -------- | -------- |
 | 2.     |      | Ms Desiree Ho Hwee Ling     |
-| 3.     |      | Ms Charlene Ng    |
+| 3.     |      | Miss Charlene Ng Jia Ling  |
 
 
 **Student Leaders**
 
-| Company Leader: |  | Lin Meixi (J35) |
+| Company Leader: |  | See Xin Hui |
 | -------- | -------- | -------- |
-|Assistant Company Leaders:    |      | Shee Yue Zhen (J37)     |
-|  Squad Leaders:    |      |  Squad 1: Lucy Liew Yen Nhi (J31)   |
-|      |      |  Squad 2: Lin Zitong, Heran (J35)   |
-|      |      |  Squad 3: Shee Yue Zhen (J37)    |	
-|      |      |  Squad 4: Phoebe Tay Hui Wen (J35)    |
+| Assistant Company Leader:    |      | Chee Xin Min Josephine     |
+|  Squad Leaders:    |      |  Squad 1: Trisha Lee Kah En   |
+|      |      |  Squad 2: Nueng Ang Zhi Min   |
+|      |      |  Squad 3: Rebecca Tan Wen Yue    |	
+|      |      |  Squad 4: Xie Wenhan    |
 
 **Officers and Senior NCOs**
 
@@ -50,8 +48,17 @@ third_nav_title: UGs
 |      |      | Ms Dorcas Leow Yuen Shin     |
 |      |      | Miss Oh Jia Jia     |
 |      |      | Miss Mandy Mak     |
-|      |      | Miss Jolisa Koh     |
-| Warrant Officers:     |      | Miss Gloria Fong     |
-|      |      | Miss Tan Le En, Leanne    |
-|      |      | Miss Goh Ai Li    |
+|      |      | Miss Gloria Fong     |
+| Cadet Warrant Officers:     |      | Miss Tan Le En, Leanne     |
 |      |      | Miss Ang Soo Hui     |
+|      |      | Miss Goh Ai Li    |
+
+
+**Volunteers**
+| 1. |  | Miss Yeo Kai Wen |
+| -------- | -------- | -------- |
+|  2.    |      | Miss Susan Loong    |
+|  3.    |      | Miss See En Hui    |
+|  4.    |      | Miss Poh Bee Bee, Joy   |
+
+![](/images/2023%20gb2.jpg)

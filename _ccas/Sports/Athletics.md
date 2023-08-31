@@ -4,8 +4,7 @@ permalink: /cca/Sports/athletics/
 description: ""
 third_nav_title: Sports
 ---
-![](/images/WhatsApp-Image-2020-08-10-4.jpeg)
-
+![](/images/2023%20athetics.png)
 
 **Objectives of CCA**
 
@@ -15,10 +14,11 @@ third_nav_title: Sports
 *   Learn good sportsmanship.
 
 
-**Highlights of 2022**
+**Highlights of 2023**
 
-*   Participated in National School Games Cross Country Championship 2022
-*   Participated in National School Games Track and Field Championships 2022  
+*   Participated in Wings Cross-Country Championships
+*   Participated in NSG Track and Field Championships
+*   Participated in NSG Cross-Country Championships 
 
 
 
@@ -33,10 +33,10 @@ third_nav_title: Sports
 
 **Student Leaders**
 
-| Captain:  |  | Janet Tan |
+| Captain:  |  | Wong Jie (J36) |
 | -------- | -------- | -------- |
-| Vice-Captains:    |     | Isabelle Lim    |
-|     |     | Kurt Goh Ke Wee    |
+| Vice-Captains:    |     | Ng Yan Wen (J32)    |
+|     |     | Eng Shi Han (J35)    |
 
 
 

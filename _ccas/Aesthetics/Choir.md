@@ -4,8 +4,7 @@ permalink: /cca/Aesthetics/Choir/
 description: ""
 third_nav_title: Aesthetics
 ---
-![](/images/GMSS-95-Anniversary-225-1024x681.jpg)
-
+![](/images/2023%20choir.jpg)
 
 
 **Objectives of CCA**
@@ -13,13 +12,13 @@ third_nav_title: Aesthetics
 *   Develop and enhance musical and performance abilities in an assortment of choral music.
 *   Build camaraderie and strong bonds through a mutual love of music and working together as a chorale.
 
-**Highlights of 2022 :**
+**Highlights of 2023 :**
 
-*   Bonding activities
-    
-*   Audio and video recording of O Nata Lux
-    
-*   Chinese New Year 2022 - Recorded Performance
+*   Little Night Concert
+*   GM99 Performance
+*   Bonding Acitivities
+*   Participated and got Distinction for Singapore Youth Festival
+*   National Day Parade Performance
 
 
 
@@ -34,12 +33,17 @@ third_nav_title: Aesthetics
 
 **Student Leaders**
 
-| President: |  | Yong Ke Xuan |
+| President: |  | Espanol Robert Angelo Angeles |
 | -------- | -------- | -------- |
-| Vice President:    |      | Sim Xiao En    |
-|     |      | Tsai Yi Jie     |
-|     |      | Md Mustaqim Bin Md Faisal     |
-| Librarian:    |      | Reyhan Daffa Adithya    |
+| Vice President:    |      | Chea Zhi Yu, Amber    |
+|  Section Leaders:   |      |  Alyssa Tan    |
+|     |      |  Ameile Toh    |
+|     |      |  Amber Cheah    |
+|  Assistant Section Leaders:   |      |   Ng Qian Yi  |
+|     |      |   Yang He Qi  |
+|     |      |   Breana Lim  |
+|     |      |   Espanol Robert  |
+| Librarian:    |      | Saanvi Anil Chugani   |
 
 
 **Instructor**

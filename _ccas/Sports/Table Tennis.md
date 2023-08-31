@@ -4,17 +4,19 @@ permalink: /cca/Sports/Table-tennis/
 description: ""
 third_nav_title: Sports
 ---
-![](/images/4-1-1024x683.jpg)
+![](/images/2023%20table%20tennis.jpg)
+
 
 **Objectives of CCA**
 
 *   Nurture sportsmanship and positive peer-to-peer relationships through the sport.
 *   Strengthen concentration level, tactical strategy and mastery of the sport.
 
-**Highlights of 2022**
+**Highlights of 2023**
 
-*   Participated in NSG National C Division Boys and Girls in Table tennis East Competition 2022.
-*   Participated in NSG National B Division Boys in Table tennis East Competition 2022.
+*   East Zone 'B' Division Boys Competition
+*   East Zone 'C' Division Boys Competition
+*   East Zone 'C' Division Girls Competition
 
 **Teachers-in-charge**
 
@@ -26,16 +28,20 @@ third_nav_title: Sports
 
 **Student Leaders**
 
-| Captain: |  | Gareth |
+| Captains & Vice |  | Vincent Tan Xin Sheng (J33) |
 | -------- | -------- | -------- |
-| Vice-Captains:    |      | Helik     |
-|    |      | Ethan Koh     |
-
+|  |  | Zheng Zexi (J33) |
+|  |  | Lim Lee Ban (J35) |
+|  |  | Tricia Lee Zhi Xin (J32) |
+| Logistics IC:    |      | Herrick Koh Yu Peng (J36)     |
+| Physical Training:   |      | Zane Tay Zhe Hian (J33)     |
+|    |      | Justin Leong Jia Qing (J34)     |
+|   |      | Tan Yi Jie (J35)     |
 
 
 **Coach**
 
 
-| 1 |  | Mr Tan Ten Siong |
+| 1 |  | Mr. Dexter Han |
 | -------- | -------- | -------- |
 |     |      |     |

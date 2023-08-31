@@ -4,16 +4,16 @@ permalink: /cca/Sports/Basketball/
 description: ""
 third_nav_title: Sports
 ---
-![](/images/IMG-20200320-WA0017-1-1024x768.jpg)
-
+![](/images/2023%20basketball.jpeg)
 **Objectives of CCA**
 
 *   Cultivating the spirit of teamwork and esprit-de-corp
 *   Hone excellence in the game.
 
-**Highlights of 2022**
+**Highlights of 2023**
 
-*   Participated in National School Games B and C Division 2022
+*   Participation in NSG B Division
+*   Participation in NSG C Division
 
 
 **Teachers-in-charge**
@@ -27,21 +27,14 @@ third_nav_title: Sports
 
 **Student Leaders**
 
-| B Division Captain: |  | Lu Yu Song |
+| B Division Captain: |  | Sng Ming Xuan (J33) |
 | -------- | -------- | -------- |
-| B Division Vice-Captain:     |      | Chen Yue Yang Titus    |
-| B Division Vice-Captain 2:    |      | Weng Yuk Shing Steve    |
-| Publicity Head:    |      | Glendon Chia    |
-| B Division Vice-Captain:     |      | Chen Yue Yang Titus    |
-| Logistics/Welfare Head:   |      | Kevan Leong   |
-| C Division Captain:     |      | Sng Ming Xuan    |
-| C Division Vice-Captain:     |      | Dzeul Adly B Norshahrin   |
-| Logistics/Welfare Head:   |      | Charles Isaac Ong   |
+| B Division Vice-Captain:     |      | Liu Yihang (J37)    |
+| C Division Captain:     |      | Sim Guan Yu (H22)    |
+| C Division Vice-Captain:     |      | Weng Junrong (H23)   |
 
 
 
 **Coaches**
 
-| 1. |  | Mr Hiu Guo Rong |
-| -------- | -------- | -------- |
-| 2.    |      | Mr Laurenz Garcon     |
+| 1.    |      | Mr Laurenz Garcon     |

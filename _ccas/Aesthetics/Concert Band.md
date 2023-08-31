@@ -4,7 +4,7 @@ permalink: /cca/aesthetics/concert-band/
 description: ""
 third_nav_title: Aesthetics
 ---
-![](/images/GMSS-95-Anniversary-135-1024x684.jpg)
+!![](/images/2023%20concert%20band.jpg)[](/images/GMSS-95-Anniversary-135-1024x684.jpg)
 
 
 **Objectives of CCA**
@@ -13,10 +13,13 @@ third_nav_title: Aesthetics
 *   Learn to play an instrument.
 *   Cultivate leadership skills.
 
-**Achievements in 2022**
 
-*   Bonding activities
-*   Sec 4 and 5 Graduation
+
+**Achievements in 2023**
+
+*   SYF Arts Presentation
+*   Band exchange at Fairfield Secondary School
+*   Little Night Concert
 
 
 
@@ -26,14 +29,14 @@ third_nav_title: Aesthetics
 | -------- | -------- | -------- |
 | 2.     |      | Mr James Kee     |
 | 3.     |      | Ms Tan Kai Wei    |
-| 4.     |      | Mdm Yeong Suk Mun (2nd Semester)    |
+
 
 **Student Leaders**
 
-| Band Major: |  | Fong Yan Kit David |
+| Band Major: |  | Quek Li Xuan, Joann |
 | -------- | -------- | -------- |
-| Assistant band major (Admin):    |      | Low Zhi Yu    |
-
+| Vice Band Major:    |      | Goh Jia Rong    |
+| Sec 1 I/C:    |      | Lim Qian Yu, Beatrice    |
 
 
 **Instructors**

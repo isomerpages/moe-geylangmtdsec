@@ -4,7 +4,7 @@ permalink: /cca/Sports/Softball/
 description: ""
 third_nav_title: Sports
 ---
-![](/images/Softball_1-1024x768.jpeg)
+![](/images/2023%20softball.jpg)
 
 
 **Objectives of CCA**
@@ -13,9 +13,11 @@ third_nav_title: Sports
 *   Play with sportsmanship, team and joy
 *   Develop critical thinking skills to enhance tactical abilities
 
-**Highlights of 2022**
+**Highlights of 2023**
 
-*   Participated in National School Games 2022 in both B and C Division
+*   B Division National School Games
+*   C Division National School Games
+*   Softball Friendly Games at Assumption English School
 
 **Teachers-in-charge**
 
@@ -27,15 +29,8 @@ third_nav_title: Sports
 
 **Student Leaders**
 
-| B Division  |  |  |
-| -------- | -------- | -------- |
-| Captain: |  | Phee Xin Ting Tricia |
-| Vice-Captain:  | | Syahrifah Nuryorani |
-
-| C Division |  |  |
-| -------- | -------- | -------- |
-| Captain: | | Fong Shu Ting Emma |
-| Vice-Captain: | | Queenie Lim Jie Ying |
+| Captain: |  | Fong Shu Ting Emma |
+| Vice-Captain:  | | Queenie Lim Jie Ying |
 
 
 
@@ -43,4 +38,4 @@ third_nav_title: Sports
 
 | 1. |  | Ms Carvalho Mavis Margaret |
 | -------- | -------- | -------- |
-|    |      |     |
+| 2. |  | Mr Roland |

@@ -4,20 +4,19 @@ permalink: /cca/UGs/npcc/
 description: ""
 third_nav_title: UGs
 ---
-![](/images/Inter-Unit-Drill-Competition-2019.jpg)
+![](/images/2023%20npcc.jpg)
 
 
 **Objectives of NPCC**
 
 *   To develop cadets to be active citizens and community leaders, by working in partnership with the Singapore Police Force to fight crime and keep Singapore safe.
 
-**Highlights of 2022:**
+**Highlights of 2023:**
 
-*   Awarded Gold for Unit Overall Proficiency Award 2021
-*   Station Inspector Lim En Xian was awarded the SPF-NPCC badge, the pinnacle award in NPCC that a cadet can achieve
-*   Sec 1 cadets participated in a Bouldering class & sec 2 cadets participated in one-star kayaking course
-*   Learning journey to Geylang Neighborhood Police Centre and Tampines Civil Defence station for sec 1 and 2 cadets
-*   Participated in the E-Crime Scene Investigation competition organized by HQ NPCC
+*   Awarded Distinction for UOPA (2022)
+*   Two cadets awarded SPF-NPCC badges
+*   Participated in Inter-Unit CSI Competition
+*   Sec 1 participated in Bouldering, Sec 2 participated in Kayaking, Sec 3 attended FA course
 
 
 **Teachers-in-Charge**
@@ -28,17 +27,18 @@ third_nav_title: UGs
 | 3.     |      | Mr Wong Kok Woei    |
 | 4.     |      | Mr Zhao Yilin    |
 
-**Student Leaders**
+**CCA Leaders**
 
-| Unit Secretary: |  | Tan Aik Hian |
+| Unit Secretary: |  | Daniel Pe Win |
 | -------- | -------- | -------- |
-|Vice-Unit Secretary:    |      | Charlie Chan Li Shun     |
+| Assistant-Unit Secretary:    |      | Dylan Ong Kian Yee    |
 
 
-**Honorary Officers**
+**Instructors**
 
 |  1. |  | Mr Lim Kian Wah |
 | -------- | -------- | -------- |
 |  2.     |      | Mr Teoh Hock Ming     |
-|  3.     |      | Mr Tay Chi Keng     |
-|  4.     |      | Mr Loh Sher Chien     |
+|  3.     |      | Mr Loh Sher Chien     |
+
+![](/images/2023%20npcc_3.jpg)

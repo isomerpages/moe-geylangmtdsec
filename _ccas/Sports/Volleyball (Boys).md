@@ -4,8 +4,7 @@ permalink: /cca/sports/volleyball/
 description: ""
 third_nav_title: Sports
 ---
-![](/images/IMG_8246-1024x768.jpg)
-
+![](/images/2023%20vollayball.jpeg)
 
 
 **Objectives of CCA**
@@ -15,11 +14,11 @@ third_nav_title: Sports
 *   Develop sportsmanship and fair play.
 *   Foster effective communication and team spirit.
 
-**Highlights of 2022**
+**Highlights of 2023**
 
-*   Participated in the B division National School Games Volleyball Championship and came in as 2nd runner up in the East Zone.
-*   Participated in the C division National School Games Volleyball Championship and came in as 1st runner up in the East Zone. Our C Division team qualified for the NSG Volleyball Championship at the national level but did not advance to the next round.
-*   Our Secondary 3 Volleyball players organised and ran our friendly tournaments once SMM relaxed during the June school holidays. Some of the participating schools were Hwa Chong Institution, Zhong Hua Secondary School  and Edgefield Secondary School.
+*   B Division Volleyball boys National Schools Games (East Zone) - 4th place
+*   B Division Volleyball Boys National School Games - 7th place
+*   C Division Boys Volleyball National Schools Games (East Zone) - 3rd place
 
 
 **Teachers-in-charge**
@@ -27,18 +26,19 @@ third_nav_title: Sports
 | 1. |  | Mrs Deborah Tong (I/C)  |
 | -------- | -------- | -------- |
 | 2.     |      | Mr Ngm Yew Fai     |
-| 3.     |      | Ms Cindy Lim     |
+| 3.     |      | Ms Hanjranah     |
+| 4.     |      | Ms Cindy Lim     |
 
 
 **Student Leaders**
 
-| B Division Captain: |  | Jenith Rai |
+| B Division Captain: |  | Jenith Rai (P43) |
 | -------- | -------- | -------- |
-| B Division Vice-Captains:    |      | Chris Gurung     |
-|    |      | Kenneth Lee     |
-|  C Division Captain:  |      | Muhammad Fitri Danish Bin Abdullah     |
-|  C Division Vice-Captains:  |      | Aniq Azry Bin Salleh     |
-|    |      | Prajwal Jeet Gurung     |
+| B Division Vice-Captains:    |      | Chris Gurung (P46)    |
+|    |      | Kenneth Lee  (P47)   |
+|  C Division Captain:  |      | Muhammad Fitri Danish Bin Abdullah (J31)    |
+|  C Division Vice-Captains:  |      | Aniq Azry Bin Salleh (J31)    |
+|    |      | Prajwal Jeet Gurung (J33)    |
 
 
 **Coaches**

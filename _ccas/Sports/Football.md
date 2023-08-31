@@ -4,7 +4,7 @@ permalink: /cca/Sports/Football/
 description: ""
 third_nav_title: Sports
 ---
-![](/images/WhatsApp-Image-2020-01-23-1.jpeg)
+![](/images/2023%20football.JPG)
 
 
 
@@ -14,12 +14,12 @@ third_nav_title: Sports
 *   Enable students to learn social skills and build up confidence and self-esteem.
 *   Creating an environment for students to experience and learn valuable life lessons.
 
-**Highlights of 2022:**
+**Highlights of 2023:**
 
-*   B Division  
-    Participated in the National School Games 2022.
-*   C Division  
-    Participated in the National School Games 2022.
+*   B Division Champions of League 5 National School Games
+*   C Boys Top 16 Schools in Singapore
+*   Bonding activities through teachers vs student games
+*   Year end Football Camp
 		
 **Teachers-in-charge**
 
@@ -31,17 +31,15 @@ third_nav_title: Sports
 
 **Student Leaders**
 
-| B Division Captain: |  | GAIUS LOW SHAO WEN |
+| Captain: |  | Kieran Quek Zhen Xi |
 | -------- | -------- | -------- |
-| B Division Vice-Captains:    |      | MUHAMMAD NABIL ANAQI BIN ROSLAN     |
-|    |      | KEEGAN CHAN XIN CHENG |
-|  C Division Captain:  |      | Kieran Quek     |
-|  C Division Vice-Captains:  |      | Keiran Choong     |
-|    |      |      |
+| Vice-Captains:    |      | Keiran Choong Wing Lok     |
+|    |      | Cayden Foo Dun Yu |
+
 
 
 **Coaches**
 
 | 1 |  | Mr Raffiey |
 | -------- | -------- | -------- |
-| 2    |     |  Mr Saswa     |
+| 2    |     |  Mr Sukhvinder Sigh     |

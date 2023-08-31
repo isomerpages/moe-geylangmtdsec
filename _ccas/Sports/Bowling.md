@@ -4,7 +4,7 @@ permalink: /cca/Sports/bowling/
 description: ""
 third_nav_title: Sports
 ---
-![](/images/IMG_2344-1024x768.jpg)
+![](/images/2023%20bowling.jpeg)
 
 
 **Objectives of CCA**
@@ -13,13 +13,13 @@ third_nav_title: Sports
 *   Develop physical strength and competitive spirit through competitions.
 *   Inculcate self-discipline, perseverance and team spirit.
 
-**Highlights of 2022**
+**Highlights of 2023**
 
-*   Participated in SSSC National B Division Bowling Championships 2022
-*   Participated in SSSC National C Division Bowling Championships 2022
+*   B Division National School Games
+*   C Division National School Games
+
 
 **Teachers-in-charge**
-
 
 | 1. |  | Ms Ong Hui Qi (OIC) |
 | -------- | -------- | -------- |
@@ -31,11 +31,11 @@ third_nav_title: Sports
 **Student Leaders**
 
 
-| Captain: |  | Ng Yi Han |
+| Captain: |  | Chan Li Ting |
 | -------- | -------- | -------- |
-| Vice-Captains:    |      | Lim Jia Jun, Bryan    |
-| Vice-Captains:    |      | Tan Khim Seah    |
-| Vice-Captains:    |      | Chan Li Ting    |
+| Vice-Captains:    |      | Yong Qin Heng Brayden    |
+| Vice-Captains:    |      | Mohammad Fahril Rifqy Bin Mohammad Rafid    |
+| Vice-Captains:    |      | Jonas Toh Jing Herng    |
 
 
 
