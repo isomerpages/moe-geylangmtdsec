@@ -4,7 +4,7 @@ permalink: /cca/club-and-society/board-games-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-![](/images/p12-1024x768.jpeg)
+![](/images/2023%20board%20games.jpeg)
 
 
 **Objectives of CCA**
