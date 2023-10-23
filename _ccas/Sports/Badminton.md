@@ -4,7 +4,7 @@ permalink: /cca/Sports/badminton/
 description: ""
 third_nav_title: Sports
 ---
-![](/images/IMG_0468-1024x683.jpeg)
+![](/images/2023%20badminton.jpg)
 
 
 
@@ -13,17 +13,15 @@ third_nav_title: Sports
 
 *   We aim to develop the full potential of our members with important values and life skills such as good time management, resilience and excellence.
 
-**Highlights of 2022**
+**Highlights of 2023**
 
-*   Participated in National School Games B and C Division 2022
-*   B Boys entered the Quarter-Finals to compete among the top 8 schools in the East Zone.
-*   Our B & C Girls took part in Paya Lebar Methodist Badminton Cup 2022 @ PLMGS on 4 Nov'22. Came in 2nd Runner-Up.
+*   Emerged Top 8 in National School Games (NSG) East-Zone C Division Girls Championship
 
 
 **Teachers-in-charge**
 
 
-| Mr Yip Cheng Hou (I/C) |  |  |
+| Mr Yip Cheng Hou (OIC) |  |  |
 | -------- | -------- | -------- |
 | Mr Joseph Lim     |      |      |
 | Mr Bernard Cheong     |      |      |
@@ -34,21 +32,20 @@ third_nav_title: Sports
 **Student Leaders**
 
 
-| B Division Boys Captain: |  | Jonah Tong |
+| Captains: |  | Lim Yong Jun (H2-6) |
 | -------- | -------- | -------- |
-| B Division Boys Vice-Captain:       |     | Isaac Lee     |
-| B Division Girls Captain:       |     | Esther Gan      |
-| B Division Girls Vice-Captain:       |     | Lee Ke En      |
-| C Division Boys Captain:      |     | Lim Yong Jun      |
-| C Division Boys Vice-Captain:       |     | Nigel Lee      |
-| C Division Girls Captain:      |     | Zovonne Lai     |
-| C Division Girls Vice-Captain:        |     | Jessica Feng       |
+|      |     | Lai Zu Tong, Zovonne (H2-5)     |
+| Vice-Captains:       |     | Lee Yu Zhe, Nigel (H2-3)     |
+|        |     | Jessica Feng Shaowen (H2-7)      |
+| EXCO Heads Training:     |     | Lim Yong Jun (H2-6)      |
+|       |     | Pang Si En, Joey (H2-1)     |
+| Peer Support:     |     | Jayden Wong Yan Kai (J3-3)    |
+| C Division Girls Vice-Captain:        |     | Lee Ke En (J3-6)       |
 
 
 
 
 **School Team Coaches**
 
-| 1. |  | Mr Liu Qing Dong |
+| 1. |  | Mr Tan Ming Shun |
 | -------- | -------- | -------- |
-| 2.    |      | Mr Ng Choon Kang     |
