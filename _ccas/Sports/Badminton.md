@@ -40,7 +40,7 @@ third_nav_title: Sports
 | EXCO Heads Training:     |     | Lim Yong Jun (H2-6)      |
 |       |     | Pang Si En, Joey (H2-1)     |
 | Peer Support:     |     | Jayden Wong Yan Kai (J3-3)    |
-| C Division Girls Vice-Captain:        |     | Lee Ke En (J3-6)       |
+|        |     | Lee Ke En (J3-6)       |
 
 
 
