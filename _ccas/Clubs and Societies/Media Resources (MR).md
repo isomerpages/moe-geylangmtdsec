@@ -4,28 +4,27 @@ permalink: /cca/club-and-society/media-resource-mr/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-![](/images/S1-CCA-Open-House-2-1024x768.jpg)
+![](/images/2023%20mr.JPG)
 
-**Objectives:**
 
-*   Provision of technical support and know-how in audio, visual and sound for school programmes and events
-*   Maintenance of school’s public announcement systems and audio visual equipment
-*   Guidance of class ICT representatives in rendering technical assistance to teachers
 
-**Highlights of 2022:**
+**Highlights of 2023:**
 
-*   Completion of Digital MRC Handbook
-*   Learning Journey to The Gym Esportscentre
-*   Student-Initiated Mentoring Programme and Peer Review
+*   Implementation of e-Requisition to facilitate ease of media resource booking
+*   Weekly modular training and evaluation for members
+*   Set up e-folder for training and troubleshoot resources
 
 **Teachers-in-Charge**
+
 | 1. |  | Ms Norfudlana Mayatim (I/C) |
 | -------- | -------- | -------- |
 | 2.     |      | Ms Siti Fattasha Ithnin     |
 | 3.     |      | Mrs Denise Lok    |
 
 **Student Leaders**
-| Chairperson |  | Lim Tze Xuan (J33) |
+
+| Chairperson: |  | Pong Song Jie (J36) |
 | -------- | -------- | -------- |
-| Vice Chairperson (Logistics):     |      | Ryan Wong Hao Wei (J36)     |
-| Vice Chairperson (Training)     |      | Kawanishi Takuto (J36)     |
+| Vice Chairperson :     |      | Chui Lok Xun (J37)     |
+| Training IC :     |      | Daryl Goh (J37)     |
+| Logistics IC :     |      | Kimberly Tan Wan Ting (J31)     |

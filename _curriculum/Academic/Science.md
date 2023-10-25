@@ -6,7 +6,7 @@ third_nav_title: Academic
 ---
 ![](/images/Science%20copy.jpg)
 
-<img src="/images/science-300x175.jpg" style="width:300px;height:175px;margin-left:15px;" align = "right">
+<img src="/images/science-300x175.jpg" style="width:300px;height:175px;margin-left:15px;" align="right">
 
 The Lower Secondary Science syllabus is a continuation and further development of the Primary Science syllabus. It is also a bridge to, and a foundation for, the pursuit of scientific studies at upper secondary levels, where students get to choose which branch of Science (Physics, Chemistry and Biology) they would like to pursue at the end of Secondary 2.
 
@@ -74,9 +74,9 @@ Students are introduced to the concept of Urban Heat Island (UHI). They then exp
 
 Students conduct fieldwork experiments using instruments such as data loggers, infra-red thermometers and anemometers to gather data such as surface and ambient temperature, and wind speed to construct a UHI profile of the school.
 
-To deepen students’ understanding of UHI, further investigations and experiments are conducted to discover factors affecting the rate of absorption and reflection of thermal energy.  Students are also introduced to various ‘green buildings’ in Singapore.
+To deepen students’ understanding of UHI, further investigations and experiments are conducted to discover factors affecting the rate of absorption and reflection of thermal energy.&nbsp; Students are also introduced to various ‘green buildings’ in Singapore.
 
-Students embark on a mini-project, which involves designing and building a model house, incorporating all the elements of a ‘green building’.  Students will then present their designs and model houses and the effectiveness of their designs in mitigating the effects of UHI is evaluated.
+Students embark on a mini-project, which involves designing and building a model house, incorporating all the elements of a ‘green building’.&nbsp; Students will then present their designs and model houses and the effectiveness of their designs in mitigating the effects of UHI is evaluated.
 
 ![](/images/Sec-1-ALP-Photo-1-1024x768.jpg)
 
@@ -88,7 +88,7 @@ A model of a green building with cooling features by Sec 1 students.
 
 
 ##### Sec 2 ALP - Urban Agriculture
-Sec 2 students are introduced to the concept of Urban Agriculture in a land-scarce, urban environment such as Singapore.  Together with ComCrop Pte Ltd, students engage in hands-on experiments and learn the Science, Technology, Engineering and Mathematics (STEM) behind Urban Agriculture. They consolidate their learning by germinating and nurturing the growth of leafy vegetables in the school’s greenhouse using the Nutrient Film Technique (NFT), a hydroponic system, over a span of 10 weeks.
+Sec 2 students are introduced to the concept of Urban Agriculture in a land-scarce, urban environment such as Singapore.&nbsp; Together with ComCrop Pte Ltd, students engage in hands-on experiments and learn the Science, Technology, Engineering and Mathematics (STEM) behind Urban Agriculture. They consolidate their learning by germinating and nurturing the growth of leafy vegetables in the school’s greenhouse using the Nutrient Film Technique (NFT), a hydroponic system, over a span of 10 weeks.
 
 ![](/images/Sec-2-ALP-Photo-3.jpg)
 
@@ -98,6 +98,7 @@ Experiments inside and outside of classroom
 
 Students at the school’s greenhouse
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jXcvA1DKUt8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ##### Sec 3 ALP - Food Sustainability and Security
 Sec 3 students across different academic streams, who have shown passion and interest in STEM and the ALP, are invited to participate in this programme.
