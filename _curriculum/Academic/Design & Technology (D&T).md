@@ -32,14 +32,17 @@ For more information, do refer to the following links:
 * [GCE N(T)-Level](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/7062_y24_sy.pdf)
 
 
+The department program gives students the opportunity to showcase their talents by participating in external competitions and holding exhibitions at external venues. The department also gives students the opportunity to learn outside of the classroom by collaborating with industrial and higher education partners. 
+
 
 #### D&amp;T Awards
-
+![](/images/2023_DT_award.jpg)
+At the recent D&amp;T awards 2023, 28 projects from 15 schools were conferred D&amp;T Awards 2023. Out of these 28 projects, two were contributed by our Sec 3 D&amp;T students, namely, Amber Cheah; Ng Qian Yi; Sim Jia En.
 
 
 #### Projects Exhibition @ Geylang East Public Library
 ![](/images/DNT-5.jpg)
-To recognise our students’ talents and efforts and to celebrate their successes in D&amp;T, the department has collaborated with the Geylang East Public Library to display our students’ prototypes.
+To recognise our students’ talents and efforts and to celebrate their successes in D&amp;T, the department has collaborated with the Geylang East Public Library to display our students’ prototypes. The students received their awards at MOE HQ and their works are exhibited. 
 
 
 
