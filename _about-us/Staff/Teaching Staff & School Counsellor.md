@@ -3,8 +3,11 @@ title: Teaching Staff & School Counsellor
 permalink: /about-us/GM-Family/Teaching-Staff/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
-#### **Secondary 1 Form Teachers**
+
+
+![](/images/staff_2.jpg)#### **Secondary 1 Form Teachers**
 
 
 | **Faith 1-1** | | |
