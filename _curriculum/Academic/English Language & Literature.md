@@ -3,8 +3,9 @@ title: English Language & Literature
 permalink: /curriculum/academic/english-language-literature/
 description: ""
 third_nav_title: Academic
+variant: markdown
 ---
-![](/images/English%20Language%20n%20Literature%20copy.jpg)
+![](/images/english_language_and_literature_department_2.jpg)[](/images/English%20Language%20n%20Literature%20copy.jpg)
 
 ### English Language
 Language is a vehicle for communication and expression, and students are equipped with the essential skills to communicate effectively in English. It is precisely with this aim in mind that the English Language instructional programme provides many opportunities for students to use English in a variety of situations and contexts.
@@ -13,15 +14,15 @@ Using a wide range of materials other than the textbook, students learn to liste
 
 Our mission is to provide opportunities for students to become
 
-√   Proficient writers
+√&nbsp;&nbsp; Proficient writers
 
-√   Confident communicators
+√&nbsp;&nbsp; Confident communicators
 
-√   Critical thinkers
+√&nbsp;&nbsp; Critical thinkers
 
 ##### **English Reading Programme**
 
-The school believes strongly in cultivating a strong reading habit among the students.  Regular reading underpins mastery of a language. We want our students to have access to good reading materials and we will provide a conducive environment to nurture the reading habit.
+The school believes strongly in cultivating a strong reading habit among the students.&nbsp; Regular reading underpins mastery of a language. We want our students to have access to good reading materials and we will provide a conducive environment to nurture the reading habit.
 
 Objectives
 
@@ -40,7 +41,7 @@ Students cultivate a daily reading habit
 
 All lower secondary students will participate in the Buy-A-Book programme and be involved in interesting classroom activities related to the books.
 
-Students select a book of their preference from a specially curated list of 15 popular titles in the Buy-a-Book programme.  From a list of 15 specially selected titles, the students have the opportunity to choose a book title and purchase it for their personal reading. They are encouraged to read the book during assembly or at their own time to develop a habit of reading.  Students can explore ways to infuse ideas from the book and use the vocabulary or expressions in their Writing and Oral presentation.
+Students select a book of their preference from a specially curated list of 15 popular titles in the Buy-a-Book programme.&nbsp; From a list of 15 specially selected titles, the students have the opportunity to choose a book title and purchase it for their personal reading. They are encouraged to read the book during assembly or at their own time to develop a habit of reading.&nbsp; Students can explore ways to infuse ideas from the book and use the vocabulary or expressions in their Writing and Oral presentation.
 
 ![](/images/c-1024x570.jpg)
 ![](/images/d-1024x600.jpg)
@@ -55,7 +56,7 @@ To boost the language and critical thinking skills of students, the English Depa
 
 ##### **EL Programmes to Develop Effective Communicators**
 
-The **Speak Good English Movement (SGEM)** aims to encourage students to speak English more fluently and instill a love of reading amongst students of all levels. It is also a platform for students to practise public speaking and develop their self-confidence. Every week, selected representatives from each class make a presentation to the whole school. The presentation could be a response to an article they have read or on any topic of their interest.
+The&nbsp;**Speak Good English Movement (SGEM)**&nbsp;aims to encourage students to speak English more fluently and instill a love of reading amongst students of all levels. It is also a platform for students to practise public speaking and develop their self-confidence. Every week, selected representatives from each class make a presentation to the whole school. The presentation could be a response to an article they have read or on any topic of their interest.
 
 Our SGEM has also evolved with pandemic. With the earlier safe management measures, presentation was done digitally, via video, to the school. This new platform of delivery not only gave students the opportunity to hone their communication skills but also their IT skills. With the easing of safe management measures, our SGEM has now taken on a hybrid presentation form, providing opportunities for students to showcase their unique strengths.
 
@@ -63,7 +64,7 @@ We hope students will find reading and speaking English fun through this program
 
 
 
-Our **Choral Reading Programme** aims to encourage students to articulate well through choral reading, and to develop in students public speaking skills. Students choose their favourite texts that reflect their experiences to read aloud in unison with their group mates. As this unique approach increases their level of engagement, the programme also helps students build their fluency and self-confidence.
+Our&nbsp;**Choral Reading Programme**&nbsp;aims to encourage students to articulate well through choral reading, and to develop in students public speaking skills. Students choose their favourite texts that reflect their experiences to read aloud in unison with their group mates. As this unique approach increases their level of engagement, the programme also helps students build their fluency and self-confidence.
 
 ![](/images/EL10.jpg)
 ![](/images/EL11.png)
@@ -76,7 +77,7 @@ Students learn to interpret and engage with literary texts. Through drama, teach
 
 **Debate Competition**
 
-This year, the Secondary Three students took part in an inter-school debate competition with St. Patrick’s Secondary School. Students debated on motions based on their literature text _Kindred_. The debate competition gave students an opportunity to develop teamwork through preparing their debate together and broadened their insight as they heard arguments from another school. In addition, it gave students the chance to showcase their understanding of the text’s characters, plot and themes through their speech and argumentative skills. Also, debating against students from St. Patrick’s Secondary School enhanced students’ critical thinking skills as they had to think on their feet and formulate arguments. Lastly, through the debate competition, students expanded their perspectives by listening to the various arguments made.
+This year, the Secondary Three students took part in an inter-school debate competition with St. Patrick’s Secondary School. Students debated on motions based on their literature text&nbsp;_Kindred_. The debate competition gave students an opportunity to develop teamwork through preparing their debate together and broadened their insight as they heard arguments from another school. In addition, it gave students the chance to showcase their understanding of the text’s characters, plot and themes through their speech and argumentative skills. Also, debating against students from St. Patrick’s Secondary School enhanced students’ critical thinking skills as they had to think on their feet and formulate arguments. Lastly, through the debate competition, students expanded their perspectives by listening to the various arguments made.
 
 ![](/images/EL12.jpg)
 
@@ -86,7 +87,7 @@ This year, the Secondary Three students took part in an inter-school debate comp
 
 ### **Literature Enrichment Programme**
 
-Every year, the Literature students participate in a series of workshops to enrich their learning. The workshops cover the range of examinable texts, as well as the common areas of learning Literature, like _The Unseen_. Leading the workshops are lecturers from NIE, who are able to provide invaluable insight into the subject that enhances students’ appreciation and mastery of Literature. The students also gain the valuable opportunity to connect and converse with students from other schools to broaden their perspectives and sharpen their critical thinking skills. Invariably, our GEMs benefit from these enriching experiences, not just for Literature, but holistically as well.
+Every year, the Literature students participate in a series of workshops to enrich their learning. The workshops cover the range of examinable texts, as well as the common areas of learning Literature, like&nbsp;_The Unseen_. Leading the workshops are lecturers from NIE, who are able to provide invaluable insight into the subject that enhances students’ appreciation and mastery of Literature. The students also gain the valuable opportunity to connect and converse with students from other schools to broaden their perspectives and sharpen their critical thinking skills. Invariably, our GEMs benefit from these enriching experiences, not just for Literature, but holistically as well.
 
 ![](/images/Photo-5-Poetry-Slam.png)
 	
@@ -97,11 +98,11 @@ Every year, the Literature students participate in a series of workshops to enri
 	
 For more information, do refer to the following links:
 
-*   [GCE O-Level English Language](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/1184_y23_sy.pdf)
-*  [GCE N(A)-Level English Language](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/1190_y23_sy.pdf)
-*  [GCE N(T)-Level English Language](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/1195_y23_sy.pdf)
-*  [GCE N(A)-Level English Literature](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/2022_y23_sy.pdf)
-*   [GCE O-Level English Literature](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/2065_y23_sy.pdf)
+*   [GCE O-Level English Language](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/1184_y24_sy.pdf)
+*  [GCE N(A)-Level English Language](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/1190_y24_sy.pdf)
+*  [GCE N(T)-Level English Language](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/1195_y24_sy.pdf)
+*  [GCE N(A)-Level English Literature](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/2022_y24_sy.pdf)
+*  [GCE O-Level English Literature](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/2065_y24_sy.pdf)
 
 
 
@@ -114,15 +115,5 @@ For more information, do refer to the following links:
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hRAHdbfRaBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hRAHdbfRaBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-
-
-
-
-
-
-
-
-
-![](/images/Photo-1-Staff-Collage-1024x768.jpg)
