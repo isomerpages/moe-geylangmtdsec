@@ -21,7 +21,9 @@ The revised syllabus allows students to think and do, to visualise and concretis
 
 Click&nbsp;[here](https://www.channelnewsasia.com/singapore/secondary-school-design-technology-curriculum-changes-students-teachers-2693871)&nbsp;for the news reported by Channel News Asia (CNA) regarding the new syllabus.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=zdTLS7LKd7Y&amp;t=3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zdTLS7LKd7Y&amp;t=3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+
 
 ![](/images/2022%20D&amp;T.jpg)
 
