@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Academic
 variant: markdown
 ---
-![](/images/Mother%20Tongue%20Languages%20copy.jpg)
+![](/images/mother_tongue_language_department_2.jpg)
 
 #### MOTHER TONGUE LANGUAGES
 
@@ -91,11 +91,11 @@ This is the Mother Tongue Department’s signature programme. It enables student
 
 
 For more information, do refer to the following links:
-* [GCE N(T)-Level Basic Chinese](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/1202_y23_sy.pdf)
-* [GCE N(T)-Level Basic Malay](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/1203_y23_sy.pdf)
-* [GCE N(A)-Level Chinese](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/1196_y23_sy.pdf)
-* [GCE N(A)-Level Malay](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/1197_y23_sy.pdf)
-* [GCE O-Level Higher Chinese](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/1116_y23_sy.pdf)
-* [GCE O-Level Chinese](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/1160_y23_sy.pdf)
-* [GCE O-Level Chinese Basic](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/1153_y23_sy.pdf)
-* [GCE O-Level Malay](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/1148_y23_sy.pdf)
+* [GCE N(T)-Level Basic Chinese](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/1202_y24_sy.pdf)
+* [GCE N(T)-Level Basic Malay](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/1203_y24_sy.pdf)
+* [GCE N(A)-Level Chinese](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/1196_y24_sy.pdf)
+* [GCE N(A)-Level Malay](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/1197_y24_sy.pdf)
+* [GCE O-Level Higher Chinese](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/1116_y24_sy.pdf)
+* [GCE O-Level Chinese](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/1160_y24_sy.pdf)
+* [GCE O-Level Chinese Basic](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/1153_y24_sy.pdf)
+* [GCE O-Level Malay](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/1148_y24_sy.pdf)
