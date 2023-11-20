@@ -33,20 +33,14 @@ For more information, do refer to the following links:
 
 
 
-#### Secondary 1 Post-Exam Challenge
-![](/images/DNT-1.jpg)
-During the end-of-year post-examination period, the department holds a "Design Challenge" for the Secondary 1 cohort. The students apply what they have learnt from the topic ‘Structure’; they design and build a tower to a height as tall as possible, to withstand the weight of a ream of paper. To stretch their creativity and resourcefulness, students are only given a packet of ice-cream sticks and a roll of masking tape to build their tower.
+#### D&amp;T Awards
+
+
 
 #### Projects Exhibition @ Geylang East Public Library
 ![](/images/DNT-5.jpg)
 To recognise our students’ talents and efforts and to celebrate their successes in D&amp;T, the department has collaborated with the Geylang East Public Library to display our students’ prototypes.
 
-
-#### Science &amp; Technology Challenge @ NYP
-![](/images/DNT-6.jpg)
-This is the twelve year that we have taken part in the Nanyang Polytechnic Science and Technology Challenge. Our students get to apply what they have learnt in D&amp;T lessons in the challenges they have signed up for. At the same time, they also learn new skills and knowledge while attending the workshop prior to the challenge.&nbsp;
-
-One of the most rewarding moments for our students was when their designs were recognised and awarded during the competition.
 
 
 #### Collaboration with TP
