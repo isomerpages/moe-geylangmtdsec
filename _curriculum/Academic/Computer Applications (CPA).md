@@ -3,9 +3,10 @@ title: Computer Applications (CPA)
 permalink: /curriculum/academic/cpa/
 description: ""
 third_nav_title: Academic
+variant: markdown
 ---
-![](/images/Aesthetics%20Craft%20n%20Technology%20copy.jpg)
 
+![](/images/aesthetics__craft_and_technology_department_2.jpg)
 Computer Applications (CPA) is a compulsory subject for all Normal Technical (NT) students. The CPA curriculum spans four years, from Secondary 1 to Secondary 4, leading to the National Examinations at the end of Secondary 4.
 
 The Computer Applications syllabus aims to prepare our Normal Technical (NT) students to be technologically-adept citizens, and to function and contribute effectively in an increasingly technologically driven world.
@@ -26,8 +27,7 @@ There are six compulsory modules in the subject. These modules are:
 (5) Multimedia Communication   
 (6) Media Computing.
 
-<img src="/images/inkscape_01_Lucy-Liew-F11.png" 
-     style="width:50%">
+<img src="/images/inkscape_01_Lucy-Liew-F11.png" style="width:50%">
 		 
 ![](/images/Inkscape_02_Lucy-Liew-F11.png)
 
@@ -35,8 +35,8 @@ There are six compulsory modules in the subject. These modules are:
 
 ![](/images/CPA-Website-02-1024x568.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Jxwx2-flz4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Jxwx2-flz4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 For more information, do refer to the following links:
 
-*   ['N(T)' Computer Applications](/files/7018_y22_sy.pdf)
+*   ['N(T)' Computer Applications](/files/7018_y24_sy.pdf)
