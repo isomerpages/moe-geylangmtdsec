@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Academic/History.md
       - Academic/.keep
       - Academic/English Language & Literature.md
       - Academic/Mathematics & POA.md
