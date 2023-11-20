@@ -2,9 +2,9 @@
 title: Family Education Programmes
 permalink: /special-programme/family-education-programmes/
 description: ""
+variant: markdown
 ---
-
-![](/images/Character-Citizenship-Education-2048x1463.jpg)
+![](/images/character_and_citizenship_education_department_2.jpg)
 
 The 4/5 years that your child goes through in their Secondary years are years of exploring new interests, developing deeper friendships and skills. They are growing from a child to a young adult. They will develop their own beliefs and convictions. These crucial years, the children needs a significant adult in their lives to listen, care for, guide and be there for them in a non-critical and non-judgemental way. Building a strong and healthy relationship between parent and child is so crucial in these developmental years.
 
