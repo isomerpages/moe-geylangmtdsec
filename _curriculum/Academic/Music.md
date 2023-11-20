@@ -3,8 +3,9 @@ title: Music
 permalink: /curriculum/Academic/music/
 description: ""
 third_nav_title: Academic
+variant: markdown
 ---
-![](/images/Aesthetics%20Craft%20n%20Technology%20copy.jpg)
+![](/images/aesthetics__craft_and_technology_department_2.jpg)
 
 #### Mission
 -------
@@ -38,7 +39,7 @@ The Music Curriculum is offered to all students in the lower secondary. The modu
 
 ![](/images/music-300x178.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Jxwx2-flz4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Jxwx2-flz4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 For further information, do refer to the following links:
 
