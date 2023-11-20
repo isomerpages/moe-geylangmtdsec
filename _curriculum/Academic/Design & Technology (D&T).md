@@ -28,8 +28,8 @@ Click&nbsp;[here](https://www.channelnewsasia.com/news/video-on-demand/made-in-s
 
 For more information, do refer to the following links:
 * [Lower secondary D&amp;T syllabus](/files/2017-d-amp-t-lower-secondary-syllabus.pdf)
-* [GCE O-Level](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/7059_y24_sy.pdf)
-* [GCE N(T)-Level](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/7062_y24_sy.pdf)
+* [O-Level D&amp;T](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/7059_y24_sy.pdf)
+* [N(T)-Level D&amp;T](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/7062_y24_sy.pdf)
 
 
 The department program gives students the opportunity to showcase their talents by participating in external competitions and holding exhibitions at external venues. The department also gives students the opportunity to learn outside of the classroom by collaborating with industrial and higher education partners. 
