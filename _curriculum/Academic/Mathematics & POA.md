@@ -58,10 +58,6 @@ For more information, do refer to the following links:
 *   [O-Level Additional Mathematics](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/4049_y24_sy.pdf)
 *   [O-Level Principles of Accounts](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/7087_y24_sy.pdf)
 
-![](/images/Dept-Pix-2-1024x768.jpeg)
-
-![](/images/Dept-Pix-1.jpeg)
-
 
 
 
