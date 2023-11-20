@@ -3,8 +3,9 @@ title: School Executive Committee (SEC)
 permalink: /about-us/SEC/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
-![](/images/School%20Executive%20Committee%20v2.jpg)
+![](/images/school_executive_committee_2.jpg)
 ### School Leaders
 
 
