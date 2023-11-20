@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Academic
 variant: markdown
 ---
-
 ![](/images/aesthetics__craft_and_technology_department_2.jpg)
 Computer Applications (CPA) is a compulsory subject for all Normal Technical (NT) students. The CPA curriculum spans four years, from Secondary 1 to Secondary 4, leading to the National Examinations at the end of Secondary 4.
 
@@ -39,4 +38,4 @@ There are six compulsory modules in the subject. These modules are:
 
 For more information, do refer to the following links:
 
-*   ['N(T)' Computer Applications](/files/7018_y24_sy.pdf)
+*   ['N(T)' Computer Applications](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/7018_y24_sy.pdf)
