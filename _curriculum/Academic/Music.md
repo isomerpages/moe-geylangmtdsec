@@ -43,4 +43,4 @@ The Music Curriculum is offered to all students in the lower secondary. The modu
 
 For further information, do refer to the following links:
 
-*   [Lower secondary Music syllabus](https://www.moe.gov.sg/docs/default-source/document/education/syllabuses/arts-education/files/2015_Music_Teaching_and_Learning_Syllabus_(Primary_and_Lower_Secondary).pdf) - page not found!
+*   [Lower secondary Music syllabus](https://www.moe.gov.sg/-/media/files/primary/syllabus/2023-music-syllabus-primary-lower-secondary.pdf)
