@@ -2,22 +2,23 @@
 title: Student Initiated Learning (SIL)
 permalink: /special-programme/student-initiated-learning-sil/
 description: ""
+variant: markdown
 ---
-![](/images/Gear-Up%20Committee%20copy.jpg)
+![](/images/gear_up_committee_2.jpg)
 
-**STUDENT-INITIATED LEARNING 2022**
+**STUDENT-INITIATED LEARNING 2023**
 
-**SECONDARY 1 & 2 STARS PROGRAMME**
+**SECONDARY 1 &amp; 2 STARS PROGRAMME**
 
 **Why Student-Initiated Learning?**
 
-Student-Initiated Learning on HBL days will provide dedicated time and space for students to explore their areas of interests by initiating learning activities on their own. Students will dedicate about an hour to discover, develop and deepen interests through self-directed learning and exploration.
+Student-Initiated Learning on HBL days will provide dedicated time and space for students to explore their areas of interests by initiating learning activities on their own. Students will dedicate about&nbsp;an hour&nbsp;to discover, develop and deepen interests through self-directed learning and exploration.
 
-**What does** **Student-Initiated Learning look like in** **Geylang Methodist School (Secondary)?**
+**What does**&nbsp;**Student-Initiated Learning look like in**&nbsp;**Geylang Methodist School (Secondary)?**
 
-In Geylang Methodist School (Secondary), we named our Student-Initiated Learning the STARS Programme.
+In Geylang Methodist School (Secondary), we named our Student-Initiated Learning the&nbsp;STARS Programme.
 
-Our Secondary 1 and 2 students will choose an interest in one area of the STARS and embark on a journey of self-discovery and development.
+Our Secondary 1 and 2 students will choose an interest in&nbsp;one area of the STARS&nbsp;and embark on a journey of self-discovery and development.
 
 **S**ports and Wellness (E.g. Exercise, Health, Mental Health, Food)
 
@@ -37,9 +38,9 @@ Semester 2: Individual/ Group Work
 
 End-of-Year: Shine Programme
 
-Level: **Secondary 1**
+Level:&nbsp;**Secondary 1**
 
-Dates: **HBL Days**
+Dates:&nbsp;**HBL Days**
 
 Objective:
 
@@ -56,9 +57,9 @@ Objective:
 *   What did you learn from today’s activity?
 *   What are the challenges and how did you overcome them?
 
-Level: **Secondary 2**
+Level:&nbsp;**Secondary 2**
 
-Dates: **HBL Days**
+Dates:&nbsp;**HBL Days**
 
 Objective:
 
