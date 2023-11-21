@@ -39,10 +39,10 @@ variant: markdown
 *   All students are to be in their House T-shirts, school PE shorts, socks and appropriate footwear for all PE lessons.
 *   All students are to participate in sports events organised by the department.
 
-(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sports Day  
-(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cross Country   
-(c) &nbsp; &nbsp; &nbsp; &nbsp;Inter-house Games    
-(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inter-class Games
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp; Sports Day  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp; Cross Country   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)&nbsp; Inter-house Games    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(d)&nbsp; Inter-class Games
 
 5\.  Sports and Exercise Science (ESS) as an O-Level subject
 
