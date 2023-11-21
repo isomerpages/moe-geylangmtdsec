@@ -104,7 +104,7 @@ For our second session held on 23rd March, we welcomed representatives of **The 
 
 
 ![](/images/2024_SS4.jpg)
-
+![](/images/2024_SS5.jpg)
 
 For more information, do refer to the following links:
 
