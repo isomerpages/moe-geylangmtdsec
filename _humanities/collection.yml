@@ -1,6 +1,0 @@
-collections:
-  humanities:
-    output: true
-    order:
-      - History/.keep
-      - Geography.md
