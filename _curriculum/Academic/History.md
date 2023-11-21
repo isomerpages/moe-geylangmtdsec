@@ -5,6 +5,8 @@ variant: markdown
 description: ""
 third_nav_title: Academic
 ---
+![](/images/humanities_department_2.jpg)
+
 **LOWER SECONDARY HISTORY:**
 
 **Secondary 1 students** were involved in the Historical Investigation (HI) project on the Contribution of Immigrants to Singapore from the 1800s – 1940. Students examined historical sources and use inference skills to learn about the ways in which immigrants contributed to the development and growth of Singapore into a bustling city port. Through this project, students had the opportunity to learn and apply historical skills such as source-handling skills and gain deeper understanding and appreciation of the life and contributions of early migrants in Singapore.
