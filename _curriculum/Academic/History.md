@@ -27,3 +27,14 @@ To engage and support Secondary 1 students in their Historical Investigation (HI
 For the Sec 2 Historical Investigation(HI), students examined historical sources and conducted research to discover the changes in the living conditions of the people in Singapore after World War II to understand the historical concept of change and continuity in examining how life was like before and after the Japanese Occupation. They presented their inquiry in varied and creative ways such as through a children’s story book, a play, a diary, or a series of recreated historical correspondences showing their understanding of the times.
 
 ![](/images/2024_Hi4.jpg)
+
+
+
+
+
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zzeXy2woSpM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kU5xVdG1Tu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
