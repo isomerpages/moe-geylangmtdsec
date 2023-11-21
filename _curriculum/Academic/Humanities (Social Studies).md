@@ -20,16 +20,6 @@ The GM Humanities Department seeks to nurture in our GEMs learning dispositions 
 ![](/images/Picture6.png)
 
 
-
-#### Humanities Department Enrichment Programme
-
-
-
-
-**2. GEMS Challenge – Model United Nations (MUN)**
-
-
-
 #### Social Studies
 **Overview**
 
@@ -80,8 +70,43 @@ Photograph 1: All Secondary 1-3 classes were scheduled to view the exhibition du
 ![](/images/Picture22.jpg)
 Photograph 2: As part of the ISD Mobile Exhibition, our students were given worksheets to track their learning progress and ensure active learning.
 
-For more information, do refer to the following links:
 
+
+#### Humanities Department Enrichment Programme
+
+
+**2. GEMS Challenge – Model United Nations (MUN)**
+
+To foster critical thinking and hone research and writing skills, the Humanities Department offers the Model United Nations (MUN) enrichment programme to selected Secondary 3 students. Through participating in various MUNs, students gained a better understanding of global issues and insights on the mechanisms of international relations. They also get to sharpen their public speaking and debating skills during these academic simulations.
+
+In 2023, our GEMS participated in the Singapore Model Cabinet (SMC) conference and the Ngee Ann Secondary Model United Nations (NASMUN) conference.
+
+
+The SMC was a simulation of the Singapore Cabinet where our GEMS took on the role of Singapore’s policymakers and discussed how Singapore could tackle various issues, given our constraints and differing needs. Our GEMS gained a better understanding and appreciation for the United Nations through NASMUN which simulated the workings of the United Nations.
+
+During the NASMUN 2023, two of our GEMS - Helen Hu and Rainer Lim of J32 were awarded the Best Delegate of their respective committees. This award was given to the most knowledgeable student representative who presented the best ideas in their respective committees.
+
+![](/images/2024_SS1.jpg)
+![](/images/2024_SS2.jpg)
+![](/images/2024_SS3.jpg)
+
+
+
+**Speaker Series Programme**
+
+The Speaker Series programme is a series of talks organised by the Humanities Department, where speakers from various segments of society are invited to share with Secondary 3 students about different societal concerns in Singapore. The goal of the Speaker Series program is to help students better understand and appreciate how the concepts and issues in the Upper Secondary Social Studies syllabus relate to real life, the roles played by the different stakeholders, and how individuals can contribute to society.
+
+
+For the first session of the Speaker Series 2023 on 8th February, we were honored to have **Ms Tin Pei Ling, Member of Parliament for MacPherson Constituency**&nbsp;to be our guest speaker. Ms Tin shared with our Secondary 3 GEMS about the issues faced by Macpherson residents. She shared some examples of the measures taken to serve the needs of the residents, her own experiences and how individuals like our students could make a positive difference through acts of kindness such as acknowledging others by smiling and keeping our environment clean. She also shared about the various efforts taken to ensure sustainability in the MacPherson constituency.
+
+
+For our second session held on 23rd March, we welcomed representatives of **The Food Bank Singapore** as our guest speakers. They shared with our students about the less-privileged groups in Singapore who struggle with food security and the many initiatives taken to help them, especially during the Covid-19 pandemic. They also shared suggestions on how our GEMS can play a part in ensuring food security in Singapore.
+
+
+![](/images/2024_SS4.jpg)
+
+
+For more information, do refer to the following links:
 
 *   [O-Level Social Studies, History](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/2261_y24_sy.pdf)
 *   [O-Level Social Studies, Geography](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/2260_y24_sy.pdf)
