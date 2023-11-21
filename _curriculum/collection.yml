@@ -2,13 +2,13 @@ collections:
   curriculum:
     output: true
     order:
-      - Academic/Geography.md
       - Academic/.keep
       - Academic/English Language & Literature.md
       - Academic/Mathematics & POA.md
       - Academic/Science.md
       - Academic/Mother Tongue.md
       - Academic/Humanities (Social Studies).md
+      - Academic/Geography.md
       - Academic/History.md
       - Academic/Art.md
       - Academic/Computer Applications (CPA).md
