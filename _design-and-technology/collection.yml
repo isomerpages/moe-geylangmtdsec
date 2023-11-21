@@ -2,4 +2,5 @@ collections:
   design-and-technology:
     output: true
     order:
+      - Photo Gallery.md
       - Design and Technology.md
