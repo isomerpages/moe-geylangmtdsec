@@ -17,4 +17,13 @@ third_nav_title: Academic
 
 To engage and support Secondary 1 students in their Historical Investigation (HI) project, a virtual learning journey to historical sites in Chinatown was organised by the school during the GEMs Learning Day. The virtual learning journey provided students with an opportunity to explore the historical sites, examine sources and gather data which they used to answer the HI question.
 
+![](/images/2024_Hi3.jpg)
 
+
+
+
+**Secondary 2 Historical Investigation (HI)**
+
+For the Sec 2 Historical Investigation(HI), students examined historical sources and conducted research to discover the changes in the living conditions of the people in Singapore after World War II to understand the historical concept of change and continuity in examining how life was like before and after the Japanese Occupation. They presented their inquiry in varied and creative ways such as through a children’s story book, a play, a diary, or a series of recreated historical correspondences showing their understanding of the times.
+
+![](/images/2024_Hi4.jpg)
