@@ -2,5 +2,6 @@ collections:
   humanities:
     output: true
     order:
+      - History/.keep
       - History.md
       - Geography.md
