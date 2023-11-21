@@ -29,8 +29,11 @@ For the Sec 2 Historical Investigation(HI), students examined historical sources
 ![](/images/2024_Hi4.jpg)
 
 
+For more information, do refer to the following links:
 
-
+*   [O-Level Core History](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/2174_y24_sy.pdf)
+*   [O-Level Elective History](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/2261_y24_sy.pdf)
+*   [N(A)-Level Elective History](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/2126_y24_sy.pdf)
 
 
 
