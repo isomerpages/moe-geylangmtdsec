@@ -7,18 +7,6 @@ variant: markdown
 ---
 ![](/images/humanities_department_2.jpg)
 
-**Vision:**
-
-The GM Humanities Department seeks to nurture in our GEMs learning dispositions which will enable them to be passionate and lifelong&nbsp; learners, courageous and caring leaders, confident and active citizens in a globalised world.
-
-**Approach: Use of Inquiry as Key pedagogy**
-
-*   Inquiry is adopted as a key pedagogy in the Humanities Subjects\*.
-*   Inquiry is rooted in a constructive approach which aims to enhance the quality and effectiveness of learning, promote student agency and help engage students with content and concepts in Humanities in a meaningful and authentic way.
-*   It promotes student-centred learning by creating opportunities for students to take ownership of their learning through questioning, investing issues, examining different perspectives, gathering information, constructing explanation, and also offering possible solutions to address complex societal and real world issues.
-*   It ties in aptly with our school’s vision to develop our students to become Passionate Learners, Courageous Leaders, Caring Citizens.
-![](/images/Picture6.png)
-
 
 #### Social Studies
         
@@ -42,40 +30,8 @@ The following are screenshots and links of some artistically designed II website
 
 ![](/images/2024_SS6.jpg)
 ![](/images/2024_SS7.jpg)
-
-
-
-
-
-
-
-1.  **Speaker Series’ Programme**
-
-The Speaker Series’ programme is a series of talks organised by the GMS(S) Humanities Department, where speakers from various segments of society are invited to share with Secondary 3 students about different societal concerns in Singapore. The goal of the Speaker Series’ program is help students better understand and appreciate how the concepts and issues in the Upper Secondary Social Studies syllabus relate to real life, the roles played by the different stakeholders, and how individuals like themselves can play a part in contributing to society.
-
-We had the privilege of having Ms Fatima from the Migrant Workers' Centre (MWC) to share the challenges faced by migrant workers in Singapore, and the various ways in which MWC support them. She also shared how students could make a difference by being more gracious to migrant workers..
-
-We had the honour of inviting Mr Russ Neu, the CEO of Social Collider, an aggregator of resources for social enterprises in Singapore, to share with us about food security in Singapore. The students learned about the food security challenges faced by Singapore, and the measures taken to overcome such challenges, such as the 30 by 30 plan (which aims to build up Singapore's capacity to produce 30% of our food locally and sustainably by 2030).
-
-![](/images/Picture15-1024x466.png)
-![](/images/Picture16-1024x738.png)
-![](/images/Picture17-1024x616.jpg)
-Mr Russ Neu shared with our GEMS about how the Social Collider supports social enterprises in Singapore over Zoom.
-
-![](/images/Picture19-1024x640.png)
-![](/images/Picture20-1024x736.png)
-
-**2.Internal Security Department (ISD) Mobile Exhibition**
-
-Geylang Methodist School (Secondary) hosted the ISD mobile exhibition in July 2022 to help our students better understand terrorism: its impact on Singapore, as well as the measures we can take to protect our country from these threats.. As part of the Home Team (under Ministry of Home Affairs, MHA), the Internal Security Department (ISD) confronts and addresses Singapore’s security issues and threats to keep Singapore safe and sovereign. Over the years, ISD and its predecessor, Special Branch, have dealt with many threats to Singapore’s internal stability, security and sovereignty.
-
-The exhibition also included a section on SG Secure which is a movement to build the resilience of our community and a call to action to everyone in our multi-racial, multi-religious society to come together to safeguard Singapore and our way of life. As part of national education efforts, this exhibition reminds students to always stay vigilant as harmony does not come easy.
-
-
-![](/images/Picture21-1024x766.jpg)
-Photograph 1: All Secondary 1-3 classes were scheduled to view the exhibition during school hours.
-![](/images/Picture22.jpg)
-Photograph 2: As part of the ISD Mobile Exhibition, our students were given worksheets to track their learning progress and ensure active learning.
+![](/images/2024_SS8.jpg)
+![](/images/2024_SS9.jpg)
 
 
 
@@ -98,7 +54,6 @@ During the NASMUN 2023, two of our GEMS - Helen Hu and Rainer Lim of J32 were aw
 ![](/images/2024_SS3.jpg)
 
 
-
 **Speaker Series Programme**
 
 The Speaker Series programme is a series of talks organised by the Humanities Department, where speakers from various segments of society are invited to share with Secondary 3 students about different societal concerns in Singapore. The goal of the Speaker Series program is to help students better understand and appreciate how the concepts and issues in the Upper Secondary Social Studies syllabus relate to real life, the roles played by the different stakeholders, and how individuals can contribute to society.
@@ -112,6 +67,31 @@ For our second session held on 23rd March, we welcomed representatives of **The 
 
 ![](/images/2024_SS4.jpg)
 ![](/images/2024_SS5.jpg)
+
+
+
+#### GEMS Challenge
+
+**Objective**
+
+The ASEAN Internationalisation Programme (AIP) aims to help students better understand the impact and opportunities brought about by globalisation.
+
+**Programme**
+
+Globalisation is a complex and multifaceted phenomenon that is transforming&nbsp;the world in profound ways. Thailand is no exception, as it has become increasingly integrated into the global economy and culture.
+
+This programme enables students to develop a deeper understanding of globalisation and its impact on Thailand by learning independently about the culture and economy of Thailand through research, readings, workshops, and interactions with Thai students.
+
+**Thai culture:** Students learn about the different aspects of Thai culture, such as its language, arts, and cuisine. They explore the ways in which Thai culture has been influenced by other cultures around the world.
+
+**Thailand economy:** They also learn about the Thai economy including its major industries such as tourism. They explore the challenges and opportunities that Thailand faces in the global economy.
+
+Students will work in groups to research on various aspects of Thailand/Singapore and they will share their findings with the Thai students virtually. This helps the students to foster empathy, resilience and humility as they interact with the Thai students and appreciate a world outside of Singapore.
+
+
+
+
+
 
 For more information, do refer to the following links:
 
