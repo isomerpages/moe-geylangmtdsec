@@ -88,10 +88,17 @@ This programme enables students to develop a deeper understanding of globalisati
 
 Students will work in groups to research on various aspects of Thailand/Singapore and they will share their findings with the Thai students virtually. This helps the students to foster empathy, resilience and humility as they interact with the Thai students and appreciate a world outside of Singapore.
 
+![](/images/2024_SS10.jpg)
+Photo 1: Students learn more about Thai traditional dance.
 
+![](/images/2024_SS11.jpg)
+Photo 2: Hands-on making of traditional Thai Handicraft.
 
+![](/images/2024_SS12.jpg)
+Photo 3: A student’s consolidation of learning about Thai culture through infographic.
 
-
+![](/images/2024_SS13.jpg)
+Photo 4: Zoom Conference with Thai students.
 
 For more information, do refer to the following links:
 
