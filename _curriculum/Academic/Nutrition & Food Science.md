@@ -3,8 +3,9 @@ title: Nutrition & Food Science
 permalink: /curriculum/academic/nutrition-food-science/
 description: ""
 third_nav_title: Academic
+variant: markdown
 ---
-![](/images/Aesthetics%20Craft%20n%20Technology%20copy.jpg)
+![](/images/aesthetics__craft_and_technology_department_2.jpg)
 
 **Objectives of NFS Programme**
 
@@ -41,9 +42,9 @@ third_nav_title: Academic
 
 *   For more information, please refer to the following links:
     *   Lower secondary FCE syllabus
-    *   [GCE O-Level Nutrition and Food Science](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/6097_y23_sy.pdf)
-    *   [GCE N(A)-Level Nutrition and Food Science](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/6073_y23_sy.pdf)
-    *   [GCE N(T)-Level Nutrition and Food Science](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/5979_y23_sy.pdf)
+    *   [GCE O-Level Nutrition and Food Science](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/6097_y24_sy.pdf)
+    *   [GCE N(A)-Level Nutrition and Food Science](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/6073_y24_sy.pdf)
+    *   [GCE N(T)-Level Nutrition and Food Science](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5979_y24_sy.pdf)
 
 ![](/images/Cheese-BT_Isaac-1024x768.jpg)
 Sec 1 Inter-Disciplinary Coursework 
@@ -52,4 +53,4 @@ Sec 1 Inter-Disciplinary Coursework
 Sec 2 Food Science Coursework 
 
 ![](/images/S3-Culinary-1-1024x768.jpeg)
-Sec 3 Culinary Enrichment 
+Sec 3 Culinary Enrichment

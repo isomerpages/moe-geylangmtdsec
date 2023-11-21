@@ -3,8 +3,9 @@ title: Science
 permalink: /curriculum/Academic/science/
 description: ""
 third_nav_title: Academic
+variant: markdown
 ---
-![](/images/Science%20copy.jpg)
+![](/images/science_department_2.jpg)
 
 <img src="/images/science-300x175.jpg" style="width:300px;height:175px;margin-left:15px;" align="right">
 
@@ -137,11 +138,11 @@ Students are given opportunities to participate in external Science competitions
 
 
 *   For more information, do refer to the following links:
-    *   [GCE N(T)-Level Science](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/5148_y23_sy.pdf)
-    *   [GCE N(A)-Level Science (Physics, Chemistry)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/5105_y23_sy.pdf)
-    *  [GCE N(A)-Level Science (Chemistry, Biology)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2023syllabus/5107_y23_sy.pdf)
-    *   [GCE O-Level Science (Physics, Chemistry)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/5076_y23_sy.pdf)
-    *   [GCE O-Level Science (Chemistry, Biology)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/5078_y23_sy.pdf)
-    *  [ GCE O-Level Physics](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/6091_y23_sy.pdf)
-    *   [GCE O-Level Chemistry](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/6092_y23_sy.pdf)
-    *   [GCE O-Level Biology](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/6093_y23_sy.pdf)
+    *   [GCE N(T)-Level Science](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5148_y24_sy.pdf)
+    *   [GCE N(A)-Level Science (Physics, Chemistry)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5105_y24_sy.pdf)
+    *  [GCE N(A)-Level Science (Chemistry, Biology)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/5107_y24_sy.pdf)
+    *   [GCE O-Level Science (Physics, Chemistry)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/5076_y24_sy.pdf)
+    *   [GCE O-Level Science (Chemistry, Biology)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/5078_y24_sy.pdf)
+    *  [ GCE O-Level Physics](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/6091_y24_sy.pdf)
+    *   [GCE O-Level Chemistry](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/6092_y24_sy.pdf)
+    *   [GCE O-Level Biology](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/6093_y24_sy.pdf)

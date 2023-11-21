@@ -5,7 +5,8 @@ date: 2023-11-01
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ![](/images/2023%20open%20house.jpg)
 
-FAQ (coming soon)
+Click [here](/files/2023_Open_House_FAQs.pdf) for FAQs.

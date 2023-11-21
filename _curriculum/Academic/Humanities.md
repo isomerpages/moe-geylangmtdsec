@@ -3,12 +3,13 @@ title: Humanities
 permalink: /curriculum/Academic/Humanities/
 description: ""
 third_nav_title: Academic
+variant: markdown
 ---
-![](/images/Humanities%20copy.jpg)
+![](/images/humanities_department_2.jpg)
 
 **Vision:**
 
-The GM Humanities Department seeks to nurture in our GEMs learning dispositions which will enable them to be passionate and lifelong  learners, courageous and caring leaders, confident and active citizens in a globalised world.
+The GM Humanities Department seeks to nurture in our GEMs learning dispositions which will enable them to be passionate and lifelong&nbsp; learners, courageous and caring leaders, confident and active citizens in a globalised world.
 
 **Approach: Use of Inquiry as Key pedagogy**
 
@@ -43,22 +44,22 @@ Picture 2: HDB Youth Ambassadors interviewing residents
 
 ##### **Upper Secondary Geography**
 
-The Secondary 3 students participated in a virtual tour of Chinatown for their Tourism Geographical Investigation.  Students gained a better understanding of how they can  investigate, collect data, analyse and synthesize information to construct their own understanding of tourism in Singapore.
+The Secondary 3 students participated in a virtual tour of Chinatown for their Tourism Geographical Investigation.&nbsp; Students gained a better understanding of how they can &nbsp;investigate, collect data, analyse and synthesize information to construct their own understanding of tourism in Singapore.
 
-Video 1: [Hyperlpase video of the fieldwork site, Chinatown.](https://youtu.be/AZpj_lv5TzA)
+Video 1:&nbsp;[Hyperlpase video of the fieldwork site, Chinatown.](https://youtu.be/AZpj_lv5TzA)
 
-Video 2: [An example of an interview conducted by the student during the fieldwork.](https://youtu.be/vA12EsvBvQM)
+Video 2:&nbsp;[An example of an interview conducted by the student during the fieldwork.](https://youtu.be/vA12EsvBvQM)
 
 With the advent of technology and emphasis on 21st Century Competencies, learning has changed significantly in and out of the classroom. The students are well versed with the available technological platforms to learn independently and share their learning with their peers across topics in the syllabus.
 
 
 ![](/images/Picture37.png)
 Picture 3: Students’ learning on volcanoes
-Link: [https://padlet.com/elise\_look/o0tq4ajg316i6ldx](https://padlet.com/elise_look/o0tq4ajg316i6ldx)
+Link:&nbsp;[https://padlet.com/elise\_look/o0tq4ajg316i6ldx](https://padlet.com/elise_look/o0tq4ajg316i6ldx)
 
 ![](/images/Picture38.png)
 Picture 4: Students’ learning on impacts of climate change
-Link: [https://padlet.com/ishwarindersinghmohan/yd0sqlxg9a49f2cl](https://padlet.com/ishwarindersinghmohan/yd0sqlxg9a49f2cl)
+Link:&nbsp;[https://padlet.com/ishwarindersinghmohan/yd0sqlxg9a49f2cl](https://padlet.com/ishwarindersinghmohan/yd0sqlxg9a49f2cl)
 
 In light of the global challenges of sustainability, students explored the topic on food resources. This included the research on the role of technology in resolving issues related to food production and its impact on man and the environment. Through this process, students discovered the variations in the capacities of countries in tackling food shortages.
 
@@ -141,7 +142,7 @@ The aim of the ASEAN internationalisation Programme (AIP) is for students to bet
 
 The AIP to Thailand provided the students with the opportunity to engage in meaningful activities to learn more about Thailand through virtual school exchange and online lessons to learn more about the Thai language
 
-To help students better understand how local companies stay competitive in a globalising world,  Ya Kun Kaya Toast was invited to share via zoom with our students on how they have ventured abroad to set up branches in Thailand and other countries To understand how companies adopt sustainable practices, a speaker from the Elephant Poopoopaper Park in Thailand was invited to share on the sustainability approaches they have adopted in their business operations to leave a smaller footprint for future generations.
+To help students better understand how local companies stay competitive in a globalising world, &nbsp;Ya Kun Kaya Toast was invited to share via zoom with our students on how they have ventured abroad to set up branches in Thailand and other countries To understand how companies adopt sustainable practices, a speaker from the Elephant Poopoopaper Park in Thailand was invited to share on the sustainability approaches they have adopted in their business operations to leave a smaller footprint for future generations.
 
 This exchange allowed our students to foster empathy, resilience and humility as they interact with the locals and appreciate a world outside of Singapore.
 
@@ -224,10 +225,10 @@ Photograph 1: All Secondary 1-3 classes were scheduled to view the exhibition du
 Photograph 2: As part of the ISD Mobile Exhibition, our students were given worksheets to track their learning progress and ensure active learning.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pjSBGCnfhBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pjSBGCnfhBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MqeN0YGlOmY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MqeN0YGlOmY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zzeXy2woSpM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zzeXy2woSpM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kU5xVdG1Tu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kU5xVdG1Tu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>

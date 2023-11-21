@@ -3,8 +3,9 @@ title: Executive and Administrative Staff (EAS)
 permalink: /about-us/GM-Family/EAS/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
-![](/images/Executive%20n%20Administrative%20Staffe.jpg)
+![](/images/executive_and_administrative_staff_2.jpg)
 
 
 

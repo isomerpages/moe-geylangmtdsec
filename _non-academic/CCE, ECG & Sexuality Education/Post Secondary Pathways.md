@@ -3,8 +3,9 @@ title: Post Secondary Pathways
 permalink: /curriculum/non-academic/cce-ecg/post-secondary-pathways/
 description: ""
 third_nav_title: CCE, ECG & Sexuality Education
+variant: markdown
 ---
-![](/images/Education-and-Career-Guidance-2048x1463.jpg)
+![](/images/education_career_guidance_committee_2.jpg)images/Education-and-Career-Guidance-2048x1463.jpg)
 
 #### **Joint Admissions Exercise (JAE)**
 
