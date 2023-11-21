@@ -21,26 +21,33 @@ The GM Humanities Department seeks to nurture in our GEMs learning dispositions 
 
 
 #### Social Studies
+        
 **Overview**
 
 Social Studies is compulsory for all Express and Normal (Academic) students at the Upper Secondary level. Together with either Geography (Elective), History (Elective) or Literature (Elective), they make up the subject commonly known as Humanities.
 
-In GMS(S), the Social Studies curriculum seeks to prepare our GEMS to be citizens of tomorrow by helping them to understand the inter-connectedness of Singapore and the world they live in, and to appreciate the complexities of the human experience. More importantly, we want to build up our GEMS and develop them to become concerned citizens who proactively extend their service beyond the school to the community for the betterment of society.
+The Social Studies curriculum seeks to prepare our GEMS to be citizens of tomorrow by helping them to understand the inter-connectedness of Singapore and the world they live in, and to appreciate the complexities of the human experience. More importantly, we seek to develop our GEMS to become informed, concerned and participative, competent in decision-making with an impassioned spirit to contribute responsibly to the society and world they live in.
 
-The Department’s approach is firmly based on the Critical Inquiry approach. Through inquiry and authentic learning experiences, our GEMS attain relevant knowledge and understanding about issues concerning Singapore and the world; develop critical and reflective thinking skills; and suggest solutions to the myriad of issues facing our society.
+The Department’s approach is based on the Humanities Inquiry approach. Through inquiry and authentic learning experiences, our GEMS attain relevant knowledge and understanding about issues concerning Singapore and the world; develop critical and reflective thinking, and suggest solutions to the myriad of issues facing our society.
 
 **Issue Investigation**
 
 The Secondary 3 Issue Investigation (II) project is a critical part of the Social Studies curriculum. It forms an important component of our GEMS Continual Assessment. In II, our GEMS work to identify and research on societal needs in Singapore. Our GEMS also research and suggest ways to mitigate these issues.
 
+In 2023, the II theme was ‘Sustainability’. Students worked in group to research and gain appreciation of the perspectives of different stakeholders, understand the measures taken, the challenges and trade-offs in managing these issues. They made recommendations and advocated for active contributions towards the betterment of society.
+
 To align to the Singapore Smart Nation vision, students were taught how to create a website to feature their II research, data collection and suggestions to appeal to their target audiences.
 
-The following are screenshots of some artistically designed II websites from the 2022 cohort.
+The following are screenshots and links of some artistically designed II websites from the 2023 cohort.
 
-![](/images/Picture11-1024x427.png)
-![](/images/Picture12-1024x418.png)
-![](/images/Picture13-1024x466.png)
-![](/images/Picture14-1024x447.png)
+![](/images/2024_SS6.jpg)
+![](/images/2024_SS7.jpg)
+
+
+
+
+
+
 
 1.  **Speaker Series’ Programme**
 
