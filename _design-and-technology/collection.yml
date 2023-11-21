@@ -1,6 +1,0 @@
-collections:
-  design-and-technology:
-    output: true
-    order:
-      - Design and Technology.md
-      - Photo Gallery.md
