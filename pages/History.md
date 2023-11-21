@@ -1,6 +1,7 @@
 ---
 title: History
 permalink: /curriculum/academic/humanities/history/
-variant: tiptap
+variant: markdown
 description: ""
 ---
+testing
