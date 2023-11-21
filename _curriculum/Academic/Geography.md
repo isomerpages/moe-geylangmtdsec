@@ -5,6 +5,8 @@ variant: markdown
 description: ""
 third_nav_title: Academic
 ---
+![](/images/humanities_department_2.jpg)
+
 **LOWER SECONDARY GEOGRAPHY**
 
 The Secondary 1 Geographical Investigation (GI) requires students to conduct investigation on water quality of different water sources. It involves an experiential learning where students conduct water-testing activities to investigate the water quality of various water sources such as Kallang River.
