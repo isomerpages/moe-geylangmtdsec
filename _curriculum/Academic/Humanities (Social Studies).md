@@ -81,6 +81,11 @@ Photograph 1: All Secondary 1-3 classes were scheduled to view the exhibition du
 Photograph 2: As part of the ISD Mobile Exhibition, our students were given worksheets to track their learning progress and ensure active learning.
 
 
+*   [O-Level Core Geography](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/2279_y24_sy.pdf)
+*   [O-Level Elective Geography](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/2260_y24_sy.pdf)
+*   [N(A)-Level Elective Geography](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2024syllabus/2125_y24_sy.pdf)
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pjSBGCnfhBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MqeN0YGlOmY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
