@@ -55,7 +55,7 @@ variant: markdown
     *   Health and Fitness
 
 For more information, do refer to the following links:
-* [GCE O-Level Exercise and Sports Science](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/6081_y24_sy.pdf)
+* [O-Level Exercise and Sports Science](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/6081_y24_sy.pdf)
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5wthJVpfgCA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
