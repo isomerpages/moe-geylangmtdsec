@@ -1,5 +1,5 @@
 ---
-title: Nutrition & Food Science
+title: Nutrition & Food Science (NFS)
 permalink: /curriculum/academic/nutrition-food-science/
 description: ""
 third_nav_title: Academic

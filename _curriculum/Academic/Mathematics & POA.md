@@ -19,13 +19,15 @@ To provide a vibrant, exciting and meaningful teaching and learning environment 
 
 ##### Programmes:
 
-Mathematics Learning Support Programme (MLSP)
+* Mathematics Learning Support Programme (MLSP)
 
-Structured Remediation
+* Structured Remediation
 
-Two GEMS Challenges for Secondary 3
+* Two GEMS Challenges for Secondary 3
 
-GEMS Challenge 1: GEMS Entrepreneurship**
+
+
+**GEMS Challenge 1: GEMS Entrepreneurship**
 
 Our GEMs Entrepreneurship programme equips students with the knowledge and skills to spark, build and manage their business ideas. Through this programme, young GEMs entrepreneurs develop an entrepreneurial mindset, generate the inspiration and creativity to think out of the box and identify new opportunities for innovation. They receive step-by-step guidance on what it takes to bring their business ideas alive and gain confidence in communicating and presenting their business ideas. Furthermore, they apply concepts learnt in various subjects through this journey of entrepreneurship.
 
@@ -44,9 +46,9 @@ _These programmes are offered to specific groups of students according to learni
 
 At the Secondary 3 Level for both Express and Normal (Academic) stream, students have the opportunity to learn
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Additional Mathematics
+* Additional Mathematics
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Principles of Accounts
+* Principles of Accounts
 
 For more information, do refer to the following links:
 

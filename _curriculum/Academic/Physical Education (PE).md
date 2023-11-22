@@ -1,5 +1,5 @@
 ---
-title: Physical Education
+title: Physical Education (PE)
 permalink: /curriculum/academic/physical-education/
 description: ""
 third_nav_title: Academic
@@ -39,10 +39,10 @@ variant: markdown
 *   All students are to be in their House T-shirts, school PE shorts, socks and appropriate footwear for all PE lessons.
 *   All students are to participate in sports events organised by the department.
 
-(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sports Day  
-(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cross Country   
-(c) &nbsp; &nbsp; &nbsp; &nbsp;Inter-house Games    
-(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inter-class Games
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp; Sports Day  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp; Cross Country   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)&nbsp; Inter-house Games    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(d)&nbsp; Inter-class Games
 
 5\.  Sports and Exercise Science (ESS) as an O-Level subject
 
@@ -55,7 +55,7 @@ variant: markdown
     *   Health and Fitness
 
 For more information, do refer to the following links:
-* [GCE O-Level Exercise and Sports Science](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/6081_y24_sy.pdf)
+* [O-Level Exercise and Sports Science](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2024syllabus/6081_y24_sy.pdf)
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5wthJVpfgCA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>

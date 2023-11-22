@@ -4,7 +4,8 @@ title: Geylang Methodist School (Secondary)
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Welcome to Geylang Methodist School (Secondary)
+notification: Come and join us at our Open House on Saturday, November 25, 2023
+  (9 a.m. to 12 p.m.).
 sections:
   - hero:
       background: /images/website cover v4.jpg
@@ -18,6 +19,7 @@ sections:
         - title: Calendar
           description: School
           url: /useful-links/gms-calendar/
+      variant: center
   - resources:
       subtitle: News and Events
       button: View All
