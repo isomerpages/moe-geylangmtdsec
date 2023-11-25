@@ -2,19 +2,32 @@
 title: Education and Career Guidance
 permalink: /students/ECG/
 description: ""
+variant: markdown
 ---
-![](/images/ECG.jpg)
+#### **Education and Career Guidance (ECG)**
 
-| [Appointment](https://go.gov.sg/ecggms-appt) 	| [ECG Events](https://www.myskillsfuture.gov.sg/content/student/en/secondary/education-guide/events.html) 	| [Resources](https://staging.dnskg7mp0u9ot.amplifyapp.com/ecg-resources/) 	|
+The aim of ECG is to help students develop self-awareness to make informed decisions about their education and career plans.
 
+As part of their ECG experience in GMS(S), students will participate in a wide range of programmes to explore their strengths, interests, and aspirations in addition to the various education options and possible career pathways. Students can also consult the ECG Counsellor for guidance individually or in a group setting.
 
-The ECG Counsellor usually available every **Tuesday** at the **ECG Room** (at the back of the canteen).
+Students can look forward to
 
-To discuss any of the following, please book appointment slots that are during your **recess / lunch breaks / free periods** or **after your curriculum hours**.
+·       talks by representatives of educational institutions and organizations
 
-*   Raising self-awareness (**VIPS, RIASEC**, etc.)
-*   Subject combination (e.g. **Sec 2 / JC**)
-*   **Post-Secondary** options / pathways
-*   Preparation for different **Admission Exercises**, e.g. JIE, JAE, DSA-JC, EAE, etc.
-*   Factors to consider in **ECG planning**
-*   Any other **ECG related** questions
+·       learning journeys to various educational institutions and organizations
+
+·       GEMS@Work to catch a glimpse of the working world
+
+·       ECG fair & career exploration workshop
+
+·       use of MySkillsFuture portal
+
+Parents also play a pivotal role in guiding and supporting their child in their ECG journey. Some resources available for parents are:
+
+[ECG Tips for Parents](https://go.gov.sg/tips-for-parents) - Pick up tips and advice on ECG and related considerations at key education stages to guide your child.
+
+[Understanding MySkillsFuture portal](https://www.moe.gov.sg/-/media/files/programmes/myskillsfuture-student-portal-brochure-digital.pdf) - Learn about the key features in the portal and how your child can use it for education and career planning.
+
+[Understanding What’s Next after ‘N’ level](https://go.gov.sg/whats-next-nlevel) - Use this resource to support your child's decision-making process.
+
+[Understanding What’s Next after ‘O’ level](https://go.gov.sg/whats-next-olevel) - Use this resource to support your child's decision-making process.
