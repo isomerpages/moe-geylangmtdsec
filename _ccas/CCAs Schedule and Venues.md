@@ -2,8 +2,8 @@
 title: CCAs Schedule and Venues
 permalink: /cca/ccas-schedule/
 description: ""
+variant: markdown
 ---
-![](/images/MG_9935eee.jpg)
 
 
 **CCA SCHEDULE AND VENUES w.e.f. Jan 2023**
