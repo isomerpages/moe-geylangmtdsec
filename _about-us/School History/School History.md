@@ -34,4 +34,4 @@ Click the following links for more information.
 
 #### Photo Galleries
 
-<iframe allowfullscreen="true" height="749" width="1280" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRq7Qr1jcrIBfHfoW9Zkto64Np4eA66NCXaTz2hh_P0kk3bINFxNkThQ9ZBRGD0tQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="389" width="640" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRq7Qr1jcrIBfHfoW9Zkto64Np4eA66NCXaTz2hh_P0kk3bINFxNkThQ9ZBRGD0tQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
