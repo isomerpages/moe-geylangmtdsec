@@ -18,6 +18,9 @@ sections:
         - title: Calendar
           description: School
           url: /useful-links/gms-calendar/
+        - title: School Magazine
+          description: "2023"
+          url: ""
       variant: center
   - resources:
       subtitle: News and Events
