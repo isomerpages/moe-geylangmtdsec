@@ -1,7 +1,0 @@
-collections:
-  non-academic:
-    output: true
-    order:
-      - CCE, ECG & Sexuality Education/.keep
-      - CCE, ECG & Sexuality Education/Character & Citizenship Education (CCE).md
-      - CCE, ECG & Sexuality Education/Education & Career Guidance (ECG).md
