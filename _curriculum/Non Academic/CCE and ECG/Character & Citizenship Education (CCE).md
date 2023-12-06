@@ -1,10 +1,11 @@
 ---
 title: Character & Citizenship Education (CCE)
-permalink: /curriculum/non-academic/cce-ecg/
+permalink: /curriculum/non-academic/CCE-and-ECG/cce-ecg/
 description: ""
-third_nav_title: CCE, ECG & Sexuality Education
+third_nav_title: CCE and ECG
 variant: markdown
 ---
+
 ![](/images/character_and_citizenship_education_department_2.jpg)
 
 ### CCE (Character & Citizenship Education) Curriculum

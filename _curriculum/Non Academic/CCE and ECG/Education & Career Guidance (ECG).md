@@ -1,8 +1,8 @@
 ---
 title: Education & Career Guidance (ECG)
-permalink: /curriculum/non-academic/CCE-ECG-and-Sexuality-Education/ECG/
+permalink: /curriculum/non-academic/CCE-and-ECG/ECG/
 description: ""
-third_nav_title: CCE, ECG & Sexuality Education
+third_nav_title: CCE and ECG
 variant: markdown
 ---
 
