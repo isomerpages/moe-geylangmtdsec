@@ -15,12 +15,12 @@ sections:
         - title: Virtual Introduction
           description: of the school
           url: /about-us/virtual-introduction/
-        - title: Calendar
-          description: School
-          url: /useful-links/gms-calendar/
         - title: School Magazine
           description: "2023"
           url: https://drive.google.com/file/d/16VdxA_GwPpYI61BGNCwVJWBvQw-K7bJQ/view?usp=drive_link
+        - title: Calendar
+          description: School
+          url: /useful-links/gms-calendar/
       variant: center
   - resources:
       subtitle: News and Events
