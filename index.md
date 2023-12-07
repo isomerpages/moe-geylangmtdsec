@@ -20,7 +20,7 @@ sections:
           url: /useful-links/gms-calendar/
         - title: School Magazine
           description: "2023"
-          url: https://drive.google.com/file/d/1s5IN7DDXALak7aUj5OVDRGhjh8MB3MBl/view?usp=sharing
+          url: https://drive.google.com/file/d/16VdxA_GwPpYI61BGNCwVJWBvQw-K7bJQ/view?usp=drive_link
       variant: center
   - resources:
       subtitle: News and Events
