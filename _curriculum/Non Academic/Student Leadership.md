@@ -3,8 +3,9 @@ title: Student Leadership
 permalink: /curriculum/non-academic/student-leadership/
 description: ""
 third_nav_title: Non Academic
+variant: markdown
 ---
-![](/images/Student-Leadership-Development-2048x1463.jpg)
+![](/images/student_leadership_committee_2.jpg)
 
 Vision: Every GEM has the COURAGE and COMPETENCY to SERVE as they LEAD. 
 
@@ -28,7 +29,7 @@ At the pinnacle, we have the different executive committees which will lead the 
 
 Leadership trainings are tiered, with varying rigor and intensity, based on students’ readiness.
 
-The design of our student leadership programme is guided by Kouzes and Posner's Model in Transformational Leadership which provides a breadth of practices to develop student leaders - challenging the process, inspiring a shared vision, enabling others to act, modeling the way, and encouraging the heart (Kouzes & Posner, 1995, 2002). Students will use the tiered behavioural statements linked to each practice to reflect on their personal leadership journey to grow as Courageous Leaders.
+The design of our student leadership programme is guided by Kouzes and Posner's Model in Transformational Leadership which provides a breadth of practices to develop student leaders - challenging the process, inspiring a shared vision, enabling others to act, modeling the way, and encouraging the heart (Kouzes &amp; Posner, 1995, 2002). Students will use the tiered behavioural statements linked to each practice to reflect on their personal leadership journey to grow as Courageous Leaders.
 
 
 **Student Leadership Development Team**
@@ -58,7 +59,7 @@ IC: Mrs Yvonee Wong
 			<p><b>Student Council Executive Committee 2022-2023</b></p>
 			<p><table border="1" style="box-sizing: border-box; border-collapse: collapse; border-spacing: 0px; background-color: rgb(255, 255, 255); color: rgb(128, 128, 128); font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 487.312px;"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; width: 237px;"><strong style="box-sizing: border-box; font-weight: bold;">President</strong></td><td style="box-sizing: border-box; padding: 0px; width: 233.312px;">Reina Lim Li Shan</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; width: 237px;"><strong style="box-sizing: border-box; font-weight: bold;">Vice President</strong></td><td style="box-sizing: border-box; padding: 0px; width: 233.312px;">Zoe Tan Xin Yu</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; width: 237px;"><strong style="box-sizing: border-box; font-weight: bold;">Secretariat</strong></td><td style="box-sizing: border-box; padding: 0px; width: 233.312px;">Tan En Si</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; width: 237px;"><strong style="box-sizing: border-box; font-weight: bold;">Head of Community Relations</strong></td><td style="box-sizing: border-box; padding: 0px; width: 233.312px;">Haris Sufyan bin Saiful Hisham</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; width: 237px;"><strong style="box-sizing: border-box; font-weight: bold;">Head of Leadership Development</strong></td><td style="box-sizing: border-box; padding: 0px; width: 233.312px;">Lea Loo</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; width: 237px;"><strong style="box-sizing: border-box; font-weight: bold;">Head of School Events</strong></td><td style="box-sizing: border-box; padding: 0px; width: 233.312px;">Ng Hui Ru</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; width: 237px;"><strong style="box-sizing: border-box; font-weight: bold;">Head of Public Relations</strong></td><td style="box-sizing: border-box; padding: 0px; width: 233.312px;">Ong Zi Ning Xylia</td></tr></tbody></table></p>
 		<p><img src="/images/SLC.jpg"></p>
-		<p><iframe width="560" height="315" src="https://www.youtube.com/embed/hUPWeluAbs0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+		<p><iframe width="560" height="315" src="https://www.youtube.com/embed/hUPWeluAbs0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
     </div>
 	</li>
 <li>
@@ -74,7 +75,7 @@ IC: Mrs Yvonee Wong
 	<p><b>House Committee Organisation Chart</b></p>
 	<p><img src="/images/House-Committee-Organisation-Chart.jpg">
 		<img src="/images/house%20exco.jpg"></p>
-		<p><iframe width="560" height="315" src="https://www.youtube.com/embed/2vjFI2_UQ6Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+		<p><iframe width="560" height="315" src="https://www.youtube.com/embed/2vjFI2_UQ6Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
     </div>
 	</li>
 <li>
@@ -111,4 +112,4 @@ IC: Mrs Yvonee Wong
 <img src="/images/Main-Pg-2-1024x768.jpg">
 
 <h3>Different Facets of Student Life</h3>
-For more information, click <a href="https://staging.dnskg7mp0u9ot.amplifyapp.com/different-facets-of-student-life/">here
+For more information, click <a href="https://staging.dnskg7mp0u9ot.amplifyapp.com/different-facets-of-student-life/">here</a>
