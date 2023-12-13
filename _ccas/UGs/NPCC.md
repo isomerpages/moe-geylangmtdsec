@@ -3,6 +3,7 @@ title: NPCC
 permalink: /cca/UGs/npcc/
 description: ""
 third_nav_title: UGs
+variant: markdown
 ---
 ![](/images/2023%20npcc.jpg)
 
@@ -25,7 +26,7 @@ third_nav_title: UGs
 | -------- | -------- | -------- |
 | 2.     |      | Mr Ng Jun Qiang (DyOC)     |
 | 3.     |      | Mr Wong Kok Woei    |
-| 4.     |      | Mr Zhao Yilin    |
+
 
 **CCA Leaders**
 
