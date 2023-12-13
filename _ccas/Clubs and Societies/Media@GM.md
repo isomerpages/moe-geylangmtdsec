@@ -35,8 +35,9 @@ variant: markdown
 
 | 1. |  | Mr Kelvin Chia (I/C) |
 | -------- | -------- | -------- |
-| 2.     |      | Mr Syafrin     |
-| 3.     |      | Mr Pek Han Wei    |
+| 2.     |      | Mr Pek Han Wei    |
+| 3.     |      | Mr Syafrin     |
+
 
 
 **Student Leaders**
