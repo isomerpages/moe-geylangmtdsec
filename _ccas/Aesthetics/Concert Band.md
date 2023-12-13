@@ -3,6 +3,7 @@ title: Concert Band
 permalink: /cca/aesthetics/concert-band/
 description: ""
 third_nav_title: Aesthetics
+variant: markdown
 ---
 !![](/images/2023%20concert%20band.jpg)[](/images/GMSS-95-Anniversary-135-1024x684.jpg)
 
@@ -27,9 +28,8 @@ third_nav_title: Aesthetics
 
 | 1. |  | Ms Grace Yap (I/C) |
 | -------- | -------- | -------- |
-| 2.     |      | Mr James Kee     |
-| 3.     |      | Ms Tan Kai Wei    |
-
+| 2.     |      | Ms Tan Kai Wei    |
+| 3.     |      | Ms Doris Khoo    |
 
 **Student Leaders**
 
