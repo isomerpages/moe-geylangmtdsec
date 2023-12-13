@@ -3,6 +3,7 @@ title: Media@GM
 permalink: /ccas/Clubs-and-Societies/MediaGM/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 ![](/images/2023%20media@gme.jpg)
 **Objectives of CCA**
@@ -36,7 +37,7 @@ third_nav_title: Clubs and Societies
 | -------- | -------- | -------- |
 | 2.     |      | Mr Syafrin     |
 | 3.     |      | Mr Pek Han Wei    |
-| 4.     |      | Ms Doris Khoo     |
+
 
 **Student Leaders**
 
