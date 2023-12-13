@@ -3,6 +3,7 @@ title: Football
 permalink: /cca/Sports/Football/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ![](/images/2023%20football.JPG)
 
@@ -25,8 +26,8 @@ third_nav_title: Sports
 
 | 1. |  | Mr Ishwarinder Singh (I/C)  |
 | -------- | -------- | -------- |
-| 2.     |      |   Mr Jonathan Koh   |
-
+| 2.     |      |   Mr Zhao Yilin   |
+| 3.     |      |   Ms Desiree Ho Hwee Ling   |
 
 
 **Student Leaders**
