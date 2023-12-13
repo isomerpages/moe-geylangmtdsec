@@ -3,6 +3,7 @@ title: Basketball (Boys)
 permalink: /cca/Sports/Basketball/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ![](/images/2023%20basketball.jpeg)
 **Objectives of CCA**
@@ -20,9 +21,8 @@ third_nav_title: Sports
 
 | 1. |  | Mr Tan Wah Kum (I/C)  |
 | -------- | -------- | -------- |
-| 2.     |      | Mr Fahd Mohd Said     |
-| 3.     |      | Mr Mark Goh      |
-
+| 2.     |      | Mr Mark Goh      |
+| 3.     |      | Mdm Northasia    |
 
 
 **Student Leaders**
