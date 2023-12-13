@@ -46,7 +46,7 @@ variant: markdown
 | MS ONG HUI QI     | [ong\_hui\_qi@schools.gov.sg](mailto:ong_hui_qi@schools.gov.sg)    |
 | **Hope 2-4** |  |  |
 | MR JOHN SEAH    | [john\_seah\_yong\_han@schools.gov.sg](mailto:john_seah_yong_han@schools.gov.sg)    |      |
-| MISS HANJRANAH (LDT)    | [hajranah\_sadon\_ibrahim@schools.gov.sg](mailto:hajranah_sadon_ibrahim@schools.gov.sg)    |
+| MISS HANJRANAH   | [hajranah\_sadon\_ibrahim@schools.gov.sg](mailto:hajranah_sadon_ibrahim@schools.gov.sg)    |
 | **Hope 2-5** |  |  |
 | MISS SYLVIA LAI     | [sylvia_lai@schools.gov.sg](mailto:sylvia_lai@schools.gov.sg)   |
 | MISS ATHIRAH HASRI     | [Nurulathirah\_hasri@schools.gov.sg](mailto:Nurulathirah_hasri@schools.gov.sg)     |      |
@@ -80,14 +80,14 @@ variant: markdown
 | MR PEK HAN WEI     | [pek\_han\_wei@schools.gov.sg](mailto:pek_han_wei@schools.gov.sg)     |     |
 | **Joy 3-5** |  |  |
 | MISS CINDY LIM    | [lim\_fung\_yee\_cindy@schools.gov.sg](mailto:lim_fung_yee_cindy@schools.gov.sg)     |      |
-| MR ISHWARINDER MOHAN SINGH (LDT)    | [ishwarinder\_singh\_mohan@schools.gov.sg](mailto:ishwarinder_singh_mohan@schools.gov.sg)    | |
+| MR ISHWARINDER MOHAN SINGH    | [ishwarinder\_singh\_mohan@schools.gov.sg](mailto:ishwarinder_singh_mohan@schools.gov.sg)    | |
 | **Joy 3-6** |  |  |
 | MDM ZURAIDAH OMAR   | [zuraidah_omar@schools.gov.sg](mailto:zuraidah_omar@schools.gov.sg)   |
 | MRS GOH HENG MEI     | [ho\_heng\_mei@schools.gov.sg](mailto:ho_heng_mei@schools.gov.sg)     |      |
 | **Joy 3-7** |  |  |
 | MR MOHD FAIZAL     | [mohammad\_faizal\_b\_fadzlillah@schools.gov.sg](mailto:mohammad_faizal_b_fadzlillah@schools.gov.sg)     |     |
 | MISS NG SIO YING     | [ng\_sio\_ying@schools.gov.sg](mailto:ng_sio_ying@schools.gov.sg)     |      |
-| MISS VANESSA TAN     | [tan_guan_hui_vanessa@schools.gov.sg](mailto:tan_guan_hui_vanessa@schools.gov.sg)     |      |
+
 
 
 #### **Secondary 4 & 5 Form Teachers**
@@ -99,7 +99,7 @@ variant: markdown
 | MS FAHARIAH YEO     | [fahariah_yeo_noorhisham@schools.gov.sg](mailto:fahariah_yeo_noorhisham@schools.gov.sg)     |     |
 | **Peace 4-2** |  |  |
 | MR NG JUN QIANG     | [ng\_jun\_qiang@schools.gov.sg](mailto:ng_jun_qiang@schools.gov.sg)     |      |
-| ONG SIEW SIANG     |  [ong_siew_siang@schools.gov.sg](mailto:ong_siew_siang@schools.gov.sg)     |      |
+| MS ONG SIEW SIANG     |  [ong_siew_siang@schools.gov.sg](mailto:ong_siew_siang@schools.gov.sg)     |      |
 | **Peace 4-3** |  |  |
 | MISS YEO PENG PENG     | [yeo_peng_peng_a@schools.gov.sg](mailto:yeo_peng_peng_a@schools.gov.sg)    |      |
 | MISS WONG HUI FEN    | [wong\_hui\_fen@schools.gov.sg](mailto:wong_hui_fen@schools.gov.sg)     |      |
@@ -116,7 +116,7 @@ variant: markdown
 | MS TAN KAI WEI   | [tan_kai_wei@schools.gov.sg](mailto:tan_kai_wei@schools.gov.sg)     |     |
 | MISS CARLYN CHAN     | [chan\_carlyn@schools.gov.sg](mailto:chan_carlyn@schools.gov.sg)     |     |
 | **Peace 5-1** |  |  |
-| MR CYRIL KHOO SU MING (LDT)     | [khoo_su_ming_cyril@schools.gov.sg](mailto:khoo_su_ming_cyril@schools.gov.sg)     |      |
+| MR CYRIL KHOO SU MING    | [khoo_su_ming_cyril@schools.gov.sg](mailto:khoo_su_ming_cyril@schools.gov.sg)     |      |
 | MRS LOH KIM WOON    | [wong\_kim\_woon@schools.gov.sg](mailto:wong_kim_woon@schools.gov.sg)     |      |
 | MS NAZEERA OMAR    |     [siti\_nazeera\_omar@schools.gov.sg](mailto:siti_nazeera_omar@schools.gov.sg)   |
 
