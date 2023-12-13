@@ -3,6 +3,7 @@ title: English Drama Club
 permalink: /cca/aesthetics/drama/
 description: ""
 third_nav_title: Aesthetics
+variant: markdown
 ---
 ![](/images/Continuing-to-carry-on-with-SMM-1024x768.jpeg)
 
@@ -27,9 +28,8 @@ third_nav_title: Aesthetics
 
 | 1. |  | Miss Sylvia Lai (I/C) |
 | -------- | -------- | -------- |
-| 2.     |      | Miss Tan Lay Ming     |
-| 3.     |      | Miss Carlyn Chan   |
-
+| 2.     |      | Miss Carlyn Chan   |
+| 3.     |      | Ms Joy Tang     |
 
 **Student Leaders**
 
