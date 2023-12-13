@@ -3,6 +3,7 @@ title: Board Games Club
 permalink: /cca/club-and-society/board-games-club/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 ![](/images/2023%20board%20games.jpeg)
 
@@ -28,8 +29,9 @@ third_nav_title: Clubs and Societies
 
 | 1. |  | Mr Quek Rob Huei (I/C) |
 | -------- | -------- | -------- |
-| 2.     |      | Ms Siti Nazeera Omar     |
-| 3.     |      | Mdm Khalidah Begum     |
+| 2.     |      | Mdm Khalidah Begum     |
+| 3.     |      | Ms Siti Nazeera Omar     |
+
 
 
 **Student Leaders**
