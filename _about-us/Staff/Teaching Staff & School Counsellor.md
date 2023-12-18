@@ -25,7 +25,7 @@ variant: markdown
 | MRS DEBORAH TONG     | [koh\_shujuan\_deborah@schools.gov.sg](mailto:koh_shujuan_deborah@schools.gov.sg)     |      |
 | MR NGM YEW FAI     | [ngm_yew_fai@schools.gov.sg](mailto:ngm_yew_fai@schools.gov.sg)    |      |
 | **Faith 1-6** |  | |
-| MS JOY TANG    |    |      |
+| MS JOY TANG    |  [tang_choh_wah_joy@schools.gov.sg](mailto:tang_choh_wah_joy@schools.gov.sg)    |
 | MISS LYDIA SOH    | [soh\_en\_ping\_lydia@schools.gov.sg](mailto:soh_en_ping_lydia@schools.gov.sg)    |      |
 | **Faith 1-7** | | |
 | MDM NORTHASIA SADEKAN     | [northasia\_mohamed\_sadekan@schools.gov.sg](mailto:northasia_mohamed_sadekan@schools.gov.sg)   |
