@@ -34,11 +34,10 @@ variant: markdown
 | ICT & ACT| Mr Yeo Wee Pung     | [yeo\_wee\_pung@schools.gov.sg](mailto:yeo_wee_pung@schools.gov.sg)     |
 | Physical Education/Co-Curricular-Activities     | Mdm Rachel Cheng     | [cheng\_sze\_wan\_rachel@schools.gov.sg](mailto:cheng_sze_wan_rachel@schools.gov.sg)    |
 | Student Management     | Mr Kelvin Tay     | [tay\_yew\_kuan\_kelvin@schools.gov.sg](mailto:tay_yew_kuan_kelvin@schools.gov.sg)     |
-| Curriculum & Pupil Development (Educational Support)     | Miss Wendy Wong     | [wong\_yoke\_chan\_wendy@schools.gov.sg](mailto:wong_yoke_chan_wendy@schools.gov.sg)     |
 | Character and Citizenship Education   | Mr Chin Khai Ying    | [chin\_khai\_ying@schools.gov.sg](mailto:chin_khai_ying@schools.gov.sg)     |
 | School Staff Developer     | Mrs Low Phek Mui     | [koh\_phek\_mui@schools.gov.sg](mailto:koh_phek_mui@schools.gov.sg)     |
-| Year Head (Lower Secondary)    | Mr Kelvin Teo    | [teo\_kian\_ming\_kelvin@schools.gov.sg](mailto:teo_kian_ming_kelvin@schools.gov.sg)
-| Year Head (Upper Secondary)     | Mrs Sandra Theseira   | [de\_souza\_Sandra@schools.gov.sg](mailto:de_souza_Sandra@schools.gov.sg)     |
+| Year Head (Lower Secondary)      | Miss Wendy Wong     | [wong\_yoke\_chan\_wendy@schools.gov.sg](mailto:wong_yoke_chan_wendy@schools.gov.sg)     |
+| Year Head (Upper Secondary)    | Mr Kelvin Teo    | [teo\_kian\_ming\_kelvin@schools.gov.sg](mailto:teo_kian_ming_kelvin@schools.gov.sg)
 | Administration Manager     | Ms Linda Chuang    | [CHUANG\_Toon\_Ling@schools.gov.sg](mailto:CHUANG_Toon_Ling@schools.gov.sg)     |
 | Administration Manager    | Mdm Azline Ibrahim     | [Nur\_Azline\_IBRAHIM@schools.gov.sg](mailto:Nur_Azline_IBRAHIM@schools.gov.sg)    |
 | Operation Manager   | Mr Koay Chin Wah   | [koay\_chin\_wah@schools.gov.sg](mailto:koay_chin_wah@schools.gov.sg)    |
@@ -55,5 +54,5 @@ variant: markdown
 | Information Technology   | Mr Tan Wah Kum    | [tan\_wah\_kum@schools.gov.sg](mailto:tan_wah_kum@schools.gov.sg)     |
 | Craft & Technology     | Mr Kelvin Chia     | [kelvin\_chia\_cheng\_meng@schools.gov.sg](mailto:kelvin_chia_cheng_meng@schools.gov.sg)     |
 | Aesthetics    | Miss Ng Sio Ying   | [ng\_sio\_ying@schools.gov.sg](mailto:ng_sio_ying@schools.gov.sg)     |
-| Asst. Year Head (Sec1) (Covering)    | Mrs Wong Hui Yu Yvonee    | [chew\_hui\_yu\_yvonee@schools.gov.sg](mailto:chew_hui_yu_yvonee@schools.gov.sg)   |
+| Asst. Year Head (Secondary 1) (Covering)    | Mrs Wong Hui Yu Yvonee    | [chew\_hui\_yu\_yvonee@schools.gov.sg](mailto:chew_hui_yu_yvonee@schools.gov.sg)   |
 | Asst. Year Head (Secondary 3)  | Ms Lee Wei Ying Teresa   | [lee\_wei\_ying\_teresa@schools.gov.sg](mailto:lee_wei_ying_teresa@schools.gov.sg)   |
