@@ -3,6 +3,7 @@ title: Softball (Girls)
 permalink: /cca/Sports/Softball/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ![](/images/2023%20softball.jpg)
 
@@ -24,7 +25,7 @@ third_nav_title: Sports
 | 1. |  | Mr James Lim (I/C) |
 | -------- | -------- | -------- |
 | 2. |  | Ms Gayathiri |
-| 3. |  | Mr Chng Kiong Choon |
+
 
 
 **Student Leaders**

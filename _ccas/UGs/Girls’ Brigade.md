@@ -3,6 +3,7 @@ title: Girls’ Brigade
 permalink: /cca/ugs/girls-brigade/
 description: ""
 third_nav_title: UGs
+variant: markdown
 ---
 ![](/images/2023%20gb.jpg)
 
@@ -26,8 +27,7 @@ third_nav_title: UGs
 
 | 1. |  | Miss Lydia Soh En Ping (I/C) |
 | -------- | -------- | -------- |
-| 2.     |      | Ms Desiree Ho Hwee Ling     |
-| 3.     |      | Miss Charlene Ng Jia Ling  |
+| 2.     |      | Miss Charlene Ng Jia Ling  |
 
 
 **Student Leaders**

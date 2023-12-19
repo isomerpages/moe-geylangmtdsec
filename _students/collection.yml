@@ -2,7 +2,7 @@ collections:
   students:
     output: true
     order:
-      - Education and Career Guidance.md
+      - Education and Career Guidance (ECG).md
       - ICT Matters.md
       - OPAC.md
       - Rules for Special Rooms/.keep

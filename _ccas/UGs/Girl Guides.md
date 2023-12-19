@@ -3,6 +3,7 @@ title: Girl Guides
 permalink: /cca/ugs/girl-guides/
 description: ""
 third_nav_title: UGs
+variant: markdown
 ---
 ![](/images/2023%20gg.png)
 
@@ -24,10 +25,10 @@ third_nav_title: UGs
 
 **Teachers-in-Charge**
 
-| 1. |  | Ms Andrea Lau (I/C) |
+| 1. |  | Miss Janelle Chua Hwee Woon (I/C) |
 | -------- | -------- | -------- |
 | 2.     |      | Mdm Lau Chau King     |
-| 3.     |      | Miss Janelle Chua Hwee Woon    |
+| 3.     |      |  Ms Andrea Lau   |
 
 
 **Student Leaders**

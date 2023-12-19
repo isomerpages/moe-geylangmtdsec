@@ -3,6 +3,7 @@ title: Badminton
 permalink: /cca/Sports/badminton/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ![](/images/2023%20badminton.jpg)
 
@@ -23,10 +24,9 @@ third_nav_title: Sports
 
 | Mr Yip Cheng Hou (OIC) |  |  |
 | -------- | -------- | -------- |
-| Mr Joseph Lim     |      |      |
-| Mr Bernard Cheong     |      |      |
 | Ms Fahariah Yeo Bte Noorhisham     |      |      |
-  
+| Mr Bernard Cheong     |      |      |
+| Miss Tan Lay Ming     |      |      | 
 
 
 **Student Leaders**

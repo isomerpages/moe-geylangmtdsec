@@ -3,6 +3,7 @@ title: Boys' Brigade
 permalink: /cca/ugs/boys-brigade/
 description: ""
 third_nav_title: UGs
+variant: markdown
 ---
 ![](/images/2023%20bb.jpeg)
 
@@ -24,8 +25,8 @@ third_nav_title: UGs
 
 | 1. |  | Mr. Cyril Khoo (I/C) |
 | -------- | -------- | -------- |
-| 2.     |      | Mr. Kenneth Soh     |
-| 3.     |      | Ms. Teo Jia Min    |
+| 2.     |      | Ms. Teo Jia Min    |
+| 3.     |      | Mr. Chng Kiong Choon    |
 
 
 **Student Leaders**
