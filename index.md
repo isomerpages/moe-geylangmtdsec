@@ -8,7 +8,7 @@ notification: Welcome to Geylang Methodist School (Secondary)! Please refer to
   the post below for Sec. 1 registration information.
 sections:
   - hero:
-      background: /images/website cover v4.jpg
+      background: /images/2024/website_cover_v5.jpg
       key_highlights:
         - title: GM Heartbeat
           description: Facebook
