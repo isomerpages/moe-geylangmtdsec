@@ -2,8 +2,9 @@
 title: Students' Timetable
 permalink: /students/timetable/
 description: ""
+variant: markdown
 ---
-* [2023 Semester 2 Timetable - Sec 1](/files/2023%20sem%202%20tt%20wef%2026%20june%20sec1.pdf)
-* [2023 Semester 2 Timetable - Sec 2](/files/2023%20sem%202%20tt%20wef%2026%20june%20sec2.pdf)
-* [2023 Semester 2 Timetable - Sec 3](/files/2023%20sem%202%20tt%20wef%2026%20june%20sec3.pdf)
-* [2023 Semester 2 Timetable - Sec 45](/files/2023%20sem%202%20tt%20wef%2026%20june%20sec45.pdf)
+* [2024 Sec 1 Class Timetable](/files/2024/2024_Sec_1_Class_Timetable.pdf)
+* [2024 Sec 2 Class Timetable](/files/2024/2024_Sec_2_Timetable.pdf)
+* [2024 Sec 3 Timetable by Subject Combination](/files/2024/2024_Sec_3_Timetable_by_Subject_Combination.pdf)
+* [2024 Sec 4 & 5 Class Timetable](/files/2024/2024_Sec_4_5_Timetable.pdf)
