@@ -1,0 +1,16 @@
+logo: /images/2024/hero_page_header_v6_copy.jpg
+links:
+  - title: About Us
+    collection: about-us
+  - title: Curriculum
+    collection: curriculum
+  - title: CCAs
+    collection: ccas
+  - title: Special Programmes
+    collection: special-programmes
+  - title: Students
+    collection: students
+  - title: Parents
+    collection: parents
+  - title: GM 100
+    collection: gm-100

@@ -1,0 +1,27 @@
+collections:
+  curriculum:
+    output: true
+    order:
+      - Academic/.keep
+      - Academic/English Language & Literature.md
+      - Academic/Mathematics & POA.md
+      - Academic/Science.md
+      - Academic/Mother Tongue.md
+      - Academic/Humanities (Social Studies).md
+      - Academic/Humanities (Geography).md
+      - Academic/Humanities (History).md
+      - Academic/Art.md
+      - Academic/Computer Applications (CPA).md
+      - Academic/Design & Technology (D&T).md
+      - Academic/Elements of Business Skills (EBS).md
+      - Academic/Nutrition & Food Science (NFS).md
+      - Academic/Music.md
+      - Academic/Physical Education (PE).md
+      - Non Academic/.keep
+      - Non Academic/Character & Citizenship Education (CCE).md
+      - Non Academic/Education & Career Guidance (ECG).md
+      - Non Academic/Cyber Wellness.md
+      - Non Academic/Information & Communications Technology (ICT).md
+      - Non Academic/Student Leadership.md
+      - Non Academic/Student Management.md
+      - Non Academic/Values in Action (VIA).md

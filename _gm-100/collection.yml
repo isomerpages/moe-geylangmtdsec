@@ -1,0 +1,6 @@
+collections:
+  gm-100:
+    output: true
+    order:
+      - GM100 Contest.md
+      - Celebration.md

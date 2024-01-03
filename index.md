@@ -1,0 +1,41 @@
+---
+layout: homepage
+title: Geylang Methodist School (Secondary)
+description: Brief site description here
+image: /images/isomer-logo.svg
+permalink: /
+notification: Welcome to Geylang Methodist School (Secondary)! Please refer to
+  the post below for Sec. 1 registration information.
+sections:
+  - hero:
+      background: /images/2024/website_cover_v5.jpg
+      key_highlights:
+        - title: GM Heartbeat
+          description: Facebook
+          url: https://www.facebook.com/profile.php?id=100027880047289
+        - title: Virtual Introduction
+          description: of the school
+          url: /about-us/virtual-introduction/
+        - title: School Magazine
+          description: "2023"
+          url: https://drive.google.com/file/d/16VdxA_GwPpYI61BGNCwVJWBvQw-K7bJQ/view?usp=drive_link
+        - title: Calendar
+          description: School
+          url: /useful-links/gms-calendar/
+      variant: center
+  - resources:
+      subtitle: News and Events
+      button: View All
+  - infopic:
+      title: Traffic-Advisory
+      subtitle: "2022"
+      button: View more
+      url: /traffic-advisory
+      image: /images/Singapore-Police.png
+      alt: Image alt text
+  - infobar:
+      title: Photo Gallery
+      subtitle: "2023"
+      button: View all
+      url: /about-us/Photo-Gallery/photo-gallery-2023/
+---
