@@ -37,16 +37,6 @@ Objectives
 
 Students cultivate a daily reading habit
 
-##### Buy-A-Book Programme
-
-All lower secondary students will participate in the Buy-A-Book programme and be involved in interesting classroom activities related to the books.
-
-Students select a book of their preference from a specially curated list of 15 popular titles in the Buy-a-Book programme.&nbsp; From a list of 15 specially selected titles, the students have the opportunity to choose a book title and purchase it for their personal reading. They are encouraged to read the book during assembly or at their own time to develop a habit of reading.&nbsp; Students can explore ways to infuse ideas from the book and use the vocabulary or expressions in their Writing and Oral presentation.
-
-![](/images/c-1024x570.jpg)
-![](/images/d-1024x600.jpg)
-
-Students select a book of their own preference for Buy-A-Book programme
 
 ##### Magazines Subscription
 
