@@ -6,8 +6,7 @@ third_nav_title: School History
 variant: markdown
 ---
 <img src="/images/history-300x165.jpg" style="width:303px;height:170px;margin-left:15px;" align="right">
-
-The school began in 1924 as Geylang Methodist Girls’ School when it was founded by Rev Lloyd Sullivan, together with Mrs Chia Han Kiat and Miss Walker, who were members of the Methodist Church. &nbsp;With a pupil enrolment of 27 girls, lessons were conducted in the sanctuary of Geylang Chinese Methodist Church.
+The rich heritage of our school began in 1924 as Geylang Methodist Girls’ School with the support of the Methodist Church in Singapore, Reverend Floyd Herman Sullivan and Miss Emma Eaton Walker. &nbsp;With a pupil enrolment of 27 girls, lessons were conducted in the sanctuary of Geylang Chinese Methodist Church.
 
 With God’s grace, we continued to expand, becoming a full school and in 1951 our first batch of pupils took the Cambridge Examination (equivalent of the GCE ‘O’ level Exam) three years later.
 
@@ -19,7 +18,7 @@ The school was upgraded in 1998 and God continued to pour out His blessings. &nb
 
 2007 marked another important milestone for our school. &nbsp;Besides the change of name to reflect the oneness of the GM family of schools, it also marked the completion of our re-development project.
 
-We celebrate our 95th&nbsp;anniversary in 2019.&nbsp; We are grateful for the past 95 years of blessings and believe that God will continue to watch over His students for many more years to come as we welcome future generations of students.
+In 2024, we celebrate and commemorate Geylang Methodist Schools’ 100th Anniversary (GM100) – a hundred years of God's faithfulness, grace, and blessings. We are grateful for the 10 decades of blessings and believe that God will continue to watch over His students for many more generations to come.
 
 
 Click the following links for more information.
