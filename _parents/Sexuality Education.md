@@ -2,8 +2,8 @@
 title: Sexuality Education
 permalink: /curriculum/non-academic/cce-ecg/sexuality-education/
 description: ""
+variant: markdown
 ---
-
 ##### **GEYLANG METHODIST SCHOOL (SECONDARY)**
 
 **Moe Sexuality Education in Schools**
@@ -32,7 +32,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education)  for more inform
 
 
 
-##### **Overview of Geylang Methodist** &nbsp;**School** **(Secondary) Sexuality Education Programme for 2023**
+##### **Overview of Geylang Methodist** &nbsp;**School** **(Secondary) Sexuality Education Programme for 2024**
 
 4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
 
@@ -48,7 +48,7 @@ b.&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)
 
 7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-##### **At Geylang Methodist School (Secondary), the following lessons from the Growing Years Programme will be taught in 2023:**
+##### **At Geylang Methodist School (Secondary), the following lessons from the Growing Years Programme will be taught in 2024:**
 
 
 ![](/images/Picture1.jpg)
@@ -626,10 +626,10 @@ b.&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education (CCE)
 
 #### **Information for Parents**
 
-10.     Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+10.&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11.     Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete a hardcopy opt-out form. The opt-out form is attached with the programme letter disseminated to parents at the start of the year on Parents Gateway (PG). The completed form is to be submitted by **16/01/2023.**
+11.&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete a hardcopy opt-out form. The opt-out form is attached with the programme letter disseminated to parents at the start of the year on Parents Gateway (PG). The completed form is to be submitted by **16/01/2023.**
 
-12.     Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete and sign a hardcopy opt-out form. The hardcopy opt-out form will be given to the Sec 3s through their Form Teachers. Information regarding the programme will be disseminated to parents on Parents Gateway (PG).  The hardcopy form, duly completed and signed, is to be submitted to the school in **Term 1 2023****.**
+12.&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete and sign a hardcopy opt-out form. The hardcopy opt-out form will be given to the Sec 3s through their Form Teachers. Information regarding the programme will be disseminated to parents on Parents Gateway (PG).&nbsp; The hardcopy form, duly completed and signed, is to be submitted to the school in **Term 1 2023****.**
 
-13.     Parents can contact the school at 67466503 for discussion or to seek clarification about the school’s Sexuality Education programme.
+13.&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at 67466503 for discussion or to seek clarification about the school’s Sexuality Education programme.
