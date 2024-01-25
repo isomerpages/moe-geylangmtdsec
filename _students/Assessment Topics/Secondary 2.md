@@ -12,7 +12,7 @@ third_nav_title: Assessment Topics
     <tbody>
         <tr>
             <th rowspan="1" colspan="1">
-                <p>Science</p>
+                <h4>Science</h4>
             </th>
             <th rowspan="1" colspan="1">
                 <p>Term 1</p>
@@ -29,19 +29,37 @@ third_nav_title: Assessment Topics
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
+                <p><strong>Stream</strong>
+                </p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>Common Test 1</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>Common Test 2</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>Common Test 3</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>End of Year Exam</p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1">
                 <p>Exp</p>
             </td>
             <td rowspan="1" colspan="1">
                 <p>Chapter 9 &amp; 10 (10.1 to 10.2)</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p></p>
+                <p>TBC</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p></p>
+                <p>TBC</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p></p>
+                <p>TBC</p>
             </td>
         </tr>
         <tr>
@@ -52,13 +70,13 @@ third_nav_title: Assessment Topics
                 <p>Chapter 9 &amp; 10 (10.1 to 10.2)</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p></p>
+                <p>TBC</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p></p>
+                <p>TBC</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p></p>
+                <p>TBC</p>
             </td>
         </tr>
         <tr>
@@ -69,13 +87,13 @@ third_nav_title: Assessment Topics
                 <p>Topic 6</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p></p>
+                <p>TBC</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p></p>
+                <p>TBC</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p></p>
+                <p>TBC</p>
             </td>
         </tr>
     </tbody>
