@@ -101,7 +101,7 @@ third_nav_title: Assessment Topics
                 <p>Exp</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p>Chapter 1, 2, 3</p>
+                <p>Chapters 1, 2, 3</p>
             </td>
             <td rowspan="1" colspan="1">
                 <p>TBC</p>
@@ -115,13 +115,13 @@ third_nav_title: Assessment Topics
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <p></p>
+                <p>Science (Biology)</p>
             </td>
             <td rowspan="1" colspan="1">
                 <p>Exp</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p></p>
+                <p>Chapters 1, 2</p>
             </td>
             <td rowspan="1" colspan="1">
                 <p>TBC</p>
@@ -135,13 +135,113 @@ third_nav_title: Assessment Topics
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <p></p>
+                <p>Science (Chemistry)</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p></p>
+                <p>Exp</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p></p>
+                <p>Chapter 1 and 2 (2.1 to 2.3)</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>TBC</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>TBC</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>TBC</p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1">
+                <p>Science (Physics)</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>Exp</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>Chapters 1, 2, 3</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>TBC</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>TBC</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>TBC</p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1">
+                <p>Science (Biology)</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>N(A)</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>Chapters 1, 2</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>TBC</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>TBC</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>TBC</p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1">
+                <p>Science (Chemistry)</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>N(A)</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>Chapter 1 and 2 (2.1 to 2.3)</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>TBC</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>TBC</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>TBC</p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1">
+                <p>Science (Physics)</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>N(A)</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>Chapters 1, 3</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>TBC</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>TBC</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>TBC</p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1">
+                <p>Science (NT)</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>N(T)</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>Chapter 4 and 1 (up to 1.1)</p>
             </td>
             <td rowspan="1" colspan="1">
                 <p>TBC</p>
