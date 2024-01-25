@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Assessment Topics/Secondary 5.md
       - Assessment Topics/Secondary 4.md
       - Assessment Topics/Secondary 3.md
       - Assessment Topics/Secondary 2.md
