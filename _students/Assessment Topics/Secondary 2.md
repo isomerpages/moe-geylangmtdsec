@@ -6,6 +6,7 @@ description: ""
 third_nav_title: Assessment Topics
 ---
 <h2>2024</h2>
+<p>Subjects are arranged in alphabetical order.</p>
 <p></p>
 <table>
     <tbody>
@@ -28,10 +29,10 @@ third_nav_title: Assessment Topics
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <p></p>
+                <p>Exp</p>
             </td>
             <td rowspan="1" colspan="1">
-                <p></p>
+                <p>Chapter 9 &amp; 10 (10.1 to 10.2)</p>
             </td>
             <td rowspan="1" colspan="1">
                 <p></p>
@@ -45,10 +46,27 @@ third_nav_title: Assessment Topics
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
+                <p>N(A)</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>Chapter 9 &amp; 10 (10.1 to 10.2)</p>
+            </td>
+            <td rowspan="1" colspan="1">
                 <p></p>
             </td>
             <td rowspan="1" colspan="1">
                 <p></p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p></p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan="1" colspan="1">
+                <p>N(T)</p>
+            </td>
+            <td rowspan="1" colspan="1">
+                <p>Topic 6</p>
             </td>
             <td rowspan="1" colspan="1">
                 <p></p>
