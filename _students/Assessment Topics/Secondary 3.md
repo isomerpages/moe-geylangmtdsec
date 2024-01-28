@@ -14,7 +14,7 @@ third_nav_title: Assessment Topics
 <p>Subject</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Indicative Level</p>
+<p>Stream</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Term 1</p>
