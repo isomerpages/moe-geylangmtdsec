@@ -17,7 +17,7 @@ third_nav_title: Assessment Topics
 <p>Indicative Level</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Term 1 Topics</p>
+<p>Term 1</p>
 </th>
 </tr>
 <tr>
@@ -29,7 +29,7 @@ third_nav_title: Assessment Topics
 <p>G3, G2, G1</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Alternative Assessment</p>
+<p>*</p>
 </td>
 </tr>
 <tr>
@@ -40,7 +40,7 @@ third_nav_title: Assessment Topics
 <p>G3, G2, G1</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Alternative Assessment</p>
+<p>*</p>
 </td>
 </tr>
 <tr>
@@ -138,10 +138,29 @@ third_nav_title: Assessment Topics
 <p>Geography</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>G3, G2</p>
+<p>G3</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Alternative Assessment</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapter 1*</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Geography</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>G2</p>
+</th>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapter 1*</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -149,10 +168,29 @@ third_nav_title: Assessment Topics
 <p>History</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>G3, G2</p>
+<p>G3</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Alternative Assessment</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapter 1*</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>History</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>G2</p>
+</th>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapter 1*</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -160,10 +198,21 @@ third_nav_title: Assessment Topics
 <p>Literature</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>G3, G2</p>
+<p>G3</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Alternative Assessment</p>
+<p>*</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Literature</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>G2</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>*</p>
 </td>
 </tr>
 <tr>
@@ -174,7 +223,11 @@ third_nav_title: Assessment Topics
 <p>Common Curriumlum</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Design Project 1 (Alternative Assessment)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Design Project 1*</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -190,7 +243,8 @@ third_nav_title: Assessment Topics
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><strong>* Alternative Assessment</strong>
+</p>
 <p></p>
 <p></p>
 <p></p>
