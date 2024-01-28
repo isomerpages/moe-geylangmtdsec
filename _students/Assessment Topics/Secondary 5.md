@@ -162,11 +162,7 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Living With Tectonic Hazards Gateway 2 &amp; 3, Weather GI</p>
-</li>
-</ul>
+<p>TBC</p>
 </td>
 </tr>
 <tr>
