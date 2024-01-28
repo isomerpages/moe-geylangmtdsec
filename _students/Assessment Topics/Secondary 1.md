@@ -25,9 +25,33 @@ third_nav_title: Assessment Topics
 <p><strong>English</strong>
 </p>
 </td>
-<th rowspan="1" colspan="1">
-<p>G3, G2, G1</p>
-</th>
+<td rowspan="1" colspan="1">
+<p>G3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>*</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>English</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>G2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>*</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>English</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>G1</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>*</p>
 </td>
@@ -36,9 +60,31 @@ third_nav_title: Assessment Topics
 <th rowspan="1" colspan="1">
 <p>Mathematics</p>
 </th>
+<td rowspan="1" colspan="1">
+<p>G3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>*</p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
-<p>G3, G2, G1</p>
+<p>Mathematics</p>
 </th>
+<td rowspan="1" colspan="1">
+<p>G2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>*</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mathematics</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>G1</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>*</p>
 </td>
@@ -102,9 +148,9 @@ third_nav_title: Assessment Topics
 <p><strong>Mother Tongue</strong>
 </p>
 </th>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>G3</p>
-</th>
+</td>
 <td rowspan="1" colspan="1">
 <p>TBC</p>
 </td>
@@ -114,9 +160,9 @@ third_nav_title: Assessment Topics
 <p><strong>Mother Tongue</strong>
 </p>
 </th>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>G2</p>
-</th>
+</td>
 <td rowspan="1" colspan="1">
 <p>TBC</p>
 </td>
@@ -126,9 +172,9 @@ third_nav_title: Assessment Topics
 <p><strong>Mother Tongue</strong>
 </p>
 </th>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>G1</p>
-</th>
+</td>
 <td rowspan="1" colspan="1">
 <p>TBC</p>
 </td>
@@ -137,9 +183,9 @@ third_nav_title: Assessment Topics
 <th rowspan="1" colspan="1">
 <p>Geography</p>
 </th>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>G3</p>
-</th>
+</td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
@@ -152,9 +198,9 @@ third_nav_title: Assessment Topics
 <th rowspan="1" colspan="1">
 <p>Geography</p>
 </th>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>G2</p>
-</th>
+</td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
@@ -167,9 +213,9 @@ third_nav_title: Assessment Topics
 <th rowspan="1" colspan="1">
 <p>History</p>
 </th>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>G3</p>
-</th>
+</td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
@@ -182,9 +228,9 @@ third_nav_title: Assessment Topics
 <th rowspan="1" colspan="1">
 <p>History</p>
 </th>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>G2</p>
-</th>
+</td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
@@ -197,9 +243,9 @@ third_nav_title: Assessment Topics
 <th rowspan="1" colspan="1">
 <p>Literature</p>
 </th>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>G3</p>
-</th>
+</td>
 <td rowspan="1" colspan="1">
 <p>*</p>
 </td>
@@ -208,9 +254,9 @@ third_nav_title: Assessment Topics
 <th rowspan="1" colspan="1">
 <p>Literature</p>
 </th>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>G2</p>
-</th>
+</td>
 <td rowspan="1" colspan="1">
 <p>*</p>
 </td>
