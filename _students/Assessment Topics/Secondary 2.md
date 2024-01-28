@@ -17,7 +17,7 @@ third_nav_title: Assessment Topics
 <p>Indicative Level</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Term 1 Topics</p>
+<p>Term 1</p>
 </th>
 </tr>
 <tr>
@@ -60,11 +60,33 @@ third_nav_title: Assessment Topics
 <th rowspan="1" colspan="1">
 <p>Mathematics</p>
 </th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>*</p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
-<p>Exp, N(A), N(T)</p>
+<p>Mathematics</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Alternative Assessment</p>
+<p>N(A)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>*</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mathematics</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(T)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>*</p>
 </td>
 </tr>
 <tr>
@@ -194,9 +216,9 @@ third_nav_title: Assessment Topics
 <th rowspan="1" colspan="1">
 <p>Geography</p>
 </th>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Exp</p>
-</th>
+</td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
@@ -209,9 +231,9 @@ third_nav_title: Assessment Topics
 <th rowspan="1" colspan="1">
 <p>Geography</p>
 </th>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>N(A)</p>
-</th>
+</td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
@@ -224,31 +246,39 @@ third_nav_title: Assessment Topics
 <th rowspan="1" colspan="1">
 <p>History</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Exp</p>
-</th>
 <td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Chapter 6</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p>History</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>N(A)</p>
-</th>
 <td rowspan="1" colspan="1">
+<p>N(A)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Chapter 6</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Literature</p>
 </th>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Exp</p>
-</th>
+</td>
 <td rowspan="1" colspan="1">
 <p>TBC</p>
 </td>
@@ -257,9 +287,20 @@ third_nav_title: Assessment Topics
 <th rowspan="1" colspan="1">
 <p>Literature</p>
 </th>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>N(A)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Computer Appications</p>
 </th>
+<td rowspan="1" colspan="1">
+<p>N(T)</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>TBC</p>
 </td>
@@ -301,4 +342,5 @@ third_nav_title: Assessment Topics
 </tr>
 </tbody>
 </table>
+<p>* Alternative Assessment</p>
 <p></p>
