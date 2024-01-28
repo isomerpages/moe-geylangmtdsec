@@ -91,6 +91,28 @@ third_nav_title: Assessment Topics
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
+<p>Additional Mathematics</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Additional Mathematics</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(A)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
 <p>Biology</p>
 </th>
 <td rowspan="1" colspan="1">
@@ -494,7 +516,7 @@ third_nav_title: Assessment Topics
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Nitrition &amp; Food Science</p>
+<p>Nutrition &amp; Food Science</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Exp</p>
@@ -505,10 +527,32 @@ third_nav_title: Assessment Topics
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Nitrition &amp; Food Science</p>
+<p>Nutrition &amp; Food Science</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>N(T)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Principles of Accounts</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Principles of Accounts</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TBC</p>
