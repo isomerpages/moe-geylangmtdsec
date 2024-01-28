@@ -386,6 +386,24 @@ third_nav_title: Assessment Topics
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
+<p>Social Studies</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(A)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapter 1</p>
+</li>
+<li>
+<p>Chapter 2</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
 <p>Core Geography</p>
 </th>
 <td rowspan="1" colspan="1">
