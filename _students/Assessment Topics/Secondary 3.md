@@ -6,253 +6,514 @@ description: ""
 third_nav_title: Assessment Topics
 ---
 <h2>2024</h2>
-<p>Subjects are arranged in alphabetical order.</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<p>Click here for the Common Test 1 Schedule</p>
 <table>
-    <tbody>
-        <tr>
-            <th rowspan="1" colspan="1">
-                <h4>Science</h4>
-            </th>
-            <th rowspan="1" colspan="1">
-                <p></p>
-            </th>
-            <th rowspan="1" colspan="1">
-                <p>Term 1</p>
-            </th>
-            <th rowspan="1" colspan="1">
-                <p>Term 2</p>
-            </th>
-            <th rowspan="1" colspan="1">
-                <p>Term 3</p>
-            </th>
-            <th rowspan="1" colspan="1">
-                <p>Term 4</p>
-            </th>
-        </tr>
-        <tr>
-            <td rowspan="1" colspan="1">
-                <p>Subject</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>Stream</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>Common Test 1</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>Common Test 2</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>Common Test 3</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>End of Year Exam</p>
-            </td>
-        </tr>
-        <tr>
-            <td rowspan="1" colspan="1">
-                <p>Biology</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>Exp</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>Chapers 1, 2</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>TBC</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>TBC</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>TBC</p>
-            </td>
-        </tr>
-        <tr>
-            <td rowspan="1" colspan="1">
-                <p>Chemistry</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>Exp</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>Chapter 1</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>TBC</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>TBC</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>TBC</p>
-            </td>
-        </tr>
-        <tr>
-            <td rowspan="1" colspan="1">
-                <p>Physics</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>Exp</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>Chapters 1, 2, 3</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>TBC</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>TBC</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>TBC</p>
-            </td>
-        </tr>
-        <tr>
-            <td rowspan="1" colspan="1">
-                <p>Science (Biology)</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>Exp</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>Chapters 1, 2</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>TBC</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>TBC</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>TBC</p>
-            </td>
-        </tr>
-        <tr>
-            <td rowspan="1" colspan="1">
-                <p>Science (Chemistry)</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>Exp</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>Chapter 1 and 2 (2.1 to 2.3)</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>TBC</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>TBC</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>TBC</p>
-            </td>
-        </tr>
-        <tr>
-            <td rowspan="1" colspan="1">
-                <p>Science (Physics)</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>Exp</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>Chapters 1, 2, 3</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>TBC</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>TBC</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>TBC</p>
-            </td>
-        </tr>
-        <tr>
-            <td rowspan="1" colspan="1">
-                <p>Science (Biology)</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>N(A)</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>Chapters 1, 2</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>TBC</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>TBC</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>TBC</p>
-            </td>
-        </tr>
-        <tr>
-            <td rowspan="1" colspan="1">
-                <p>Science (Chemistry)</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>N(A)</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>Chapter 1 and 2 (2.1 to 2.3)</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>TBC</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>TBC</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>TBC</p>
-            </td>
-        </tr>
-        <tr>
-            <td rowspan="1" colspan="1">
-                <p>Science (Physics)</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>N(A)</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>Chapters 1, 3</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>TBC</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>TBC</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>TBC</p>
-            </td>
-        </tr>
-        <tr>
-            <td rowspan="1" colspan="1">
-                <p>Science (NT)</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>N(T)</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>Chapter 4 and 1 (up to 1.1)</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>TBC</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>TBC</p>
-            </td>
-            <td rowspan="1" colspan="1">
-                <p>TBC</p>
-            </td>
-        </tr>
-    </tbody>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Subject</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Indicative Level</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Term 1</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>English</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>English</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N(A)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>English</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N(T)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mathematics</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>*</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mathematics</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(A)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>*</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mathematics</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(T)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>*</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Biology</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapter 1</p>
+</li>
+<li>
+<p>Chapter 2</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Chemistry</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapter 1</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Physics</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapter 1</p>
+</li>
+<li>
+<p>Chapter 2</p>
+</li>
+<li>
+<p>Chapter 3</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Science (Biology)</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapter 1</p>
+</li>
+<li>
+<p>Chapter 2</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Science (Chemistry)</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapter 1</p>
+</li>
+<li>
+<p>Chapter 2 (2.1 to 2.3)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Science (Physics)</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapter 1</p>
+</li>
+<li>
+<p>Chapter 2</p>
+</li>
+<li>
+<p>Chapter 3</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Science (Biology)</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(A)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapter 1</p>
+</li>
+<li>
+<p>Chapter 2</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Science (Chemistry)</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(A)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapter 1</p>
+</li>
+<li>
+<p>Chapter 2 (2.1 to 2.3)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Science (Physics)</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(A)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapter 1</p>
+</li>
+<li>
+<p>Chapter 3</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Science N(T)</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(T)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapter 4</p>
+</li>
+<li>
+<p>Chapter 1 (up to 1.1)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Mother Tongue (Chinese)</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Mother Tongue (Chinese)</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(A)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Mother Tongue (Chinese)</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(T)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Mother Tongue (Malay)</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Mother Tongue (Malay)</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(A)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Mother Tongue (Malay)</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(T)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Social Studies</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapter 1</p>
+</li>
+<li>
+<p>Chapter 2</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Core Geography</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Topic 1 *</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Elective Geography</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Topic 1 *</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Elective Geography</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(A)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Topic 1 *</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Core History</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapter 1</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Elective History</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapter 1</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Literature</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Literature</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(A)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Computer Appications</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(T)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Design &amp; Technology</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>*</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Elements of Business Skills</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(T)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Nitrition &amp; Food Science</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Nitrition &amp; Food Science</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(T)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+</tbody>
 </table>
-<p></p>
+<p>* Alternative Assessment</p>
