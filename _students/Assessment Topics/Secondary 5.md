@@ -7,7 +7,8 @@ third_nav_title: Assessment Topics
 ---
 <h2>2024</h2>
 <p></p>
-<p>Click here for the Common Test 1 Schedule</p>
+<p>Click <a href="/files/2024/2024_Common_Test_1_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">here for the Common Test 1 Schedule</a>
+</p>
 <table>
 <tbody>
 <tr>
@@ -246,7 +247,11 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Coursework Reference based on criteria</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
