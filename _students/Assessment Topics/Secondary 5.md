@@ -162,7 +162,14 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Plate tectnic gateway 2 and 3</p>
+</li>
+<li>
+<p>Weather GI</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -203,7 +210,11 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Unseen Poetry</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -225,7 +236,14 @@ third_nav_title: Assessment Topics
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapter 11</p>
+</li>
+<li>
+<p>Chapter 12</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -237,7 +255,14 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapter 1.1</p>
+</li>
+<li>
+<p>Chapter 14.5, 14.6, 14.7</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
