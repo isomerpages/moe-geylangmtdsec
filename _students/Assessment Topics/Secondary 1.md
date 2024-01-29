@@ -169,7 +169,7 @@ third_nav_title: Assessment Topics
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Mother Tongue</strong>
+<p><strong>Mother Tongue (Chinese)</strong>
 </p>
 </th>
 <td rowspan="1" colspan="1">
@@ -181,7 +181,7 @@ third_nav_title: Assessment Topics
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Mother Tongue</strong>
+<p><strong>Mother Tongue (Chinese)</strong>
 </p>
 </th>
 <td rowspan="1" colspan="1">
@@ -193,7 +193,43 @@ third_nav_title: Assessment Topics
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Mother Tongue</strong>
+<p><strong>Mother Tongue (Chinese)</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>G1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Mother Tongue (Malay)</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>G3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Mother Tongue (Malay)</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>G2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Mother Tongue (Malay)</strong>
 </p>
 </th>
 <td rowspan="1" colspan="1">
@@ -295,11 +331,26 @@ third_nav_title: Assessment Topics
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
+<p>Art</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Common Curriculum</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Grid Drawing*</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
 <p>Design and Technology</p>
 </th>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Common Curriculum</p>
-</th>
+</td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
@@ -312,9 +363,9 @@ third_nav_title: Assessment Topics
 <th rowspan="1" colspan="1">
 <p>Food and Consumer Education</p>
 </th>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Common Curriculum</p>
-</th>
+</td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
