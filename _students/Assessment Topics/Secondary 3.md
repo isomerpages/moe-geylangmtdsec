@@ -149,6 +149,8 @@ third_nav_title: Assessment Topics
 </li>
 <li>
 <p>Chapter 2.1</p>
+</li>
+<li>
 <p>Chapter 3 (3.1 - 3.2)</p>
 </li>
 </ul>
