@@ -29,7 +29,11 @@ third_nav_title: Assessment Topics
 <p>G3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>*</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Reflective Recount in Journal*</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -41,7 +45,11 @@ third_nav_title: Assessment Topics
 <p>G2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>*</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Reflective Recount in Journal*</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -53,7 +61,11 @@ third_nav_title: Assessment Topics
 <p>G1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>*</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Reflective Recount in Journal*</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -64,7 +76,11 @@ third_nav_title: Assessment Topics
 <p>G3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>*</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Food Waste &amp; Sustainability*</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -75,7 +91,11 @@ third_nav_title: Assessment Topics
 <p>G2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>*</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Food Waste &amp; Sustainability*</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -86,7 +106,11 @@ third_nav_title: Assessment Topics
 <p>G1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>*</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Food Waste &amp; Sustainability*</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -247,7 +271,11 @@ third_nav_title: Assessment Topics
 <p>G3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>*</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Wonder*</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -258,7 +286,11 @@ third_nav_title: Assessment Topics
 <p>G2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>*</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Wonder*</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -266,7 +298,7 @@ third_nav_title: Assessment Topics
 <p>Design and Technology</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Common Curriumlum</p>
+<p>Common Curriculum</p>
 </th>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -281,10 +313,17 @@ third_nav_title: Assessment Topics
 <p>Food and Consumer Education</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Common Curriumlum</p>
+<p>Common Curriculum</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapter 1</p>
+</li>
+<li>
+<p>Chapter 6</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
