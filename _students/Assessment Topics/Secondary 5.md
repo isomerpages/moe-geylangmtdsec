@@ -241,10 +241,21 @@ third_nav_title: Assessment Topics
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
+<p>Art</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(A)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coursework Reference based on criteria</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
 <p>Exercise &amp; Sports Science</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Exp</p>
+<p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TBC</p>
@@ -255,7 +266,7 @@ third_nav_title: Assessment Topics
 <p>Nutrition &amp; Food Science</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Exp</p>
+<p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
