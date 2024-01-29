@@ -25,13 +25,6 @@ sections:
   - resources:
       subtitle: News and Events
       button: View All
-  - infopic:
-      title: Traffic-Advisory
-      subtitle: "2022"
-      button: View more
-      url: /traffic-advisory
-      image: /images/Singapore-Police.png
-      alt: Image alt text
   - infobar:
       title: Photo Gallery
       subtitle: "2024"
