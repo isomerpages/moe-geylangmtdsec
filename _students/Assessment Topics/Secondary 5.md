@@ -30,7 +30,12 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Situational Writing:</p>
+<p>Speech</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -41,7 +46,17 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapter 1</p>
+</li>
+<li>
+<p>Chapter 11</p>
+</li>
+<li>
+<p>Problems in Real-World Contexts (PRWC)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -52,7 +67,14 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapter 5</p>
+</li>
+<li>
+<p>Chapter 9</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
