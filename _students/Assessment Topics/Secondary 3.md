@@ -29,7 +29,12 @@ third_nav_title: Assessment Topics
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Situational Writing:</p>
+<p>Letter to Editor</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -41,7 +46,12 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Situational Writing:</p>
+<p>Letter to Editor</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -53,7 +63,12 @@ third_nav_title: Assessment Topics
 <p>N(T)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Continuous Writing:</p>
+<p>Discursive Writing</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -64,7 +79,11 @@ third_nav_title: Assessment Topics
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>*</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Food Waste &amp; Sustainability*</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -75,7 +94,11 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>*</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Food Waste &amp; Sustainability*</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -86,7 +109,11 @@ third_nav_title: Assessment Topics
 <p>N(T)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>*</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Food Waste &amp; Sustainability*</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -97,7 +124,17 @@ third_nav_title: Assessment Topics
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapter 1 (1.1 - 1.2)</p>
+</li>
+<li>
+<p>Chapter 2.1</p>
+</li>
+<li>
+<p>Chapter 3 (3.1 - 3.2)*</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -108,7 +145,17 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapter 1 (1.1 - 1.2)</p>
+</li>
+<li>
+<p>Chapter 2.1</p>
+</li>
+<li>
+<p>Chapter 3 (3.1 - 3.2)*</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -485,7 +532,11 @@ third_nav_title: Assessment Topics
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Unseen Poetry</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -496,7 +547,26 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Unseen Poetry</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Art</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp / N(A)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Observational Drawing</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -507,7 +577,17 @@ third_nav_title: Assessment Topics
 <p>N(T)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>CPF1</p>
+</li>
+<li>
+<p>DOP1</p>
+</li>
+<li>
+<p>DOP2</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -515,10 +595,14 @@ third_nav_title: Assessment Topics
 <p>Design &amp; Technology</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Exp</p>
+<p>Exp / N(A) / N(T)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>*</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Design Task*</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -529,7 +613,14 @@ third_nav_title: Assessment Topics
 <p>N(T)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapter 1</p>
+</li>
+<li>
+<p>Chapter 2</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -537,10 +628,20 @@ third_nav_title: Assessment Topics
 <p>Nutrition &amp; Food Science</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Exp</p>
+<p>Exp / N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapter 1</p>
+</li>
+<li>
+<p>Chapter 2</p>
+</li>
+<li>
+<p>Chapter 3</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -551,7 +652,17 @@ third_nav_title: Assessment Topics
 <p>N(T)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapter 1</p>
+</li>
+<li>
+<p>Chapter 2</p>
+</li>
+<li>
+<p>Chapter 3</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -562,7 +673,17 @@ third_nav_title: Assessment Topics
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapter 1</p>
+</li>
+<li>
+<p>Chapter 2</p>
+</li>
+<li>
+<p>Chapter 3</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -573,7 +694,17 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapter 1</p>
+</li>
+<li>
+<p>Chapter 2</p>
+</li>
+<li>
+<p>Chapter 3</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
