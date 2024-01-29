@@ -6,7 +6,8 @@ description: ""
 third_nav_title: Assessment Topics
 ---
 <h2>2024</h2>
-<p>Click here for the Common Test 1 Schedule</p>
+<p>Click <a href="/files/2024/2024_Common_Test_1_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">here for the Common Test 1 Schedule</a>
+</p>
 <table>
 <tbody>
 <tr>
@@ -31,8 +32,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Continuous Writing:</p>
-<p>Discursive Writing</p>
+<p>Continuous Writing: Discursive Writing</p>
 </li>
 </ul>
 </td>
@@ -48,8 +48,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Continuous Writing:</p>
-<p>Discursive Writing</p>
+<p>Continuous Writing: Discursive Writing</p>
 </li>
 </ul>
 </td>
@@ -65,8 +64,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Continuous Writing:</p>
-<p>Discursive Writing</p>
+<p>Continuous Writing: Discursive Writing</p>
 </li>
 </ul>
 </td>
@@ -354,13 +352,13 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>CPF5 – Computer Storage</p>
+<p>CPF5</p>
 </li>
 <li>
-<p>CPF6 – Using the Internet</p>
+<p>CPF6</p>
 </li>
 <li>
-<p>MEL5 – Raster Graphics</p>
+<p>MEL5</p>
 </li>
 </ul>
 </td>

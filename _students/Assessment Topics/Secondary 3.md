@@ -6,7 +6,8 @@ description: ""
 third_nav_title: Assessment Topics
 ---
 <h2>2024</h2>
-<p>Click here for the Common Test 1 Schedule</p>
+<p>Click <a href="/files/2024/2024_Common_Test_1_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">here for the Common Test 1 Schedule</a>
+</p>
 <table>
 <tbody>
 <tr>
@@ -31,8 +32,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Situational Writing:</p>
-<p>Letter to Editor</p>
+<p>Situational Writing: Letter to Editor</p>
 </li>
 </ul>
 </td>
@@ -48,8 +48,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Situational Writing:</p>
-<p>Letter to Editor</p>
+<p>Situational Writing: Letter to Editor</p>
 </li>
 </ul>
 </td>
@@ -65,8 +64,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Continuous Writing:</p>
-<p>Discursive Writing</p>
+<p>Continuous Writing: Discursive Writing</p>
 </li>
 </ul>
 </td>
@@ -132,7 +130,7 @@ third_nav_title: Assessment Topics
 <p>Chapter 2.1</p>
 </li>
 <li>
-<p>Chapter 3 (3.1 - 3.2)*</p>
+<p>Chapter 3 (3.1 - 3.2)</p>
 </li>
 </ul>
 </td>
@@ -153,7 +151,7 @@ third_nav_title: Assessment Topics
 <p>Chapter 2.1</p>
 </li>
 <li>
-<p>Chapter 3 (3.1 - 3.2)*</p>
+<p>Chapter 3 (3.1 - 3.2)</p>
 </li>
 </ul>
 </td>
