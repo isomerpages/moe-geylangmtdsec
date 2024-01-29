@@ -744,5 +744,3 @@ third_nav_title: Assessment Topics
 </tbody>
 </table>
 <p></p>
-<p><strong>*Alternative Assessment</strong>
-</p>
