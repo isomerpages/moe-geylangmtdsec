@@ -258,7 +258,11 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sports Sociology</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
