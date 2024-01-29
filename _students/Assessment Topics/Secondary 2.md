@@ -346,7 +346,7 @@ third_nav_title: Assessment Topics
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Computer Appications</p>
+<p>Computer Applications</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>N(T)</p>
