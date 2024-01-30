@@ -413,13 +413,13 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Structure</p>
+<p>Structures</p>
 </li>
 <li>
-<p>Mechanism</p>
+<p>Mechanisms</p>
 </li>
 <li>
-<p>Aesthetic</p>
+<p>Aesthetics</p>
 </li>
 <li>
 <p>Working Drawing</p>
