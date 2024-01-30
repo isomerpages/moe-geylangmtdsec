@@ -344,6 +344,19 @@ third_nav_title: Assessment Topics
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
+<p><strong>Mother Tongue (Higher Chinese)</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>试卷二
+<br>综合填空、词语替换、阅读理解</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
 <p><strong>Mother Tongue (Chinese)</strong>
 </p>
 </th>
@@ -351,7 +364,8 @@ third_nav_title: Assessment Topics
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>试卷二
+<br>综合填空、词语替换、阅读理解</p>
 </td>
 </tr>
 <tr>
@@ -363,7 +377,8 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>试卷二
+<br>综合填空、阅读理解</p>
 </td>
 </tr>
 <tr>
@@ -375,7 +390,11 @@ third_nav_title: Assessment Topics
 <p>N(T)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>P1 (Situational writing)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -387,7 +406,12 @@ third_nav_title: Assessment Topics
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>P2 Components
+<br>(Sections A &amp; B)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -399,7 +423,12 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>P2 Components
+<br>(Sections A &amp; B)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -411,7 +440,11 @@ third_nav_title: Assessment Topics
 <p>N(T)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Grammar &amp; Compre</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
