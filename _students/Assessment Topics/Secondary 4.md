@@ -572,7 +572,7 @@ third_nav_title: Assessment Topics
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Literature</p>
+<p>Elective Literature</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Exp</p>
@@ -587,7 +587,7 @@ third_nav_title: Assessment Topics
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Literature</p>
+<p>Elective Literature</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>N(A)</p>
