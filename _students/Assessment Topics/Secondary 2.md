@@ -64,7 +64,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Continuous Writing: Discursive Writing</p>
+<p>Continuous Writing: Descriptive Writing</p>
 </li>
 </ul>
 </td>
@@ -362,7 +362,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Animal Farm: Passage-Based Question</p>
+<p>The Boy in the Striped Pyjamas: Passage-Based Question</p>
 </li>
 </ul>
 </td>
