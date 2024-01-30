@@ -170,6 +170,19 @@ third_nav_title: Assessment Topics
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
+<p><strong>Mother Tongue (Higher Chinese)</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>G3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>单元一：
+<br>词语、技能、阅读理解</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
 <p><strong>Mother Tongue (Chinese)</strong>
 </p>
 </th>
@@ -177,7 +190,8 @@ third_nav_title: Assessment Topics
 <p>G3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>单元一：
+<br>词语、技能、阅读理解</p>
 </td>
 </tr>
 <tr>
@@ -189,7 +203,8 @@ third_nav_title: Assessment Topics
 <p>G2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>单元一：
+<br>词语、技能、阅读理解</p>
 </td>
 </tr>
 <tr>
@@ -201,7 +216,8 @@ third_nav_title: Assessment Topics
 <p>G1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>单元一：
+<br>词语、技能、阅读理解</p>
 </td>
 </tr>
 <tr>
@@ -213,7 +229,17 @@ third_nav_title: Assessment Topics
 <p>G3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A1 - FIB</p>
+</li>
+<li>
+<p>A2 - Vocab from Unit 1</p>
+</li>
+<li>
+<p>B - Objective Compre</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -225,7 +251,17 @@ third_nav_title: Assessment Topics
 <p>G2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A1 - FIB</p>
+</li>
+<li>
+<p>A2 - Vocab from Unit 1</p>
+</li>
+<li>
+<p>B - Objective Compre</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -237,7 +273,11 @@ third_nav_title: Assessment Topics
 <p>G1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Grammar &amp; Compre</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
