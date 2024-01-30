@@ -170,6 +170,19 @@ third_nav_title: Assessment Topics
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
+<p><strong>Mother Tongue (Higher Chinese)</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>G3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>单元一：
+<br>词语、技能、阅读理解</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
 <p><strong>Mother Tongue (Chinese)</strong>
 </p>
 </th>
