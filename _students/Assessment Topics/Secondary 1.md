@@ -350,7 +350,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Wonder*</p>
+<p>Wonder:Character Cover*</p>
 </li>
 </ul>
 </td>
@@ -365,7 +365,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Wonder*</p>
+<p>Wonder:Character Cover*</p>
 </li>
 </ul>
 </td>
