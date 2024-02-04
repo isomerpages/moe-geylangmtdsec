@@ -2,9 +2,9 @@
 title: Alumni
 permalink: /about-us/alumni/
 description: ""
+variant: markdown
 ---
-Page under construction. 
-Please come back later for more information.
+
 
 
 ![](/images/GMSS_A3-Posters_Alumni_ver2_Page_01.jpg)
