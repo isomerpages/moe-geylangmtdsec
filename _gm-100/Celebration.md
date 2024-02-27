@@ -20,7 +20,11 @@ To find out more about what is installed in the GM100 Family Carnival, please cl
 
 We look forward to seeing you at the carnival. 
 
+
 Yours sincerely,
+
 Mr Victor Owyong
+
 Principal
+
 Geylang Methodist School (Secondary)
