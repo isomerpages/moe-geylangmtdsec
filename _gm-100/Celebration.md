@@ -16,7 +16,7 @@ The GM100 Family Carnival is open to parents of our students and alumni. To part
 
 You are warmly invited to join us for the carnival as there are many activities in which you can participate even without the need for the Fun Pass. In addition to the Shopping Alley with the garden store, thrift shop, and snacks stall, you can also have your pictures taken at the photo booth or watch the concert performance conducted by our Performing Arts Group.
 
-To find out more about what is installed in the GM100 Family Carnival, please click the link: https://go.gov.sg/gm100familycarnival
+To find out more about what is installed in the GM100 Family Carnival, please click the link: [https://go.gov.sg/gm100familycarnival](https://go.gov.sg/gm100familycarnival)
 
 We look forward to seeing you at the carnival. 
 
