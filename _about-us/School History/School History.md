@@ -36,3 +36,8 @@ Click the following links for more information.
 <iframe allowfullscreen="true" height="389" width="640" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRq7Qr1jcrIBfHfoW9Zkto64Np4eA66NCXaTz2hh_P0kk3bINFxNkThQ9ZBRGD0tQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 <iframe allowfullscreen="true" height="389" width="640" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ2CzODXggH9-7BEwyCiCagHxXLGin7XNA6ZpWbKoL3_gw0TPQHEIg6xg9ripqRnQ/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+
+#### Old School Magazines
+* [GMGS 1954 Yearbook](https://drive.google.com/file/d/1sa3c6vcvIP7L5L4zCX-txFP3hV1f1C4X/view?usp=sharing)
+* [GMSS Pictorial 1984](https://drive.google.com/file/d/11P6GkO6yf9Hkz_9Bqjz-8tref74K4-Qh/view?usp=sharing)
