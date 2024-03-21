@@ -41,7 +41,7 @@ variant: tiptap
 <p>&nbsp;</p>
 <p><strong>Application Procedure</strong>
 </p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Click <strong><a href="FormBF7_Canteen%20Form.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong>&nbsp;to
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Click <strong><a href="/files/2024/FormBF7_Canteen_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a></strong>&nbsp;to
 download and complete the application form. You may also request for a
 hardcopy from the School’s General Office.</p>
 <p>&nbsp;</p>
