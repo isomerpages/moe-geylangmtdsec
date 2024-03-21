@@ -85,7 +85,7 @@ in consultation with the school.</p>
 </li>
 <li>
 <p>Able to provide cooked food that meets the health / nutritional standards
-set by the Health Promotion Board (HPB) under the <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">Healthy Meals in Schools Programme (</a>
+set by the Health Promotion Board (HPB) under the <a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">Healthy Meals in Schools Programme (</a> 
 <a rel="noopener noreferrer nofollow" target="_blank">hpb.gov.sg</a><a href="https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme" rel="noopener noreferrer nofollow" target="_blank">)</a> programme.
 This includes providing a serving of fruits with the meal.</p>
 </li>
