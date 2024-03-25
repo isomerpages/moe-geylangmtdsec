@@ -163,9 +163,9 @@ leadership journey to grow as Courageous Leaders.</p>
 <li>
 <p><strong>Teachers-in-charge</strong>
 </p>
-<p>1. Mr John Seah (I/C)
-<br>2. Miss Nurulathirah
-<br>3. Mrs Deborah Tong</p>
+<p>1. Miss Nurulathirah (I/C)
+<br>2. Mrs Deborah Tong
+<br>3. Mr Syafrin Ardi</p>
 <p></p>
 <p></p>
 <p><strong>House Executive Committee 2023-2024</strong>
@@ -308,7 +308,7 @@ leadership journey to grow as Courageous Leaders.</p>
 <br>• Grow in leadership capacities through the planning and enacting of the
 CCA programmes</p>
 <p><strong>Teacher-in-charge</strong> 
-<br>1. Mr Cheng Xin Jin (I/C)</p>
+<br>1. Ms Grace Yap (I/C)</p>
 <p><strong>Committee members</strong> 
 <br>Refer to the individual CCA page</p>
 </li>
@@ -323,8 +323,9 @@ CCA programmes</p>
 <br>• Support the Form Teachers in the administration of the class
 <br>• Foster care, concern and co-operation of classmates</p>
 <p><strong>Teacher-in-charge</strong> 
-<br>1. Ms Grace Yap (I/C)
-<br>2. Ms Cindy Lim</p>
+<br>1. Ms Ong Siew Siang (I/C)
+<br>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Class-Committee-Organisation-Chart-.jpg">
 </div>
