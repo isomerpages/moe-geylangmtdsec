@@ -41,8 +41,7 @@ the heart (Kouzes &amp; Posner, 1995, 2002). Students will use the tiered
 behavioural statements linked to each practice to reflect on their personal
 leadership journey to grow as Courageous Leaders.</p>
 <p></p>
-<p><strong>Student Leadership Development Team</strong>
-</p>
+<h3><strong>Student Leadership Development Team</strong></h3>
 <p>IC: Mdm Rachel Cheng</p>
 <p>2 IC: Mr Xiao Kai Wen</p>
 <div class="isomer-image-wrapper">
@@ -60,10 +59,10 @@ leadership journey to grow as Courageous Leaders.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLI5-1.jpg">
 </div>
+<h3>Student Council</h3>
 <ul>
 <li>
-<p>Student Council</p>
-<p><strong>Objectives of the Student Council</strong>
+<p><strong>Objectives of the Student Council</strong> 
 <br>• Build a strong GM community
 <br>• Be the voice of the student body
 <br>• Grow in leadership capacities to serve others
@@ -149,8 +148,10 @@ leadership journey to grow as Courageous Leaders.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hUPWeluAbs0"></iframe>
 </div>
 </li>
+</ul>
+<h3>House Committee</h3>
+<ul>
 <li>
-<p>House Committee</p>
 <p><strong>Objectives of the House Committee</strong>
 </p>
 <p>• Build a strong GM spirit
@@ -297,42 +298,46 @@ leadership journey to grow as Courageous Leaders.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2vjFI2_UQ6Y"></iframe>
 </div>
 </li>
+</ul>
+<h3>CCA Leaders</h3>
+<ul>
 <li>
-<p>CCA Leaders</p>
-<p><strong>Objectives of the CCA Leeders</strong>
+<p><strong>Objectives of the CCA Leeders</strong> 
 <br>• Lead the members in achieving goals of the CCA
 <br>• Support in the operations of the CCA
 <br>• Grow in leadership capacities through the planning and enacting of the
 CCA programmes</p>
-<p><strong>Teacher-in-charge</strong>
+<p><strong>Teacher-in-charge</strong> 
 <br>1. Mr Cheng Xin Jin (I/C)</p>
-<p><strong>Committee members</strong>
+<p><strong>Committee members</strong> 
 <br>Refer to the individual CCA page</p>
 </li>
 </ul>
 <p></p>
+<h3>Class Committee</h3>
 <ul>
 <li>
-<p>Class Committee</p>
-<p><strong>Objectives of the Class Committee</strong>
+<p><strong>Objectives of the Class Committee</strong> 
 <br>• Lead the class in various class activities
 <br>• Create a conducive classroom environment
 <br>• Support the Form Teachers in the administration of the class
 <br>• Foster care, concern and co-operation of classmates</p>
-<p><strong>Teacher-in-charge</strong>
+<p><strong>Teacher-in-charge</strong> 
 <br>1. Ms Grace Yap (I/C)
 <br>2. Ms Cindy Lim</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/Class-Committee-Organisation-Chart-.jpg">
 </div>
 </li>
+</ul>
+<h3>GEMS Leaders</h3>
+<ul>
 <li>
-<p>GEMS Leaders</p>
-<p><strong>Objectives of the GEMS Leaders</strong>
+<p><strong>Objectives of the GEMS Leaders</strong> 
 <br>• Induct the Secondary 1s to the GM culture
 <br>• Mentor and guide the Secondary 1s in their transition to secondary school
 life</p>
-<p><strong>Teacher-in-charge</strong>
+<p><strong>Teacher-in-charge</strong> 
 <br>1. Mr Pek Han Wei (I/C)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/GEMSleaders.jpg">
