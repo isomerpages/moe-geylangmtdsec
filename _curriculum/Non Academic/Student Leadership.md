@@ -3,113 +3,357 @@ title: Student Leadership
 permalink: /curriculum/non-academic/student-leadership/
 description: ""
 third_nav_title: Non Academic
-variant: markdown
+variant: tiptap
 ---
-![](/images/student_leadership_committee_2.jpg)
-
-Vision: Every GEM has the COURAGE and COMPETENCY to SERVE as they LEAD. 
-
-“Do nothing out of selfish ambition or vain conceit. Rather, in humility value others above yourselves,” Philippians 2:3
-
-![](/images/b28.png)
-
-GM Student Leadership Framework is inclusive and differentiated.
-
-**Tier 1: Leadership Acquisition**
-
-All Secondary 1 to S3 students will go through a progressive leadership training that aims to equip them with core leadership competencies and skills. This sets to build on the students’ competencies in Self Leadership.
-
-**Tier 2: Leadership Experience**
-
-Students will be provided with different leadership opportunities through the five leadership wings (Student Council, House Committee, CCA, Class Committee, GEMS Leaders). By taking on leadership appointments, students will further develop leadership competencies in Team Leadership.
-
-**Tier 3: Leadership Synthesis**
-
-At the pinnacle, we have the different executive committees which will lead the student population in their various leadership wings; and the GEMS Leaders who mentor and guide the incoming Secondary 1s each year.
-
-Leadership trainings are tiered, with varying rigor and intensity, based on students’ readiness.
-
-The design of our student leadership programme is guided by Kouzes and Posner's Model in Transformational Leadership which provides a breadth of practices to develop student leaders - challenging the process, inspiring a shared vision, enabling others to act, modeling the way, and encouraging the heart (Kouzes &amp; Posner, 1995, 2002). Students will use the tiered behavioural statements linked to each practice to reflect on their personal leadership journey to grow as Courageous Leaders.
-
-
-**Student Leadership Development Team**
-
-IC: Mrs Yvonee Wong
-
-2 IC: Mr Xiao Kai Wen
-
-
-![](/images/SLI1-1-1024x683.jpg)
-
-![](/images/SLI2-1-1024x683.jpg)
-
-![](/images/SLI3-1-1024x768.jpg)
-
-![](/images/SLI4-1.jpg)
-
-![](/images/SLI5-1.jpg)
-
-<ul class="jekyllcodex_accordion">
-  <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1">Student Council</label>
-    <div>
-			<p><b>Objectives of the Student Council</b><br>• Build a strong GM community<br> • Be the voice of the student body<br> • Grow in leadership capacities to serve others<br> • Support in the operations of the school</p>
-			<p><b>Teachers-in-charge</b><br>1. Ms Phoebe Toh (I/C)<br>2. Ms Peck Pei Yi Francesca<br>3. Mr Jonathan Koh Yew Hwee</p>
-			<p><b>Student Council Executive Committee 2022-2023</b></p>
-			<p><table border="1" style="box-sizing: border-box; border-collapse: collapse; border-spacing: 0px; background-color: rgb(255, 255, 255); color: rgb(128, 128, 128); font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 487.312px;"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; width: 237px;"><strong style="box-sizing: border-box; font-weight: bold;">President</strong></td><td style="box-sizing: border-box; padding: 0px; width: 233.312px;">Reina Lim Li Shan</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; width: 237px;"><strong style="box-sizing: border-box; font-weight: bold;">Vice President</strong></td><td style="box-sizing: border-box; padding: 0px; width: 233.312px;">Zoe Tan Xin Yu</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; width: 237px;"><strong style="box-sizing: border-box; font-weight: bold;">Secretariat</strong></td><td style="box-sizing: border-box; padding: 0px; width: 233.312px;">Tan En Si</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; width: 237px;"><strong style="box-sizing: border-box; font-weight: bold;">Head of Community Relations</strong></td><td style="box-sizing: border-box; padding: 0px; width: 233.312px;">Haris Sufyan bin Saiful Hisham</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; width: 237px;"><strong style="box-sizing: border-box; font-weight: bold;">Head of Leadership Development</strong></td><td style="box-sizing: border-box; padding: 0px; width: 233.312px;">Lea Loo</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; width: 237px;"><strong style="box-sizing: border-box; font-weight: bold;">Head of School Events</strong></td><td style="box-sizing: border-box; padding: 0px; width: 233.312px;">Ng Hui Ru</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; width: 237px;"><strong style="box-sizing: border-box; font-weight: bold;">Head of Public Relations</strong></td><td style="box-sizing: border-box; padding: 0px; width: 233.312px;">Ong Zi Ning Xylia</td></tr></tbody></table></p>
-		<p><img src="/images/SLC.jpg"></p>
-		<p><iframe width="560" height="315" src="https://www.youtube.com/embed/hUPWeluAbs0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
-    </div>
-	</li>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/student_leadership_committee_2.jpg">
+</div>
+<p>Vision: Every GEM has the COURAGE and COMPETENCY to SERVE as they LEAD.</p>
+<p>“Do nothing out of selfish ambition or vain conceit. Rather, in humility
+value others above yourselves,” Philippians 2:3</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/b28.png">
+</div>
+<p>GM Student Leadership Framework is inclusive and differentiated.</p>
+<p><strong>Tier 1: Leadership Acquisition</strong>
+</p>
+<p>All Secondary 1 to S3 students will go through a progressive leadership
+training that aims to equip them with core leadership competencies and
+skills. This sets to build on the students’ competencies in Self Leadership.</p>
+<p><strong>Tier 2: Leadership Experience</strong>
+</p>
+<p>Students will be provided with different leadership opportunities through
+the five leadership wings (Student Council, House Committee, CCA, Class
+Committee, GEMS Leaders). By taking on leadership appointments, students
+will further develop leadership competencies in Team Leadership.</p>
+<p><strong>Tier 3: Leadership Synthesis</strong>
+</p>
+<p>At the pinnacle, we have the different executive committees which will
+lead the student population in their various leadership wings; and the
+GEMS Leaders who mentor and guide the incoming Secondary 1s each year.</p>
+<p>Leadership trainings are tiered, with varying rigor and intensity, based
+on students’ readiness.</p>
+<p>The design of our student leadership programme is guided by Kouzes and
+Posner's Model in Transformational Leadership which provides a breadth
+of practices to develop student leaders - challenging the process, inspiring
+a shared vision, enabling others to act, modeling the way, and encouraging
+the heart (Kouzes &amp; Posner, 1995, 2002). Students will use the tiered
+behavioural statements linked to each practice to reflect on their personal
+leadership journey to grow as Courageous Leaders.</p>
+<p></p>
+<h3><strong>Student Leadership Development Team</strong></h3>
+<p>IC: Mdm Rachel Cheng</p>
+<p>2 IC: Mr Xiao Kai Wen</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLI1-1-1024x683.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLI2-1-1024x683.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLI3-1-1024x768.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLI4-1.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SLI5-1.jpg">
+</div>
+<h3>Student Council</h3>
+<ul>
 <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2">House Committee</label>
-    <div>
-			<p><b>Objectives of the House Committee </b></p>
-			<p> • Build a strong GM spirit<br> • Lead, cheer and rally the GM Community<br> • Grow in leadership capacities through sporting engagements</p>
-			<p><b>Teachers-in-charge</b></p>
-			<p>1. Mr John Seah (I/C)<br>2. Miss Nurulathirah<br>3. Mrs Deborah Tong</p>
-			<p><b>House Executive Committee 2022-2023</b></p>
-			<p><table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#808080;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold"> </span></th><th style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#F00;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">ARCHER</span></th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#396;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">LAU</span></th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#FC0;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">MEANS</span></th><th style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#00F;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal"><span style="font-weight:bold">MITCHELL</span></th></tr></thead><tbody><tr><td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Captain<br><br> </td><td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Pan Hui Yi Kayll</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Ng Him, Noelle</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Sana Sufia Binte Norfaizal</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Elise Look</td></tr><tr><td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Vice-Captain</td><td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Alessis Lee Jia Ying</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Lee Wen Xi Eleanor</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Htet Akary Kyaw</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Vikhil Dilipkumar Mahtani</td></tr><tr><td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Head of Admin<br><br> </td><td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Tracy Gurung</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Ashlyn Tan Xin Xuan</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Siow Rei Tze, Rachel</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Sarah Her Rui En</td></tr><tr><td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Head of Training<br><br> </td><td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Lau Cia Shien</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Feng Xiaolei</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Chen Yueyang Titus</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Ngiam Shu Qing Alicia</td></tr><tr><td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Head of Logistics<br><br> </td><td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Foong Grace</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Charlie Chan Li Shun</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Esther Swee</td><td style="background-color:#FFF;border-color:black;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Sim Yu Yang</td></tr><tr><td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Head of Public Relations</td><td style="background-color:#FFF;border-color:#333333;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal">Ong Zi Ning Xylia</td><td style="border-color:black;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td><td style="border-color:black;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td><td style="border-color:black;border-style:solid;border-width:1px;color:#333333;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"></td></tr></tbody></table></p>
-	<p><b>House Committee Organisation Chart</b></p>
-	<p><img src="/images/House-Committee-Organisation-Chart.jpg">
-		<img src="/images/house%20exco.jpg"></p>
-		<p><iframe width="560" height="315" src="https://www.youtube.com/embed/2vjFI2_UQ6Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
-    </div>
-	</li>
+<p><strong>Objectives of the Student Council</strong> 
+<br>• Build a strong GM community
+<br>• Be the voice of the student body
+<br>• Grow in leadership capacities to serve others
+<br>• Support in the operations of the school</p>
+<p></p>
+<p></p>
+<p></p>
+</li>
 <li>
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3">CCA Leaders</label>
-    <div>
-			<p><b>Objectives of the CCA Leeders</b><br>• Lead the members in achieving goals of the CCA<br> • Support in the operations of the CCA<br> • Grow in leadership capacities through the planning and enacting of the CCA programmes</p>
-			<p><b>Teacher-in-charge</b><br>1. Mr Cheng Xin Jin (I/C)</p>
-			<p><b>Committee members</b><br>Refer to the individual CCA page</p>
-	</div>
-	</li>
-	<li>
-    <input type="checkbox" id="accordion4">
-    <label for="accordion4">Class Committee</label>
-    <div>
-			<p><b>Objectives of the Class Committee</b><br>• Lead the class in various class activities<br> • Create a conducive classroom environment<br> • Support the Form Teachers in the administration of the class<br> • Foster care, concern and co-operation of classmates</p>
-			<p><b>Teacher-in-charge</b><br>1. Ms Grace Yap (I/C)<br>2. Ms Cindy Lim</p>
-			<p><img src="/images/Class-Committee-Organisation-Chart-.jpg"></p>
-	</div>
-	</li>
-		<li>
-    <input type="checkbox" id="accordion5">
-    <label for="accordion5">GEMS Leaders</label>
-    <div>
-			<p><b>Objectives of the GEMS Leaders</b><br>• Induct the Secondary 1s to the GM culture<br> • Mentor and guide the Secondary 1s in their transition to secondary school life</p>
-			<p><b>Teacher-in-charge</b><br>1. Mr Pek Han Wei (I/C)</p>
-			<p><img src="/images/GEMSleaders.jpg"></p>
-	</div>
-	</li>
-	</ul>
-	
-<img src="/images/Main-Pg-1-1024x768.jpg">
+<p><strong>Student Council Executive Committee 2023-2024</strong>
+</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>President</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Renae Tay Rui Ni (Zheng Ruini)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Vice President</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rainer Lim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Secretariat</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Le Phuong Minh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Head of Community Relations</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Alyssa Tan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Head of Leadership Development</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Toh Yun Hwee, Amelie</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Head of School Events</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lee Jing En Kristen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Head of Public Relations</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Le'Faye Yap Luv Fae</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/SLC.jpg">
+</div>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hUPWeluAbs0"></iframe>
+</div>
+</li>
+</ul>
+<h3>House Committee</h3>
+<ul>
+<li>
+<p><strong>Objectives of the House Committee</strong>
+</p>
+<p>• Build a strong GM spirit
+<br>• Lead, cheer and rally the GM Community
+<br>• Grow in leadership capacities through sporting engagements</p>
+<p></p>
+<p></p>
+</li>
+<li>
+<p><strong>Teachers-in-charge</strong>
+</p>
+<p>1. Miss Nurulathirah (I/C)
+<br>2. Mrs Deborah Tong
+<br>3. Mr Syafrin Ardi</p>
+<p></p>
+<p></p>
+<p><strong>House Executive Committee 2023-2024</strong>
+</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>ARCHER</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>LAU</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>MEANS</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>MITCHELL</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Captain<br><br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yong Miao Wen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Hairishah Binte Shahrudin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Zhi Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Eyziani Zefiryn</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Vice-Captain</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Joelle Teo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lee Xin Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Xavier Toh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tan Charmaine</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Head of Admin<br><br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tasha Tan Yu En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lim Lee Ban</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lin Zhi Yan (Sarah)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cheryl Ng Sin Lin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Head of Training<br><br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bernise Chan Xing Rui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Phua Hieu Boon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Noorul Zafirah d/o Mohamed Marzook</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Eng Shi Han</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Head of Logistics<br><br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Goh Mei Qi Magdelyn</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Jumica Tan Jia Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Farrah Atiqah binte Mohammed Zarin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Choong Wing Lok Keiran</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>House Committee Organisation Chart</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/House-Committee-Organisation-Chart.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/house%20exco.jpg">
+</div>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2vjFI2_UQ6Y"></iframe>
+</div>
+</li>
+</ul>
+<h3>CCA Leaders</h3>
+<ul>
+<li>
+<p><strong>Objectives of the CCA Leeders</strong> 
+<br>• Lead the members in achieving goals of the CCA
+<br>• Support in the operations of the CCA
+<br>• Grow in leadership capacities through the planning and enacting of the
+CCA programmes</p>
+<p><strong>Teacher-in-charge</strong> 
+<br>1. Ms Grace Yap (I/C)</p>
+<p><strong>Committee members</strong> 
+<br>Refer to the individual CCA page</p>
+</li>
+</ul>
+<p></p>
+<h3>Class Committee</h3>
+<ul>
+<li>
+<p><strong>Objectives of the Class Committee</strong> 
+<br>• Lead the class in various class activities
+<br>• Create a conducive classroom environment
+<br>• Support the Form Teachers in the administration of the class
+<br>• Foster care, concern and co-operation of classmates</p>
+<p><strong>Teacher-in-charge</strong> 
+<br>1. Ms Ong Siew Siang (I/C)
 <br>
-<img src="/images/Main-Pg-2-1024x768.jpg">
-
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/Class-Committee-Organisation-Chart-.jpg">
+</div>
+</li>
+</ul>
+<h3>GEMS Leaders</h3>
+<ul>
+<li>
+<p><strong>Objectives of the GEMS Leaders</strong> 
+<br>• Induct the Secondary 1s to the GM culture
+<br>• Mentor and guide the Secondary 1s in their transition to secondary school
+life</p>
+<p><strong>Teacher-in-charge</strong> 
+<br>1. Mr Pek Han Wei (I/C)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/GEMSleaders.jpg">
+</div>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/Main-Pg-1-1024x768.jpg">
+</div>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="/images/Main-Pg-2-1024x768.jpg">
+</div>
 <h3>Different Facets of Student Life</h3>
-For more information, click <a href="https://staging.dnskg7mp0u9ot.amplifyapp.com/different-facets-of-student-life/">here</a>
+<p>For more information, click <a href="https://staging.dnskg7mp0u9ot.amplifyapp.com/different-facets-of-student-life/" rel="noopener noreferrer nofollow" target="_blank">here</a>
+</p>
