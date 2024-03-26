@@ -311,7 +311,7 @@ leadership journey to grow as Courageous Leaders.</p>
 <h3>CCA Leaders</h3>
 <ul>
 <li>
-<p><strong>Objectives of the CCA Leeders</strong> 
+<p><strong>Objectives of the CCA Leaders</strong> 
 <br>• Lead the members in achieving goals of the CCA
 <br>• Support in the operations of the CCA
 <br>• Grow in leadership capacities through the planning and enacting of the
