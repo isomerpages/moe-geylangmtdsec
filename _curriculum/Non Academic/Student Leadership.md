@@ -67,8 +67,17 @@ leadership journey to grow as Courageous Leaders.</p>
 <br>• Be the voice of the student body
 <br>• Grow in leadership capacities to serve others
 <br>• Support in the operations of the school</p>
+</li>
+</ul>
 <p></p>
-<p></p>
+<ul>
+<li>
+<p><strong>Teachers-in-charge</strong>
+</p>
+<p>1. Mr John Seah (I/C)
+<br>2. Miss Carlyn Chan
+<br>3. Mdm Faridah Ahmad</p>
+<p>4. Miss Rebecca Lo</p>
 <p></p>
 </li>
 <li>
@@ -307,8 +316,14 @@ leadership journey to grow as Courageous Leaders.</p>
 <br>• Support in the operations of the CCA
 <br>• Grow in leadership capacities through the planning and enacting of the
 CCA programmes</p>
+<p></p>
+</li>
+<li>
 <p><strong>Teacher-in-charge</strong> 
 <br>1. Ms Grace Yap (I/C)</p>
+<p></p>
+</li>
+<li>
 <p><strong>Committee members</strong> 
 <br>Refer to the individual CCA page</p>
 </li>
@@ -322,6 +337,9 @@ CCA programmes</p>
 <br>• Create a conducive classroom environment
 <br>• Support the Form Teachers in the administration of the class
 <br>• Foster care, concern and co-operation of classmates</p>
+<p></p>
+</li>
+<li>
 <p><strong>Teacher-in-charge</strong> 
 <br>1. Ms Ong Siew Siang (I/C)
 <br>
@@ -331,6 +349,22 @@ CCA programmes</p>
 </div>
 </li>
 </ul>
+<h3>Cohort Leadership</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Objectives of the cohort leadership</strong>
+</p>
+<p>• help students understand their strengths, weaknesses and goals
+<br>• develop self-leadership skills for personal improvement</p>
+</li>
+</ul>
+<ul>
+<li>
+<p><strong>Teacher-in-charge</strong> 
+<br>1. Mr Mark Goh (I/C)</p>
+</li>
+</ul>
+<p></p>
 <h3>GEMS Leaders</h3>
 <ul>
 <li>
@@ -338,6 +372,9 @@ CCA programmes</p>
 <br>• Induct the Secondary 1s to the GM culture
 <br>• Mentor and guide the Secondary 1s in their transition to secondary school
 life</p>
+<p></p>
+</li>
+<li>
 <p><strong>Teacher-in-charge</strong> 
 <br>1. Mr Pek Han Wei (I/C)</p>
 <div class="isomer-image-wrapper">
