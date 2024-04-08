@@ -30,7 +30,11 @@ third_nav_title: Assessment Topics
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Narrative Text Comprehension</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -42,7 +46,11 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Narrative Text Comprehension</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -54,7 +62,11 @@ third_nav_title: Assessment Topics
 <p>N(T)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Modified Cloze + Situational Writing: Report</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -431,7 +443,11 @@ third_nav_title: Assessment Topics
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>How We Live Now: Passage-Based Question</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -442,7 +458,11 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>How We Live Now: Passage-Based Question</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
