@@ -187,7 +187,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Chapters 15-19</p>
+<p>Chapters 15 to 19</p>
 </li>
 </ul>
 </td>
@@ -232,7 +232,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Chapters 1-15</p>
+<p>Chapters 1 to 15</p>
 </li>
 </ul>
 </td>
@@ -277,7 +277,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Chapters 10-13</p>
+<p>Chapters 10 to 13</p>
 </li>
 </ul>
 </td>
@@ -421,10 +421,10 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Climate-Topic 2 and 3</p>
+<p>Climate-Topics 2 and 3</p>
 </li>
 <li>
-<p>Tectonics-Topic1</p>
+<p>Tectonics-Topic 1</p>
 </li>
 </ul>
 </td>
@@ -439,7 +439,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Tectonics-Topic 2.4, 3.1, 3.2, 3.3, 3.4</p>
+<p>Tectonics-Topics 2.4, 3.1, 3.2, 3.3, 3.4</p>
 </li>
 <li>
 <p>Tourism-Topic 1.1</p>
