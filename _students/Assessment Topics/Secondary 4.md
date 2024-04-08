@@ -30,7 +30,11 @@ third_nav_title: Assessment Topics
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Visual + Narrative Text Comprehension</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -42,7 +46,11 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Visual + Narrative Text Comprehension</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -54,7 +62,11 @@ third_nav_title: Assessment Topics
 <p>N(T)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Editing + Contnuous Writing</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -442,7 +454,11 @@ third_nav_title: Assessment Topics
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Kindred: Essay Question</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -453,7 +469,11 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Kindred: Essay Question</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
