@@ -77,7 +77,17 @@ third_nav_title: Assessment Topics
 <p>G3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chap. 3</p>
+</li>
+<li>
+<p>Chap. 4</p>
+</li>
+<li>
+<p>Chap. 5</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -88,7 +98,17 @@ third_nav_title: Assessment Topics
 <p>G2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chap. 3</p>
+</li>
+<li>
+<p>Chap. 4</p>
+</li>
+<li>
+<p>Chap. 5</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -99,7 +119,23 @@ third_nav_title: Assessment Topics
 <p>G1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chap. 1</p>
+</li>
+<li>
+<p>Chap. 2</p>
+</li>
+<li>
+<p>Chap. 3</p>
+</li>
+<li>
+<p>Chap. 4</p>
+</li>
+<li>
+<p>Chap. 5</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
