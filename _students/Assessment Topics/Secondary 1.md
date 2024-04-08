@@ -6,6 +6,7 @@ description: ""
 third_nav_title: Assessment Topics
 ---
 <h3>2024</h3>
+<p></p>
 <p>Click here for the Common Test 2 Schedule</p>
 <table>
 <tbody>
@@ -99,13 +100,13 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Chap 2 (2.3 to 2.5)</p>
+<p>Chap. 2 (2.3 to 2.5)</p>
 </li>
 <li>
-<p>Chap 3</p>
+<p>Chap. 3</p>
 </li>
 <li>
-<p>Chap 4 (4.1 to 4.2)</p>
+<p>Chap. 4 (4.1 to 4.2)</p>
 </li>
 </ul>
 </td>
@@ -120,13 +121,13 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Chap 2 (2.3 to 2.5)</p>
+<p>Chap. 2 (2.3 to 2.5)</p>
 </li>
 <li>
-<p>Chap 3</p>
+<p>Chap. 3</p>
 </li>
 <li>
-<p>Chap 4 (4.1 to 4.2)</p>
+<p>Chap. 4 (4.1 to 4.2)</p>
 </li>
 </ul>
 </td>
@@ -338,6 +339,10 @@ third_nav_title: Assessment Topics
 </tr>
 </tbody>
 </table>
+<p><strong>* Alternative Assessment</strong>
+</p>
+<p></p>
+<p></p>
 <table>
 <tbody>
 <tr>
