@@ -77,7 +77,11 @@ third_nav_title: Assessment Topics
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chap. 1, 2, 3, 4, 5</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -88,7 +92,11 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chap. 1, 2, 3, 4, 5</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -99,7 +107,11 @@ third_nav_title: Assessment Topics
 <p>N(T)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chap. 1, 2, 3, 4, 5</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
