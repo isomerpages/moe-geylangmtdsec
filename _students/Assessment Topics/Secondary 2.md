@@ -79,7 +79,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Chap. 1, 2, 3, 4, 5</p>
+<p>Chapters 1, 2, 3, 4, 5</p>
 </li>
 </ul>
 </td>
@@ -94,7 +94,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Chap. 1, 2, 3, 4, 5</p>
+<p>Chapters 1, 2, 3, 4, 5</p>
 </li>
 </ul>
 </td>
@@ -109,7 +109,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Chap. 1, 2, 3, 4, 5</p>
+<p>Chapters 1, 2, 3, 4, 5</p>
 </li>
 </ul>
 </td>
@@ -124,7 +124,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Chap. 10, 11, 12</p>
+<p>Chapters 10, 11, 12</p>
 </li>
 </ul>
 </td>
@@ -139,7 +139,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Chap. 10, 11, 12</p>
+<p>Chapters 10, 11, 12</p>
 </li>
 </ul>
 </td>
@@ -253,13 +253,13 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Chap. 7 Unit 4</p>
+<p>Chapter 7 Unit 4</p>
 </li>
 <li>
-<p>Chap. 8 Units 1-3</p>
+<p>Chapter 8 Units 1-3</p>
 </li>
 <li>
-<p>Chap. 9 Units 1 &amp; 2</p>
+<p>Chapter 9 Units 1 &amp; 2</p>
 </li>
 </ul>
 </td>
@@ -274,13 +274,13 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Chap. 7 Unit 4</p>
+<p>Chapter 7 Unit 4</p>
 </li>
 <li>
-<p>Chap. 8 Units 1-3</p>
+<p>Chapter 8 Units 1-3</p>
 </li>
 <li>
-<p>Chap. 9 Units 1 &amp; 2</p>
+<p>Chapter 9 Units 1 &amp; 2</p>
 </li>
 </ul>
 </td>
@@ -295,7 +295,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Chap. 7</p>
+<p>Chapter 7</p>
 </li>
 </ul>
 </td>
@@ -310,7 +310,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Chap. 7</p>
+<p>Chapter 7</p>
 </li>
 </ul>
 </td>
