@@ -79,13 +79,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Chap. 3</p>
-</li>
-<li>
-<p>Chap. 4</p>
-</li>
-<li>
-<p>Chap. 5</p>
+<p>Chap. 3, 4, 5</p>
 </li>
 </ul>
 </td>
@@ -100,13 +94,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Chap. 3</p>
-</li>
-<li>
-<p>Chap. 4</p>
-</li>
-<li>
-<p>Chap. 5</p>
+<p>Chap. 3, 4, 5</p>
 </li>
 </ul>
 </td>
@@ -121,19 +109,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Chap. 1</p>
-</li>
-<li>
-<p>Chap. 2</p>
-</li>
-<li>
-<p>Chap. 3</p>
-</li>
-<li>
-<p>Chap. 4</p>
-</li>
-<li>
-<p>Chap. 5</p>
+<p>Chap. 1, 2, 3, 4, 5</p>
 </li>
 </ul>
 </td>
