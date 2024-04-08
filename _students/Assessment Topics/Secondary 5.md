@@ -47,7 +47,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Chap. 2, 3, 4, 5</p>
+<p>Chapters 2, 3, 4, 5</p>
 </li>
 </ul>
 </td>
@@ -62,7 +62,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Chap. 6, 15, 16, 17</p>
+<p>Chapters 6, 15, 16, 17</p>
 </li>
 </ul>
 </td>
@@ -77,7 +77,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Chap. 13 and 16</p>
+<p>Chapters 13 and 16</p>
 </li>
 </ul>
 </td>
@@ -92,7 +92,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Chap. 16,17,18 and19</p>
+<p>Chapters 16, 17, 18 and 19</p>
 </li>
 </ul>
 </td>
@@ -107,7 +107,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Chap. 1-19</p>
+<p>Chapters 1-19</p>
 </li>
 </ul>
 </td>
@@ -146,7 +146,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>&nbsp;Chap 8,9,10 and 11</p>
+<p>&nbsp;Chapters 8, 9, 10 and 11</p>
 </li>
 </ul>
 </td>
@@ -268,13 +268,13 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Chap. 11.6</p>
+<p>Chapter 11.6</p>
 </li>
 <li>
-<p>Chap. 11.7</p>
+<p>Chapter 11.7</p>
 </li>
 <li>
-<p>Chap. 16</p>
+<p>Chapter 16</p>
 </li>
 </ul>
 </td>
