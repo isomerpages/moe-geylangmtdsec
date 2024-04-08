@@ -45,7 +45,7 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>TBC</p>
 </td>
 </tr>
 <tr>
@@ -56,7 +56,7 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>TBC</p>
 </td>
 </tr>
 <tr>
@@ -136,7 +136,11 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>&nbsp;Chap 8,9,10 and 11</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -147,7 +151,14 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Food Resources Gateway 1 &amp; 2,</p>
+</li>
+<li>
+<p>Tourism GI</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -158,7 +169,14 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Hitler (Revising older chapters)</p>
+</li>
+<li>
+<p>End of Cold War</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -169,7 +187,14 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Hitler (Revising older chapters)</p>
+</li>
+<li>
+<p>End of Cold War</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
