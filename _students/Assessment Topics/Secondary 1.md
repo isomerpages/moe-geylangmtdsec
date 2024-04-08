@@ -79,7 +79,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Chap. 3, 4, 5</p>
+<p>Chapters 3, 4, 5</p>
 </li>
 </ul>
 </td>
@@ -94,7 +94,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Chap. 3, 4, 5</p>
+<p>Chapters 3, 4, 5</p>
 </li>
 </ul>
 </td>
@@ -109,7 +109,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Chap. 1, 2, 3, 4, 5</p>
+<p>Chapters 1, 2, 3, 4, 5</p>
 </li>
 </ul>
 </td>
@@ -124,13 +124,13 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Chap. 2 (2.3 to 2.5)</p>
+<p>Chapter 2 (2.3 to 2.5)</p>
 </li>
 <li>
-<p>Chap. 3</p>
+<p>Chapter 3</p>
 </li>
 <li>
-<p>Chap. 4 (4.1 to 4.2)</p>
+<p>Chapter 4 (4.1 to 4.2)</p>
 </li>
 </ul>
 </td>
@@ -145,13 +145,13 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Chap. 2 (2.3 to 2.5)</p>
+<p>Chapter 2 (2.3 to 2.5)</p>
 </li>
 <li>
-<p>Chap. 3</p>
+<p>Chapter 3</p>
 </li>
 <li>
-<p>Chap. 4 (4.1 to 4.2)</p>
+<p>Chapter 4 (4.1 to 4.2)</p>
 </li>
 </ul>
 </td>
@@ -268,13 +268,13 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Chap. 1: Unit 3</p>
+<p>Chapter 1: Unit 3</p>
 </li>
 <li>
-<p>Chap. 3: Units 1,2, 3 &amp; 4 (Water &amp; Spatial Distribution)</p>
+<p>Chapter 3: Units 1, 2, 3 &amp; 4</p>
 </li>
 <li>
-<p>Chap. 4: Units 1,2, 3 &amp; 4 (Sustainable Management of Water)</p>
+<p>Chapter 4: Units 1,2, 3 &amp; 4</p>
 </li>
 </ul>
 </td>
@@ -289,13 +289,13 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Chap. 1 Unit 3 (basic map work + gy concepts)</p>
+<p>Chapter 1: Unit 3</p>
 </li>
 <li>
-<p>Chap. 3 Units 1, 2, 3 (Water &amp; Spatial Distribution) (No water Budget)</p>
+<p>Chapter 3: Units 1, 2, 3</p>
 </li>
 <li>
-<p>Chap. 4 Units 1, 2, 3 &amp; 4(Sustainable Management of Water)</p>
+<p>Chapter 4: Units 1, 2, 3 &amp; 4</p>
 </li>
 </ul>
 </td>
@@ -310,10 +310,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Chap. 1: How Connected was Early Singapore to the rest of the World?</p>
-</li>
-<li>
-<p>Chap. 2: How Did Singapore become a British Trading Post?</p>
+<p>Chapters 1 and 2</p>
 </li>
 </ul>
 </td>
@@ -328,10 +325,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Chap. 1: How Connected was Early Singapore to the rest of the World?</p>
-</li>
-<li>
-<p>Chap. 2: How Did Singapore become a British Trading Post?</p>
+<p>Chapters 1 and 2</p>
 </li>
 </ul>
 </td>
