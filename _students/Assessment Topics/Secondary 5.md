@@ -45,7 +45,11 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chap. 2, 3, 4, 5</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -56,7 +60,11 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chap. 6, 15, 16, 17</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -220,7 +228,7 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>N.A.</p>
+<p>TBC</p>
 </td>
 </tr>
 <tr>
@@ -246,7 +254,7 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>N.A.</p>
+<p>TBC</p>
 </td>
 </tr>
 <tr>
@@ -258,7 +266,17 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chap. 11.6</p>
+</li>
+<li>
+<p>Chap. 11.7</p>
+</li>
+<li>
+<p>Chap. 16</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
