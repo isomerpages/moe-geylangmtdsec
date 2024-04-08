@@ -366,7 +366,11 @@ third_nav_title: Assessment Topics
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chap. 8,9,10 and 11</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -377,7 +381,11 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chap. 7 (socio-economic diversity), 8 and 9</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -388,7 +396,14 @@ third_nav_title: Assessment Topics
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Climate-Topic 2 and 3</p>
+</li>
+<li>
+<p>Tectonics-Topic1</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -399,7 +414,14 @@ third_nav_title: Assessment Topics
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tectonics-Topic 2.4, 3.1, 3.2, 3.3, 3.4</p>
+</li>
+<li>
+<p>Tourism-Topic 1.1</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -410,7 +432,11 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Tectonics-Topic 2.1, 2.2, 2,3 and 2.4</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -421,7 +447,11 @@ third_nav_title: Assessment Topics
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chap. 11</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -432,7 +462,11 @@ third_nav_title: Assessment Topics
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chap. 10</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -443,7 +477,11 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chap. 10</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
