@@ -254,7 +254,17 @@ third_nav_title: Assessment Topics
 <p>G3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chap. 1: Unit 3</p>
+</li>
+<li>
+<p>Chap. 3: Units 1,2, 3 &amp; 4 (Water &amp; Spatial Distribution)</p>
+</li>
+<li>
+<p>Chap. 4: Units 1,2, 3 &amp; 4 (Sustainable Management of Water)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -265,7 +275,17 @@ third_nav_title: Assessment Topics
 <p>G2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chap. 1 Unit 3 (basic map work + gy concepts)</p>
+</li>
+<li>
+<p>Chap. 3 Units 1, 2, 3 (Water &amp; Spatial Distribution) (No water Budget)</p>
+</li>
+<li>
+<p>Chap. 4 Units 1, 2, 3 &amp; 4(Sustainable Management of Water)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -276,7 +296,14 @@ third_nav_title: Assessment Topics
 <p>G3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chap. 1: How Connected was Early Singapore to the rest of the World?</p>
+</li>
+<li>
+<p>Chap. 2: How Did Singapore become a British Trading Post?</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -287,7 +314,14 @@ third_nav_title: Assessment Topics
 <p>G2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chap. 1: How Connected was Early Singapore to the rest of the World?</p>
+</li>
+<li>
+<p>Chap. 2: How Did Singapore become a British Trading Post?</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
