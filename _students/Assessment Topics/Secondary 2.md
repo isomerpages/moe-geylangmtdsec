@@ -6,8 +6,338 @@ description: ""
 third_nav_title: Assessment Topics
 ---
 <h2>2024</h2>
-<p>Click <a href="/files/2024/2024_Common_Test_1_Final.pdf" rel="noopener noreferrer nofollow" target="_blank">here for the Common Test 1 Schedule</a>
+<p>Click here for the Common Test 2 Schedule</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Subject</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Indicative Level</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Term 2</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>English</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>English</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N(A)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>English</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N(T)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mathematics</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mathematics</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(A)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mathematics</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(T)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Science</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Chap. 10, 11, 12</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Science</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(A)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Chap. 10, 11, 12</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Science</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(T)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Topics 7 and 8</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Mother Tongue (Higher Chinese)</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Mother Tongue (Chinese)</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Mother Tongue (Chinese)</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(A)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Mother Tongue (Chinese)</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(T)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Mother Tongue (Malay)</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Mother Tongue (Malay)</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(A)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Mother Tongue (Malay)</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(T)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Geography</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Geography</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(A)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>History</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>History</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(A)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Literature</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Literature</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(A)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Art</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Common Curriculum</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Computer Applications</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(T)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Design and Technology</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Common Curriculum</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Design Project*</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Food and Consumer Education</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Common Curriculum</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TBC</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>* Alternative Assessment</strong>
+</p>
+<p></p>
+<p></p>
 <table>
 <tbody>
 <tr>
