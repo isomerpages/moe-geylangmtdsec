@@ -166,10 +166,10 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Topic 2 (2.3,2.4)</p>
+<p>Topic 2 (2.3, 2.4)</p>
 </li>
 <li>
-<p>Topics 3 and 4 (4.1,4.2)</p>
+<p>Topics 3 and 4 (4.1, 4.2)</p>
 </li>
 </ul>
 </td>
