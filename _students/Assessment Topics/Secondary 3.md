@@ -433,7 +433,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Topics 1/2/3</p>
+<p>Topics 1, 2, 3</p>
 </li>
 </ul>
 </td>
@@ -448,10 +448,10 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Topic 2.1 - 2.4</p>
+<p>Topics 2.1 to 2.4</p>
 </li>
 <li>
-<p>Topic 3.1 - 3.4</p>
+<p>Topics 3.1 to 3.4</p>
 </li>
 </ul>
 </td>
@@ -466,7 +466,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Topic 1.3 - 2.3</p>
+<p>Topics 1.3 to 2.3</p>
 </li>
 </ul>
 </td>
