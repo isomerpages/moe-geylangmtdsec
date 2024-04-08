@@ -30,7 +30,11 @@ third_nav_title: Assessment Topics
 <p>G3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Narrative Text Comprehension</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -42,7 +46,11 @@ third_nav_title: Assessment Topics
 <p>G2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Narrative Text Comprehension</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -54,7 +62,11 @@ third_nav_title: Assessment Topics
 <p>G1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Modified Cloze + Comprehension</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -286,7 +298,11 @@ third_nav_title: Assessment Topics
 <p>G3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Wonder: Essay Question</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -297,7 +313,11 @@ third_nav_title: Assessment Topics
 <p>G2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Wonder: Essay Question</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
