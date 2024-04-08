@@ -239,7 +239,17 @@ third_nav_title: Assessment Topics
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chap. 7 Unit 4</p>
+</li>
+<li>
+<p>Chap. 8 Units 1-3</p>
+</li>
+<li>
+<p>Chap. 9 Units 1 &amp; 2</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -250,7 +260,17 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chap. 7 Unit 4</p>
+</li>
+<li>
+<p>Chap. 8 Units 1-3</p>
+</li>
+<li>
+<p>Chap. 9 Units 1 &amp; 2</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -261,7 +281,11 @@ third_nav_title: Assessment Topics
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chap. 7</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -272,7 +296,11 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chap. 7</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
