@@ -107,7 +107,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Chapters 1-19</p>
+<p>Chapters 1 to 19</p>
 </li>
 </ul>
 </td>
