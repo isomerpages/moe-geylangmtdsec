@@ -168,7 +168,11 @@ third_nav_title: Assessment Topics
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Email Writing</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -180,7 +184,11 @@ third_nav_title: Assessment Topics
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Email Writing</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -192,7 +200,11 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Email Writing</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -204,7 +216,11 @@ third_nav_title: Assessment Topics
 <p>N(T)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Situational Writing</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -216,7 +232,11 @@ third_nav_title: Assessment Topics
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Blog &amp; Email Writing</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -228,7 +248,11 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Blog &amp; Email Writing</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -240,7 +264,11 @@ third_nav_title: Assessment Topics
 <p>N(T)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Blog Writing</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -390,7 +418,11 @@ third_nav_title: Assessment Topics
 <p>Common Curriculum</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapter 5</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
