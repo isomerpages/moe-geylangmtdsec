@@ -396,7 +396,14 @@ third_nav_title: Assessment Topics
 <p>Common Curriculum</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Texture worksheet (page 11 of art workbook)</p>
+</li>
+<li>
+<p>Textured Sofa artwork</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
