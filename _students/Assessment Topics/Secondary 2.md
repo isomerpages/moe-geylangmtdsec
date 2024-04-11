@@ -383,14 +383,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Prep 1: Portrait</p>
-</li>
-<li>
-<p>Prep 2: Background</p>
-</li>
-<li>
-<p>Final work*</p>
-<p></p>
+<p>Topic: Cubism*</p>
 </li>
 </ul>
 </td>
