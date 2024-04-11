@@ -121,7 +121,7 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>Prelim Exam</p>
 </td>
 </tr>
 <tr>
@@ -133,7 +133,7 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>Prelim Exam</p>
 </td>
 </tr>
 <tr>
@@ -228,7 +228,7 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>Prelim Exam</p>
 </td>
 </tr>
 <tr>
@@ -241,7 +241,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Sports Physiology</p>
+<p>exercise physiology</p>
 </li>
 </ul>
 </td>
@@ -254,7 +254,7 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>Prelim Exam</p>
 </td>
 </tr>
 <tr>

@@ -306,7 +306,7 @@ third_nav_title: Assessment Topics
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>Prelim Exam</p>
 </td>
 </tr>
 <tr>
@@ -318,7 +318,7 @@ third_nav_title: Assessment Topics
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>Prelim Exam</p>
 </td>
 </tr>
 <tr>
@@ -330,7 +330,11 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Email Writing</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -342,7 +346,11 @@ third_nav_title: Assessment Topics
 <p>N(T)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Situational Writing</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -354,7 +362,7 @@ third_nav_title: Assessment Topics
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>Prelim Exam</p>
 </td>
 </tr>
 <tr>
@@ -366,7 +374,11 @@ third_nav_title: Assessment Topics
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Blog &amp; Email Writing</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -378,7 +390,11 @@ third_nav_title: Assessment Topics
 <p>N(T)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>e-SBA Blog Writing</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -545,7 +561,7 @@ third_nav_title: Assessment Topics
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>Prelim Exam</p>
 </td>
 </tr>
 <tr>
@@ -608,7 +624,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Sports Physiology</p>
+<p>exercise physiology</p>
 </li>
 </ul>
 </td>
@@ -621,7 +637,15 @@ third_nav_title: Assessment Topics
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>Prelim Exam</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapters 1 – 9</p>
+</li>
+<li>
+<p>Chapters 11 – 13</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -632,7 +656,12 @@ third_nav_title: Assessment Topics
 <p>N(T)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>Prelim Exam</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapters 1 to 15</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
