@@ -569,7 +569,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Portraiture in Shading technique</p>
+<p>Portraiture in Shading technique*</p>
 </li>
 </ul>
 </td>
@@ -584,7 +584,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Game-making using Scratch</p>
+<p>Game-making using Scratch*</p>
 </li>
 </ul>
 </td>
