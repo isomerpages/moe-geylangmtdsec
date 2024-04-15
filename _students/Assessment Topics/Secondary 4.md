@@ -64,7 +64,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Editing + Contnuous Writing</p>
+<p>Editing + Continuous Writing</p>
 </li>
 </ul>
 </td>
