@@ -12,7 +12,6 @@ variant: tiptap
 <p>Primary 6 students may seek Direct School Admission into Geylang Methodist
 School (Secondary) before the Secondary 1 Posting Exercise in 2024, for
 year of study in 2025.</p>
-<p>&nbsp;</p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
@@ -20,13 +19,12 @@ the area of talent. Students who are successfully admitted to the school
 via DSA are expected to honour their commitment to the school and participate
 in the activities related to the talent they are selected for from year
 1 to 4/5.</p>
-<p>&nbsp;</p>
 <p>If you are a motivated student who wants to stretch your potential and
 be part of a close-knit community committed to growth, we look forward
 to receiving your application and to welcome you into GMS(S):</p>
 <p>&nbsp;</p>
-<p>(1) Badminton for boys and girls (Talent area: Sports and games)</p>
-<p>&nbsp;</p>
+<p><strong>(1) Badminton for boys and girls (Talent area: Sports and games)</strong>
+</p>
 <p>Our badminton team has been placed among the top 8 schools over the years
 in the highly competitive East Zone Inter-school tournaments. With the
 guidance from our dedicated coach and teachers, we strive to create a dynamic
@@ -35,8 +33,8 @@ physical as well as mental fortitude.</p>
 <p>&nbsp;Shortlisted candidates will be assessed on their agility and ability
 to execute movement, clear and smash.</p>
 <p>&nbsp;</p>
-<p>(2) Volleyball for boys only (Talent area: Sports and games)</p>
-<p>&nbsp;</p>
+<p><strong>(2) Volleyball for boys only (Talent area: Sports and games)</strong>
+</p>
 <p>Our volleyball boys have performed well in the national school games,
 emerging top 4 in the East Zone since 2010. Our B division team came in
 7th in the Nation in 2023 and our C division boys came in 2nd in the East
@@ -44,8 +42,8 @@ Zone Volleyball Championships in 2022. We strive to nurture our players
 to be tenacious, gracious and respectful students.</p>
 <p>Shortlisted candidates will be assessed on their athletic skills and agility.</p>
 <p>&nbsp;</p>
-<p>(3) Chinese Dance for girls only (Talent area: Performing arts)</p>
-<p>&nbsp;</p>
+<p><strong>(3) Chinese Dance for girls only (Talent area: Performing arts)</strong>
+</p>
 <p>The Chinese Dance group has consistently done well, winning the Certificate
 with Distinction in the 2019, 2021 and 2023 SYF competitions. Students
 in the Chinese Dance group are confident, passionate, and committed.&nbsp;
@@ -55,9 +53,8 @@ to do their best for every performance.</p>
 <p>Shortlisted candidates will be assessed on their technical skills and
 flexibility.</p>
 <p>&nbsp;</p>
-<p>(4) Science for Sustainable Development for boys and girls (Talent area:
-Science)</p>
-<p>&nbsp;</p>
+<p><strong>(4) Science for Sustainable Development for boys and girls (Talent area: Science)</strong>
+</p>
 <p>This is GM’s Applied Learning Programme and adopts a contextualized approach,
 exploring Sustainability with unique programmes for Sec 1 to 3. Lower Sec
 students will be exposed to research and inquiry, investigative experiments
@@ -70,9 +67,8 @@ investigative projects and presentation), records of participation/awards
 in STEM-related competitions.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><u>APPLICATION PROCESS</u>
+<p><strong><u>APPLICATION PROCESS</u></strong>
 </p>
-<p>&nbsp;</p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.&nbsp;
 The application is free-of-charge and will be open from 7 May 2024, 11
 am to 3 Jun 2024, 3 pm.&nbsp; For more details, please refer to the MOE
@@ -80,14 +76,12 @@ website – <a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" 
 </p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><u>&nbsp;ADMISSIONS CRITERIA</u>
+<p><strong><u>&nbsp;ADMISSIONS CRITERIA</u></strong>
 </p>
-<p>&nbsp;</p>
 <p>In considering students for direct school admission into GMS(S), we look
 for ability and potential, as well as positive character traits.</p>
 <p>&nbsp;</p>
 <p>Applicants should possess the following:</p>
-<p>&nbsp;</p>
 <p>(i)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Consistent
 and good conduct in school.</p>
 <p>&nbsp;</p>
@@ -101,9 +95,8 @@ in related areas.</p>
 performance.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><u>SELECTION PROCESS</u>
+<p><strong><u>SELECTION PROCESS</u></strong>
 </p>
-<p>&nbsp;</p>
 <p>After you have submitted your DSA application, the school will review
 the application and shortlisted candidates will be contacted.</p>
 <p>&nbsp;</p>
@@ -114,7 +107,7 @@ and interview.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><strong>2.</strong>&nbsp; &nbsp; &nbsp; &nbsp; <strong><u>Timeline</u></strong>
+<p><strong>2.&nbsp; &nbsp; &nbsp; &nbsp; <u>Timeline</u></strong>
 </p>
 <p>&nbsp;</p>
 <table style="minWidth: 50px">
@@ -183,18 +176,17 @@ HOD, SH (LS Sc) and teachers in-charge of ALP.&nbsp;</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p><u>Contact us</u>
+<p></p>
+<p><strong><u>Contact us</u></strong>
 </p>
-<p>&nbsp;</p>
 <p>For information regarding DSA into GMS(S), you may direct your queries
 to the following:</p>
 <p>Mdm Nur Azline at <a href="gmss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gmss@moe.edu.sg</a>
 </p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><u>Further information and FAQ regarding DSA-SEC</u>
+<p><strong><u>Further information and FAQ regarding DSA-SEC</u></strong>
 </p>
-<p>&nbsp;</p>
 <p>Please refer to the following MOE website: <a href="www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
 </p>
 <p>&nbsp;</p>
