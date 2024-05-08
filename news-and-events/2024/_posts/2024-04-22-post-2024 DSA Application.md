@@ -109,7 +109,6 @@ and interview.</p>
 <p>&nbsp;</p>
 <p><strong>2.&nbsp; &nbsp; &nbsp; &nbsp; <u>Timeline</u></strong>
 </p>
-<p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
