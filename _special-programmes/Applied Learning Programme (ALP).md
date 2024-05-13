@@ -2,6 +2,7 @@
 title: Applied Learning Programme (ALP)
 permalink: /special-programme/applied-learning-programme-alp/
 description: ""
+variant: markdown
 ---
 **Introduction**
 
@@ -23,6 +24,7 @@ Tier-2 programme further develops students’ interest, abilities and attitudes 
 *   Encourage students to develop independent thinking, scientific curiosity and scientific inquiry through project-based learning, which incorporates 21 CC; and
 *   Promotes interest in STEM subjects through inquiry-based experimentation under a Structured Experimentation Programme, which invites students to explore an idea, pose a question and to subsequently solve a problem or to test a hypothesis. This allows students to extend their learning beyond the walls of a classroom.
 
+Find out more about this year programme by clicking [here](/files/2024/2024_ALP_writeup_for_Sch_website.pdf).
 
 
 
@@ -30,15 +32,14 @@ Tier-2 programme further develops students’ interest, abilities and attitudes 
 
 
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPWhoDGR8Rw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPWhoDGR8Rw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <center>SEC 1 Science ALP</center>
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KyyG0eXbR9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KyyG0eXbR9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <center>SEC 2 Science ALP</center>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TWmlTw2Dz4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TWmlTw2Dz4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 <center>SEC 3 Science ALP</center>
