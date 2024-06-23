@@ -3,8 +3,6 @@ title: Terms of Use
 permalink: /terms-of-use/
 variant: markdown
 ---
-
-
 # **Terms of Use**
 
 Thank you for visiting https://www.geylangmethodistsec.moe.edu.sg/. By accessing and using this Web Site, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Web Site.
@@ -21,7 +19,7 @@ Thank you for visiting https://www.geylangmethodistsec.moe.edu.sg/. By accessing
 
 **Privacy Policy**
 
-5\. Click here[here](https://www.geylangmethodistsec.moe.edu.sg/privacy/) to review this Web Site Privacy Statement.
+5\. Click [here](https://www.geylangmethodistsec.moe.edu.sg/privacy/) to review this Web Site Privacy Statement.
 
 **Restrictions on Use of Materials**
 
