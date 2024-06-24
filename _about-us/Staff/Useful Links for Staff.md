@@ -9,9 +9,7 @@ variant: markdown
 | -------- | -------- | -------- |
 | [Resource Booking System](https://rbs.avero-tech.com/)     |      | https://rbs.avero-tech.com/     |
 | [HR Online](http://intranet.moe.gov.sg/hronline/Pages/Home.aspx)     |      | http://intranet.moe.gov.sg/hronline/Pages/Home.aspx    |
-| [Human Resource Management System](https://hrms.moe.gov.sg/)     |      | https://hrms.moe.gov.sg   |
 | [iCONNECT](https://icon.moe.edu.sg/)    |      | https://icon.moe.edu.sg    |
-| [iExams](https://iexams.moe.gov.sg/xe/login.do)     |      | https://iexams.moe.gov.sg/xe/login.do     |
 | [Ministry of Education](https://www.moe.gov.sg/)     |     | https://www.moe.gov.sg/     |
 | [MOE Intranet](http://intranet.moe.gov.sg/)     |      | http://intranet.moe.gov.sg|
 |[MOE Sports and Recreation Club](https://www.mesrc.net/)     |     | https://www.mesrc.net     |
