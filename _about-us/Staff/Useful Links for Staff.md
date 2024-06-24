@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Staff
 variant: markdown
 ---
-|  [Academy of Singapore Teachers](https://www.academyofsingaporeteachers.moe.gov.sg/) | | https://www.academyofsingaporeteachers.moe.gov.sg |
+|  [Academy of Singapore Teachers](https://academyofsingaporeteachers.moe.edu.sg/) | | https://academyofsingaporeteachers.moe.edu.sg/ |
 | -------- | -------- | -------- |
 | [Resource Booking System](https://rbs.avero-tech.com/)     |      | https://rbs.avero-tech.com/     |
 | [HR Online](http://intranet.moe.gov.sg/hronline/Pages/Home.aspx)     |      | http://intranet.moe.gov.sg/hronline/Pages/Home.aspx    |
