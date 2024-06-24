@@ -8,10 +8,8 @@ variant: markdown
 |  [Academy of Singapore Teachers](https://academyofsingaporeteachers.moe.edu.sg/) | | https://academyofsingaporeteachers.moe.edu.sg/ |
 | -------- | -------- | -------- |
 | [Resource Booking System](https://rbs.avero-tech.com/)     |      | https://rbs.avero-tech.com/     |
-| [HR Online](http://intranet.moe.gov.sg/hronline/Pages/Home.aspx)     |      | http://intranet.moe.gov.sg/hronline/Pages/Home.aspx    |
 | [iCONNECT](https://icon.moe.edu.sg/)    |      | https://icon.moe.edu.sg    |
 | [Ministry of Education](https://www.moe.gov.sg/)     |     | https://www.moe.gov.sg/     |
-| [MOE Intranet](http://intranet.moe.gov.sg/)     |      | http://intranet.moe.gov.sg|
 |[MOE Sports and Recreation Club](https://www.mesrc.net/)     |     | https://www.mesrc.net     |
 | [One Portal All Learners (OPAL 2.0)](https://idm.opal2.moe.edu.sg/)     |     | https://idm.opal2.moe.edu.sg/     |
 | [Workpal Help Service](https://help.workpal.gov.sg/)     |      | https://help.workpal.gov.sg/    |
