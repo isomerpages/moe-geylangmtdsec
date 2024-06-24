@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Non Academic
 variant: markdown
 ---
-
 <img src="/images/sensethinkact.gif" style="width:50%">
 
 **Cyber Wellness Curriculum**
@@ -22,7 +21,6 @@ Students should be able to:
 *   Uphold their own dignity when online (e.g. avoid surfing inappropriate sites and participating in illegal online activities).
 *   Respect others (e.g. avoid using the work of others without permission and publishing undesirable materials that hurt others).
 
-Click&nbsp;[here](http://www.betterinternet.sg/)&nbsp;for more information.
 
 Helping Your Child Manage Online Scam –&nbsp;[Tip Sheet for Parents](/files/Tip-sheet-for-Parents.pdf)
 
