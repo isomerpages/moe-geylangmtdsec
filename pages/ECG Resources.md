@@ -2,6 +2,7 @@
 title: ECG Resources
 permalink: /ecg-resources/
 description: ""
+variant: markdown
 ---
 ![](/images/ECG.jpg)
 
@@ -26,7 +27,6 @@ description: ""
 | [MyCareersFuture](https://go.gov.sg/careersfuture) | A portal with career-related content |
 | [Singapore Industry Landscape](https://go.gov.sg/industrylandscape-sec) | ECG Portal to explore the world of work |
 | [Industry Transformation Maps (ITMs)](https://www.mti.gov.sg/ITMs/Overview) | Roadmaps for the various industries in Singapore |
-| [Skills Framework](https://www.skillsfuture.sg/skills-framework#whicharethesectors) | Information on career sectors, pathways, roles, skills, training, etc. |
 | [ECG Parent Guide](https://go.gov.sg/ecg-parent-guide) | Journeying with our Children, Achieving their Aspirations |
 | [Schoolbag Website](https://go.gov.sg/schoolbag) | An online publication by MOE for education news, school features and tips. |
 | [The Next Step Forward (e-book)](https://go.gov.sg/next-step-forward) | Stories of students and the pathways they have chosen |
