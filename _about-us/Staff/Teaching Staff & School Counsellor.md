@@ -33,6 +33,7 @@ variant: markdown
 | MS GRACE YAP     | [grace_yap_szu_hui@schools.gov.sg](mailto:grace_yap_szu_hui@schools.gov.sg)     |     |
 
 
+
 #### **Secondary 2 Form Teachers**
 
 | **Hope 2-1** |  |  |
@@ -54,7 +55,6 @@ variant: markdown
 | MR KENNETH SOH    |  [soh_joo_kiat_kenneth@moe.edu.sg](mailto:soh_joo_kiat_kenneth@moe.edu.sg) |
 | **Hope 2-6** |  |  |
 | MDM NORHAMIDAH HASSAN   | [norhamidah\_hassan@schools.gov.sg](mailto:norhamidah_hassan@schools.gov.sg)     | 
-| MS ANDREA LAU    | [andrea\_lau\_mei\_zhin@schools.gov.sg](mailto:andrea_lau_mei_zhin@schools.gov.sg)     |     |
 | MR SNG PENG HOCK     | [sng\_peng\_hock@schools.gov.sg](mailto:sng_peng_hock@schools.gov.sg)    |      |
 | **Hope 2-7** |  |  |
 | MISS JANELLE CHUA    | [chua\_hwee\_woon\_janelle@schools.gov.sg](mailto:chua_hwee_woon_janelle@schools.gov.sg)     |      |
@@ -119,7 +119,7 @@ variant: markdown
 | **Peace 5-1** |  |  |
 | MR CYRIL KHOO SU MING    | [khoo_su_ming_cyril@schools.gov.sg](mailto:khoo_su_ming_cyril@schools.gov.sg)     |      |
 | MRS LOH KIM WOON    | [wong\_kim\_woon@schools.gov.sg](mailto:wong_kim_woon@schools.gov.sg)     |      |
-| MS NAZEERA OMAR    |     [siti\_nazeera\_omar@schools.gov.sg](mailto:siti_nazeera_omar@schools.gov.sg)   |
+
 
 
 
@@ -133,7 +133,7 @@ variant: markdown
 | Mr Chng Kiong Choon     | [chng\_kiong\_choon@schools.gov.sg](mailto:chng_kiong_choon@schools.gov.sg)     |      |
 | Mdm Sng Swee Lian     | [sng\_swee\_lian@schools.gov.sg](mailto:sng_swee_lian@schools.gov.sg)     |      |
 | MRS LIAN YOK KHOON    |  [tan\_yok\_khoon@schools.gov.sg](mailto:tan_yok_khoon@schools.gov.sg)  |
-| MR BERNARD CHEONG     | [cheong\_chee\_kong\_bernard@schools.gov.sg](mailto:cheong_chee_kong_bernard@schools.gov.sg)     |      |
+
 
 
 #### **School Counsellors**
@@ -153,9 +153,6 @@ variant: markdown
 
 
 
-**Student Welfare Education Officer (SWEO)**
-* Mr Bernard Cheong   
-[cheong\_chee\_kong\_bernard@schools.gov.sg](mailto:cheong_chee_kong_bernard@schools.gov.sg)
 
 **ICT Manager**
 * Mr Leong Chong Kin
