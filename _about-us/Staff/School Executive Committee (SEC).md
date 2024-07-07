@@ -12,7 +12,7 @@ variant: markdown
 | Principal | Mr Victor Owyong | [Victor\_OWYONG@schools.gov.sg](mailto:Victor_OWYONG@schools.gov.sg) |
 | -------- | -------- | -------- |
 | Vice-Principal (Education)     | Mrs Chang-Loy Wee Meng    | [LOY\_Wee\_Meng@schools.gov.sg](mailto:LOY_Wee_Meng@schools.gov.sg)     |
-| Vice-Principal (Administration)   | Ms Corie Lee     | [corie_lee@schools.gov.sg](mailto:corie_lee@schools.gov.sg)     |
+
 
 
 
@@ -41,7 +41,7 @@ variant: markdown
 | Administration Manager     | Ms Linda Chuang    | [CHUANG\_Toon\_Ling@schools.gov.sg](mailto:CHUANG_Toon_Ling@schools.gov.sg)     |
 | Administration Manager    | Mdm Azline Ibrahim     | [Nur\_Azline\_IBRAHIM@schools.gov.sg](mailto:Nur_Azline_IBRAHIM@schools.gov.sg)    |
 | Operation Manager   | Mr Koay Chin Wah   | [koay\_chin\_wah@schools.gov.sg](mailto:koay_chin_wah@schools.gov.sg)    |
-| Operation Manager    | Mr Tan Pin Eddie    | [Tan\_Pin\_Eddie@schools.gov.sg](mailto:Tan_Pin_Eddie@schools.gov.sg)    |
+
 
 ### Level / Subject Heads
 
@@ -54,5 +54,5 @@ variant: markdown
 | Information Technology   | Mr Tan Wah Kum    | [tan\_wah\_kum@schools.gov.sg](mailto:tan_wah_kum@schools.gov.sg)     |
 | Craft & Technology     | Mr Kelvin Chia     | [kelvin\_chia\_cheng\_meng@schools.gov.sg](mailto:kelvin_chia_cheng_meng@schools.gov.sg)     |
 | Aesthetics    | Miss Ng Sio Ying   | [ng\_sio\_ying@schools.gov.sg](mailto:ng_sio_ying@schools.gov.sg)     |
-| Asst. Year Head (Secondary 1) (Covering)    | Mrs Wong Hui Yu Yvonee    | [chew\_hui\_yu\_yvonee@schools.gov.sg](mailto:chew_hui_yu_yvonee@schools.gov.sg)   |
+| Asst. Year Head (Secondary 1)   | Mrs Wong Hui Yu Yvonee    | [chew\_hui\_yu\_yvonee@schools.gov.sg](mailto:chew_hui_yu_yvonee@schools.gov.sg)   |
 | Asst. Year Head (Secondary 3)  | Ms Lee Wei Ying Teresa   | [lee\_wei\_ying\_teresa@schools.gov.sg](mailto:lee_wei_ying_teresa@schools.gov.sg)   |
