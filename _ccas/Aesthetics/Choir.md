@@ -40,11 +40,7 @@ variant: markdown
 |  Section Leaders:   |      |  Alyssa Tan    |
 |     |      |  Ameile Toh    |
 |     |      |  Amber Cheah    |
-|  Assistant Section Leaders:   |      |     |
-|     |      |     |
-|     |      |     |
-|     |      |     |
-| Librarian:    |      |   |
+
 
 
 **Instructor**
