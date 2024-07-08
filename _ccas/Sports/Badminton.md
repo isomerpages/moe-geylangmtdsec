@@ -25,7 +25,6 @@ variant: markdown
 | Mr Yip Cheng Hou (OIC) |  |  |
 | -------- | -------- | -------- |
 | Ms Fahariah Yeo Bte Noorhisham     |      |      |
-| Mr Bernard Cheong     |      |      |
 | Miss Tan Lay Ming     |      |      | 
 
 
