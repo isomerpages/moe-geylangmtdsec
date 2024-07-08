@@ -126,13 +126,13 @@ variant: markdown
 
 #### **Non-Form Teachers**
 
-| Mrs Lee Fang Lan  | [wong\_fang\_lan@schools.gov.sg](mailto:wong_fang_lan@schools.gov.sg)  |     |
+| MRS LEE FANG LAN  | [wong\_fang\_lan@schools.gov.sg](mailto:wong_fang_lan@schools.gov.sg)  |     |
 | -------- | -------- | -------- |
-| Mrs Toh Chwee Hong     | [toh\_teck\_wang@schools.gov.sg](mailto:toh_teck_wang@schools.gov.sg)     |     |
-| Mrs Doris Khoo     | [khoo\_siew\_huay\_doris@schools.gov.sg](mailto:khoo_siew_huay_doris@schools.gov.sg)     |      |
-| Mr Chng Kiong Choon     | [chng\_kiong\_choon@schools.gov.sg](mailto:chng_kiong_choon@schools.gov.sg)     |      |
-| Mdm Sng Swee Lian     | [sng\_swee\_lian@schools.gov.sg](mailto:sng_swee_lian@schools.gov.sg)     |      |
-| Mrs Lian Yok Khoon    |  [tan\_yok\_khoon@schools.gov.sg](mailto:tan_yok_khoon@schools.gov.sg)  |
+| MRS TOH CHWEE HONG     | [toh\_teck\_wang@schools.gov.sg](mailto:toh_teck_wang@schools.gov.sg)     |     |
+| MRS DORIS KHOO     | [khoo\_siew\_huay\_doris@schools.gov.sg](mailto:khoo_siew_huay_doris@schools.gov.sg)     |      |
+| MR CHNG KIONG CHOON     | [chng\_kiong\_choon@schools.gov.sg](mailto:chng_kiong_choon@schools.gov.sg)     |      |
+| MDM SNG SWEE LIAN     | [sng\_swee\_lian@schools.gov.sg](mailto:sng_swee_lian@schools.gov.sg)     |      |
+| MRS LIAN YOK KHOON    |  [tan\_yok\_khoon@schools.gov.sg](mailto:tan_yok_khoon@schools.gov.sg)  |
 
 
 
@@ -141,22 +141,25 @@ variant: markdown
 
 **Allied Educator (Learning and Behavioural Support**)
 
-* Ms Menaga Subaramaniam   [menaga\_subaramaniam@schools.gov.sg](mailto:menaga_subaramaniam@schools.gov.sg)
+* MS MENAGA SUBARAMANIAM   
+[menaga\_subaramaniam@schools.gov.sg](mailto:menaga_subaramaniam@schools.gov.sg)
 
 
 **School Counselor**
 
-* Mr Lewis Lam     
+* MR LEWIS LAM     
 [lam_ying_hao@schools.gov.sg](mailto:lam_ying_hao@schools.gov.sg)
-* Ms Lim Soo Ling  
+* MS LIM SOO LING  
 [lim_soo_ling@schools.gov.sg](mailto:lim_soo_ling@schools.gov.sg)
 
 
 
 
 **ICT Manager**
-* Mr Leong Chong Kin
-* [leong_chong_kin@schools.gov.sg](leong_chong_kin@schools.gov.sg)
+* MR LEONG CHONG KIN
+[leong_chong_kin@schools.gov.sg](leong_chong_kin@schools.gov.sg)
+
+
 
 
 ![](/images/GMSS_A3-Posters_Our-Staff_ver2_Page_1-1.jpg)
