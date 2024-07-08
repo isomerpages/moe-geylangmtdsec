@@ -27,11 +27,10 @@ variant: markdown
 
 **Student Leaders**
 
-| B Division Captain: |  | Sng Ming Xuan (J33) |
+| B Division Captain: |  | Javier Sim (J34) |
 | -------- | -------- | -------- |
-| B Division Vice-Captain:     |      | Liu Yihang (J37)    |
-| C Division Captain:     |      | Sim Guan Yu (H22)    |
-| C Division Vice-Captain:     |      | Weng Junrong (H23)   |
+| B Division Vice-Captain:     |      | Weng Jun Rong (J33)    |
+
 
 
 
