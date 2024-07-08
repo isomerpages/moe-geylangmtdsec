@@ -33,11 +33,11 @@ variant: markdown
 
 **Student Leaders**
 
-| President: |  | Vrinda Jeyakumar |
+| President: |  | Aly Pan Siyin (J34) |
 | -------- | -------- | -------- |
-| Vice President:    |      | Lim Hong Xiang Keith    |
-|  Sec 1 I/C   |      | Aly Pan Siyin    |
-|  Sec 2 I/C   |      | Phua Hieu Boon    |
+| Vice President:    |      | Zoe Yolanda Ang (J33)   |
+|     |      | Nicholette Koh Yun Xi (J37)    |
+| Junior leader    |      | Javis Goh (J31)    |
 
 
 **Instructor**
