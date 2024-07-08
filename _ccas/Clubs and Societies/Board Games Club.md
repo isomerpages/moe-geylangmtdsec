@@ -30,18 +30,11 @@ variant: markdown
 | 1. |  | Mr Quek Rob Huei (I/C) |
 | -------- | -------- | -------- |
 | 2.     |      | Mdm Khalidah Begum     |
-| 3.     |      | Ms Siti Nazeera Omar     |
+
 
 
 
 **Student Leaders**
 
-| Chairperson: |  | Tan Caton (H27) |
+| Chairperson: |  | Tan Caton (J33) |
 | -------- | -------- | -------- |
-| Vice-chairperson:    |      | Jovan Wong Wei Zheng (H23)     |
-| Head of IT:     |      | Ayush Rai (J32)    |
-| Head of Training:     |      | Raphael Goh Lim Sivanathann (J36)    |
-| Head of Logistics:     |      | Damien Ng Jing Jie (H2-8)     |
-| Committee:     |      | Gavin Lim Jian Le (H2-4)    |
-| Advisors:     |      | Bernice Lee Sze Hui (J3-2)   |
-|      |      | Jermaine Wong Jie Min (J3-2)   |
