@@ -3,6 +3,7 @@ title: Table Tennis
 permalink: /cca/Sports/Table-tennis/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ![](/images/2023%20table%20tennis.jpg)
 
@@ -28,15 +29,10 @@ third_nav_title: Sports
 
 **Student Leaders**
 
-| Captains & Vice |  | Vincent Tan Xin Sheng (J33) |
+| Captain (Boys) |  | Caleb Quek Zhi En (J31) |
 | -------- | -------- | -------- |
-|  |  | Zheng Zexi (J33) |
-|  |  | Lim Lee Ban (J35) |
-|  |  | Tricia Lee Zhi Xin (J32) |
-| Logistics IC:    |      | Herrick Koh Yu Peng (J36)     |
-| Physical Training:   |      | Zane Tay Zhe Hian (J33)     |
-|    |      | Justin Leong Jia Qing (J34)     |
-|   |      | Tan Yi Jie (J35)     |
+| Captain (Girls) |  | Chan Si Eng Venice (J36) |
+
 
 
 **Coach**
