@@ -3,6 +3,7 @@ title: Athletics
 permalink: /cca/Sports/athletics/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ![](/images/2023%20athetics.png)
 
@@ -33,10 +34,10 @@ third_nav_title: Sports
 
 **Student Leaders**
 
-| Captain:  |  | Wong Jie (J36) |
+| Captain:  |  | Goh Jing Yang (J34) |
 | -------- | -------- | -------- |
-| Vice-Captains:    |     | Ng Yan Wen (J32)    |
-|     |     | Eng Shi Han (J35)    |
+| Vice-Captains:    |     | Tay Yuan Wen Kieron (J35)    |
+|     |     | Bertrand Lyn Ding Yang (J32)    |
 
 
 
