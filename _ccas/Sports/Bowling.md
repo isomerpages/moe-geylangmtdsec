@@ -3,6 +3,7 @@ title: Bowling
 permalink: /cca/Sports/bowling/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ![](/images/2023%20bowling.jpeg)
 
@@ -31,11 +32,10 @@ third_nav_title: Sports
 **Student Leaders**
 
 
-| Captain: |  | Chan Li Ting |
+| Captain: |  | Low Jay Kee (J36) |
 | -------- | -------- | -------- |
-| Vice-Captains:    |      | Yong Qin Heng Brayden    |
-| Vice-Captains:    |      | Mohammad Fahril Rifqy Bin Mohammad Rafid    |
-| Vice-Captains:    |      | Jonas Toh Jing Herng    |
+| Vice-Captain:    |      | Jonas Toh Jing Herng (J37)    |
+
 
 
 
