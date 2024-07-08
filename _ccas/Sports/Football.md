@@ -32,10 +32,10 @@ variant: markdown
 
 **Student Leaders**
 
-| Captain: |  | Kieran Quek Zhen Xi |
+| Captain: |  | Vincent Ng Teng Yuan (J31) |
 | -------- | -------- | -------- |
-| Vice-Captains:    |      | Keiran Choong Wing Lok     |
-|    |      | Cayden Foo Dun Yu |
+| Vice-Captains:    |      | Teoh Li Yang (J35)     |
+|    |      | Foo Jun Hao (J37) |
 
 
 
