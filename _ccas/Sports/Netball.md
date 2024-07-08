@@ -3,6 +3,7 @@ title: Netball
 permalink: /cca/Sports/netball/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ![](/images/2023%20netball.png)
 
@@ -32,15 +33,10 @@ third_nav_title: Sports
 
 **Student Leaders**
 
-| Captain: |  | Daphne Wong Si Jia (J36) |
+| Captain: |  | Michelle Natalia Mussenden (J32) |
 | -------- | -------- | -------- |
-| Vice-Captain:    |      | Toon Seana (J34)     |
-|  Head of Training:  |      | Lee Jing En Kristen (J33)     |
-|  Head of Publicity & Welfare:  |      | Chiang Pei Yu Syvia (J34)     |
-|   |      | Nikki Wong She Yoke (J35)    |
-|  Heads of Logistic:  |      | Coco Ng Chong Zheng (J35)   |
-|    |      | Lee Wen Xuan Jessabelle (J37)   |
-| Head of Discipline:   |      | Goh Woon Kee (J34)     |
+| Vice-Captain:    |      | Tedra Ng Qian Hua (J31)     |
+
 
 **Coach**
 
