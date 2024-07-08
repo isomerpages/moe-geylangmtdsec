@@ -3,6 +3,7 @@ title: Choir
 permalink: /cca/Aesthetics/Choir/
 description: ""
 third_nav_title: Aesthetics
+variant: markdown
 ---
 ![](/images/2023%20choir.jpg)
 
@@ -33,17 +34,17 @@ third_nav_title: Aesthetics
 
 **Student Leaders**
 
-| President: |  | Espanol Robert Angelo Angeles |
+| President: |  | Janneth Cheong Yu Suan (J35) |
 | -------- | -------- | -------- |
-| Vice President:    |      | Chea Zhi Yu, Amber    |
+| Vice President:    |      | Lee Sien Sophia (J36)    |
 |  Section Leaders:   |      |  Alyssa Tan    |
 |     |      |  Ameile Toh    |
 |     |      |  Amber Cheah    |
-|  Assistant Section Leaders:   |      |   Ng Qian Yi  |
-|     |      |   Yang He Qi  |
-|     |      |   Breana Lim  |
-|     |      |   Espanol Robert  |
-| Librarian:    |      | Saanvi Anil Chugani   |
+|  Assistant Section Leaders:   |      |     |
+|     |      |     |
+|     |      |     |
+|     |      |     |
+| Librarian:    |      |   |
 
 
 **Instructor**

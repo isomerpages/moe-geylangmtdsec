@@ -7,4 +7,6 @@ variant: markdown
 | [Singapore Student Learning Space](https://learning.moe.edu.sg/) |  |https://learning.moe.edu.sg |
 | -------- | -------- | -------- |
 | [Google classroom](https://classroom.google.com/)  |      |  https://classroom.google.com/    |
+| [Classkick](https://classkick.com/)  |      |  https://classkick.com/   |
 | [MySkillsFuture Student Portal](https://www.myskillsfuture.sg/secondary)     |      |         [https://www.myskillsfuture.sg/secondary](https://www.myskillsfuture.sg/secondary)     |
+| [Methodist message](https://www.methodist.org.sg/message/)     |      |         [https://www.methodist.org.sg/message](https://www.methodist.org.sg/message)     |

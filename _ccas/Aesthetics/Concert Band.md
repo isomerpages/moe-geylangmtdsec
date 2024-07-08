@@ -33,10 +33,10 @@ variant: markdown
 
 **Student Leaders**
 
-| Band Major: |  | Quek Li Xuan, Joann |
+| Band Major: |  | Jayden Khoo (J36) |
 | -------- | -------- | -------- |
-| Vice Band Major:    |      | Goh Jia Rong    |
-| Sec 1 I/C:    |      | Lim Qian Yu, Beatrice    |
+| Vice Band Major:    |      | Danie Hazriyan (J32)    |
+
 
 
 **Instructors**
