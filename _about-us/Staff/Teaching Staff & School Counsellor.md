@@ -132,7 +132,7 @@ variant: markdown
 | Mrs Doris Khoo     | [khoo\_siew\_huay\_doris@schools.gov.sg](mailto:khoo_siew_huay_doris@schools.gov.sg)     |      |
 | Mr Chng Kiong Choon     | [chng\_kiong\_choon@schools.gov.sg](mailto:chng_kiong_choon@schools.gov.sg)     |      |
 | Mdm Sng Swee Lian     | [sng\_swee\_lian@schools.gov.sg](mailto:sng_swee_lian@schools.gov.sg)     |      |
-| MRS LIAN YOK KHOON    |  [tan\_yok\_khoon@schools.gov.sg](mailto:tan_yok_khoon@schools.gov.sg)  |
+| Mrs Lian Yok Khoon    |  [tan\_yok\_khoon@schools.gov.sg](mailto:tan_yok_khoon@schools.gov.sg)  |
 
 
 
