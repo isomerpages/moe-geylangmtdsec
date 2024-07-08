@@ -111,7 +111,6 @@ variant: markdown
 | MISS NORASIYA MAN    | [norasiya_man@schools.gov.sg](mailto:norasiya_man@schools.gov.sg)    |     |
 | MR JAMES LIM   | [lim_boon_tiong_james@schools.gov.sg](mailto:lim_boon_tiong_james@schools.gov.sg)     |     |
 | **Peace 4-6** |  |  |
-| MS GAYATHIRI     | [gayathiri\_ilango@schools.gov.sg](mailto:gayathiri_ilango@schools.gov.sg)     |     |
 | MDM YEUNG SUK MUN     | [yeong\_suk\_mun@schools.gov.sg](mailto:yeong_suk_mun@schools.gov.sg)     |     |
 | **Peace 4-7** |  |  |
 | MS TAN KAI WEI   | [tan_kai_wei@schools.gov.sg](mailto:tan_kai_wei@schools.gov.sg)     |     |
