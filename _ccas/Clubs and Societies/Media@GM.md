@@ -64,3 +64,5 @@ variant: markdown
 |      | Jaslyn Tan (J35/P45)     |  Ella Chew  (J37/P47)  |      |      |
 | **2023/24**     | Tan Shi Ying (J34)     |  Zoe Erika (J33)    | Elin Swee (J35)    | Luo Yanxin (J34)     |
 |      |     |      |     |   Foo Xin En, Faith (J33)   |
+| **2024/25**     | Eunice Lee (J35)     |  Jaynie Wong (J34)    | Aaden Anthony Koh (J33)    | Clara Choo (J34)     |
+|      |     |      |     |   Pang Cai Xuan (J36)   |
