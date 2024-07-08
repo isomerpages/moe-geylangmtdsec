@@ -3,6 +3,7 @@ title: Chinese Dance
 permalink: /cca/aesthetics/chinese-dance/
 description: ""
 third_nav_title: Aesthetics
+variant: markdown
 ---
 ![](/images/Header-Photo-1024x683.jpg)
 
@@ -34,11 +35,11 @@ third_nav_title: Aesthetics
 
 **Student Leaders**
 
-| President: |  | Keziah Leong Yahn |
+| President: |  | Chong Min Ler Mindy (J32) |
 | -------- | -------- | -------- |
-| Vice-Presidents:    |      | Tricia Lim Zhi Xuan    |
-|     |      | Megan Lee Yee Ning    |
-| Head of Events and Logistics:   |      | Chung Zhi Xuan    |
+| Vice-Presidents:    |      | Yeo Kai Miou (J32)    |
+|     |      | Li Mier (J32)    |
+
 
 **Instructor**
 
