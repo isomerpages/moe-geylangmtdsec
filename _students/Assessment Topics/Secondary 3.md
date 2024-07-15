@@ -36,7 +36,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Non-narrative Text Comprehension</p>
 </li>
 </ul>
 </td>
@@ -52,7 +52,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Narrative Text Comprehension</p>
 </li>
 </ul>
 </td>
@@ -68,7 +68,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Modified Cloze + Comprehension</p>
 </li>
 </ul>
 </td>
@@ -83,7 +83,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Chapters 6, 7 and 8</p>
 </li>
 </ul>
 </td>
@@ -98,7 +98,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Chapters 5 and 6</p>
 </li>
 </ul>
 </td>
@@ -113,7 +113,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Chapters 6 and 9</p>
 </li>
 </ul>
 </td>
@@ -128,7 +128,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Chapters 5, 7 and 8</p>
 </li>
 </ul>
 </td>
@@ -143,7 +143,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Chapters 7, 8 and 10</p>
 </li>
 </ul>
 </td>
@@ -450,7 +450,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>GI*</p>
 </li>
 </ul>
 </td>
@@ -465,7 +465,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>GI*</p>
 </li>
 </ul>
 </td>
@@ -480,7 +480,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>GI*</p>
 </li>
 </ul>
 </td>
@@ -495,7 +495,10 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Chapter 3</p>
+</li>
+<li>
+<p>Chapter 4</p>
 </li>
 </ul>
 </td>
@@ -510,7 +513,10 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Chapter 3</p>
+</li>
+<li>
+<p>Chapter 4</p>
 </li>
 </ul>
 </td>
@@ -525,7 +531,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>How We Live Now: Essay Question</p>
 </li>
 </ul>
 </td>
@@ -540,7 +546,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>How We Live Now: Essay Question</p>
 </li>
 </ul>
 </td>
