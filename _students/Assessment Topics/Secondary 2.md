@@ -285,7 +285,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>GI*</p>
 </li>
 </ul>
 </td>
@@ -300,7 +300,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>GI*</p>
 </li>
 </ul>
 </td>
@@ -315,7 +315,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>HI*</p>
 </li>
 </ul>
 </td>
@@ -330,7 +330,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>HI*</p>
 </li>
 </ul>
 </td>
@@ -405,16 +405,16 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Structure</p>
+<p>Structures</p>
 </li>
 <li>
-<p>Mechanism</p>
+<p>Mechanisms</p>
 </li>
 <li>
 <p>Aesthetics</p>
 </li>
 <li>
-<p>Orthographic Projection</p>
+<p>Working Drawing</p>
 </li>
 </ul>
 </td>
