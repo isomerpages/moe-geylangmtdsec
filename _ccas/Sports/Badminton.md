@@ -25,22 +25,18 @@ variant: markdown
 | Mr Yip Cheng Hou (OIC) |  |  |
 | -------- | -------- | -------- |
 | Ms Fahariah Yeo Bte Noorhisham     |      |      |
-| Mr Bernard Cheong     |      |      |
 | Miss Tan Lay Ming     |      |      | 
 
 
 **Student Leaders**
 
 
-| Captains: |  | Lim Yong Jun (H2-6) |
+| Captain (School Team B Boys) |   | Lim Yong Jun (J36) |
 | -------- | -------- | -------- |
-|      |     | Lai Zu Tong, Zovonne (H2-5)     |
-| Vice-Captains:       |     | Lee Yu Zhe, Nigel (H2-3)     |
-|        |     | Jessica Feng Shaowen (H2-7)      |
-| EXCO Heads Training:     |     | Lim Yong Jun (H2-6)      |
-|       |     | Pang Si En, Joey (H2-1)     |
-| Peer Support:     |     | Jayden Wong Yan Kai (J3-3)    |
-|        |     | Lee Ke En (J3-6)       |
+|  Captain (School Team B Girls)     |     | Lai Zu Tong, Zovonne (J36)     |
+| Vice-Captain (School Team B Boys)       |     | Lee Yu Zhe, Nigel (J33)     |
+|  Vice-Captain (School Team B Girls)      |     | Jessica Feng Shaowen (J32)      |
+
 
 
 

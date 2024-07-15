@@ -30,8 +30,8 @@ variant: markdown
 
 **Student Leaders**
 
-| Captain: |  | Fong Shu Ting Emma |
-| Vice-Captain:  | | Queenie Lim Jie Ying |
+| Captain: |  | Phoebe Lim Xue Tin (J33) |
+| Vice-Captain:  | | Grace Wong En Ci (J31) |
 
 
 

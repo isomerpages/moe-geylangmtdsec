@@ -3,6 +3,7 @@ title: Media Resources (MR)
 permalink: /cca/club-and-society/media-resource-mr/
 description: ""
 third_nav_title: Clubs and Societies
+variant: markdown
 ---
 ![](/images/2023%20mr.JPG)
 
@@ -23,8 +24,7 @@ third_nav_title: Clubs and Societies
 
 **Student Leaders**
 
-| Chairperson: |  | Pong Song Jie (J36) |
+| Chairperson: |  | Ainul Mardhiyyah (J32) |
 | -------- | -------- | -------- |
-| Vice Chairperson :     |      | Chui Lok Xun (J37)     |
-| Training IC :     |      | Daryl Goh (J37)     |
-| Logistics IC :     |      | Kimberly Tan Wan Ting (J31)     |
+| Vice Chairperson :     |      | Lim Jing Yew (J35)     |
+|     |      |  Abdullah Bin Rashid (J37)     |
