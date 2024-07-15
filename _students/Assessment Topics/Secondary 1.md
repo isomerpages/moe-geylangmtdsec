@@ -84,7 +84,7 @@ the Common Test 3 Schedule.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Chapters 6, 7, 8, 9 and 10</p>
 </li>
 </ul>
 </td>
@@ -99,7 +99,7 @@ the Common Test 3 Schedule.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Chapters 6, 7, 8 and 9</p>
 </li>
 </ul>
 </td>
@@ -114,7 +114,7 @@ the Common Test 3 Schedule.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Chapters 5, 6, 7 and 8</p>
 </li>
 </ul>
 </td>
