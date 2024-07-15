@@ -6,7 +6,8 @@ description: ""
 third_nav_title: Assessment Topics
 ---
 <h2>2024</h2>
-<p>Click here for the Common Test 3 Schedule.</p>
+<p>Click <a href="https://www.geylangmethodistsec.moe.edu.sg/files/2024/2024_Common_Test_3_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+the Common Test 3 Schedule.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
