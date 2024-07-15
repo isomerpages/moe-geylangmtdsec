@@ -420,7 +420,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>II*</p>
 </li>
 </ul>
 </td>
@@ -435,7 +435,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>II*</p>
 </li>
 </ul>
 </td>
@@ -606,7 +606,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Project Work*</p>
 </li>
 </ul>
 </td>
@@ -651,7 +651,10 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Chapter 8 - Cash</p>
+</li>
+<li>
+<p>Chapter 9 - Inventories</p>
 </li>
 </ul>
 </td>
@@ -666,7 +669,10 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Chapter 8 - Cash</p>
+</li>
+<li>
+<p>Chapter 9 - Inventories</p>
 </li>
 </ul>
 </td>
