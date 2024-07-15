@@ -83,7 +83,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Chapters 6, 7, 8, 9 and 10</p>
 </li>
 </ul>
 </td>
@@ -98,7 +98,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Chapters 6, 7, 8, 9 and 10</p>
 </li>
 </ul>
 </td>
@@ -113,7 +113,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Chapters 7, 8 and 9</p>
 </li>
 </ul>
 </td>
@@ -128,7 +128,7 @@ third_nav_title: Assessment Topics
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Chapters 13,14 and 15</p>
+<p>Chapters 13, 14 and 15</p>
 </li>
 </ul>
 </td>
