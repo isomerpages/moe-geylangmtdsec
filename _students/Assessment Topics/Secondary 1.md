@@ -421,7 +421,10 @@ the Common Test 3 Schedule.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Chapter 1: Balanced Diet</p>
+</li>
+<li>
+<p>Chapter 6: Basic Money Management</p>
 </li>
 </ul>
 </td>
