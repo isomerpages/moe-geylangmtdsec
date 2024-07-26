@@ -310,7 +310,7 @@ the Common Test 3 Schedule.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>单元四</p>
 </li>
 </ul>
 </td>
@@ -326,7 +326,7 @@ the Common Test 3 Schedule.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>单元三、四</p>
 </li>
 </ul>
 </td>
@@ -342,7 +342,7 @@ the Common Test 3 Schedule.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>单元四</p>
 </li>
 </ul>
 </td>
@@ -358,7 +358,7 @@ the Common Test 3 Schedule.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>单元四</p>
 </li>
 </ul>
 </td>
@@ -374,7 +374,8 @@ the Common Test 3 Schedule.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>P2 exam format Sect A &amp; B:</p>
+<p>Cloze Passage, Word Replacement, Text Comprehension, Objective Comprehension</p>
 </li>
 </ul>
 </td>
@@ -390,7 +391,8 @@ the Common Test 3 Schedule.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>P2 exam format Sect A &amp; B:</p>
+<p>Cloze Passage, Complete the Dialogue, Objective Comprehension</p>
 </li>
 </ul>
 </td>
@@ -406,7 +408,8 @@ the Common Test 3 Schedule.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>P2 exam format (E-Exam):</p>
+<p>Grammar &amp; Vocab, Objective Comprehension</p>
 </li>
 </ul>
 </td>
@@ -577,7 +580,7 @@ the Common Test 3 Schedule.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Spreadsheet</p>
 </li>
 </ul>
 </td>
