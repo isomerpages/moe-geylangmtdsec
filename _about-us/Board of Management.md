@@ -2,6 +2,7 @@
 title: Board of Management
 permalink: /about-us/board-of-management/
 description: ""
+variant: markdown
 ---
 ![](/images/_MG_5534-3.jpg)
 
@@ -11,7 +12,7 @@ The BOM works collaboratively with other partners of the school to enrich the sc
 
 The BOM acknowledges the work of the staff and has implemented the five-year Long Service Award since 2005. It also initiated the re-naming of the school to better reflect the oneness of the GM family of schools. The BOM led in the re-designing of the school crest launched in Aug 2007.
 
-### Board of Management (BOM) 2022
+### Board of Management (BOM) 2024
 
 
 |  	|  	|
@@ -19,12 +20,13 @@ The BOM acknowledges the work of the staff and has implemented the five-year Lon
 | Chairman 	| Mr Khoong Hock Yun 	|
 | Treasurer 	| Mr. Chou Fang Soong	|
 | Hon. Treasurer 	| Mr. Wong Kwang Yong 	|
-| Hon. Secretary 	| Mdm Jennifer Han (Mrs. Jennifer Choy)  – Principal, GMS(Primary)	|
+| Hon. Secretary 	| Mrs Daphne Yeoh  – Principal, GMS(Primary)	|
 | Hon. Secretary 	| Mr. Victor Owyong  – Principal, GMS(Secondary)	|
 | Members 	| Mr. Tay Kah Ann Peter |
+|  	| Rev Simon Cheo |
 |  	| Mr. Kim Seah Kim Teck |
 |  	| Dr. Raymond Teo Cheng Soon |
-|  	| Mdm. Teo Sek Jen |
+|  	| Ms Pauline Lee Miin Jiun - Alumni President |
 |  	| Mdm Ng Cher Siang, Cheryl  – Alumni Rep
  |
 
