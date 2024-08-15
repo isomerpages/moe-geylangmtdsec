@@ -3,8 +3,8 @@ title: Computer Laboratory
 permalink: /students/Rules-for-Special-Rooms/computer-lab/
 description: ""
 third_nav_title: Rules for Special Rooms
+variant: markdown
 ---
-
 ### **Computer Laboratory Safety Rules**
 
 The computer laboratory is another venue for teaching and learning. Hence, students are to use the computer laboratory only in the presence of a teacher. There should not be any playing of computer games, surfing the net and listening to music without the teacher's supervision and permission.
@@ -22,7 +22,7 @@ When you are in the computer laboratory, proper conduct must be maintained at al
 
 Before leaving the laboratory, check that you have: 
 
-*   carried out a proper shutdown of the computer pushed in the chair before leaving the laboratory switched off all lights / fans / air conditioners
+*   carried out a proper shutdown of the computer, pushed in the chair before leaving the laboratory, switched off all lights / fans / air conditioners
 
 To help ensure that you continue to enjoy the facilities in the computer laboratory, please:
 
