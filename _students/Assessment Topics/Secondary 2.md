@@ -23,7 +23,7 @@ the End-Of-Year Examination Schedule.</p>
 <p>Indicative Level</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Term 3</p>
+<p>Term 4</p>
 </th>
 </tr>
 <tr>
