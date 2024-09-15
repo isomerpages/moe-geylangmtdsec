@@ -342,7 +342,12 @@ the End-Of-Year Examination Schedule.</p>
 <p>G3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapters 1 to 6 [ expcet sub- sections spatial distribution and sustainable
+management of mangroves]</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -353,7 +358,12 @@ the End-Of-Year Examination Schedule.</p>
 <p>G2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapters 1 to 6 [ expcet sub- sections spatial distribution and sustainable
+management of mangroves]</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -364,7 +374,11 @@ the End-Of-Year Examination Schedule.</p>
 <p>G3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapters 2,3, 4 and 5</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -375,7 +389,11 @@ the End-Of-Year Examination Schedule.</p>
 <p>G2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapters 3,4 and 5</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
