@@ -6,6 +6,398 @@ description: ""
 third_nav_title: Assessment Topics
 ---
 <h3>2024</h3>
+<p>Click <a href="/files/2024/2024_EOY_Exam_Time_Table_S1.pdf" rel="noopener nofollow" target="_blank">here</a> for
+the End-Of-Year Examination Schedule.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Subject</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Indicative Level</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Term 3</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>English</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>G3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>English</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>G2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>English</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>G1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mathematics</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>G3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mathematics</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>G2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mathematics</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>G1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Science</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>G3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Science</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>G2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Science</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>G1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Mother Tongue (Higher Chinese)</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>G3</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Paper 1</p>
+</li>
+</ul>
+<p>1. 实用文 －2选1</p>
+<p>2. 作文 －2选1</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Paper 2</p>
+</li>
+</ul>
+<p>1. 填写词语</p>
+<p>2. 选择词语</p>
+<p>3. 完成句子</p>
+<p>4. 综合填空</p>
+<p>5. 阅读理解一</p>
+<p>6. 阅读理解二</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Mother Tongue (Chinese)</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>G3</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Paper 1</p>
+</li>
+</ul>
+<p>一 实用文</p>
+<p>（2题选1题）</p>
+<p>二 作文</p>
+<p>（2题选1题）</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Paper 2</p>
+</li>
+</ul>
+<p>单元一至单元五</p>
+<p>一 填写汉字</p>
+<p>二 辨词填空</p>
+<p>三 造句/完成句子</p>
+<p>四 选词填空</p>
+<p>五 阅读理解一</p>
+<p>六 阅读理解二</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Mother Tongue (Chinese)</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>G2</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Paper 1</p>
+</li>
+</ul>
+<p>一 实用文</p>
+<p>（2题选1题）</p>
+<p>二 作文</p>
+<p>（2题选1题）</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Paper 2</p>
+</li>
+</ul>
+<p>单元二至单元五</p>
+<p>1.填写汉字</p>
+<p>2.词语搭配</p>
+<p>3.改换句子和</p>
+<p>　完成句子</p>
+<p>4.综合填空</p>
+<p>5.阅读理解一</p>
+<p>6.阅读理解二</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Mother Tongue (Chinese)</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>G1</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Paper 1</p>
+</li>
+</ul>
+<p>网络贴文</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Paper 2</p>
+</li>
+</ul>
+<p>单元一至单元五</p>
+<p>1. 语文应用</p>
+<p>2. 填写词语</p>
+<p>3. 词语搭配</p>
+<p>4. 阅读理解一</p>
+<p>5. 阅读理解二</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Mother Tongue (Malay)</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>G3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Mother Tongue (Malay)</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>G2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Mother Tongue (Malay)</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>G1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Geography</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>G3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Geography</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>G2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>History</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>G3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>History</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>G2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Literature</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>G3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Literature</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>G2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Art</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Common Curriculum</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Design and Technology</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Common Curriculum</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Design Project*</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Food and Consumer Education</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Common Curriculum</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>* Alternative Assessment</strong>
+</p>
+<p></p>
+<p></p>
+<p></p>
 <p>Click <a href="/files/2024/2024_Common_Test_3_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the Common Test 3 Schedule.</p>
 <table style="minWidth: 75px">
