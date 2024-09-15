@@ -322,7 +322,11 @@ the End-Of-Year Examination Schedule.</p>
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapters 7 to 11</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -333,7 +337,11 @@ the End-Of-Year Examination Schedule.</p>
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapters 7 to 11</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -344,7 +352,11 @@ the End-Of-Year Examination Schedule.</p>
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapters 6 to 8</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -355,7 +367,11 @@ the End-Of-Year Examination Schedule.</p>
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapters 6 to 8</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
