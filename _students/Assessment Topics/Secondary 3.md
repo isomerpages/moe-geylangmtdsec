@@ -6,6 +6,704 @@ description: ""
 third_nav_title: Assessment Topics
 ---
 <h2>2024</h2>
+<p></p>
+<p>Click <a href="/files/2024_EOY_Exam_Time_Table_S3.pdf" rel="noopener nofollow" target="_blank">here</a> for
+the End-Of-Year Examination Schedule.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Subject</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Stream</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Term 3</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>English</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Non-narrative Text Comprehension</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>English</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N(A)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Narrative Text Comprehension</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>English</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N(T)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Modified Cloze + Comprehension</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mathematics</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapters 6, 7 and 8</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mathematics</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(A)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapters 5 and 6</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mathematics</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(T)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapters 6 and 9</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Additional Mathematics</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapters 5, 7 and 8</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Additional Mathematics</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(A)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapters 7, 8 and 10</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Biology</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapters 6, 7 and 8 (until 8.2)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Chemistry</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapters 5, 6, 14 and 15 (until 15.2)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Physics</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapters 7, 8, 9, 10 and 12</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Science (Biology)</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapters 5 and 6</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Science (Chemistry)</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapters 5,6,11 and 12</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Science (Physics)</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapters 6, 7, 8, 9 and 11</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Science (Biology)</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(A)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapters 5 and 6 (until 6.2)</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Science (Chemistry)</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(A)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapters 5, 6 and 11</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Science (Physics)</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(A)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapters 6, 7 and 8</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Science N(T)</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(T)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapters 8.1, 8.2, 10 and 11</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Mother Tongue (Higher Chinese)</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Paper 1</p>
+<p>1. 实用文 －2选1</p>
+<p>2. 作文 －3选1</p>
+<p>Paper 2</p>
+<p>1. 短文填充</p>
+<p>2. 病句改正</p>
+<p>3. 阅读理解一</p>
+<p>4. 阅读理解二</p>
+<p>5. 片段缩写</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Mother Tongue (Chinese)</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Paper 1</p>
+<p>1. 实用文　</p>
+<p>　－2选1</p>
+<p>2. 作文</p>
+<p>　－3选1</p>
+<p>Paper 2</p>
+<p>1. 语文应用</p>
+<p>2. 阅读理解一</p>
+<p>3. 阅读理解二</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Mother Tongue (Chinese)</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(A)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Paper 1</p>
+<p>1. 实用文　</p>
+<p>　－2选1</p>
+<p>2. 作文</p>
+<p>　－3选1</p>
+<p>Paper 2</p>
+<p>1.词语辩证</p>
+<p>2.词语选择</p>
+<p>3.综合填空</p>
+<p>4.阅读理解一</p>
+<p>5.阅读理解二</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Mother Tongue (Chinese)</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(T)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Paper 1</p>
+<p>试卷一：写作（10 分）。《网络贴文》请根据网络贴文的内容，写出你的回应。（字数在75以上）</p>
+<p>Paper 2</p>
+<p>试卷二：语文应用与阅读理解（25分）。2个简短对话或短文（5题5分）。一个实用性语料如宣传海报、广告、通告等（5题10分）。2篇短文（5题10分）。</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Mother Tongue (Malay)</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>P2 exam format Sect A &amp; B:</p>
+<p>Cloze Passage, Word Replacement, Text Comprehension, Objective Comprehension</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Mother Tongue (Malay)</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(A)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>P2 exam format Sect A &amp; B:</p>
+<p>Cloze Passage, Complete the Dialogue, Objective Comprehension</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Mother Tongue (Malay)</strong>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(T)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>P2 exam format (E-Exam):</p>
+<p>Grammar &amp; Vocab, Objective Comprehension</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Social Studies</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>II*</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Social Studies</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(A)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>II*</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Core Geography</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>GI*</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Elective Geography</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Elective Geography</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(A)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Core History</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+<li>
+<p></p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Elective History</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+<li>
+<p></p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Elective Literature</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Elective Literature</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(A)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Art</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp / N(A)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Computer Applications</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(T)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Design &amp; Technology</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp / N(A) / N(T)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>All chapters except Chapter 7</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Elements of Business Skills</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(T)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Nutrition &amp; Food Science</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp / N(A)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Nutrition &amp; Food Science</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(T)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Principles of Accounts</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Exp</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+<li>
+<p></p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Principles of Accounts</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>N(A)</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+<li>
+<p></p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>* Alternative Assessment</strong>
+</p>
+<p></p>
+<p></p>
+<p></p>
 <p>Click <a href="/files/2024/2024_Common_Test_3_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the Common Test 3 Schedule.</p>
 <table style="minWidth: 75px">
