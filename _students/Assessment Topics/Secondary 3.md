@@ -470,7 +470,13 @@ the End-Of-Year Examination Schedule.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Geography in EVeryday Life (All topics)</p>
+</li>
+<li>
+<p>Tourism (All topics)</p>
+</li>
+<li>
+<p>Climate (Topic 1)</p>
 </li>
 </ul>
 </td>
@@ -485,7 +491,10 @@ the End-Of-Year Examination Schedule.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Geography in Everyday Life (All topics)</p>
+</li>
+<li>
+<p>Tectonics (Topics 1.1 - 2.4)</p>
 </li>
 </ul>
 </td>
@@ -515,10 +524,16 @@ the End-Of-Year Examination Schedule.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Chapter 1: British Malaya</p>
 </li>
 <li>
-<p></p>
+<p>Chapter 6: Militarist Japan</p>
+</li>
+<li>
+<p>Chapter 7: WW2 in Europe</p>
+</li>
+<li>
+<p>Chapter 8: WW2 in AP</p>
 </li>
 </ul>
 </td>
@@ -533,10 +548,16 @@ the End-Of-Year Examination Schedule.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Chapter 2: Case study of Nazi Germany</p>
 </li>
 <li>
-<p></p>
+<p>Chapter 3: Militarist Japan</p>
+</li>
+<li>
+<p>Chapter 4: WW2 in Europe</p>
+</li>
+<li>
+<p>Chapter 5: WW2 in AP</p>
 </li>
 </ul>
 </td>
