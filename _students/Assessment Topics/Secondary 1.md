@@ -261,6 +261,22 @@ the End-Of-Year Examination Schedule.</p>
 <p>G3</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Paper 1</p>
+</li>
+</ul>
+<p>1. Penulisan Fungsional (Blog)</p>
+<p>2. Karangan (Penceritaan Semula &amp; Naratif)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Paper 2 (MCQ)</p>
+</li>
+</ul>
+<p>1. Melengkapkan Teks</p>
+<p>2. Menggantikan Perkataan</p>
+<p>3. Kefahaman Objektif (Salah/Betul &amp; MCQ)</p>
+<p>4. Kefahaman Subjektif</p>
 <p></p>
 </td>
 </tr>
@@ -273,6 +289,22 @@ the End-Of-Year Examination Schedule.</p>
 <p>G2</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Paper 1</p>
+</li>
+</ul>
+<p>1. Penulisan Fungsional (Blog)</p>
+<p>2. Karangan (Penceritaan Semula &amp; Naratif)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Paper 2 (MCQ)</p>
+</li>
+</ul>
+<p>1. Melengkapkan Teks</p>
+<p>2. Melengkapkan Dialog</p>
+<p>3. Kefahaman Objektif</p>
+<p>4. Kefahaman Subjektif</p>
 <p></p>
 </td>
 </tr>
@@ -285,6 +317,20 @@ the End-Of-Year Examination Schedule.</p>
 <p>G1</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Paper 1</p>
+</li>
+</ul>
+<p>1. Penulisan Fungsional</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Paper 2 (MCQ)</p>
+</li>
+</ul>
+<p>1. Kosa Kata</p>
+<p>2. Tatabahasa</p>
+<p>3. Kefahaman Objektif</p>
 <p></p>
 </td>
 </tr>
