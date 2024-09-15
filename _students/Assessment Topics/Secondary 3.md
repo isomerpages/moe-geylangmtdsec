@@ -36,11 +36,7 @@ the End-Of-Year Examination Schedule.</p>
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Non-narrative Text Comprehension</p>
-</li>
-</ul>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -52,11 +48,7 @@ the End-Of-Year Examination Schedule.</p>
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Narrative Text Comprehension</p>
-</li>
-</ul>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -68,11 +60,7 @@ the End-Of-Year Examination Schedule.</p>
 <p>N(T)</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Modified Cloze + Comprehension</p>
-</li>
-</ul>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -83,11 +71,7 @@ the End-Of-Year Examination Schedule.</p>
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Chapters 6, 7 and 8</p>
-</li>
-</ul>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -98,11 +82,7 @@ the End-Of-Year Examination Schedule.</p>
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Chapters 5 and 6</p>
-</li>
-</ul>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -113,11 +93,7 @@ the End-Of-Year Examination Schedule.</p>
 <p>N(T)</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Chapters 6 and 9</p>
-</li>
-</ul>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -128,11 +104,7 @@ the End-Of-Year Examination Schedule.</p>
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Chapters 5, 7 and 8</p>
-</li>
-</ul>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -143,11 +115,7 @@ the End-Of-Year Examination Schedule.</p>
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Chapters 7, 8 and 10</p>
-</li>
-</ul>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -158,11 +126,7 @@ the End-Of-Year Examination Schedule.</p>
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Chapters 6, 7 and 8 (until 8.2)</p>
-</li>
-</ul>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -173,11 +137,7 @@ the End-Of-Year Examination Schedule.</p>
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Chapters 5, 6, 14 and 15 (until 15.2)</p>
-</li>
-</ul>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -188,11 +148,7 @@ the End-Of-Year Examination Schedule.</p>
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Chapters 7, 8, 9, 10 and 12</p>
-</li>
-</ul>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -203,11 +159,7 @@ the End-Of-Year Examination Schedule.</p>
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Chapters 5 and 6</p>
-</li>
-</ul>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -218,11 +170,7 @@ the End-Of-Year Examination Schedule.</p>
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Chapters 5,6,11 and 12</p>
-</li>
-</ul>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -235,7 +183,7 @@ the End-Of-Year Examination Schedule.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Chapters 6, 7, 8, 9 and 11</p>
+<p></p>
 </li>
 </ul>
 </td>
@@ -250,7 +198,7 @@ the End-Of-Year Examination Schedule.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Chapters 5 and 6 (until 6.2)</p>
+<p></p>
 </li>
 </ul>
 </td>
@@ -265,7 +213,7 @@ the End-Of-Year Examination Schedule.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Chapters 5, 6 and 11</p>
+<p></p>
 </li>
 </ul>
 </td>
@@ -278,11 +226,7 @@ the End-Of-Year Examination Schedule.</p>
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Chapters 6, 7 and 8</p>
-</li>
-</ul>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -295,7 +239,7 @@ the End-Of-Year Examination Schedule.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Chapters 8.1, 8.2, 10 and 11</p>
+<p></p>
 </li>
 </ul>
 </td>
@@ -309,10 +253,18 @@ the End-Of-Year Examination Schedule.</p>
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Paper 1</p>
+</li>
+</ul>
 <p>1. 实用文 －2选1</p>
 <p>2. 作文 －3选1</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Paper 2</p>
+</li>
+</ul>
 <p>1. 短文填充</p>
 <p>2. 病句改正</p>
 <p>3. 阅读理解一</p>
@@ -330,12 +282,20 @@ the End-Of-Year Examination Schedule.</p>
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Paper 1</p>
+</li>
+</ul>
 <p>1. 实用文　</p>
 <p>　－2选1</p>
 <p>2. 作文</p>
 <p>　－3选1</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Paper 2</p>
+</li>
+</ul>
 <p>1. 语文应用</p>
 <p>2. 阅读理解一</p>
 <p>3. 阅读理解二</p>
@@ -350,12 +310,20 @@ the End-Of-Year Examination Schedule.</p>
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Paper 1</p>
+</li>
+</ul>
 <p>1. 实用文　</p>
 <p>　－2选1</p>
 <p>2. 作文</p>
 <p>　－3选1</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Paper 2</p>
+</li>
+</ul>
 <p>1.词语辩证</p>
 <p>2.词语选择</p>
 <p>3.综合填空</p>
@@ -373,9 +341,17 @@ the End-Of-Year Examination Schedule.</p>
 <p>N(T)</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Paper 1</p>
+</li>
+</ul>
 <p>试卷一：写作（10 分）。《网络贴文》请根据网络贴文的内容，写出你的回应。（字数在75以上）</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Paper 2</p>
+</li>
+</ul>
 <p>试卷二：语文应用与阅读理解（25分）。2个简短对话或短文（5题5分）。一个实用性语料如宣传海报、广告、通告等（5题10分）。2篇短文（5题10分）。</p>
 </td>
 </tr>
@@ -390,10 +366,22 @@ the End-Of-Year Examination Schedule.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>P2 exam format Sect A &amp; B:</p>
-<p>Cloze Passage, Word Replacement, Text Comprehension, Objective Comprehension</p>
+<p>Paper 1</p>
 </li>
 </ul>
+<p>1. Penulisan Fungsional (Blog &amp; E-mel)</p>
+<p>2. Karangan (Penceritaan Semula, Naratif dan Ekspositori)</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Paper 2 (MCQ)</p>
+</li>
+</ul>
+<p>1. Melengkapkan Teks</p>
+<p>2. Menggantikan Perkataan</p>
+<p>3. Kefahaman Objektif (Salah/Betul &amp; MCQ)</p>
+<p>4. Kefahaman Subjektif</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -407,10 +395,20 @@ the End-Of-Year Examination Schedule.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>P2 exam format Sect A &amp; B:</p>
-<p>Cloze Passage, Complete the Dialogue, Objective Comprehension</p>
+<p>Paper 1</p>
 </li>
 </ul>
+<p>1. Penulisan Fungsional (Blog &amp; E-mel)</p>
+<p>2. Karangan (Penceritaan Semula, Naratif dan Ekspositori)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Paper 2 (MCQ)</p>
+</li>
+</ul>
+<p>1. Melengkapkan Teks</p>
+<p>2. Melengkapkan Dialog</p>
+<p>3. Kefahaman Objektif</p>
+<p>4. Kefahaman Subjektif</p>
 </td>
 </tr>
 <tr>
@@ -422,12 +420,22 @@ the End-Of-Year Examination Schedule.</p>
 <p>N(T)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>e-Exam</p>
+<p>(both Paper 1 &amp; 2)</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>P2 exam format (E-Exam):</p>
-<p>Grammar &amp; Vocab, Objective Comprehension</p>
+<p>Paper 1</p>
 </li>
 </ul>
+<p>1. Penulisan Fungsional</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Paper 2 (MCQ)</p>
+</li>
+</ul>
+<p>1. Kosa Kata</p>
+<p>2. Tatabahasa</p>
+<p>3. Kefahaman Objektif</p>
 </td>
 </tr>
 <tr>
@@ -438,11 +446,7 @@ the End-Of-Year Examination Schedule.</p>
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>II*</p>
-</li>
-</ul>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -453,11 +457,7 @@ the End-Of-Year Examination Schedule.</p>
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>II*</p>
-</li>
-</ul>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -470,7 +470,7 @@ the End-Of-Year Examination Schedule.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>GI*</p>
+<p></p>
 </li>
 </ul>
 </td>
