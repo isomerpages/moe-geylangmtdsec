@@ -35,7 +35,18 @@ the End-Of-Year Examination Schedule.</p>
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Paper 1 Writing (Editing, Situational Writing: Formal Email, Continuous
+Writing: Personal Recount/ Reflective/ Discursive Writing)</p>
+</li>
+<li>
+<p>Paper 2 Comprehension</p>
+</li>
+<li>
+<p>Paper 3 Listening Comprehension</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -47,7 +58,18 @@ the End-Of-Year Examination Schedule.</p>
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Paper 1 Writing (Editing, Situational Writing: Formal Email, Continuous
+Writing: Personal Recount/ Reflective/ Discursive Writing)</p>
+</li>
+<li>
+<p>Paper 2 Comprehension</p>
+</li>
+<li>
+<p>Paper 3 Listening Comprehension</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -59,7 +81,18 @@ the End-Of-Year Examination Schedule.</p>
 <p>N(T)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Paper 1 Writing (Editing, Situational Writing: Formal Email, Continuous
+Writing: Discursive/ Descriptive Writing)</p>
+</li>
+<li>
+<p>Paper 2 Comprehension</p>
+</li>
+<li>
+<p>Paper 3 Listening Comprehension</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -393,7 +426,7 @@ the End-Of-Year Examination Schedule.</p>
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Guided Question: Animal Farm, and Unseen Poetry</p>
 </td>
 </tr>
 <tr>
@@ -404,7 +437,7 @@ the End-Of-Year Examination Schedule.</p>
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Passage-Based Question: Boy in the Striped Pyjamas, and Unseen Poetry</p>
 </td>
 </tr>
 <tr>
