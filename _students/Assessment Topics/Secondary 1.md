@@ -437,7 +437,14 @@ management of mangroves]</p>
 <p>G3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Guided Essay: Wonder</p>
+</li>
+<li>
+<p>Passage-Based Question: Absence</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -448,7 +455,14 @@ management of mangroves]</p>
 <p>G2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Guided Essay: Wonder</p>
+</li>
+<li>
+<p>Passage-Based Question: Absence</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
