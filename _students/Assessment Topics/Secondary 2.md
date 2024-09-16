@@ -231,7 +231,18 @@ the End-Of-Year Examination Schedule.</p>
 <p>N(T)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Paper 1</p>
+<p>1. 语文应用</p>
+</li>
+<li>
+<p>Paper 2</p>
+<p>1. 语文应用</p>
+<p>2. 阅读理解一</p>
+<p>3. 阅读理解二</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
