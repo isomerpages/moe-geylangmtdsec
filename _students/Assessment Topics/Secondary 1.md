@@ -35,7 +35,18 @@ the End-Of-Year Examination Schedule.</p>
 <p>G3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Paper 1: Writing (Editing, Situational Writing: Informal Email, Continuous
+Writing: Reflective Recount)</p>
+</li>
+<li>
+<p>Paper 2: Comprehension</p>
+</li>
+<li>
+<p>Paper 3: Listening Comprehension</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -47,7 +58,18 @@ the End-Of-Year Examination Schedule.</p>
 <p>G2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Paper 1: Writing (Editing, Situational Writing: Informal Email, Continuous
+Writing: Reflective Recount)</p>
+</li>
+<li>
+<p>Paper 2: Comprehension</p>
+</li>
+<li>
+<p>Paper 3: Listening Comprehension</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -59,7 +81,18 @@ the End-Of-Year Examination Schedule.</p>
 <p>G1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Paper 1: Writing (Editing, Situational Writing: Informal Email, Continuous
+Writing: Reflective Recount)</p>
+</li>
+<li>
+<p>Paper 2: Comprehension</p>
+</li>
+<li>
+<p>Paper 3: Listening Comprehension</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -139,14 +172,14 @@ the End-Of-Year Examination Schedule.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 1</p>
+<p>Paper 1:</p>
 </li>
 </ul>
 <p>1. 实用文 －2选1</p>
 <p>2. 作文 －2选1</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 2</p>
+<p>Paper 2:</p>
 </li>
 </ul>
 <p>1. 填写词语</p>
@@ -169,7 +202,7 @@ the End-Of-Year Examination Schedule.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 1</p>
+<p>Paper 1:</p>
 </li>
 </ul>
 <p>一 实用文</p>
@@ -178,7 +211,7 @@ the End-Of-Year Examination Schedule.</p>
 <p>（2题选1题）</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 2</p>
+<p>Paper 2:</p>
 </li>
 </ul>
 <p>单元一至单元五</p>
@@ -201,7 +234,7 @@ the End-Of-Year Examination Schedule.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 1</p>
+<p>Paper 1:</p>
 </li>
 </ul>
 <p>一 实用文</p>
@@ -210,7 +243,7 @@ the End-Of-Year Examination Schedule.</p>
 <p>（2题选1题）</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 2</p>
+<p>Paper 2:</p>
 </li>
 </ul>
 <p>单元二至单元五</p>
@@ -235,13 +268,13 @@ the End-Of-Year Examination Schedule.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 1</p>
+<p>Paper 1:</p>
 </li>
 </ul>
 <p>网络贴文</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 2</p>
+<p>Paper 2:</p>
 </li>
 </ul>
 <p>单元一至单元五</p>
@@ -263,14 +296,14 @@ the End-Of-Year Examination Schedule.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 1</p>
+<p>Paper 1:</p>
 </li>
 </ul>
 <p>1. Penulisan Fungsional (Blog)</p>
 <p>2. Karangan (Penceritaan Semula &amp; Naratif)</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 2 (MCQ)</p>
+<p>Paper 2: (MCQ)</p>
 </li>
 </ul>
 <p>1. Melengkapkan Teks</p>
@@ -291,14 +324,14 @@ the End-Of-Year Examination Schedule.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 1</p>
+<p>Paper 1:</p>
 </li>
 </ul>
 <p>1. Penulisan Fungsional (Blog)</p>
 <p>2. Karangan (Penceritaan Semula &amp; Naratif)</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 2 (MCQ)</p>
+<p>Paper 2: (MCQ)</p>
 </li>
 </ul>
 <p>1. Melengkapkan Teks</p>
@@ -319,13 +352,13 @@ the End-Of-Year Examination Schedule.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 1</p>
+<p>Paper 1:</p>
 </li>
 </ul>
 <p>1. Penulisan Fungsional</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 2 (MCQ)</p>
+<p>Paper 2: (MCQ)</p>
 </li>
 </ul>
 <p>1. Kosa Kata</p>
