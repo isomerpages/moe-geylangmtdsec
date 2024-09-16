@@ -36,7 +36,18 @@ the End-Of-Year Examination Schedule.</p>
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Paper 1 Writing (Editing, Situational Writing:Recommendation Report, Continuous
+Writing: Discursive/ Argumentative/ Descriptive Writing)</p>
+</li>
+<li>
+<p>Paper 2 Comprehension</p>
+</li>
+<li>
+<p>Paper 3 Listening Comprehension</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -48,7 +59,10 @@ the End-Of-Year Examination Schedule.</p>
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Paper 1 Writing (Editing, Situational Writing:Recommendation Report, Continuous
+Writing: Discursive/ Argumentative/ Descriptive Writing)</p>
+<p>Paper 2 Comprehension</p>
+<p>Paper 3 Listening Comprehension</p>
 </td>
 </tr>
 <tr>
@@ -572,7 +586,8 @@ the End-Of-Year Examination Schedule.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Passage Based Question or Essay Question from How We Live Now and Unseen
+Poetry</p>
 </li>
 </ul>
 </td>
@@ -587,7 +602,8 @@ the End-Of-Year Examination Schedule.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Passage Based Question or Essay Question from How We Live Now and Unseen
+Poetry</p>
 </li>
 </ul>
 </td>
