@@ -38,7 +38,8 @@ the End-Of-Year Examination Schedule.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 1 Writing (Editing, Situational Writing:Recommendation Report, Continuous
+<p>Paper 1</p>
+<p>Writing (Editing, Situational Writing:Recommendation Report, Continuous
 Writing: Discursive/ Argumentative/ Descriptive Writing)</p>
 </li>
 <li>
@@ -59,10 +60,19 @@ Writing: Discursive/ Argumentative/ Descriptive Writing)</p>
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Paper 1 Writing (Editing, Situational Writing:Recommendation Report, Continuous
+<ul data-tight="true" class="tight">
+<li>
+<p>Paper 1</p>
+<p>Writing (Editing, Situational Writing:Recommendation Report, Continuous
 Writing: Discursive/ Argumentative/ Descriptive Writing)</p>
+</li>
+<li>
 <p>Paper 2 Comprehension</p>
+</li>
+<li>
 <p>Paper 3 Listening Comprehension</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -74,7 +84,18 @@ Writing: Discursive/ Argumentative/ Descriptive Writing)</p>
 <p>N(T)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Paper 1 Writing (Editing, Situational Writing: Article/ Report, Continuous
+Writing: Reflective Recount/ Discursive/ Descriptive Writing)</p>
+</li>
+<li>
+<p>Paper 2 Comprehension</p>
+</li>
+<li>
+<p>Paper 3 Listening Comprehension</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
