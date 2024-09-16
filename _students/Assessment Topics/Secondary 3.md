@@ -38,15 +38,14 @@ the End-Of-Year Examination Schedule.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 1</p>
-<p>Writing (Editing, Situational Writing:Recommendation Report, Continuous
-Writing: Discursive/ Argumentative/ Descriptive Writing)</p>
+<p>Paper 1: Writing (Editing, Situational Writing:Recommendation Report,
+Continuous Writing: Discursive/ Argumentative/ Descriptive Writing)</p>
 </li>
 <li>
-<p>Paper 2 Comprehension</p>
+<p>Paper 2: Comprehension</p>
 </li>
 <li>
-<p>Paper 3 Listening Comprehension</p>
+<p>Paper 3: Listening Comprehension</p>
 </li>
 </ul>
 </td>
@@ -62,15 +61,15 @@ Writing: Discursive/ Argumentative/ Descriptive Writing)</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 1</p>
+<p>Paper 1:</p>
 <p>Writing (Editing, Situational Writing:Recommendation Report, Continuous
 Writing: Discursive/ Argumentative/ Descriptive Writing)</p>
 </li>
 <li>
-<p>Paper 2 Comprehension</p>
+<p>Paper 2: Comprehension</p>
 </li>
 <li>
-<p>Paper 3 Listening Comprehension</p>
+<p>Paper 3: Listening Comprehension</p>
 </li>
 </ul>
 </td>
@@ -86,14 +85,14 @@ Writing: Discursive/ Argumentative/ Descriptive Writing)</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 1 Writing (Editing, Situational Writing: Article/ Report, Continuous
+<p>Paper 1: Writing (Editing, Situational Writing: Article/ Report, Continuous
 Writing: Reflective Recount/ Discursive/ Descriptive Writing)</p>
 </li>
 <li>
-<p>Paper 2 Comprehension</p>
+<p>Paper 2: Comprehension</p>
 </li>
 <li>
-<p>Paper 3 Listening Comprehension</p>
+<p>Paper 3: Listening Comprehension</p>
 </li>
 </ul>
 </td>
@@ -290,14 +289,14 @@ Writing: Reflective Recount/ Discursive/ Descriptive Writing)</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 1</p>
+<p>Paper 1:</p>
 </li>
 </ul>
 <p>1. 实用文 －2选1</p>
 <p>2. 作文 －3选1</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 2</p>
+<p>Paper 2:</p>
 </li>
 </ul>
 <p>1. 短文填充</p>
@@ -319,7 +318,7 @@ Writing: Reflective Recount/ Discursive/ Descriptive Writing)</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 1</p>
+<p>Paper 1:</p>
 </li>
 </ul>
 <p>1. 实用文　</p>
@@ -328,7 +327,7 @@ Writing: Reflective Recount/ Discursive/ Descriptive Writing)</p>
 <p>　－3选1</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 2</p>
+<p>Paper 2:</p>
 </li>
 </ul>
 <p>1. 语文应用</p>
@@ -347,7 +346,7 @@ Writing: Reflective Recount/ Discursive/ Descriptive Writing)</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 1</p>
+<p>Paper 1:</p>
 </li>
 </ul>
 <p>1. 实用文　</p>
@@ -356,7 +355,7 @@ Writing: Reflective Recount/ Discursive/ Descriptive Writing)</p>
 <p>　－3选1</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 2</p>
+<p>Paper 2:</p>
 </li>
 </ul>
 <p>1.词语辩证</p>
@@ -378,13 +377,13 @@ Writing: Reflective Recount/ Discursive/ Descriptive Writing)</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 1</p>
+<p>Paper 1:</p>
 </li>
 </ul>
 <p>试卷一：写作（10 分）。《网络贴文》请根据网络贴文的内容，写出你的回应。（字数在75以上）</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 2</p>
+<p>Paper 2:</p>
 </li>
 </ul>
 <p>试卷二：语文应用与阅读理解（25分）。2个简短对话或短文（5题5分）。一个实用性语料如宣传海报、广告、通告等（5题10分）。2篇短文（5题10分）。</p>
@@ -401,7 +400,7 @@ Writing: Reflective Recount/ Discursive/ Descriptive Writing)</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 1</p>
+<p>Paper 1:</p>
 </li>
 </ul>
 <p>1. Penulisan Fungsional (Blog &amp; E-mel)</p>
@@ -409,7 +408,7 @@ Writing: Reflective Recount/ Discursive/ Descriptive Writing)</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 2 (MCQ)</p>
+<p>Paper 2: (MCQ)</p>
 </li>
 </ul>
 <p>1. Melengkapkan Teks</p>
@@ -430,14 +429,14 @@ Writing: Reflective Recount/ Discursive/ Descriptive Writing)</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 1</p>
+<p>Paper 1:</p>
 </li>
 </ul>
 <p>1. Penulisan Fungsional (Blog &amp; E-mel)</p>
 <p>2. Karangan (Penceritaan Semula, Naratif dan Ekspositori)</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 2 (MCQ)</p>
+<p>Paper 2: (MCQ)</p>
 </li>
 </ul>
 <p>1. Melengkapkan Teks</p>
@@ -459,13 +458,13 @@ Writing: Reflective Recount/ Discursive/ Descriptive Writing)</p>
 <p>(both Paper 1 &amp; 2)</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 1</p>
+<p>Paper 1:</p>
 </li>
 </ul>
 <p>1. Penulisan Fungsional</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 2 (MCQ)</p>
+<p>Paper 2: (MCQ)</p>
 </li>
 </ul>
 <p>1. Kosa Kata</p>
