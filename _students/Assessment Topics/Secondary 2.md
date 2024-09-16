@@ -37,14 +37,14 @@ the End-Of-Year Examination Schedule.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 1 Writing (Editing, Situational Writing: Formal Email, Continuous
+<p>Paper 1: Writing (Editing, Situational Writing: Formal Email, Continuous
 Writing: Personal Recount/ Reflective/ Discursive Writing)</p>
 </li>
 <li>
-<p>Paper 2 Comprehension</p>
+<p>Paper 2: Comprehension</p>
 </li>
 <li>
-<p>Paper 3 Listening Comprehension</p>
+<p>Paper 3: Listening Comprehension</p>
 </li>
 </ul>
 </td>
@@ -60,14 +60,14 @@ Writing: Personal Recount/ Reflective/ Discursive Writing)</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 1 Writing (Editing, Situational Writing: Formal Email, Continuous
+<p>Paper 1: Writing (Editing, Situational Writing: Formal Email, Continuous
 Writing: Personal Recount/ Reflective/ Discursive Writing)</p>
 </li>
 <li>
-<p>Paper 2 Comprehension</p>
+<p>Paper 2: Comprehension</p>
 </li>
 <li>
-<p>Paper 3 Listening Comprehension</p>
+<p>Paper 3: Listening Comprehension</p>
 </li>
 </ul>
 </td>
@@ -83,14 +83,14 @@ Writing: Personal Recount/ Reflective/ Discursive Writing)</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 1 Writing (Editing, Situational Writing: Formal Email, Continuous
+<p>Paper 1: Writing (Editing, Situational Writing: Formal Email, Continuous
 Writing: Discursive/ Descriptive Writing)</p>
 </li>
 <li>
-<p>Paper 2 Comprehension</p>
+<p>Paper 2: Comprehension</p>
 </li>
 <li>
-<p>Paper 3 Listening Comprehension</p>
+<p>Paper 3: Listening Comprehension</p>
 </li>
 </ul>
 </td>
@@ -172,7 +172,7 @@ Writing: Discursive/ Descriptive Writing)</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 1</p>
+<p>Paper 1:</p>
 </li>
 </ul>
 <p>一 实用文</p>
@@ -181,7 +181,7 @@ Writing: Discursive/ Descriptive Writing)</p>
 <p>（2题选1题）</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 2</p>
+<p>Paper 2:</p>
 </li>
 </ul>
 <p>一 填写词语</p>
@@ -202,7 +202,7 @@ Writing: Discursive/ Descriptive Writing)</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 1</p>
+<p>Paper 1:</p>
 </li>
 </ul>
 <p>1. 实用文</p>
@@ -211,7 +211,7 @@ Writing: Discursive/ Descriptive Writing)</p>
 <p>　－2选1</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 2</p>
+<p>Paper 2:</p>
 </li>
 </ul>
 <p>单元一至单元五</p>
@@ -235,7 +235,7 @@ Writing: Discursive/ Descriptive Writing)</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 1</p>
+<p>Paper 1:</p>
 </li>
 </ul>
 <p>1. 实用文</p>
@@ -244,7 +244,7 @@ Writing: Discursive/ Descriptive Writing)</p>
 <p>　－2选1</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 2</p>
+<p>Paper 2:</p>
 </li>
 </ul>
 <p>单元一至单元五 一 填写汉字</p>
@@ -266,11 +266,11 @@ Writing: Discursive/ Descriptive Writing)</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 1</p>
+<p>Paper 1:</p>
 <p>1. 语文应用</p>
 </li>
 <li>
-<p>Paper 2</p>
+<p>Paper 2:</p>
 <p>1. 语文应用</p>
 <p>2. 阅读理解一</p>
 <p>3. 阅读理解二</p>
@@ -289,14 +289,14 @@ Writing: Discursive/ Descriptive Writing)</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 1</p>
+<p>Paper 1:</p>
 </li>
 </ul>
 <p>1. Penulisan Fungsional (Blog &amp; E-mel)</p>
 <p>2. Karangan (Penceritaan Semula, Naratif dan Ekspositori)</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 2 (MCQ)</p>
+<p>Paper 2: (MCQ)</p>
 </li>
 </ul>
 <p>1. Melengkapkan Teks</p>
@@ -317,14 +317,14 @@ Writing: Discursive/ Descriptive Writing)</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 1</p>
+<p>Paper 1:</p>
 </li>
 </ul>
 <p>1. Penulisan Fungsional (Blog &amp; E-mel)</p>
 <p>2. Karangan (Penceritaan Semula, Naratif dan Ekspositori)</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 2 (MCQ)</p>
+<p>Paper 2: (MCQ)</p>
 </li>
 </ul>
 <p>1. Melengkapkan Teks</p>
@@ -344,13 +344,13 @@ Writing: Discursive/ Descriptive Writing)</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 1</p>
+<p>Paper 1:</p>
 </li>
 </ul>
 <p>1. Penulisan Fungsional</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 2 (MCQ)</p>
+<p>Paper 2: (MCQ)</p>
 </li>
 </ul>
 <p>1. Kosa Kata</p>
