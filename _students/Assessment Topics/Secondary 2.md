@@ -720,7 +720,7 @@ Writing: Discursive/ Descriptive Writing)</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Coursework</p>
+<p>Coursework*</p>
 </li>
 </ul>
 </td>
