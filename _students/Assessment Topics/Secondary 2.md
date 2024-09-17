@@ -103,7 +103,50 @@ Writing: Discursive/ Descriptive Writing)</p>
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chp 1 Linear Graphs and Simultaneous Linear Equations</p>
+</li>
+<li>
+<p>Chp 2 Linear Inequalities</p>
+</li>
+<li>
+<p>Chp 3 Expansion and Factorisation of Algebraic Expressions</p>
+</li>
+<li>
+<p>Chp 4 Expansion &amp; Factorisation using Special Algebraic Identities</p>
+</li>
+<li>
+<p>Chp 5 Quadratic Equations and Graphs</p>
+</li>
+<li>
+<p>Chp 6 Algebraic Fractions and Formulae</p>
+</li>
+<li>
+<p>Chp 7 Direct and Inverse Proportion</p>
+</li>
+<li>
+<p>Chp 8 Congruence and Similarity</p>
+</li>
+<li>
+<p>Chp 9 Pythagoras' Theorem</p>
+</li>
+<li>
+<p>Chp 10 Trigonometric Ratios</p>
+</li>
+<li>
+<p>Chp 11 Volume and surface area of pyramids, cones and spheres</p>
+</li>
+<li>
+<p>Chp 12 Probability of single events</p>
+</li>
+<li>
+<p>Chp 13 Statistical diagrams</p>
+</li>
+<li>
+<p>Chp 14 Averages of statistical data</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -125,7 +168,60 @@ Writing: Discursive/ Descriptive Writing)</p>
 <p>N(T)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sec 1 Topics</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chp 1 Numbers</p>
+</li>
+<li>
+<p>Chp 2 Four Operations</p>
+</li>
+<li>
+<p>Chp 4 Percentage</p>
+</li>
+<li>
+<p>Chp 5 Algebra</p>
+</li>
+</ul>
+<p>Sec 2 Topics</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chp 1 Triangles and Quadrilaterals</p>
+</li>
+<li>
+<p>Chp 2 Linear algebraic expressions</p>
+</li>
+<li>
+<p>Chp 3 Linear Equations</p>
+</li>
+<li>
+<p>Chp 4 Functions and graphs</p>
+</li>
+<li>
+<p>Chp 5 Proportion</p>
+</li>
+<li>
+<p>Chp 6 Rate and speed</p>
+</li>
+<li>
+<p>Chp 7 Data analysis</p>
+</li>
+<li>
+<p>Chp 8 Math in practical situations</p>
+</li>
+<li>
+<p>Chp 9 Congruence and Similarity</p>
+</li>
+<li>
+<p>Chp 10 Pythagoras' Theorem</p>
+</li>
+<li>
+<p>Chp 11 Probability</p>
+</li>
+<li>
+<p>Chp 12 Prisms and Cylinders</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
