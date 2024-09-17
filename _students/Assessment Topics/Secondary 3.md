@@ -652,7 +652,11 @@ logarithmic functions will NOT be tested)</p>
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapters 1-6</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -663,7 +667,11 @@ logarithmic functions will NOT be tested)</p>
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapters 1-6</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
