@@ -105,7 +105,42 @@ Writing: Reflective Recount/ Discursive/ Descriptive Writing)</p>
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chp 1: Quadratic and Fractional Equations</p>
+</li>
+<li>
+<p>Chp 2: Simultaneous Linear Inequalities</p>
+</li>
+<li>
+<p>Chp 3: Indices and Standard Form</p>
+</li>
+<li>
+<p>Chp 4: Coordinate Geometry</p>
+</li>
+<li>
+<p>Chp 5: Graphs of Functions and Graphical Solution</p>
+</li>
+<li>
+<p>Chp 6: Further Trigonometry</p>
+</li>
+<li>
+<p>Chp 7: Applications of Trigonometry</p>
+</li>
+<li>
+<p>Chp 8: Arc Length, Sector Area and Radian Measure</p>
+</li>
+<li>
+<p>Chp 9: Congruence and Similarity</p>
+</li>
+<li>
+<p>Ch 10: Area and Volume of Similar Figures and Solids</p>
+<p>(Include topics</p>
+</li>
+<li>
+<p>(Arithmetic, Mensuration and Algebra) from Lower Sec)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -116,7 +151,36 @@ Writing: Reflective Recount/ Discursive/ Descriptive Writing)</p>
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chp: 1 Algebraic Expressions and Formulae</p>
+</li>
+<li>
+<p>Chp: 2 Quadratic Equations and Graphs</p>
+</li>
+<li>
+<p>Chp: 3 Indices and Standard Form</p>
+</li>
+<li>
+<p>Chp: 4 Coordinate Geometry</p>
+</li>
+<li>
+<p>Chp: 5 Graphs of Functions and Graphical Solution</p>
+</li>
+<li>
+<p>Chp: 6 Trigonometry</p>
+</li>
+<li>
+<p>Chp: 7 Further Trigonometry</p>
+</li>
+<li>
+<p>Cp: 8 Congruence and Similarity</p>
+</li>
+<li>
+<p>(Include Lower Sec Topics - Arithmetic, Algebra, Mensuration, Statistics
+and Probability)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
