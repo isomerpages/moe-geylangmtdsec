@@ -833,7 +833,22 @@ Poetry</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Computer Fundamentals</p>
+</li>
+<li>
+<p>Media Elements</p>
+</li>
+<li>
+<p>Interactive MultiMedia Communications</p>
+</li>
+<li>
+<p>Animation &amp; Game making</p>
+</li>
+<li>
+<p>Spreadsheet</p>
+</li>
+<li>
+<p>Document Processing</p>
 </li>
 </ul>
 </td>
