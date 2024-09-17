@@ -818,7 +818,7 @@ Poetry</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Qn paper issued 3 weeks before Exam</p>
 </li>
 </ul>
 </td>
