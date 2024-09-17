@@ -587,7 +587,7 @@ Writing: Discursive/ Descriptive Writing)</p>
 <p>Common Curriculum</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Qn paper issued 3 weeks before Exam</p>
 </td>
 </tr>
 <tr>
