@@ -103,48 +103,55 @@ Writing: Discursive/ Descriptive Writing)</p>
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Sec 1 Topics</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Chp 1 Linear Graphs and Simultaneous Linear Equations</p>
+<p>Algebra &amp; Volume and Surface Area of Prisms, Cylinders, Cones</p>
+</li>
+</ul>
+<p>Sec 2 Topics</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chp 1: Linear Graphs and Simultaneous Linear Equations</p>
 </li>
 <li>
-<p>Chp 2 Linear Inequalities</p>
+<p>Chp 2: Linear Inequalities</p>
 </li>
 <li>
-<p>Chp 3 Expansion and Factorisation of Algebraic Expressions</p>
+<p>Chp 3: Expansion and Factorisation of Algebraic Expressions</p>
 </li>
 <li>
-<p>Chp 4 Expansion &amp; Factorisation using Special Algebraic Identities</p>
+<p>Chp 4: Expansion &amp; Factorisation using Special Algebraic Identities</p>
 </li>
 <li>
-<p>Chp 5 Quadratic Equations and Graphs</p>
+<p>Chp 5: Quadratic Equations and Graphs</p>
 </li>
 <li>
-<p>Chp 6 Algebraic Fractions and Formulae</p>
+<p>Chp 6: Algebraic Fractions and Formulae</p>
 </li>
 <li>
-<p>Chp 7 Direct and Inverse Proportion</p>
+<p>Chp 7: Direct and Inverse Proportion</p>
 </li>
 <li>
-<p>Chp 8 Congruence and Similarity</p>
+<p>Chp 8: Congruence and Similarity</p>
 </li>
 <li>
-<p>Chp 9 Pythagoras' Theorem</p>
+<p>Chp 9: Pythagoras' Theorem</p>
 </li>
 <li>
-<p>Chp 10 Trigonometric Ratios</p>
+<p>Chp 10: Trigonometric Ratios</p>
 </li>
 <li>
-<p>Chp 11 Volume and surface area of pyramids, cones and spheres</p>
+<p>Chp 11: Volume and surface area of pyramids, cones and spheres</p>
 </li>
 <li>
-<p>Chp 12 Probability of single events</p>
+<p>Chp 12: Probability of single events</p>
 </li>
 <li>
-<p>Chp 13 Statistical diagrams</p>
+<p>Chp 13: Statistical diagrams</p>
 </li>
 <li>
-<p>Chp 14 Averages of statistical data</p>
+<p>Chp 14: Averages of statistical data</p>
 </li>
 </ul>
 </td>
@@ -157,50 +164,7 @@ Writing: Discursive/ Descriptive Writing)</p>
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Chp 1 Linear Expressions, Linear Equations &amp; Simple Inequalities</p>
-</li>
-<li>
-<p>Chp 2 Linear Functions &amp; Graphs</p>
-</li>
-<li>
-<p>Chp 3 Simultaneous Linear Equations</p>
-</li>
-<li>
-<p>Chp 4 Expansion &amp; Factorisation of Algebraic Expressions</p>
-</li>
-<li>
-<p>Chp 5 Expansion &amp; Factorisation using Special Algebraic Identities</p>
-</li>
-<li>
-<p>Chp 6 Algebraic Fractions</p>
-</li>
-<li>
-<p>Chp 7 Direct and Inverse Proportions</p>
-</li>
-<li>
-<p>Chp 8 Polygons &amp; Geometrical Constructions</p>
-</li>
-<li>
-<p>Chp 9 Congruence &amp; Similarity</p>
-</li>
-<li>
-<p>Chp 10 Pythagoras Theorem</p>
-</li>
-<li>
-<p>Chp 11 Volume &amp; Surface Area of Pyramids, Cones &amp; Spheres</p>
-</li>
-<li>
-<p>Chp 12 Probability of Single Events</p>
-</li>
-<li>
-<p>Chp 13 Statistical Diagrams</p>
-</li>
-<li>
-<p>Chp 14 Averages of Statistical Data</p>
-</li>
-</ul>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -307,7 +271,7 @@ Writing: Discursive/ Descriptive Writing)</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Chapters 6 to 12</p>
+<p>Chapters 6 - 12</p>
 </li>
 </ul>
 </td>
