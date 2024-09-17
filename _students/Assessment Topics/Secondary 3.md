@@ -308,7 +308,11 @@ logarithmic functions will NOT be tested)</p>
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapters 1-10 (until 10.1)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -319,7 +323,11 @@ logarithmic functions will NOT be tested)</p>
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapters 1 - 7 (until 7.5), 14 - 15</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -330,7 +338,11 @@ logarithmic functions will NOT be tested)</p>
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>All chapters taught in Sec 3</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -341,7 +353,11 @@ logarithmic functions will NOT be tested)</p>
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapters 1-8</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -352,7 +368,11 @@ logarithmic functions will NOT be tested)</p>
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapters 1- 7, 11 &amp; 12</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -365,7 +385,7 @@ logarithmic functions will NOT be tested)</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>All chapters taught in Sec 3</p>
 </li>
 </ul>
 </td>
@@ -380,7 +400,7 @@ logarithmic functions will NOT be tested)</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Chapters 1-6</p>
 </li>
 </ul>
 </td>
@@ -395,7 +415,7 @@ logarithmic functions will NOT be tested)</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Chapters 1-7, 11 &amp; 12</p>
 </li>
 </ul>
 </td>
@@ -408,7 +428,11 @@ logarithmic functions will NOT be tested)</p>
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>All chapters taught in Sec 3</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -421,7 +445,7 @@ logarithmic functions will NOT be tested)</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Chapter 1, 3, 4, 8, 9, 10,11</p>
 </li>
 </ul>
 </td>
@@ -831,7 +855,22 @@ Poetry</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Chp 1: Introduction to Business</p>
+</li>
+<li>
+<p>Chp 2: Businesses in Singapore (3 industries)</p>
+</li>
+<li>
+<p>Chp 3: Introduction to Marketing</p>
+</li>
+<li>
+<p>Chp 4: The Marketing Mix</p>
+</li>
+<li>
+<p>Chp 5: Communication with the customers</p>
+</li>
+<li>
+<p>Chp 6: Customer Service</p>
 </li>
 </ul>
 </td>
@@ -846,7 +885,7 @@ Poetry</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Chapters 1, 3-12, 14 &amp; 15</p>
 </li>
 </ul>
 </td>
@@ -861,7 +900,7 @@ Poetry</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>Chapters 1-12</p>
 </li>
 </ul>
 </td>
@@ -876,10 +915,31 @@ Poetry</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>1 Introduction to Accounting</p>
 </li>
 <li>
-<p></p>
+<p>2 Accounting information system</p>
+</li>
+<li>
+<p>3 Elements of financial statements and the Accounting Equation</p>
+</li>
+<li>
+<p>4 Double-entry recording</p>
+</li>
+<li>
+<p>5 Trial balance and Financial statements</p>
+</li>
+<li>
+<p>6 Revenue and Other income</p>
+</li>
+<li>
+<p>7 Cost of sales and Other expenses</p>
+</li>
+<li>
+<p>8 Cash</p>
+</li>
+<li>
+<p>9 Inventories</p>
 </li>
 </ul>
 </td>
@@ -894,10 +954,28 @@ Poetry</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
+<p>1 Introduction to Accounting</p>
 </li>
 <li>
-<p></p>
+<p>2 Accounting information system</p>
+</li>
+<li>
+<p>3 Elements of financial statements and the Accounting Equation</p>
+</li>
+<li>
+<p>4 Double-entry recording</p>
+</li>
+<li>
+<p>5 Trial balance and Financial statements</p>
+</li>
+<li>
+<p>7 Cost of sales and Other expenses</p>
+</li>
+<li>
+<p>8 Cash</p>
+</li>
+<li>
+<p>9 Inventories</p>
 </li>
 </ul>
 </td>
