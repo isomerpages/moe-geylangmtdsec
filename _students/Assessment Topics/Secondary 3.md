@@ -135,10 +135,9 @@ Writing: Reflective Recount/ Discursive/ Descriptive Writing)</p>
 </li>
 <li>
 <p>Ch 10: Area and Volume of Similar Figures and Solids</p>
-<p>(Include topics</p>
 </li>
 <li>
-<p>(Arithmetic, Mensuration and Algebra) from Lower Sec)</p>
+<p>(Include topics(Arithmetic, Mensuration and Algebra) from Lower Sec)</p>
 </li>
 </ul>
 </td>
@@ -233,7 +232,36 @@ and Probability)</p>
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chp 1 Quadratic Functions</p>
+</li>
+<li>
+<p>Chp 2 Equations &amp; Inequalities</p>
+</li>
+<li>
+<p>Chp 3 Surds</p>
+</li>
+<li>
+<p>Chp 4 Polynomials &amp; Partial Fractions</p>
+</li>
+<li>
+<p>Chp 5 Exponential &amp; Logratihmic Functions (Graphs of exponential and
+logarithmic functions will NOT be tested)</p>
+</li>
+<li>
+<p>Chp 7 Coordinate Geometry</p>
+</li>
+<li>
+<p>Chp 8 Circles</p>
+</li>
+<li>
+<p>Chp 10 Trigonometric Functions (Principal Values will NOT be tested)</p>
+</li>
+<li>
+<p>Chp 11 Trigonometric Identities &amp; Equations</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -244,7 +272,32 @@ and Probability)</p>
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chp 1 Quadratic Functions</p>
+</li>
+<li>
+<p>Chp 2 Equations &amp; Inequalities</p>
+</li>
+<li>
+<p>Chapter 3 Surds</p>
+</li>
+<li>
+<p>Chp 4 Polynomials &amp; Partial Fractions</p>
+</li>
+<li>
+<p>Chp 7 Coordinate Geometry</p>
+</li>
+<li>
+<p>Chp 8 Circles</p>
+</li>
+<li>
+<p>Chp 10 Trigonometric Functions (Principal Values will NOT be tested)</p>
+</li>
+<li>
+<p>Chp 11 Trigonometric Identities &amp; Equations (Until Unit 11.4)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
