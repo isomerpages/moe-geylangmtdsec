@@ -479,13 +479,22 @@ Writing: Discursive/ Descriptive Writing)</p>
 <p>1. Penulisan Fungsional (Blog &amp; E-mel)</p>
 </li>
 <li>
-<p>2. Karangan (Penceritaan Semula, Naratif dan EkspositoriPaper 2: (MCQ)</p>
+<p>2. Karangan (Penceritaan Semula, Naratif dan Ekspositori)</p>
+<p>Paper 2: (MCQ)</p>
+</li>
+<li>
+<p>1. Melengkapkan Teks</p>
+</li>
+<li>
+<p>2. Menggantikan Perkataan</p>
+</li>
+<li>
+<p>3. Kefahaman Objektif (Salah/Betul &amp; MCQ)</p>
+</li>
+<li>
+<p>4. Kefahaman Subjektif</p>
 </li>
 </ul>
-<p>1. Melengkapkan Teks</p>
-<p>2. Menggantikan Perkataan</p>
-<p>3. Kefahaman Objektif (Salah/Betul &amp; MCQ)</p>
-<p>4. Kefahaman Subjektif</p>
 <p></p>
 </td>
 </tr>
@@ -498,22 +507,28 @@ Writing: Discursive/ Descriptive Writing)</p>
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>Paper 1:</p>
-</li>
-</ul>
-<p>1. Penulisan Fungsional (Blog &amp; E-mel)</p>
-<p>2. Karangan (Penceritaan Semula, Naratif dan Ekspositori)</p>
 <ul data-tight="true" class="tight">
 <li>
+<p>1. Penulisan Fungsional (Blog &amp; E-mel)</p>
+</li>
+<li>
+<p>2. Karangan (Penceritaan Semula, Naratif dan Ekspositori)</p>
 <p>Paper 2: (MCQ)</p>
 </li>
-</ul>
+<li>
 <p>1. Melengkapkan Teks</p>
+</li>
+<li>
 <p>2. Melengkapkan Dialog</p>
+</li>
+<li>
 <p>3. Kefahaman Objektif</p>
+</li>
+<li>
 <p>4. Kefahaman Subjektif</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -525,20 +540,22 @@ Writing: Discursive/ Descriptive Writing)</p>
 <p>N(T)</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>Paper 1:</p>
-</li>
-</ul>
-<p>1. Penulisan Fungsional</p>
 <ul data-tight="true" class="tight">
 <li>
+<p>1. Penulisan Fungsional</p>
 <p>Paper 2: (MCQ)</p>
 </li>
-</ul>
+<li>
 <p>1. Kosa Kata</p>
+</li>
+<li>
 <p>2. Tatabahasa</p>
+</li>
+<li>
 <p>3. Kefahaman Objektif</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -642,7 +659,26 @@ Writing: Discursive/ Descriptive Writing)</p>
 <p>N(T)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Computer Fundamentals</p>
+</li>
+<li>
+<p>Media Elements</p>
+</li>
+<li>
+<p>Interactive MultiMedia Communications</p>
+</li>
+<li>
+<p>Animation &amp; Game making</p>
+</li>
+<li>
+<p>Spreadsheet</p>
+</li>
+<li>
+<p>Document Processing</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
