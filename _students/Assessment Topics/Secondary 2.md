@@ -164,7 +164,57 @@ Writing: Discursive/ Descriptive Writing)</p>
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sec 1 Topics</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Algebra &amp; Volume and Surface Area of Prisms, Cylinders, Cones</p>
+</li>
+</ul>
+<p>Sec 2 Topics</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chp 1: Linear Expressions, Linear Equations &amp; Simple Inequalities</p>
+</li>
+<li>
+<p>Chp 2: Linear Functions &amp; Graphs</p>
+</li>
+<li>
+<p>Chp 3: Simultaneous Linear Equations</p>
+</li>
+<li>
+<p>Chp 4: Expansion &amp; Factorisation of Algebraic Expressions</p>
+</li>
+<li>
+<p>Chp 5: Expansion &amp; Factorisation using Special Algebraic Identities</p>
+</li>
+<li>
+<p>Chp 6: Algebraic Fractions</p>
+</li>
+<li>
+<p>Chp 7: Direct and Inverse Proportions</p>
+</li>
+<li>
+<p>Chp 8: Polygons &amp; Geometrical Constructions</p>
+</li>
+<li>
+<p>Chp 9: Congruence &amp; Similarity</p>
+</li>
+<li>
+<p>Chp 10: Pythagoras Theorem</p>
+</li>
+<li>
+<p>Chp 11: Volume &amp; Surface Area of Pyramids, Cones &amp; Spheres</p>
+</li>
+<li>
+<p>Chp 12: Probability of Single Events</p>
+</li>
+<li>
+<p>Chp 13: Statistical Diagrams</p>
+</li>
+<li>
+<p>Chp 14: Averages of Statistical Data</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
