@@ -247,7 +247,11 @@ Writing: Reflective Recount)</p>
 <p>G3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapters 1 to 8</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -258,7 +262,11 @@ Writing: Reflective Recount)</p>
 <p>G2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapters 1 to 8</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -269,7 +277,11 @@ Writing: Reflective Recount)</p>
 <p>G1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Topics 1 - 6</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -281,24 +293,34 @@ Writing: Reflective Recount)</p>
 <p>G3</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Paper 1:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 1:</p>
-</li>
-</ul>
 <p>1. 实用文 －2选1</p>
+</li>
+<li>
 <p>2. 作文 －2选1</p>
-<ul data-tight="true" class="tight">
-<li>
 <p>Paper 2:</p>
 </li>
-</ul>
+<li>
 <p>1. 填写词语</p>
+</li>
+<li>
 <p>2. 选择词语</p>
+</li>
+<li>
 <p>3. 完成句子</p>
+</li>
+<li>
 <p>4. 综合填空</p>
+</li>
+<li>
 <p>5. 阅读理解一</p>
+</li>
+<li>
 <p>6. 阅读理解二</p>
+</li>
+</ul>
 <p></p>
 </td>
 </tr>
@@ -311,27 +333,41 @@ Writing: Reflective Recount)</p>
 <p>G3</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>Paper 1:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>一 实用文</p>
 </li>
 </ul>
-<p>一 实用文</p>
-<p>（2题选1题）</p>
-<p>二 作文</p>
 <p>（2题选1题）</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 2:</p>
+<p>二 作文</p>
 </li>
 </ul>
+<p>（2题选1题）</p>
+<p>Paper 2:</p>
 <p>单元一至单元五</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>一 填写汉字</p>
+</li>
+<li>
 <p>二 辨词填空</p>
+</li>
+<li>
 <p>三 造句/完成句子</p>
+</li>
+<li>
 <p>四 选词填空</p>
+</li>
+<li>
 <p>五 阅读理解一</p>
+</li>
+<li>
 <p>六 阅读理解二</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -343,28 +379,44 @@ Writing: Reflective Recount)</p>
 <p>G2</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>Paper 1:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>一 实用文</p>
 </li>
 </ul>
-<p>一 实用文</p>
-<p>（2题选1题）</p>
-<p>二 作文</p>
 <p>（2题选1题）</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 2:</p>
+<p>二 作文</p>
 </li>
 </ul>
+<p>（2题选1题）</p>
+<p>Paper 2:</p>
 <p>单元二至单元五</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>1.填写汉字</p>
+</li>
+<li>
 <p>2.词语搭配</p>
+</li>
+<li>
 <p>3.改换句子和</p>
+</li>
+</ul>
 <p>　完成句子</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>4.综合填空</p>
+</li>
+<li>
 <p>5.阅读理解一</p>
+</li>
+<li>
 <p>6.阅读理解二</p>
+</li>
+</ul>
 <p></p>
 </td>
 </tr>
@@ -377,23 +429,32 @@ Writing: Reflective Recount)</p>
 <p>G1</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>Paper 1:</p>
-</li>
-</ul>
-<p>网络贴文</p>
 <ul data-tight="true" class="tight">
 <li>
+<p>网络贴文</p>
+<p></p>
 <p>Paper 2:</p>
 </li>
 </ul>
 <p>单元一至单元五</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>1. 语文应用</p>
+</li>
+<li>
 <p>2. 填写词语</p>
+</li>
+<li>
 <p>3. 词语搭配</p>
+</li>
+<li>
 <p>4. 阅读理解一</p>
+</li>
+<li>
 <p>5. 阅读理解二</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -405,22 +466,29 @@ Writing: Reflective Recount)</p>
 <p>G3</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>Paper 1:</p>
-</li>
-</ul>
-<p>1. Penulisan Fungsional (Blog)</p>
-<p>2. Karangan (Penceritaan Semula &amp; Naratif)</p>
 <ul data-tight="true" class="tight">
 <li>
+<p>1. Penulisan Fungsional (Blog)</p>
+</li>
+<li>
+<p>2. Karangan (Penceritaan Semula &amp; Naratif)</p>
+<p></p>
 <p>Paper 2: (MCQ)</p>
 </li>
-</ul>
+<li>
 <p>1. Melengkapkan Teks</p>
+</li>
+<li>
 <p>2. Menggantikan Perkataan</p>
+</li>
+<li>
 <p>3. Kefahaman Objektif (Salah/Betul &amp; MCQ)</p>
+</li>
+<li>
 <p>4. Kefahaman Subjektif</p>
+</li>
+</ul>
 <p></p>
 </td>
 </tr>
@@ -433,22 +501,28 @@ Writing: Reflective Recount)</p>
 <p>G2</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>Paper 1:</p>
-</li>
-</ul>
-<p>1. Penulisan Fungsional (Blog)</p>
-<p>2. Karangan (Penceritaan Semula &amp; Naratif)</p>
 <ul data-tight="true" class="tight">
 <li>
+<p>1. Penulisan Fungsional (Blog)</p>
+</li>
+<li>
+<p>2. Karangan (Penceritaan Semula &amp; Naratif)</p>
 <p>Paper 2: (MCQ)</p>
 </li>
-</ul>
+<li>
 <p>1. Melengkapkan Teks</p>
+</li>
+<li>
 <p>2. Melengkapkan Dialog</p>
+</li>
+<li>
 <p>3. Kefahaman Objektif</p>
+</li>
+<li>
 <p>4. Kefahaman Subjektif</p>
+</li>
+</ul>
 <p></p>
 </td>
 </tr>
@@ -461,20 +535,22 @@ Writing: Reflective Recount)</p>
 <p>G1</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>Paper 1:</p>
-</li>
-</ul>
-<p>1. Penulisan Fungsional</p>
 <ul data-tight="true" class="tight">
 <li>
+<p>1. Penulisan Fungsional</p>
 <p>Paper 2: (MCQ)</p>
 </li>
-</ul>
+<li>
 <p>1. Kosa Kata</p>
+</li>
+<li>
 <p>2. Tatabahasa</p>
+</li>
+<li>
 <p>3. Kefahaman Objektif</p>
+</li>
+</ul>
 <p></p>
 </td>
 </tr>
@@ -584,7 +660,7 @@ management of mangroves]</p>
 <p>Common Curriculum</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Qn paper issued 3 weeks before Exam</p>
 </td>
 </tr>
 <tr>
