@@ -275,7 +275,11 @@ Writing: Discursive/ Descriptive Writing)</p>
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapters 9 - 16</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -286,7 +290,11 @@ Writing: Discursive/ Descriptive Writing)</p>
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapters 9 - 16.2</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -297,7 +305,11 @@ Writing: Discursive/ Descriptive Writing)</p>
 <p>N(T)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Chapters 6 to 12</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -309,25 +321,37 @@ Writing: Discursive/ Descriptive Writing)</p>
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>Paper 1:</p>
-</li>
-</ul>
-<p>一 实用文</p>
-<p>（2题选1题）</p>
-<p>二 作文</p>
-<p>（2题选1题）</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 2:</p>
+<p>一 实用文</p>
 </li>
 </ul>
+<p>（2题选1题)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>二 作文</p>
+</li>
+</ul>
+<p>（2题选1题）</p>
+<p>Paper 2:</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>一 填写词语</p>
+</li>
+<li>
 <p>二 选择词语</p>
+</li>
+<li>
 <p>三 病句改正</p>
+</li>
+<li>
 <p>四 阅读理解一</p>
+</li>
+<li>
 <p>五 阅读理解二</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -372,25 +396,41 @@ Writing: Discursive/ Descriptive Writing)</p>
 <p>N(A)</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>Paper 1:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>1. 实用文</p>
 </li>
 </ul>
-<p>1. 实用文</p>
-<p>　－2选1</p>
-<p>2. 作文</p>
 <p>　－2选1</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 2:</p>
+<p>2. 作文</p>
 </li>
 </ul>
-<p>单元一至单元五 一 填写汉字</p>
+<p>　－2选1</p>
+<p>Paper 2:</p>
+<p>单元一至单元五</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>一 填写汉字</p>
+</li>
+<li>
 <p>二 词语搭配</p>
+</li>
+<li>
 <p>三 造句/完成句子</p>
+</li>
+<li>
 <p>四 综合填空</p>
-<p>五 阅读理解一 六 阅读理解二</p>
+</li>
+<li>
+<p>五 阅读理解一</p>
+</li>
+<li>
+<p>六 阅读理解二</p>
+</li>
+</ul>
 <p></p>
 </td>
 </tr>
@@ -403,15 +443,22 @@ Writing: Discursive/ Descriptive Writing)</p>
 <p>N(T)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Paper 1:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 1:</p>
+<p>1. 语文应用</p>
+</li>
+</ul>
+<p></p>
+<p>Paper 2:</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>1. 语文应用</p>
 </li>
 <li>
-<p>Paper 2:</p>
-<p>1. 语文应用</p>
 <p>2. 阅读理解一</p>
+</li>
+<li>
 <p>3. 阅读理解二</p>
 </li>
 </ul>
@@ -426,16 +473,13 @@ Writing: Discursive/ Descriptive Writing)</p>
 <p>Exp</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>Paper 1:</p>
-</li>
-</ul>
-<p>1. Penulisan Fungsional (Blog &amp; E-mel)</p>
-<p>2. Karangan (Penceritaan Semula, Naratif dan Ekspositori)</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Paper 2: (MCQ)</p>
+<p>1. Penulisan Fungsional (Blog &amp; E-mel)</p>
+</li>
+<li>
+<p>2. Karangan (Penceritaan Semula, Naratif dan EkspositoriPaper 2: (MCQ)</p>
 </li>
 </ul>
 <p>1. Melengkapkan Teks</p>
