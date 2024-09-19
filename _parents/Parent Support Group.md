@@ -2,6 +2,7 @@
 title: Parent Support Group
 permalink: /about-us/PSG/
 description: ""
+variant: markdown
 ---
 Welcome to Geylang Methodist School (Secondary) Parents Support Group
  
@@ -37,8 +38,8 @@ Gloria Kong
 |    Role       |  | Name |
 | -------- | -------- | -------- |
 | Advisor 1     |      | Mr Peter Tay     |
-| Advisor 2     |      | Mr Alicia Lim     |
-| Advisor 3     |      | Mr Paulyn Chioh     |
+| Advisor 2     |      | Ms Alicia Lim     |
+| Advisor 3     |      | Mrs Paulyn Chioh     |
 
 **EXCO Members:**
 
