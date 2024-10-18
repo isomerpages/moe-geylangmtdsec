@@ -3,56 +3,373 @@ title: School Executive Committee (SEC)
 permalink: /about-us/SEC/
 description: ""
 third_nav_title: Staff
-variant: markdown
+variant: tiptap
 ---
-![](/images/school_executive_committee_2.jpg)
-### School Leaders
-
-
-| Principal | Mr Victor Owyong | [Victor\_OWYONG@schools.gov.sg](mailto:Victor_OWYONG@schools.gov.sg) |
-| -------- | -------- | -------- |
-| Vice-Principal (Education)     | Mrs Chang-Loy Wee Meng    | [LOY\_Wee\_Meng@schools.gov.sg](mailto:LOY_Wee_Meng@schools.gov.sg)     |
-
-
-
-
-
-
-
-
-
-### Head of Departments
-
-
-| Department | Name | Email |
-| -------- | -------- | -------- |
-| English Language & Literature (Covering)     | Mrs Ong Li Tyng    |[loong\_li\_tyng@schools.gov.sg](mailto:loong_li_tyng@schools.gov.sg) |
-| Mother Tongue Languages     | Mr Neo Ping Leng     |[neo\_ping\_leng@schools.gov.sg](mailto:neo_ping_leng@schools.gov.sg) |
-| Mathematics | Ms Nainee Naah Ismail | [nainee\_naah\_ismail@schools.gov.sg](mailto:nainee_naah_ismail@schools.gov.sg) |
-| Science     | Miss Ng Peck Suan     | [ng\_peck\_suan@schools.gov.sg](mailto:ng_peck_suan@schools.gov.sg) |
-| Humanities    | Ms Thian Wan Eng     | [Thian\_Wan\_Eng@schools.gov.sg](mailto:Thian_Wan_Eng@schools.gov.sg)     |
-| ICT & ACT| Mr Yeo Wee Pung     | [yeo\_wee\_pung@schools.gov.sg](mailto:yeo_wee_pung@schools.gov.sg)     |
-| Physical Education/Co-Curricular-Activities     | Mdm Rachel Cheng     | [cheng\_sze\_wan\_rachel@schools.gov.sg](mailto:cheng_sze_wan_rachel@schools.gov.sg)    |
-| Student Management     | Mr Kelvin Tay     | [tay\_yew\_kuan\_kelvin@schools.gov.sg](mailto:tay_yew_kuan_kelvin@schools.gov.sg)     |
-| Character and Citizenship Education   | Mr Chin Khai Ying    | [chin\_khai\_ying@schools.gov.sg](mailto:chin_khai_ying@schools.gov.sg)     |
-| School Staff Developer     | Mrs Low Phek Mui     | [koh\_phek\_mui@schools.gov.sg](mailto:koh_phek_mui@schools.gov.sg)     |
-| Year Head (Lower Secondary)      | Miss Wendy Wong     | [wong\_yoke\_chan\_wendy@schools.gov.sg](mailto:wong_yoke_chan_wendy@schools.gov.sg)     |
-| Year Head (Upper Secondary)    | Mr Kelvin Teo    | [teo\_kian\_ming\_kelvin@schools.gov.sg](mailto:teo_kian_ming_kelvin@schools.gov.sg)
-| Administration Manager     | Ms Linda Chuang    | [CHUANG\_Toon\_Ling@schools.gov.sg](mailto:CHUANG_Toon_Ling@schools.gov.sg)     |
-| Administration Manager    | Mdm Azline Ibrahim     | [Nur\_Azline\_IBRAHIM@schools.gov.sg](mailto:Nur_Azline_IBRAHIM@schools.gov.sg)    |
-| Operation Manager   | Mr Koay Chin Wah   | [koay\_chin\_wah@schools.gov.sg](mailto:koay_chin_wah@schools.gov.sg)    |
-
-
-### Level / Subject Heads
-
-| Department | Name | Email |
-| -------- | -------- | -------- |
-| Mother Tongue Languages     | Mdm Li Ping     | [li\_ping@schools.gov.sg](mailto:li_ping@schools.gov.sg)    |
-| Science (Lower Sec)   | Mr Sng Peng Hock    | [sng\_peng\_hock@schools.gov.sg](mailto:sng_peng_hock@schools.gov.sg)     |
-| Science (Physics)   | Mr Yip Cheng Hou    | [yip\_cheng\_hou@schools.gov.sg](mailto:yip_cheng_hou@schools.gov.sg)     |
-| Character and Citizenship Education     | Mr Michael Koh     | [koh\_kim\_hua\_michael@schools.gov.sg](mailto:koh_kim_hua_michael@schools.gov.sg)     |
-| Information Technology   | Mr Tan Wah Kum    | [tan\_wah\_kum@schools.gov.sg](mailto:tan_wah_kum@schools.gov.sg)     |
-| Craft & Technology     | Mr Kelvin Chia     | [kelvin\_chia\_cheng\_meng@schools.gov.sg](mailto:kelvin_chia_cheng_meng@schools.gov.sg)     |
-| Aesthetics    | Miss Ng Sio Ying   | [ng\_sio\_ying@schools.gov.sg](mailto:ng_sio_ying@schools.gov.sg)     |
-| Asst. Year Head (Secondary 1)   | Mrs Wong Hui Yu Yvonee    | [chew\_hui\_yu\_yvonee@schools.gov.sg](mailto:chew_hui_yu_yvonee@schools.gov.sg)   |
-| Asst. Year Head (Secondary 3)  | Ms Lee Wei Ying Teresa   | [lee\_wei\_ying\_teresa@schools.gov.sg](mailto:lee_wei_ying_teresa@schools.gov.sg)   |
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/school_executive_committee_2.jpg">
+</div>
+<h3>School Leaders</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Principal</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Mr Victor Owyong</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="mailto:Victor_OWYONG@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Victor_OWYONG@schools.gov.sg</a>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal (Education)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Chang-Loy Wee Meng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:LOY_Wee_Meng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">LOY_Wee_Meng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Head of Departments</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Department</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Language &amp; Literature</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Ong Li Tyng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:loong_li_tyng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loong_li_tyng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Languages</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Neo Ping Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:neo_ping_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">neo_ping_leng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nainee Naah Ismail</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nainee_naah_ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nainee_naah_ismail@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Ng Peck Suan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_peck_suan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_peck_suan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Thian Wan Eng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Thian_Wan_Eng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Thian_Wan_Eng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICT &amp; ACT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Yeo Wee Pung</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeo_wee_pung@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_wee_pung@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Physical Education/Co-Curricular-Activities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Rachel Cheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cheng_sze_wan_rachel@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheng_sze_wan_rachel@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kelvin Tay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tay_yew_kuan_kelvin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_yew_kuan_kelvin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Character and Citizenship Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chin Khai Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chin_khai_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_khai_ying@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Low Phek Mui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_phek_mui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_phek_mui@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head (Lower Secondary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Wendy Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_yoke_chan_wendy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_yoke_chan_wendy@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head (Upper Secondary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kelvin Teo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teo_kian_ming_kelvin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_kian_ming_kelvin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Linda Chuang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:CHUANG_Toon_Ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">CHUANG_Toon_Ling@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Azline Ibrahim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Nur_Azline_IBRAHIM@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Nur_Azline_IBRAHIM@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operation Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Koay Chin Wah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koay_chin_wah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koay_chin_wah@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Level / Subject Heads</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Department</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue Languages</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Li Ping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:li_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_ping@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science (Lower Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr&nbsp;Sng Peng Hock</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sng_peng_hock@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sng_peng_hock@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science (Physics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Yip Cheng Hou</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yip_cheng_hou@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yip_cheng_hou@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Character and Citizenship Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Michael Koh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_kim_hua_michael@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_kim_hua_michael@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Information Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Wah Kum</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_wah_kum@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wah_kum@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Craft &amp; Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kelvin Chia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kelvin_chia_cheng_meng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kelvin_chia_cheng_meng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Aesthetics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Ng Sio Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_sio_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_sio_ying@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Asst. Year Head (Secondary 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Wong Hui Yu Yvonee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chew_hui_yu_yvonee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_hui_yu_yvonee@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Asst. Year Head (Secondary 3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Wei Ying Teresa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_wei_ying_teresa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_wei_ying_teresa@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
