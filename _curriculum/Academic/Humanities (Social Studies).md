@@ -46,10 +46,14 @@ to create a website to feature their II research, data collection and suggestion
 to appeal to their target audiences.</p>
 <p>The following are screenshots and links to some artistically designed
 II websites from the 2024 cohort.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/2024_SS_1.png">
 </div>
+<p>For this project, students carried out an investigation into the degree
+of food wastage in Singapore, and proposed some strategies to mitigate
+this problem.</p>
+<p><strong>Link: </strong><a rel="noopener noreferrer nofollow" target="_blank">https://socialstudiesissueinvestigation.weebly.com/what-is-food-wastage.html</a>&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_SS7.jpg">
 </div>
