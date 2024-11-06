@@ -54,10 +54,10 @@ of food wastage in Singapore, and proposed some strategies to mitigate
 this problem.</p>
 <p><strong>Link: </strong><a rel="noopener noreferrer nofollow" target="_blank">https://socialstudiesissueinvestigation.weebly.com/what-is-food-wastage.html</a>&nbsp;</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_SS7.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/2024_SS_2.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_SS8.jpg">
 </div>
