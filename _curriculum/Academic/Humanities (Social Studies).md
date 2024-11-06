@@ -88,13 +88,11 @@ programme to selected Secondary 3 students. Through participating in various
 MUNs, students gain a better understanding of global issues and insights
 on the mechanisms of international relations. They also get to sharpen
 their public speaking and debating skills during these academic simulations.</p>
-<p>&nbsp;</p>
 <p>In 2024, our GEMS participated in the National Youth Environment Conference
 (NYEC) organised by Nan Hua Secondary School from 17th to 19th April. The
 conference saw our GEMS involved in deep discussion about current environmental
 issues which have lasting impact. They also had the opportunity to work
 and learn from students from other schools.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/2024_SS_5.png">
 </div>
