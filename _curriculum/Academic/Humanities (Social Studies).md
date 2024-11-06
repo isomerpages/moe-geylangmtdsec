@@ -111,7 +111,6 @@ Singapore. The goal of the Speaker Series programme is to help students
 better understand and appreciate how the concepts and issues in the Upper
 Secondary Social Studies syllabus relate to real life, the roles played
 by the different stakeholders, and how individuals can contribute to society.</p>
-<p>&nbsp;</p>
 <p>For the first session of the Speaker Series 2024 on 1<sup>st</sup> February,
 we invited representatives from the <strong>Singapore Food Agency (SFA)</strong> to
 share with the Secondary 3 students about Singapore’s efforts in ensuring
@@ -123,7 +122,6 @@ This session was also held in hybrid mode via Zoom and we were joined by
 students and teachers from Broadrick Secondary School, Gan Eng Seng Secondary
 School and Sembawang Secondary School. It was a wonderful time of learning
 together as a community!</p>
-<p>&nbsp;</p>
 <p>For our second session held on 21<sup>st</sup> March, we welcomed the President
 of <strong>Willing Hearts</strong> as our guest speaker. Mr Teh talked about
 the operations of Willing Hearts, and how they served the beneficiaries
