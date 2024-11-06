@@ -54,121 +54,84 @@ of food wastage in Singapore, and proposed some strategies to mitigate
 this problem.</p>
 <p><strong>Link: </strong><a rel="noopener noreferrer nofollow" target="_blank">https://socialstudiesissueinvestigation.weebly.com/what-is-food-wastage.html</a>&nbsp;</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/2024_SS_2.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_SS8.jpg">
-</div>
+<p>This group of students was concerned about plastic waste in Singapore,
+thus they researched on how ordinary Singaporeans could help in reducing
+its usage.</p>
+<p><strong>Link:</strong>  <a rel="noopener noreferrer nofollow" target="_blank">https://dandy-khaan-f5c.notion.site/SS-Issue-Investigation-Plastic-Waste-04dbe3aca9c74da8ad689e98aa488e09</a>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_SS9.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/2024_SS_3.png">
 </div>
-<h4>Humanities Department Enrichment Programme</h4>
-<p><strong>2. GEMS Challenge – Model United Nations (MUN)</strong>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/2024_SS_4.png">
+</div>
+<p>Understanding the importance of food security, this group of students
+researched on how Singaporeans could complement government agencies in
+safeguarding the nation’s food supply.</p>
+<p><strong>Link:</strong>  <a rel="noopener noreferrer nofollow" target="_blank">https://leticiatohwenting.wixsite.com/foodsecurity</a>
 </p>
+<p></p>
+<h4></h4>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong>Enrichment programme – Model United Nations (MUN)</strong>
+</p>
+</li>
+</ol>
 <p>To foster critical thinking and hone research and writing skills, the
 Humanities Department offers the Model United Nations (MUN) enrichment
 programme to selected Secondary 3 students. Through participating in various
-MUNs, students gained a better understanding of global issues and insights
+MUNs, students gain a better understanding of global issues and insights
 on the mechanisms of international relations. They also get to sharpen
 their public speaking and debating skills during these academic simulations.</p>
-<p>In 2023, our GEMS participated in the Singapore Model Cabinet (SMC) conference
-and the Ngee Ann Secondary Model United Nations (NASMUN) conference.</p>
-<p>The SMC was a simulation of the Singapore Cabinet where our GEMS took
-on the role of Singapore’s policymakers and discussed how Singapore could
-tackle various issues, given our constraints and differing needs. Our GEMS
-gained a better understanding and appreciation for the United Nations through
-NASMUN which simulated the workings of the United Nations.</p>
-<p>During the NASMUN 2023, two of our GEMS - Helen Hu and Rainer Lim of J32
-were awarded the Best Delegate of their respective committees. This award
-was given to the most knowledgeable student representative who presented
-the best ideas in their respective committees.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_SS1.jpg">
-</div>
+<p>&nbsp;</p>
+<p>In 2024, our GEMS participated in the National Youth Environment Conference
+(NYEC) organised by Nan Hua Secondary School from 17th to 19th April. The
+conference saw our GEMS involved in deep discussion about current environmental
+issues which have lasting impact. They also had the opportunity to work
+and learn from students from other schools.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_SS2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/2024_SS_5.png">
 </div>
+<p>Our GEMS enjoying themselves at Nan Hua Secondary School, where the National
+Youth Environment Conference (NYEC) was held.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_SS3.jpg">
-</div>
+<p></p>
 <p><strong>Speaker Series Programme</strong>
 </p>
 <p>The Speaker Series programme is a series of talks organised by the Humanities
 Department, where speakers from various segments of society are invited
 to share with Secondary 3 students about different societal concerns in
-Singapore. The goal of the Speaker Series program is to help students better
-understand and appreciate how the concepts and issues in the Upper Secondary
-Social Studies syllabus relate to real life, the roles played by the different
-stakeholders, and how individuals can contribute to society.</p>
-<p>For the first session of the Speaker Series 2023 on 8th February, we were
-honored to have <strong>Ms Tin Pei Ling, Member of Parliament for MacPherson Constituency</strong>&nbsp;to
-be our guest speaker. Ms Tin shared with our Secondary 3 GEMS about the
-issues faced by Macpherson residents. She shared some examples of the measures
-taken to serve the needs of the residents, her own experiences and how
-individuals like our students could make a positive difference through
-acts of kindness such as acknowledging others by smiling and keeping our
-environment clean. She also shared about the various efforts taken to ensure
-sustainability in the MacPherson constituency.</p>
-<p>For our second session held on 23rd March, we welcomed representatives
-of <strong>The Food Bank Singapore</strong> as our guest speakers. They shared
-with our students about the less-privileged groups in Singapore who struggle
-with food security and the many initiatives taken to help them, especially
-during the Covid-19 pandemic. They also shared suggestions on how our GEMS
-can play a part in ensuring food security in Singapore.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_SS4.jpg">
-</div>
+Singapore. The goal of the Speaker Series programme is to help students
+better understand and appreciate how the concepts and issues in the Upper
+Secondary Social Studies syllabus relate to real life, the roles played
+by the different stakeholders, and how individuals can contribute to society.</p>
+<p>&nbsp;</p>
+<p>For the first session of the Speaker Series 2024 on 1<sup>st</sup> February,
+we invited representatives from the <strong>Singapore Food Agency (SFA)</strong> to
+share with the Secondary 3 students about Singapore’s efforts in ensuring
+food security. This topic is aligned to our school’s ALP (Applied Learning
+Programme) focus on sustainability. The speakers shared interesting information
+about food security and measures taken by SFA to safeguard a diversified
+and reliable food supply. Our students found the talk interesting and insightful.
+This session was also held in hybrid mode via Zoom and we were joined by
+students and teachers from Broadrick Secondary School, Gan Eng Seng Secondary
+School and Sembawang Secondary School. It was a wonderful time of learning
+together as a community!</p>
+<p>&nbsp;</p>
+<p>For our second session held on 21<sup>st</sup> March, we welcomed the President
+of <strong>Willing Hearts</strong> as our guest speaker. Mr Teh talked about
+the operations of Willing Hearts, and how they served the beneficiaries
+through the daily preparation of meals. He also shared with us on how students
+can play a part in helping the beneficiaries by volunteering to prepare
+meals for them, or to befriend them.&nbsp;</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_SS5.jpg">
-</div>
-<h4>GEMS Challenge</h4>
-<p><strong>Objective</strong>
-</p>
-<p>The ASEAN Internationalisation Programme (AIP) aims to help students better
-understand the impact and opportunities brought about by globalisation.</p>
-<p><strong>Programme</strong>
-</p>
-<p>Globalisation is a complex and multifaceted phenomenon that is transforming&nbsp;the
-world in profound ways. Thailand is no exception, as it has become increasingly
-integrated into the global economy and culture.</p>
-<p>This programme enables students to develop a deeper understanding of globalisation
-and its impact on Thailand by learning independently about the culture
-and economy of Thailand through research, readings, workshops, and interactions
-with Thai students.</p>
-<p><strong>Thai culture:</strong> Students learn about the different aspects
-of Thai culture, such as its language, arts, and cuisine. They explore
-the ways in which Thai culture has been influenced by other cultures around
-the world.</p>
-<p><strong>Thailand economy:</strong> They also learn about the Thai economy
-including its major industries such as tourism. They explore the challenges
-and opportunities that Thailand faces in the global economy.</p>
-<p>Students will work in groups to research on various aspects of Thailand/Singapore
-and they will share their findings with the Thai students virtually. This
-helps the students to foster empathy, resilience and humility as they interact
-with the Thai students and appreciate a world outside of Singapore.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_SS10.jpg">
-</div>
-<p>Photo 1: Students learn more about Thai traditional dance.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_SS11.jpg">
-</div>
-<p>Photo 2: Hands-on making of traditional Thai Handicraft.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_SS12.jpg">
-</div>
-<p>Photo 3: A student’s consolidation of learning about Thai culture through
-infographic.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_SS13.jpg">
-</div>
-<p>Photo 4: Zoom Conference with Thai students.</p>
+<p></p>
 <p>For more information, do refer to the following links:</p>
 <ul data-tight="true" class="tight">
 <li>
