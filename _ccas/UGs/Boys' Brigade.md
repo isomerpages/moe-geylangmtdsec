@@ -187,10 +187,4 @@ through conversations and cleaning their homes.</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/jm_fraser_2023.jpeg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20160416_112025-1024x576.jpg">
-</div>
 <p></p>
