@@ -3,41 +3,110 @@ title: Girl Guides
 permalink: /cca/ugs/girl-guides/
 description: ""
 third_nav_title: UGs
-variant: markdown
+variant: tiptap
 ---
-![](/images/2023%20gg.png)
-
-
-**Objectives of CCA**
-
-*   To develop the girls into responsible citizens of the world.
-
-**Highlights of 2023:**
-
-*   Awarded Gold for Puan Noor Aishah Award 2022
-*   Patrol Leader Putri Mellissa was awarded the Baden Powell Award (BPA), the highest award given out by the Chief Commissioner of Girl Guides to a Girl Guide
-*   Guides Eileen Lua and Putri Mellissa participated in the National Day Parade at the Padang
-*   Guides took part in the East Division Day 2023 competitions and took home 1st place for Dance and 2nd place for Poster Design
-*   Participated in the National Day Parade in the annual school celebration as part of the marching contingent
-*   Company Leader Reann Pwee and Assistant Company Leader Desmartes Maelys attended the Let's Go Camping 2023 Camp at Camp Christine
-
-
-
-**Teachers-in-Charge**
-
-| 1. |  | Miss Janelle Chua Hwee Woon (I/C) |
-| -------- | -------- | -------- |
-| 2.     |      | Mdm Lau Chau King     |
-| 3.     |      |  Ms Andrea Lau   |
-
-
-**Student Leaders**
-
-| Company Leader: |  | Pwee Yi Han Reann (J32) |
-| -------- | -------- | -------- |
-|Assistant Company Leaders:    |      | Desmartes Maelys Tim Xin (J33)    |
-| Quartermistresses:     |      | Heng Yee Seng (J32)     |
-|  Patrol Leaders:    |      |  Kingfisher – Putri Mellissa (J34)   |
-|      |      |  Mynah- Lua Yi Lin, Eileen (J36)    |
-|      |      |  Dove- Ella Tan Hui En (J37)     |	
-|      |      |  Sparrow- Chung Way Shin, Mirai (J34)    |
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/5ec5ba13_36ec_4fb8_9ab5_0cbf864b6120.jpg">
+</div>
+<p></p>
+<p><strong>Highlights of 2024:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Achieved 'Gold' for the Puan Noor Aishah Gold Award for the year 2023</p>
+</li>
+<li>
+<p>Commemorated World Thinking Day 2024</p>
+</li>
+<li>
+<p>Promotion Ceremony 2024</p>
+</li>
+<li>
+<p>March Camp 2024</p>
+</li>
+<li>
+<p>Won first place in Semaphore Drill Competition on East Division Day 2024</p>
+</li>
+<li>
+<p>Won second place in Telematch Competition on East Division Day 2024</p>
+</li>
+</ul>
+<p><strong>Teachers-in-Charge</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>1.</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Miss Janelle Chua Hwee Woon (I/C)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lau Chau King</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Student Leaders</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Company Leader:</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Neo Xiu Wen Verlin (J36)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Company Leaders:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chong Ker Shanne (J32)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cho Xin Yi (J37)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
