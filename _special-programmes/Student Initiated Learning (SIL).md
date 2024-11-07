@@ -2,80 +2,909 @@
 title: Student Initiated Learning (SIL)
 permalink: /special-programme/student-initiated-learning-sil/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-![](/images/gear_up_committee_2.jpg)
-
-**STUDENT-INITIATED LEARNING 2023**
-
-**SECONDARY 1 &amp; 2 STARS PROGRAMME**
-
-**Why Student-Initiated Learning?**
-
-Student-Initiated Learning on HBL days will provide dedicated time and space for students to explore their areas of interests by initiating learning activities on their own. Students will dedicate about&nbsp;an hour&nbsp;to discover, develop and deepen interests through self-directed learning and exploration.
-
-**What does**&nbsp;**Student-Initiated Learning look like in**&nbsp;**Geylang Methodist School (Secondary)?**
-
-In Geylang Methodist School (Secondary), we named our Student-Initiated Learning the&nbsp;STARS Programme.
-
-Our Secondary 1 and 2 students will choose an interest in&nbsp;one area of the STARS&nbsp;and embark on a journey of self-discovery and development.
-
-**S**ports and Wellness (E.g. Exercise, Health, Mental Health, Food)
-
-**T**echnology and Innovation (E.g. STEM, Coding, Robotics, Game Design)
-
-**A**esthetics (E.g. Music, Arts, Dance, Drama, Design, Language, Culinary)
-
-**R**eading and Writing (E.g. Books, Novels, Poems, Plays, Educational Magazines, Journals)
-
-**S**ustainable Living (E.g. Care for Environment and Nature, Recycling)
-
-This is achieved through a structured process of discovering of interests and career choices with MySkillsFuture, followed by opportunities for self-directed exploration and learning to develop their areas of interests. Students will end the year with the opportunity to attend one of the STARS modules in the SHINE programme, which is aligned to their area of interest. This will help them deepen their learning with the trainers who are experts in the various industries.
-
-Semester 1: Individual Work
-
-Semester 2: Individual/ Group Work
-
-End-of-Year: Shine Programme
-
-Level:&nbsp;**Secondary 1**
-
-Dates:&nbsp;**HBL Days**
-
-Objective:
-
-*   **To provide opportunities for all students to discover, develop and deepen interests through self-directed learning and exploration. (Individual Work)**
-
-**Schedule**
-
-<table border="1" width="718" style="box-sizing: border-box; border-collapse: collapse; border-spacing: 0px; background-color: transparent; width: 718px;"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; width: 54.5125px;"><strong style="box-sizing: border-box; font-weight: bold;">No.</strong></td><td style="box-sizing: border-box; padding: 0px; width: 93.4125px;"><strong style="box-sizing: border-box; font-weight: bold;">Date</strong></td><td style="box-sizing: border-box; padding: 0px; width: 185.988px;"><strong style="box-sizing: border-box; font-weight: bold;">Programme</strong></td><td colspan="3" style="box-sizing: border-box; padding: 0px; width: 89.7625px;"><strong style="box-sizing: border-box; font-weight: bold;">Duration</strong></td><td style="box-sizing: border-box; padding: 0px; width: 127.8px;"><strong style="box-sizing: border-box; font-weight: bold;">Time</strong></td><td style="box-sizing: border-box; padding: 0px; width: 129.325px;"><strong style="box-sizing: border-box; font-weight: bold;">Mode of Learning</strong></td></tr><tr style="box-sizing: border-box;"><td colspan="8" style="box-sizing: border-box; padding: 0px; width: 708.8px;"><strong style="box-sizing: border-box; font-weight: bold;">Term 1</strong></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; width: 54.5125px;">1.</td><td style="box-sizing: border-box; padding: 0px; width: 93.4125px;">16 Jan (Mon)</td><td style="box-sizing: border-box; padding: 0px; width: 185.988px;">Briefing on STARS (SIL)</td><td colspan="3" style="box-sizing: border-box; padding: 0px; width: 89.7625px;">30 min</td><td style="box-sizing: border-box; padding: 0px; width: 127.8px;">GEMS Time</td><td style="box-sizing: border-box; padding: 0px; width: 129.325px;">Friendship Hall<p style="box-sizing: border-box; margin: 0px 0px 10px;"></p><p style="box-sizing: border-box; margin: 0px 0px 10px;">&nbsp;</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; width: 54.5125px;">2.</td><td style="box-sizing: border-box; padding: 0px; width: 93.4125px;">27 Jan (Fri)</td><td style="box-sizing: border-box; padding: 0px; width: 185.988px;">Introduction to STARS (SIL)</td><td colspan="3" style="box-sizing: border-box; padding: 0px; width: 89.7625px;">1 hour</td><td style="box-sizing: border-box; padding: 0px; width: 127.8px;">HBL<p style="box-sizing: border-box; margin: 0px 0px 10px;"></p><p style="box-sizing: border-box; margin: 0px 0px 10px;">&nbsp;</p></td><td style="box-sizing: border-box; padding: 0px; width: 129.325px;">SLS</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; width: 54.5125px;">3.</td><td style="box-sizing: border-box; padding: 0px; width: 93.4125px;">8 Feb (Wed)</td><td style="box-sizing: border-box; padding: 0px; width: 185.988px;">ECG Session 1 (MySkillsFuture)<p style="box-sizing: border-box; margin: 0px 0px 10px;"></p><p style="box-sizing: border-box; margin: 0px 0px 10px;">&nbsp;</p></td><td colspan="3" style="box-sizing: border-box; padding: 0px; width: 89.7625px;">1 hour</td><td style="box-sizing: border-box; padding: 0px; width: 127.8px;">HBL<p style="box-sizing: border-box; margin: 0px 0px 10px;"></p><p style="box-sizing: border-box; margin: 0px 0px 10px;">&nbsp;</p></td><td style="box-sizing: border-box; padding: 0px; width: 129.325px;">Google Classroom</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; width: 54.5125px;">4.</td><td style="box-sizing: border-box; padding: 0px; width: 93.4125px;">21 Feb (Tue)</td><td style="box-sizing: border-box; padding: 0px; width: 185.988px;">ECG Session 2 (MySkillsFuture)<p style="box-sizing: border-box; margin: 0px 0px 10px;"></p><p style="box-sizing: border-box; margin: 0px 0px 10px;">&nbsp;</p></td><td colspan="3" style="box-sizing: border-box; padding: 0px; width: 89.7625px;">1 hour</td><td style="box-sizing: border-box; padding: 0px; width: 127.8px;">HBL<p style="box-sizing: border-box; margin: 0px 0px 10px;"></p><p style="box-sizing: border-box; margin: 0px 0px 10px;">&nbsp;</p></td><td style="box-sizing: border-box; padding: 0px; width: 129.325px;">Google Classroom</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; width: 54.5125px;">5.</td><td style="box-sizing: border-box; padding: 0px; width: 93.4125px;">6 Mar (Mon)</td><td style="box-sizing: border-box; padding: 0px; width: 185.988px;">STARS (SIL) – Getting Started<p style="box-sizing: border-box; margin: 0px 0px 10px;"></p><p style="box-sizing: border-box; margin: 0px 0px 10px;">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exploring Options</p><p style="box-sizing: border-box; margin: 0px 0px 10px;">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Deciding on Area of Interest</p></td><td colspan="3" style="box-sizing: border-box; padding: 0px; width: 89.7625px;">1 hour</td><td style="box-sizing: border-box; padding: 0px; width: 127.8px;">HBL<p style="box-sizing: border-box; margin: 0px 0px 10px;"></p><p style="box-sizing: border-box; margin: 0px 0px 10px;">&nbsp;</p></td><td style="box-sizing: border-box; padding: 0px; width: 129.325px;">Padlet</td></tr><tr style="box-sizing: border-box;"><td colspan="8" style="box-sizing: border-box; padding: 0px; width: 708.8px;"><strong style="box-sizing: border-box; font-weight: bold;">Term 2</strong></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; width: 54.5125px;">6.</td><td style="box-sizing: border-box; padding: 0px; width: 93.4125px;">31 Mar (Fri)</td><td style="box-sizing: border-box; padding: 0px; width: 185.988px;">STARS (SIL) – Activity 1</td><td colspan="3" style="box-sizing: border-box; padding: 0px; width: 89.7625px;">1 hour</td><td style="box-sizing: border-box; padding: 0px; width: 127.8px;">HBL<p style="box-sizing: border-box; margin: 0px 0px 10px;"></p><p style="box-sizing: border-box; margin: 0px 0px 10px;">&nbsp;</p></td><td style="box-sizing: border-box; padding: 0px; width: 129.325px;">Padlet</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; width: 54.5125px;">7.</td><td style="box-sizing: border-box; padding: 0px; width: 93.4125px;">13 Apr (Thu)</td><td style="box-sizing: border-box; padding: 0px; width: 185.988px;">STARS (SIL) – Activity 2</td><td colspan="3" style="box-sizing: border-box; padding: 0px; width: 89.7625px;">1 hour</td><td style="box-sizing: border-box; padding: 0px; width: 127.8px;">HBL<p style="box-sizing: border-box; margin: 0px 0px 10px;"></p><p style="box-sizing: border-box; margin: 0px 0px 10px;">&nbsp;</p></td><td style="box-sizing: border-box; padding: 0px; width: 129.325px;">Padlet</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; width: 54.5125px;">8.</td><td style="box-sizing: border-box; padding: 0px; width: 93.4125px;">26 Apr (Wed)</td><td style="box-sizing: border-box; padding: 0px; width: 185.988px;">STARS (SIL) – Activity 3</td><td colspan="3" style="box-sizing: border-box; padding: 0px; width: 89.7625px;">1 hour</td><td style="box-sizing: border-box; padding: 0px; width: 127.8px;">HBL<p style="box-sizing: border-box; margin: 0px 0px 10px;"></p><p style="box-sizing: border-box; margin: 0px 0px 10px;">&nbsp;</p></td><td style="box-sizing: border-box; padding: 0px; width: 129.325px;">Padlet</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; width: 54.5125px;">9.</td><td style="box-sizing: border-box; padding: 0px; width: 93.4125px;">9 May (Tue)</td><td style="box-sizing: border-box; padding: 0px; width: 185.988px;">STARS (SIL) – Activity 4</td><td colspan="3" style="box-sizing: border-box; padding: 0px; width: 89.7625px;">1 hour</td><td style="box-sizing: border-box; padding: 0px; width: 127.8px;">HBL<p style="box-sizing: border-box; margin: 0px 0px 10px;"></p><p style="box-sizing: border-box; margin: 0px 0px 10px;">&nbsp;</p></td><td style="box-sizing: border-box; padding: 0px; width: 129.325px;">Padlet</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; width: 54.5125px;">10.</td><td style="box-sizing: border-box; padding: 0px; width: 93.4125px;">22 May (Mon)</td><td style="box-sizing: border-box; padding: 0px; width: 185.988px;">Preparation of Presentation</td><td colspan="3" style="box-sizing: border-box; padding: 0px; width: 89.7625px;">1 hour</td><td style="box-sizing: border-box; padding: 0px; width: 127.8px;">HBL<p style="box-sizing: border-box; margin: 0px 0px 10px;"></p><p style="box-sizing: border-box; margin: 0px 0px 10px;">&nbsp;</p></td><td style="box-sizing: border-box; padding: 0px; width: 129.325px;">Padlet/ PowerPoint</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; width: 54.5125px;">11.</td><td style="box-sizing: border-box; padding: 0px; width: 93.4125px;">Last week of May</td><td style="box-sizing: border-box; padding: 0px; width: 185.988px;">Showcase<p style="box-sizing: border-box; margin: 0px 0px 10px;"></p><p style="box-sizing: border-box; margin: 0px 0px 10px;">&nbsp;</p></td><td colspan="3" style="box-sizing: border-box; padding: 0px; width: 89.7625px;">3 hours</td><td style="box-sizing: border-box; padding: 0px; width: 127.8px;">During post-exam programme (3 hours)</td><td style="box-sizing: border-box; padding: 0px; width: 129.325px;">Presentations</td></tr><tr style="box-sizing: border-box;"><td colspan="8" style="box-sizing: border-box; padding: 0px; width: 708.8px;"><strong style="box-sizing: border-box; font-weight: bold;">Term 3</strong></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; width: 54.5125px;">12.</td><td style="box-sizing: border-box; padding: 0px; width: 93.4125px;">20 Jul (Thu)</td><td colspan="2" style="box-sizing: border-box; padding: 0px; width: 192.4px;">STARS (SIL) – Activity 5 (ND Theme)</td><td style="box-sizing: border-box; padding: 0px; width: 74.4625px;">1 hour</td><td colspan="2" style="box-sizing: border-box; padding: 0px; width: 136.688px;">HBL<p style="box-sizing: border-box; margin: 0px 0px 10px;"></p><p style="box-sizing: border-box; margin: 0px 0px 10px;">&nbsp;</p></td><td style="box-sizing: border-box; padding: 0px; width: 129.325px;">Padlet</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; width: 54.5125px;">13.</td><td style="box-sizing: border-box; padding: 0px; width: 93.4125px;">15 Aug (Tue)</td><td colspan="2" style="box-sizing: border-box; padding: 0px; width: 192.4px;">STARS (SIL) – Activity 6 (ND Theme)</td><td style="box-sizing: border-box; padding: 0px; width: 74.4625px;">1 hour</td><td colspan="2" style="box-sizing: border-box; padding: 0px; width: 136.688px;">HBL<p style="box-sizing: border-box; margin: 0px 0px 10px;"></p><p style="box-sizing: border-box; margin: 0px 0px 10px;">&nbsp;</p></td><td style="box-sizing: border-box; padding: 0px; width: 129.325px;">Padlet</td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; width: 54.5125px;">14.</td><td style="box-sizing: border-box; padding: 0px; width: 93.4125px;">28 Aug (Mon)</td><td colspan="2" style="box-sizing: border-box; padding: 0px; width: 192.4px;">Preparation and Upload of Presentation</td><td style="box-sizing: border-box; padding: 0px; width: 74.4625px;">1 hour</td><td colspan="2" style="box-sizing: border-box; padding: 0px; width: 136.688px;">HBL<p style="box-sizing: border-box; margin: 0px 0px 10px;"></p><p style="box-sizing: border-box; margin: 0px 0px 10px;">&nbsp;</p></td><td style="box-sizing: border-box; padding: 0px; width: 129.325px;">Upload of PowerPoint/Padlet link into SLS<p style="box-sizing: border-box; margin: 0px 0px 10px;"></p><p style="box-sizing: border-box; margin: 0px 0px 10px;">&nbsp;</p></td></tr><tr style="box-sizing: border-box;"><td style="box-sizing: border-box; padding: 0px; width: 54.5125px;">15.</td><td style="box-sizing: border-box; padding: 0px; width: 93.4125px;">Last week of Oct</td><td colspan="2" style="box-sizing: border-box; padding: 0px; width: 192.4px;">SHINE and Showcase</td><td style="box-sizing: border-box; padding: 0px; width: 74.4625px;">2 days x<p style="box-sizing: border-box; margin: 0px 0px 10px;"></p><p style="box-sizing: border-box; margin: 0px 0px 10px;">3 hours</p></td><td colspan="2" style="box-sizing: border-box; padding: 0px; width: 136.688px;">During post-exam programme<p style="box-sizing: border-box; margin: 0px 0px 10px;"></p><p style="box-sizing: border-box; margin: 0px 0px 10px;">(6 hours)</p></td><td style="box-sizing: border-box; padding: 0px; width: 129.325px;">Elective modules by vendor</td></tr></tbody></table>
-
-**For every session, students to write the following in Padlet. They are to upload photos and/or videos.**
-
-*   What is your activity for today?
-*   Describe what you did for your activity.
-*   What did you learn from today’s activity?
-*   What are the challenges and how did you overcome them?
-
-Level:&nbsp;**Secondary 2**
-
-Dates:&nbsp;**HBL Days**
-
-Objective:
-
-*   **To provide opportunities for all students to discover, develop and deepen interests through self-directed learning and exploration. (Individual or Group Work)**
-
-**Schedule**
-
-<table border="1" width="718" style="box-sizing: border-box; border-collapse: collapse; border-spacing: 0px; background-color: transparent; width: 718px;"><tbody style="box-sizing: border-box;"><tr style="box-sizing: border-box;"><td width="57" style="box-sizing: border-box; padding: 0px;"><strong style="box-sizing: border-box; font-weight: bold;">No.</strong></td><td width="112" style="box-sizing: border-box; padding: 0px;"><strong style="box-sizing: border-box; font-weight: bold;">Date</strong></td><td width="213" style="box-sizing: border-box; padding: 0px;"><strong style="box-sizing: border-box; font-weight: bold;">Programme</strong></td><td colspan="3" width="88" style="box-sizing: border-box; padding: 0px;"><strong style="box-sizing: border-box; font-weight: bold;">Duration</strong></td><td width="144" style="box-sizing: border-box; padding: 0px;"><strong style="box-sizing: border-box; font-weight: bold;">Time</strong></td><td width="104" style="box-sizing: border-box; padding: 0px;"><strong style="box-sizing: border-box; font-weight: bold;">Mode of Learning</strong></td></tr><tr style="box-sizing: border-box;"><td colspan="8" width="718" style="box-sizing: border-box; padding: 0px;"><strong style="box-sizing: border-box; font-weight: bold;">Term 1</strong></td></tr><tr style="box-sizing: border-box;"><td width="57" style="box-sizing: border-box; padding: 0px;">1.</td><td width="112" style="box-sizing: border-box; padding: 0px;">16 Jan (Mon)</td><td width="213" style="box-sizing: border-box; padding: 0px;">Briefing on STARS (SIL)</td><td colspan="3" width="88" style="box-sizing: border-box; padding: 0px;">30 min</td><td width="144" style="box-sizing: border-box; padding: 0px;">GEMS Time</td><td width="104" style="box-sizing: border-box; padding: 0px;">Friendship Hall<p style="box-sizing: border-box; margin: 0px 0px 10px;"></p><p style="box-sizing: border-box; margin: 0px 0px 10px;">&nbsp;</p></td></tr><tr style="box-sizing: border-box;"><td width="57" style="box-sizing: border-box; padding: 0px;">2.</td><td width="112" style="box-sizing: border-box; padding: 0px;">27 Jan (Fri)</td><td width="213" style="box-sizing: border-box; padding: 0px;">Introduction to STARS (SIL)</td><td colspan="3" width="88" style="box-sizing: border-box; padding: 0px;">1 hour</td><td width="144" style="box-sizing: border-box; padding: 0px;">HBL<p style="box-sizing: border-box; margin: 0px 0px 10px;"></p><p style="box-sizing: border-box; margin: 0px 0px 10px;">&nbsp;</p></td><td width="104" style="box-sizing: border-box; padding: 0px;">SLS</td></tr><tr style="box-sizing: border-box;"><td width="57" style="box-sizing: border-box; padding: 0px;">3.</td><td width="112" style="box-sizing: border-box; padding: 0px;">8 Feb (Wed)</td><td width="213" style="box-sizing: border-box; padding: 0px;">ECG Session 1 (MySkillsFuture)<p style="box-sizing: border-box; margin: 0px 0px 10px;"></p><p style="box-sizing: border-box; margin: 0px 0px 10px;">&nbsp;</p></td><td colspan="3" width="88" style="box-sizing: border-box; padding: 0px;">1 hour</td><td width="144" style="box-sizing: border-box; padding: 0px;">HBL<p style="box-sizing: border-box; margin: 0px 0px 10px;"></p><p style="box-sizing: border-box; margin: 0px 0px 10px;">&nbsp;</p></td><td width="104" style="box-sizing: border-box; padding: 0px;">Google Classroom</td></tr><tr style="box-sizing: border-box;"><td width="57" style="box-sizing: border-box; padding: 0px;">4.</td><td width="112" style="box-sizing: border-box; padding: 0px;">21 Feb (Tue)</td><td width="213" style="box-sizing: border-box; padding: 0px;">ECG Session 2 (MySkillsFuture)<p style="box-sizing: border-box; margin: 0px 0px 10px;"></p><p style="box-sizing: border-box; margin: 0px 0px 10px;">&nbsp;</p></td><td colspan="3" width="88" style="box-sizing: border-box; padding: 0px;">1 hour</td><td width="144" style="box-sizing: border-box; padding: 0px;">HBL<p style="box-sizing: border-box; margin: 0px 0px 10px;"></p><p style="box-sizing: border-box; margin: 0px 0px 10px;">&nbsp;</p></td><td width="104" style="box-sizing: border-box; padding: 0px;">Google Classroom</td></tr><tr style="box-sizing: border-box;"><td width="57" style="box-sizing: border-box; padding: 0px;">5.</td><td width="112" style="box-sizing: border-box; padding: 0px;">6 Mar (Mon)</td><td width="213" style="box-sizing: border-box; padding: 0px;">STARS (SIL) – Getting Started<p style="box-sizing: border-box; margin: 0px 0px 10px;"></p><p style="box-sizing: border-box; margin: 0px 0px 10px;">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exploring Options</p><p style="box-sizing: border-box; margin: 0px 0px 10px;">-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Deciding on Area of Interest</p></td><td colspan="3" width="88" style="box-sizing: border-box; padding: 0px;">1 hour</td><td width="144" style="box-sizing: border-box; padding: 0px;">HBL<p style="box-sizing: border-box; margin: 0px 0px 10px;"></p><p style="box-sizing: border-box; margin: 0px 0px 10px;">&nbsp;</p></td><td width="104" style="box-sizing: border-box; padding: 0px;">Padlet</td></tr><tr style="box-sizing: border-box;"><td colspan="8" width="718" style="box-sizing: border-box; padding: 0px;"><strong style="box-sizing: border-box; font-weight: bold;">Term 2</strong></td></tr><tr style="box-sizing: border-box;"><td width="57" style="box-sizing: border-box; padding: 0px;">6.</td><td width="112" style="box-sizing: border-box; padding: 0px;">31 Mar (Fri)</td><td width="213" style="box-sizing: border-box; padding: 0px;">STARS (SIL) – Activity 1</td><td colspan="3" width="88" style="box-sizing: border-box; padding: 0px;">1 hour</td><td width="144" style="box-sizing: border-box; padding: 0px;">HBL<p style="box-sizing: border-box; margin: 0px 0px 10px;"></p><p style="box-sizing: border-box; margin: 0px 0px 10px;">&nbsp;</p></td><td width="104" style="box-sizing: border-box; padding: 0px;">Padlet</td></tr><tr style="box-sizing: border-box;"><td width="57" style="box-sizing: border-box; padding: 0px;">7.</td><td width="112" style="box-sizing: border-box; padding: 0px;">13 Apr (Thu)</td><td width="213" style="box-sizing: border-box; padding: 0px;">STARS (SIL) – Activity 2</td><td colspan="3" width="88" style="box-sizing: border-box; padding: 0px;">1 hour</td><td width="144" style="box-sizing: border-box; padding: 0px;">HBL<p style="box-sizing: border-box; margin: 0px 0px 10px;"></p><p style="box-sizing: border-box; margin: 0px 0px 10px;">&nbsp;</p></td><td width="104" style="box-sizing: border-box; padding: 0px;">Padlet</td></tr><tr style="box-sizing: border-box;"><td width="57" style="box-sizing: border-box; padding: 0px;">8.</td><td width="112" style="box-sizing: border-box; padding: 0px;">26 Apr (Wed)</td><td width="213" style="box-sizing: border-box; padding: 0px;">STARS (SIL) – Activity 3</td><td colspan="3" width="88" style="box-sizing: border-box; padding: 0px;">1 hour</td><td width="144" style="box-sizing: border-box; padding: 0px;">HBL<p style="box-sizing: border-box; margin: 0px 0px 10px;"></p><p style="box-sizing: border-box; margin: 0px 0px 10px;">&nbsp;</p></td><td width="104" style="box-sizing: border-box; padding: 0px;">Padlet</td></tr><tr style="box-sizing: border-box;"><td width="57" style="box-sizing: border-box; padding: 0px;">9.</td><td width="112" style="box-sizing: border-box; padding: 0px;">9 May (Tue)</td><td width="213" style="box-sizing: border-box; padding: 0px;">STARS (SIL) – Activity 4</td><td colspan="3" width="88" style="box-sizing: border-box; padding: 0px;">1 hour</td><td width="144" style="box-sizing: border-box; padding: 0px;">HBL<p style="box-sizing: border-box; margin: 0px 0px 10px;"></p><p style="box-sizing: border-box; margin: 0px 0px 10px;">&nbsp;</p></td><td width="104" style="box-sizing: border-box; padding: 0px;">Padlet</td></tr><tr style="box-sizing: border-box;"><td width="57" style="box-sizing: border-box; padding: 0px;">10.</td><td width="112" style="box-sizing: border-box; padding: 0px;">22 May (Mon)</td><td width="213" style="box-sizing: border-box; padding: 0px;">Preparation of Presentation</td><td colspan="3" width="88" style="box-sizing: border-box; padding: 0px;">1 hour</td><td width="144" style="box-sizing: border-box; padding: 0px;">HBL<p style="box-sizing: border-box; margin: 0px 0px 10px;"></p><p style="box-sizing: border-box; margin: 0px 0px 10px;">&nbsp;</p></td><td width="104" style="box-sizing: border-box; padding: 0px;">Padlet/ PowerPoint</td></tr><tr style="box-sizing: border-box;"><td width="57" style="box-sizing: border-box; padding: 0px;">11.</td><td width="112" style="box-sizing: border-box; padding: 0px;">Last week of May</td><td width="213" style="box-sizing: border-box; padding: 0px;">Showcase<p style="box-sizing: border-box; margin: 0px 0px 10px;"></p><p style="box-sizing: border-box; margin: 0px 0px 10px;">&nbsp;</p></td><td colspan="3" width="88" style="box-sizing: border-box; padding: 0px;">3 hours</td><td width="144" style="box-sizing: border-box; padding: 0px;">During post-exam programme (3 hours)</td><td width="104" style="box-sizing: border-box; padding: 0px;">Presentations</td></tr><tr style="box-sizing: border-box;"><td colspan="8" width="718" style="box-sizing: border-box; padding: 0px;"><strong style="box-sizing: border-box; font-weight: bold;">Term 3</strong></td></tr><tr style="box-sizing: border-box;"><td width="57" style="box-sizing: border-box; padding: 0px;">12.</td><td width="112" style="box-sizing: border-box; padding: 0px;">20 Jul (Thu)</td><td colspan="2" width="214" style="box-sizing: border-box; padding: 0px;">Job Shadow</td><td width="82" style="box-sizing: border-box; padding: 0px;">1 hour</td><td colspan="2" width="148" style="box-sizing: border-box; padding: 0px;">HBL<p style="box-sizing: border-box; margin: 0px 0px 10px;"></p><p style="box-sizing: border-box; margin: 0px 0px 10px;">&nbsp;</p></td><td width="104" style="box-sizing: border-box; padding: 0px;">Padlet</td></tr><tr style="box-sizing: border-box;"><td width="57" style="box-sizing: border-box; padding: 0px;">13.</td><td width="112" style="box-sizing: border-box; padding: 0px;">15 Aug (Tue)</td><td colspan="2" width="214" style="box-sizing: border-box; padding: 0px;">Job Shadow</td><td width="82" style="box-sizing: border-box; padding: 0px;">1 hour</td><td colspan="2" width="148" style="box-sizing: border-box; padding: 0px;">HBL<p style="box-sizing: border-box; margin: 0px 0px 10px;"></p><p style="box-sizing: border-box; margin: 0px 0px 10px;">&nbsp;</p></td><td width="104" style="box-sizing: border-box; padding: 0px;">Padlet</td></tr><tr style="box-sizing: border-box;"><td width="57" style="box-sizing: border-box; padding: 0px;">14.</td><td width="112" style="box-sizing: border-box; padding: 0px;">28 Aug (Mon)</td><td colspan="2" width="214" style="box-sizing: border-box; padding: 0px;">Job Shadow</td><td width="82" style="box-sizing: border-box; padding: 0px;">1 hour</td><td colspan="2" width="148" style="box-sizing: border-box; padding: 0px;">HBL<p style="box-sizing: border-box; margin: 0px 0px 10px;"></p><p style="box-sizing: border-box; margin: 0px 0px 10px;">&nbsp;</p></td><td width="104" style="box-sizing: border-box; padding: 0px;">Padlet</td></tr><tr style="box-sizing: border-box;"><td width="57" style="box-sizing: border-box; padding: 0px;">15.</td><td width="112" style="box-sizing: border-box; padding: 0px;">Last week of Oct</td><td colspan="2" width="214" style="box-sizing: border-box; padding: 0px;">SHINE and Showcase</td><td width="82" style="box-sizing: border-box; padding: 0px;">2 days x<p style="box-sizing: border-box; margin: 0px 0px 10px;"></p><p style="box-sizing: border-box; margin: 0px 0px 10px;">3 hours</p></td><td colspan="2" width="148" style="box-sizing: border-box; padding: 0px;">During post-exam programme<p style="box-sizing: border-box; margin: 0px 0px 10px;"></p><p style="box-sizing: border-box; margin: 0px 0px 10px;">(6 hours)</p></td><td width="104" style="box-sizing: border-box; padding: 0px;">Elective modules by vendor</td></tr></tbody></table>
-
-**For every session, students to write the following in Padlet. They are to upload photos and/or videos.**
-
-*   What is your activity for today?
-*   Describe what you did for your activity.
-*   What did you learn from today’s activity?
-*   What are the challenges and how did you overcome them?
-
-Click the link below for more information about the programme.
-
-*   [SIL (STARS Programme)](/files/SIL-2022-STARS-Programme-Journey-of-a-GM-student.pdf)
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/1_gear_up_committee_1_copy.jpg">
+</div>
+<p><strong>STUDENT-INITIATED LEARNING 2023</strong>
+</p>
+<p><strong>SECONDARY 1 &amp; 2 STARS PROGRAMME</strong>
+</p>
+<p><strong>Why Student-Initiated Learning?</strong>
+</p>
+<p>Student-Initiated Learning on HBL days will provide dedicated time and
+space for students to explore their areas of interests by initiating learning
+activities on their own. Students will dedicate about&nbsp;an hour&nbsp;to
+discover, develop and deepen interests through self-directed learning and
+exploration.</p>
+<p><strong>What does</strong>&nbsp;<strong>Student-Initiated Learning look like in</strong>&nbsp;<strong>Geylang Methodist School (Secondary)?</strong>
+</p>
+<p>In Geylang Methodist School (Secondary), we named our Student-Initiated
+Learning the&nbsp;STARS Programme.</p>
+<p>Our Secondary 1 and 2 students will choose an interest in&nbsp;one area
+of the STARS&nbsp;and embark on a journey of self-discovery and development.</p>
+<p><strong>S</strong>ports and Wellness (E.g. Exercise, Health, Mental Health,
+Food)</p>
+<p><strong>T</strong>echnology and Innovation (E.g. STEM, Coding, Robotics,
+Game Design)</p>
+<p><strong>A</strong>esthetics (E.g. Music, Arts, Dance, Drama, Design, Language,
+Culinary)</p>
+<p><strong>R</strong>eading and Writing (E.g. Books, Novels, Poems, Plays,
+Educational Magazines, Journals)</p>
+<p><strong>S</strong>ustainable Living (E.g. Care for Environment and Nature,
+Recycling)</p>
+<p>This is achieved through a structured process of discovering of interests
+and career choices with MySkillsFuture, followed by opportunities for self-directed
+exploration and learning to develop their areas of interests. Students
+will end the year with the opportunity to attend one of the STARS modules
+in the SHINE programme, which is aligned to their area of interest. This
+will help them deepen their learning with the trainers who are experts
+in the various industries.</p>
+<p>Semester 1: Individual Work</p>
+<p>Semester 2: Individual/ Group Work</p>
+<p>End-of-Year: Shine Programme</p>
+<p>Level:&nbsp;<strong>Secondary 1</strong>
+</p>
+<p>Dates:&nbsp;<strong>HBL Days</strong>
+</p>
+<p>Objective:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>To provide opportunities for all students to discover, develop and deepen interests through self-directed learning and exploration. (Individual Work)</strong>
+</p>
+</li>
+</ul>
+<p><strong>Schedule</strong>
+</p>
+<table style="minWidth: 200px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>No.</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Programme</strong>
+</p>
+</td>
+<td rowspan="1" colspan="3">
+<p><strong>Duration</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mode of Learning</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="8">
+<p><strong>Term 1</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16 Jan (Mon)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Briefing on STARS (SIL)</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>30 min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GEMS Time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friendship Hall</p>
+<p></p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>27 Jan (Fri)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Introduction to STARS (SIL)</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>1 hour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HBL</p>
+<p></p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SLS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8 Feb (Wed)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ECG Session 1 (MySkillsFuture)</p>
+<p></p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>1 hour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HBL</p>
+<p></p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Google Classroom</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21 Feb (Tue)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ECG Session 2 (MySkillsFuture)</p>
+<p></p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>1 hour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HBL</p>
+<p></p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Google Classroom</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Mar (Mon)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STARS (SIL) – Getting Started</p>
+<p></p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exploring Options</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Deciding on Area of
+Interest</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>1 hour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HBL</p>
+<p></p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Padlet</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="8">
+<p><strong>Term 2</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 Mar (Fri)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STARS (SIL) – Activity 1</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>1 hour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HBL</p>
+<p></p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Padlet</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13 Apr (Thu)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STARS (SIL) – Activity 2</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>1 hour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HBL</p>
+<p></p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Padlet</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26 Apr (Wed)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STARS (SIL) – Activity 3</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>1 hour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HBL</p>
+<p></p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Padlet</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9 May (Tue)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STARS (SIL) – Activity 4</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>1 hour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HBL</p>
+<p></p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Padlet</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>22 May (Mon)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Preparation of Presentation</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>1 hour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HBL</p>
+<p></p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Padlet/ PowerPoint</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Last week of May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Showcase</p>
+<p></p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>3 hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>During post-exam programme (3 hours)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Presentations</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="8">
+<p><strong>Term 3</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20 Jul (Thu)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>STARS (SIL) – Activity 5 (ND Theme)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 hour</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>HBL</p>
+<p></p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Padlet</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15 Aug (Tue)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>STARS (SIL) – Activity 6 (ND Theme)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 hour</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>HBL</p>
+<p></p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Padlet</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28 Aug (Mon)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Preparation and Upload of Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 hour</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>HBL</p>
+<p></p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Upload of PowerPoint/Padlet link into SLS</p>
+<p></p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Last week of Oct</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>SHINE and Showcase</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 days x</p>
+<p></p>
+<p>3 hours</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>During post-exam programme</p>
+<p></p>
+<p>(6 hours)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Elective modules by vendor</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>For every session, students to write the following in Padlet. They are to upload photos and/or videos.</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>What is your activity for today?</p>
+</li>
+<li>
+<p>Describe what you did for your activity.</p>
+</li>
+<li>
+<p>What did you learn from today’s activity?</p>
+</li>
+<li>
+<p>What are the challenges and how did you overcome them?</p>
+</li>
+</ul>
+<p>Level:&nbsp;<strong>Secondary 2</strong>
+</p>
+<p>Dates:&nbsp;<strong>HBL Days</strong>
+</p>
+<p>Objective:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>To provide opportunities for all students to discover, develop and deepen interests through self-directed learning and exploration. (Individual or Group Work)</strong>
+</p>
+</li>
+</ul>
+<p><strong>Schedule</strong>
+</p>
+<table style="minWidth: 200px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>No.</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Date</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Programme</strong>
+</p>
+</td>
+<td rowspan="1" colspan="3">
+<p><strong>Duration</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Time</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mode of Learning</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="8">
+<p><strong>Term 1</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>16 Jan (Mon)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Briefing on STARS (SIL)</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>30 min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GEMS Time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friendship Hall</p>
+<p></p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>27 Jan (Fri)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Introduction to STARS (SIL)</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>1 hour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HBL</p>
+<p></p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SLS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8 Feb (Wed)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ECG Session 1 (MySkillsFuture)</p>
+<p></p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>1 hour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HBL</p>
+<p></p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Google Classroom</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>21 Feb (Tue)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ECG Session 2 (MySkillsFuture)</p>
+<p></p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>1 hour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HBL</p>
+<p></p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Google Classroom</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 Mar (Mon)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STARS (SIL) – Getting Started</p>
+<p></p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Exploring Options</p>
+<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Deciding on Area of
+Interest</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>1 hour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HBL</p>
+<p></p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Padlet</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="8">
+<p><strong>Term 2</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>31 Mar (Fri)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STARS (SIL) – Activity 1</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>1 hour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HBL</p>
+<p></p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Padlet</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13 Apr (Thu)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STARS (SIL) – Activity 2</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>1 hour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HBL</p>
+<p></p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Padlet</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>26 Apr (Wed)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STARS (SIL) – Activity 3</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>1 hour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HBL</p>
+<p></p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Padlet</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9 May (Tue)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STARS (SIL) – Activity 4</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>1 hour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HBL</p>
+<p></p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Padlet</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>22 May (Mon)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Preparation of Presentation</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>1 hour</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HBL</p>
+<p></p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Padlet/ PowerPoint</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Last week of May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Showcase</p>
+<p></p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>3 hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>During post-exam programme (3 hours)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Presentations</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="8">
+<p><strong>Term 3</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20 Jul (Thu)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Job Shadow</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 hour</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>HBL</p>
+<p></p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Padlet</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>15 Aug (Tue)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Job Shadow</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 hour</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>HBL</p>
+<p></p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Padlet</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>28 Aug (Mon)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Job Shadow</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 hour</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>HBL</p>
+<p></p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Padlet</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Last week of Oct</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>SHINE and Showcase</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 days x</p>
+<p></p>
+<p>3 hours</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>During post-exam programme</p>
+<p></p>
+<p>(6 hours)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Elective modules by vendor</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>For every session, students to write the following in Padlet. They are to upload photos and/or videos.</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>What is your activity for today?</p>
+</li>
+<li>
+<p>Describe what you did for your activity.</p>
+</li>
+<li>
+<p>What did you learn from today’s activity?</p>
+</li>
+<li>
+<p>What are the challenges and how did you overcome them?</p>
+</li>
+</ul>
+<p>Click the link below for more information about the programme.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/SIL-2022-STARS-Programme-Journey-of-a-GM-student.pdf" rel="noopener noreferrer nofollow" target="_blank">SIL (STARS Programme)</a>
+</p>
+</li>
+</ul>
+<p></p>
