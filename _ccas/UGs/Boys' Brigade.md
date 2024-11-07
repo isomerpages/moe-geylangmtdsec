@@ -94,7 +94,7 @@ through conversations and cleaning their homes.</p>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Emmanuel Lim Tze Yong (J35)</p>
+<p>Chionh Rui Jie, Justin</p>
 </th>
 </tr>
 <tr>
@@ -105,95 +105,7 @@ through conversations and cleaning their homes.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Asher Long Zhijie (J35)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 3 Platoon Sgt.:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Neo Ray-Yang (J33)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 2 Platoon Sgt.:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Asher Long Zhijie (J35)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Sec 1 Platoon Sgt.:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Sim Zi Sen (J2)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Christian Education:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lim Li Jian Josh (J35)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Admin and Finance:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chong Zer Kai, Arther (J35)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Logistics:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Fong Zi Jian, William (J35)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Awards:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ho Jia Hui (J33)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Technology:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Pang Zhi Ming (J36)</p>
+<p>Wong Qi Hong</p>
 </td>
 </tr>
 </tbody>
