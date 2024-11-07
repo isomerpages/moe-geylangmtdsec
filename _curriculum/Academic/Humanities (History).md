@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Academic
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/humanities_department_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/1_humanities_department_1_copy.jpg">
 </div>
 <p><strong>LOWER SECONDARY HISTORY:</strong>
 </p>
