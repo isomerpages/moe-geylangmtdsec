@@ -31,6 +31,7 @@ Parents also play a pivotal role in guiding and supporting their child in their 
 
 [Understanding What’s Next after ‘O’ level](https://go.gov.sg/whats-next-olevel) - Use this resource to support your child's decision-making process.
 
+[MOE CourseFinder ](https://www.moe.gov.sg/coursefinder) - Explore courses based on aggregate type, score, type of institute and area of interest
 
 
 #### **Educational Pathways**
