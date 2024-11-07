@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Academic
 variant: tiptap
 ---
+<h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/humanities_department_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/1_humanities_department_1_copy.jpg">
 </div>
 <h4>Social Studies</h4>
 <p><strong>Overview</strong>
