@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Non Academic
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/student_leadership_committee_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/1_student_leadership_development_committee_1_copy.jpg">
 </div>
 <p>Vision: Every GEM has the COURAGE and COMPETENCY to SERVE as they LEAD.</p>
 <p>“Do nothing out of selfish ambition or vain conceit. Rather, in humility
@@ -83,7 +84,11 @@ leadership journey to grow as Courageous Leaders.</p>
 <li>
 <p><strong>Student Council Executive Committee 2023-2024</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -179,7 +184,14 @@ leadership journey to grow as Courageous Leaders.</p>
 <p></p>
 <p><strong>House Executive Committee 2023-2024</strong>
 </p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
