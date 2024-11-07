@@ -25,13 +25,15 @@ Parents also play a pivotal role in guiding and supporting their child in their 
 
 [ECG Tips for Parents](https://go.gov.sg/tips-for-parents) - Pick up tips and advice on ECG and related considerations at key education stages to guide your child.
 
+[MOE CourseFinder ](https://www.moe.gov.sg/coursefinder) - Explore courses based on aggregate type, score, type of institute and area of interest.
+
 [Understanding MySkillsFuture portal](https://www.moe.gov.sg/-/media/files/programmes/myskillsfuture-student-portal-brochure-digital.pdf) - Learn about the key features in the portal and how your child can use it for education and career planning.
 
 [Understanding What’s Next after ‘N’ level](https://go.gov.sg/whats-next-nlevel) - Use this resource to support your child's decision-making process.
 
 [Understanding What’s Next after ‘O’ level](https://go.gov.sg/whats-next-olevel) - Use this resource to support your child's decision-making process.
 
-[MOE CourseFinder ](https://www.moe.gov.sg/coursefinder) - Explore courses based on aggregate type, score, type of institute and area of interest
+
 
 
 #### **Educational Pathways**
