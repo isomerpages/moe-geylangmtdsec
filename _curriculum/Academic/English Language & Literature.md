@@ -5,10 +5,10 @@ description: ""
 third_nav_title: Academic
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/english_language_and_literature_department_2.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/1_english_language_and_literature_department_1_copy.jpg">
+</div>
 <h3>English Language</h3>
 <p>Language is a vehicle for communication and expression, and students are
 equipped with the essential skills to communicate effectively in English.
