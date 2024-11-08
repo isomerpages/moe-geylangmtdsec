@@ -82,7 +82,7 @@ Boys Championship 2024</p>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Caleb Quek Zhi En (J31)</p>
+<p>Caleb Quek Zhi En J31</p>
 </th>
 </tr>
 <tr>
