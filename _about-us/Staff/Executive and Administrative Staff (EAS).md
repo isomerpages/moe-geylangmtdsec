@@ -3,23 +3,147 @@ title: Executive and Administrative Staff (EAS)
 permalink: /about-us/GM-Family/EAS/
 description: ""
 third_nav_title: Staff
-variant: markdown
+variant: tiptap
 ---
-![](/images/executive_and_administrative_staff_2.jpg)
-
-
-
-| 1 | Amir Bohari | [amir\_bohari@schools.gov.sg](mailto:amir_bohari@schools.gov.sg) |
-| -------- | -------- | -------- |
-| 2     |   Azizah Mohamed Yusoff   | [azizah\_mohamed\_yusoff@schools.gov.sg](mailto:azizah_mohamed_yusoff@schools.gov.sg)     |
-| 3     | Catherine Chow Sow Han    | [catherine\_chow\_sow\_han@schools.gov.sg](mailto:catherine_chow_sow_han@schools.gov.sg)     |
-| 4     | Leong Ying Wan     | [leong\_ying\_wan@schools.gov.sg](mailto:leong_ying_wan@schools.gov.sg)     |
-| 5     | Liaw Tai Khim   | [liaw\_tai\_khim@schools.gov.sg](mailto:liaw_tai_khim@schools.gov.sg)   |
-| 6     | Lien Chong See   | [Lien\_chong\_see@schools.gov.sg](mailto:Lien_chong_see@schools.gov.sg)   |
-| 7     | Neo Soh Hoon   | [NEO\_SOH\_HOON@schools.gov.sg](mailto:NEO_SOH_HOON@schools.gov.sg)    |
-| 8     | Nurazza Ayu Binte Naim     | [nurazza\_ayu\_naim@schools.gov.sg](mailto:nurazza_ayu_naim@schools.gov.sg)   |
-| 9    | Nurulhuda Samat     | [nurazza\_ayu\_naim@schools.gov.sg](mailto:nurazza_ayu_naim@schools.gov.sg)    |
-| 10    | Zairul Azidin Abdul Rahman     | [zairul\_azidin\_abdul\_rahman@schools.gov.sg](mailto:zairul_azidin_abdul_rahman@schools.gov.sg)    |
-
-
-![](/images/GMSS_A3-Posters_Our-Staff_ver2_Page_3.jpg)
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/1_executive_and_administrative_staff_1_copy.jpg">
+</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>1</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Amir Bohari</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="mailto:amir_bohari@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">amir_bohari@schools.gov.sg</a>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Azizah Mohamed Yusoff</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:azizah_mohamed_yusoff@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">azizah_mohamed_yusoff@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Catherine Chow Sow Han</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:catherine_chow_sow_han@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">catherine_chow_sow_han@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Leong Ying Wan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:leong_ying_wan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_ying_wan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Liaw Tai Khim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:liaw_tai_khim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liaw_tai_khim@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lien Chong See</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Lien_chong_see@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lien_chong_see@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Neo Soh Hoon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:NEO_SOH_HOON@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">NEO_SOH_HOON@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nurazza Ayu Binte Naim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nurazza_ayu_naim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurazza_ayu_naim@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nurulhuda Samat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nurazza_ayu_naim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurazza_ayu_naim@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zairul Azidin Abdul Rahman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zairul_azidin_abdul_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zairul_azidin_abdul_rahman@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GMSS_A3-Posters_Our-Staff_ver2_Page_3.jpg">
+</div>
+<p></p>
