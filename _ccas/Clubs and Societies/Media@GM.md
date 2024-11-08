@@ -74,7 +74,8 @@ honing their skills and confidence.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Student Leaders</strong>
+<p></p>
+<p><strong>CCA Leaders</strong>
 </p>
 <table style="minWidth: 125px">
 <colgroup>
