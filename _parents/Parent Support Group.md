@@ -83,7 +83,7 @@ us at <a href="mailto:psggmssec@gmail.com" rel="noopener noreferrer nofollow" ta
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Peter Tay</p>
+<p>Mr. Peter Tay</p>
 </td>
 </tr>
 <tr>
@@ -94,7 +94,7 @@ us at <a href="mailto:psggmssec@gmail.com" rel="noopener noreferrer nofollow" ta
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Paulyn Chioh</p>
+<p>Mrs. Paulyn Chioh</p>
 </td>
 </tr>
 <tr>
@@ -149,7 +149,7 @@ us at <a href="mailto:psggmssec@gmail.com" rel="noopener noreferrer nofollow" ta
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Eileen Teoh</p>
+<p>Mrs. Eileen Teoh</p>
 </td>
 </tr>
 <tr>
@@ -160,7 +160,7 @@ us at <a href="mailto:psggmssec@gmail.com" rel="noopener noreferrer nofollow" ta
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Jacqueline Chua</p>
+<p>Mrs. Jacqueline Chua</p>
 </td>
 </tr>
 <tr>
@@ -193,7 +193,7 @@ us at <a href="mailto:psggmssec@gmail.com" rel="noopener noreferrer nofollow" ta
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Grace Ng</p>
+<p>Mrs. Grace Ng</p>
 </td>
 </tr>
 </tbody>
