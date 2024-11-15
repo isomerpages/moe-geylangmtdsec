@@ -6,15 +6,14 @@ third_nav_title: Non Academic
 variant: tiptap
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/1_student_management_committee_1_copy.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Picture1.jpg">
 </div>
-<p><em>Discipline your children while they are young enough to learn.</em>
-</p>
-<p><em>Listen to counsel and accept discipline, that you may be wise the rest of your days.</em>
-</p>
-<p><em>Proverbs 19:18, 20</em>
-</p>
+<p>Discipline your children while they are young enough to learn.</p>
+<p>Listen to counsel and accept discipline, that you may be wise the rest
+of your days.</p>
+<p>Proverbs 19:18, 20</p>
 <p>In Geylang Methodist School (Secondary), the Student Management Team supports
 our students to make sound and responsible choices in life.</p>
 <p>Discipline is an important aspect of a student’s life as there is a positive
@@ -99,18 +98,6 @@ in school. We look forward to this partnership with you.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Cyril Khoo Su Ming</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:khoo_su_ming_cyril@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_su_ming_cyril@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Miss Tan Lay Ming</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -135,27 +122,28 @@ in school. We look forward to this partnership with you.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lau Chau King</p>
+<p>Ms Desiree Ho Hwee Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lau_chau_king@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Operation Manager (OM)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Pin Eddie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Tan_Pin_Eddie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Pin_Eddie@schools.gov.sg</a>
+<p><a href="ho_hwee_ling@schools.gov.sg" rel="noopener nofollow" target="_blank">ho_hwee_ling@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Charissa Wee Jia Qing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="wee_jia_qing_charissa@schools.gov.sg" rel="noopener nofollow" target="_blank">wee_jia_qing_charissa@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operation Manager (OM)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Koay Chin Wah</p>
