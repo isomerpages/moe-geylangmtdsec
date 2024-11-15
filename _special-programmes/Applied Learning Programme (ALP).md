@@ -29,17 +29,4 @@ Find out more about this year programme by clicking [here](/files/2024/2024_ALP_
 
 
 
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPWhoDGR8Rw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-<center>SEC 1 Science ALP</center>
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KyyG0eXbR9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-<center>SEC 2 Science ALP</center>
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TWmlTw2Dz4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-<center>SEC 3 Science ALP</center>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSh56TqfAa3g4oS1jKfwxj0gGNkot9Skd7bYVe9ZI0hOLaJ4D9ZZo6__l7wKZkPWWXhIvv6X8jz5L6C/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
