@@ -7,7 +7,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/1_gear_up_committee_1_copy.jpg">
 </div>
-<p><strong>STUDENT-INITIATED LEARNING 2023</strong>
+<p><strong>STUDENT-INITIATED LEARNING 2024</strong>
 </p>
 <p><strong>SECONDARY 1 &amp; 2 STARS PROGRAMME</strong>
 </p>
@@ -41,9 +41,13 @@ will end the year with the opportunity to attend one of the STARS modules
 in the SHINE programme, which is aligned to their area of interest. This
 will help them deepen their learning with the trainers who are experts
 in the various industries.</p>
-<p>Semester 1: Individual Work</p>
+<p>Semester 1: Individual Work and Showcase</p>
 <p>Semester 2: Individual/ Group Work</p>
 <p>End-of-Year: Shine Like MADD Programme &amp; Showcase</p>
+<p></p>
+<p>Click the <a href="/files/2024/SIL_2024_for_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+more information about the programme.</p>
+<p></p>
 <p></p>
 <p>Level:&nbsp;<strong>Secondary 1</strong>
 </p>
@@ -901,11 +905,5 @@ Interest</p>
 <p>What are the challenges and how did you overcome them?</p>
 </li>
 </ul>
-<p>Click the link below for more information about the programme.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/2024/SIL_2024_for_School_Website.pdf" rel="noopener nofollow" target="_blank">SIL 2024</a>
-</p>
-</li>
-</ul>
+<p></p>
 <p></p>
