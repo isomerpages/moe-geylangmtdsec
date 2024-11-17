@@ -45,9 +45,6 @@ in the various industries.</p>
 <p>Semester 2: Individual/ Group Work</p>
 <p>End-of-Year: Shine Like MADD Programme &amp; Showcase</p>
 <p></p>
-<p>Click the <a href="/files/2024/SIL_2024_for_School_Website.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-more information about the programme.</p>
-<p></p>
 <p></p>
 <p>Level:&nbsp;<strong>Secondary 1</strong>
 </p>
@@ -905,5 +902,11 @@ Interest</p>
 <p>What are the challenges and how did you overcome them?</p>
 </li>
 </ul>
-<p></p>
+<p>Click the link below for more information about the programme.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/2024/SIL_2024_for_School_Website.pdf" rel="noopener nofollow" target="_blank">SIL 2024</a>
+</p>
+</li>
+</ul>
 <p></p>
