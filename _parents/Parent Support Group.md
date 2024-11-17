@@ -193,6 +193,17 @@ us at <a href="mailto:psggmssec@gmail.com" rel="noopener noreferrer nofollow" ta
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mrs. Jacqueline Chua</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Co-Prayer Coordinator</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Mrs. Grace Ng</p>
 </td>
 </tr>
