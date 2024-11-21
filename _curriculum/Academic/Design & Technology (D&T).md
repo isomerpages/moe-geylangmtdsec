@@ -96,7 +96,4 @@ in the real world. Industrial visits provide students with an eye-opening
 experience; they learn how a local engineering company, HOPE Technik is
 committed to deliver innovative products and solutions, translating concepts
 into reality.</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2Jxwx2-flz4"></iframe>
-</div>
 <p></p>
