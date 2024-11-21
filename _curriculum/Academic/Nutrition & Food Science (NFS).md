@@ -78,11 +78,11 @@ evaluate the outcome of a completed task.</p>
 </p>
 <ul>
 <li>
-<p>Secondary 1 Inter-Disciplinary Coursework (Food Photography), collaboration
-between NFS and Art Department</p>
+<p>Secondary 1 Inquiry-Based Learning Coursework on authentic scenarios</p>
 </li>
 <li>
-<p>Secondary 2 Food Science Coursework (Investigative Experiment)</p>
+<p>Secondary 2 Inter-Disciplinary Coursework (Food Photography), collaboration
+between NFS and Art Department</p>
 </li>
 <li>
 <p>Lower Secondary Culinary Enrichment, conducted termly by NFS teachers</p>
@@ -111,14 +111,7 @@ between NFS and Art Department</p>
 </ul>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cheese-BT_Isaac-1024x768.jpg">
-</div>
-<p>Sec 1 Inter-Disciplinary Coursework</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sec-2-Food-Sci-3-1024x576.jpg">
-</div>
-<p>Sec 2 Food Science Coursework</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/S3-Culinary-1-1024x768.jpeg">
 </div>
