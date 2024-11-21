@@ -43,9 +43,6 @@ school and take part in school-based or national/international art competitions.
 The school actively sources for external opportunities for our students,
 not only to sharpen their skills but also to foster self-confidence and
 a sense of achievement through their artwork.</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2Jxwx2-flz4"></iframe>
-</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ART.jpg">
 </div>
