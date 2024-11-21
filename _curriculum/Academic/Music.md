@@ -60,9 +60,6 @@ skills.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/music-300x178.jpg">
 </div>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2Jxwx2-flz4"></iframe>
-</div>
 <p>For further information, do refer to the following links:</p>
 <ul data-tight="true" class="tight">
 <li>
