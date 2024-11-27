@@ -158,9 +158,6 @@ leadership journey to grow as Courageous Leaders.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/SLC.jpg">
 </div>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hUPWeluAbs0"></iframe>
-</div>
 </li>
 </ul>
 <h3>House Committee</h3>
