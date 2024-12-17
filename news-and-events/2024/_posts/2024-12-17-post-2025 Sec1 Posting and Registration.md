@@ -19,4 +19,3 @@ the Secondary 1</p>
 </p>
 <p>Please refer to our school website on 18 December 2024,</p>
 <p>from 9am, for more information to start your journey with us!</p>
-<p>us!</p>
