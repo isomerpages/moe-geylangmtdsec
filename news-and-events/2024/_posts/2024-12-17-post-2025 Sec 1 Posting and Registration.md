@@ -165,4 +165,9 @@ you.</p>
 <p>We look forward to meeting your child next year and partnering with you
 in his/her holistic development.</p>
 <p>For further enquiries, please call the General Office at 67466503, or
-send an email to <a href="mailto:gmss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gmss@moe.edu.sg</a>.</p>
+send an email to <a rel="noopener noreferrer nofollow" target="_blank">gmss@moe.edu.sg</a>.</p>
+<p>Attachments:</p>
+<p><a href="/files/2024/School_General_Information_2025_PDF.pdf" rel="noopener nofollow" target="_blank">School General Information (PDF)</a>
+</p>
+<p><a href="/files/2024/Checklist_for_Parents_on_Secondary_1_Matters_2025_PDF.pdf" rel="noopener nofollow" target="_blank">Checklist for 2025 Sec 1 Matters (PDF)</a>
+</p>
