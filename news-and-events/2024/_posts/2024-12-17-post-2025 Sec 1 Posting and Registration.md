@@ -44,8 +44,8 @@ documents for your easy reference to all the information that you need.</p>
 </li>
 </ul>
 <p>In addition, if your child is eligible to take subject(s) at a More Demanding
-Level, Higher Mother Tongue Language, 3rd Language and/ or Mother Tongue
-Language “B”, separate offer letter(s) will be sent to you via PG.</p>
+Level, Higher Mother Tongue Language and /or 3rd Language, separate offer
+letter(s) will be sent to you via PG.</p>
 <p>We will also be sending information on Class and House allocation via
 a separate PG.</p>
 <p><u>Application for MOE Financial Assistance Scheme (FAS)</u>
@@ -69,18 +69,16 @@ textbooks and uniform.</p>
 </p>
 <p><strong>Serious Medical Conditions</strong>:</p>
 <p>Students who wish to appeal for <strong>transfer to other schools </strong>due
-to medical reasons, please submit your appeal to our school’s General Office&nbsp;<strong>by 20 Dec 2024, 12.00 pm</strong>.
+to medical reasons, please submit your appeal to our school’s General Office&nbsp;<strong>by 19 Dec 2024, 12.00 pm</strong>.
 You are required to bring the supporting medical documents.</p>
 <p><strong>Non-Medical Reasons</strong>:</p>
 <p>Students who wish to appeal for<strong> transfer to other schools</strong> due
-to non-medical reasons, please submit the appeal&nbsp;<strong>directly&nbsp;to the preferred school</strong>.</p>
+to non-medical reasons, please submit the appeal&nbsp;<strong>directly&nbsp;to the preferred school by 23 Dec 2024, 12.00pm</strong>.</p>
 <p>For more MOE information on Appeal for transfer, please click <a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>For appeal to <strong>transfer into GMS(S)</strong> other than medical reason,
 students must <strong>first meet our school’s cut off point (COP)</strong>.</p>
-<p>There are 2 options for submission of appeal to transfer into GMS(S):</p>
-<p>1. Submit via FormSG by clicking <a href="https://form.gov.sg/673ed9439e8d5824fc06ce2c" rel="noopener nofollow" target="_blank">here</a>.</p>
-<p>2. Obtain a hard copy of the application form from the General Office.</p>
-<p>Please submit Appeal Form <strong>by 20 Dec 2024, 12.00 pm</strong>.</p>
+<p>For submission of appeal to transfer into GMS(S), kindly submit via FormSG
+by clicking <a href="https://form.gov.sg/673ed9439e8d5824fc06ce2c" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p><u>Other Contact Information</u>
 </p>
 <p>Should you need assistance on the following matters, you may contact the
