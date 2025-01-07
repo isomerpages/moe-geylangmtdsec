@@ -36,15 +36,16 @@ locations:
       - 2 Geylang East Central
       - Singapore 389705
     operating_hours:
-      - days: Mon-Fri
-        time: 7am to 3pm
-        description: "* Bookshop is opened on from 7am to 3pm Mon, Wed, Thurs and Fri"
-      - days: Tues
-        time: 7am to 2.45pm
+      - days: Mon
+        time: 8am to 2.30pm
+        description: ""
+      - days: Tues-Fri
+        time: 8am to 3pm
         description: ""
       - days: Lunch Time
         time: 11.30am to 12.30pm
-        description: If parent have any enquiries, please contact the bookshop directly.
+        description: If parents have any enquiries, please contact the bookshop directly
+          at 9091 8756
     maps_link: https://goo.gl/maps/5ybWVNcrSRzHAfCw8
     title: Bookshop Vendor
 contacts:
@@ -58,10 +59,5 @@ contacts:
       - email: ""
       - other: You may contact the clinic to make an appointment.
     title: Dental Clinic
-  - content:
-      - phone: +65 6745 7271
-      - email: ""
-      - other: ""
-    title: Bookshop
 feedback: https://forms.cwp.gov.sg/geylangmethodistsec/feedback
 ---
