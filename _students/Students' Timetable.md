@@ -4,7 +4,7 @@ permalink: /students/timetable/
 description: ""
 variant: markdown
 ---
-* [2024 Sec 1 Class Timetable](/files/2024/2024_Sec_1_Timetable.pdf)
-* [2024 Sec 2 Class Timetable](/files/2024/2024_Sec_2_Timetable.pdf)
-* [2024 Sec 4 & 5 Class Timetable](/files/2024/2024_Sec_4_5_Timetable.pdf)
-* [2024 Sec 3 Timetable by Subject Combination](/files/2024/2024_Sec_3_Timetable_by_Subject_Combination.pdf)
+* [](/files/2025/2025_Sec_1_Timetable.pdf)
+* [](/files/2025/2025_Sec_2_Timetable.pdf)
+* [](/files/2025/2025_Sec_3_Timetable.pdf)
+* [](/files/2025/2025_Sec_4___5_Timetable.pdf)
