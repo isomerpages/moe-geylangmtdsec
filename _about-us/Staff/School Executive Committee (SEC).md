@@ -31,13 +31,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Vice-Principal (Education)</p>
+<p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Chang-Loy Wee Meng</p>
+<p>Mrs Tay Hui Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:LOY_Wee_Meng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">LOY_Wee_Meng@schools.gov.sg</a>
+<p><a href="mailto:tay_hui_cheng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_hui_cheng_a@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr John Wu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:john_ngau@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">john_ngau@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -79,11 +91,10 @@ variant: tiptap
 <p>Mother Tongue Languages</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Neo Ping Leng</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:neo_ping_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">neo_ping_leng@schools.gov.sg</a>
-</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -115,10 +126,10 @@ variant: tiptap
 <p>Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Thian Wan Eng</p>
+<p>Ms Rajinee Devi Kanagalingam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Thian_Wan_Eng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Thian_Wan_Eng@schools.gov.sg</a>
+<p><a href="mailto:rajinee_devi_kanagalingam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rajinee_devi_kanagalingam@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -332,6 +343,30 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kelvin_chia_cheng_meng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kelvin_chia_cheng_meng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr John Seah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:john_seah_yong_han@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">john_seah_yong_han@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Physical Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Cyril Khoo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:khoo_su_ming_cyril@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_su_ming_cyril@schools.gov.sg</a>
 </p>
 </td>
 </tr>
