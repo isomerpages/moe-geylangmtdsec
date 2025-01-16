@@ -34,7 +34,7 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Tay Hui Cheng</p>
+<p>Mdm Tay Hui Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tay_hui_cheng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_hui_cheng_a@schools.gov.sg</a>
@@ -384,7 +384,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asst. Year Head (Secondary 1)</p>
+<p>Asst. Year Head (Secondary 3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Wong Hui Yu Yvonee</p>
@@ -396,7 +396,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asst. Year Head (Secondary 3)</p>
+<p>Asst. Year Head (Secondary 1)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lee Wei Ying Teresa</p>
