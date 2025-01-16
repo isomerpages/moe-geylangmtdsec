@@ -2,12 +2,12 @@ collections:
   students:
     output: true
     order:
-      - Assessment Topics/.keep
-      - Assessment Topics/Secondary 1.md
-      - Assessment Topics/Secondary 2.md
-      - Assessment Topics/Secondary 3.md
-      - Assessment Topics/Secondary 4.md
-      - Assessment Topics/Secondary 5.md
+      - Assessment Matters/.keep
+      - Assessment Matters/Secondary 1.md
+      - Assessment Matters/Secondary 2.md
+      - Assessment Matters/Secondary 3.md
+      - Assessment Matters/Secondary 4.md
+      - Assessment Matters/Secondary 5.md
       - Education and Career Guidance (ECG).md
       - ICT Matters.md
       - OPAC.md
