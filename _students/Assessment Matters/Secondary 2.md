@@ -2057,4 +2057,5 @@ the Common Test 2 Schedule.</p>
 </table>
 <p><strong>* Alternative Assessment</strong>
 </p>
-<p></p>
+<p><a href="https://sites.google.com/moe.edu.sg/gmss-assessment/home" rel="noopener nofollow" target="_blank">Assessment Matters</a>
+</p>
