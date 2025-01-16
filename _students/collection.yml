@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Assessment Matters/.keep
-      - Assessment Matters/Secondary 1.md
       - Education and Career Guidance (ECG).md
       - ICT Matters.md
       - OPAC.md
