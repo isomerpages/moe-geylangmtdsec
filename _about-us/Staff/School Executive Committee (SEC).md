@@ -34,7 +34,7 @@ variant: tiptap
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Tay Hui Cheng</p>
+<p>Mdm Tay Hui Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tay_hui_cheng_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tay_hui_cheng_a@schools.gov.sg</a>
@@ -114,7 +114,7 @@ variant: tiptap
 <p>Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Ng Peck Suan</p>
+<p>Ms Ng Peck Suan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_peck_suan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_peck_suan@schools.gov.sg</a>
@@ -198,7 +198,7 @@ variant: tiptap
 <p>Year Head (Lower Secondary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Wendy Wong</p>
+<p>Ms Wendy Wong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_yoke_chan_wendy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_yoke_chan_wendy@schools.gov.sg</a>
@@ -312,18 +312,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Character and Citizenship Education</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Michael Koh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:koh_kim_hua_michael@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_kim_hua_michael@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Information Technology</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -331,18 +319,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_wah_kum@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wah_kum@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Craft &amp; Technology</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Kelvin Chia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kelvin_chia_cheng_meng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kelvin_chia_cheng_meng@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -375,7 +351,7 @@ variant: tiptap
 <p>Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Ng Sio Ying</p>
+<p>Ms Ng Sio Ying</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_sio_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_sio_ying@schools.gov.sg</a>
@@ -384,7 +360,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asst. Year Head (Secondary 1)</p>
+<p>Asst. Year Head (Secondary 3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Wong Hui Yu Yvonee</p>
@@ -396,7 +372,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asst. Year Head (Secondary 3)</p>
+<p>Asst. Year Head (Secondary 1)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lee Wei Ying Teresa</p>
