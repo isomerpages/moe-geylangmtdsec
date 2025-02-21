@@ -55,7 +55,7 @@ us at <a href="mailto:psggmssec@gmail.com" rel="noopener noreferrer nofollow" ta
 <p>Jovita Crasto</p>
 <p></p>
 <p></p>
-<p><strong>PSG EXCO 2024 Management Team:</strong>
+<p><strong>PSG EXCO 2025 Management Team:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -83,7 +83,7 @@ us at <a href="mailto:psggmssec@gmail.com" rel="noopener noreferrer nofollow" ta
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr. Peter Tay</p>
+<p>Mr Peter Tay</p>
 </td>
 </tr>
 <tr>
@@ -94,7 +94,7 @@ us at <a href="mailto:psggmssec@gmail.com" rel="noopener noreferrer nofollow" ta
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs. Paulyn Chioh</p>
+<p>Mrs Paulyn Chioh</p>
 </td>
 </tr>
 <tr>
@@ -105,7 +105,7 @@ us at <a href="mailto:psggmssec@gmail.com" rel="noopener noreferrer nofollow" ta
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dr. Gloria Kong</p>
+<p>Dr Gloria Kong</p>
 </td>
 </tr>
 </tbody>
@@ -138,7 +138,7 @@ us at <a href="mailto:psggmssec@gmail.com" rel="noopener noreferrer nofollow" ta
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs. Jovita Crasto</p>
+<p>Mrs Jovita Crasto</p>
 </td>
 </tr>
 <tr>
@@ -149,7 +149,7 @@ us at <a href="mailto:psggmssec@gmail.com" rel="noopener noreferrer nofollow" ta
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs. Eileen Teoh</p>
+<p>Mrs Eileen Teoh</p>
 </td>
 </tr>
 <tr>
@@ -160,7 +160,7 @@ us at <a href="mailto:psggmssec@gmail.com" rel="noopener noreferrer nofollow" ta
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs. Jacqueline Chua</p>
+<p>Mrs Jacqueline Lim</p>
 </td>
 </tr>
 <tr>
@@ -171,7 +171,7 @@ us at <a href="mailto:psggmssec@gmail.com" rel="noopener noreferrer nofollow" ta
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr. Shamsuri</p>
+<p>Mr Shamsuri</p>
 </td>
 </tr>
 <tr>
@@ -182,7 +182,7 @@ us at <a href="mailto:psggmssec@gmail.com" rel="noopener noreferrer nofollow" ta
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr. Michael Tang</p>
+<p>Mr Michael Tang</p>
 </td>
 </tr>
 <tr>
@@ -193,18 +193,7 @@ us at <a href="mailto:psggmssec@gmail.com" rel="noopener noreferrer nofollow" ta
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs. Jacqueline Chua</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Co-Prayer Coordinator</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs. Grace Ng</p>
+<p>Mrs Jacqueline Lim/ Mrs Grace Ng</p>
 </td>
 </tr>
 </tbody>
