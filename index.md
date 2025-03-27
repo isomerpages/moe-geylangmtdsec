@@ -27,7 +27,7 @@ sections:
       button: View All
   - infobar:
       title: Photo Gallery
-      subtitle: "2024"
+      subtitle: "2025"
       button: View all
-      url: https://www.geylangmethodistsec.moe.edu.sg/about-us/photo-gallery/2024/
+      url: https://www.geylangmethodistsec.moe.edu.sg/about-us/photo-gallery/2025/
 ---
