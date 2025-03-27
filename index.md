@@ -4,8 +4,7 @@ title: Geylang Methodist School (Secondary)
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: This year marks our centennial anniversary. Mark your calendars!
-  Open House on 23rd November—everyone is invited!.
+notification: ""
 sections:
   - hero:
       background: /images/2024/website_cover_v5.jpg
@@ -26,14 +25,6 @@ sections:
   - resources:
       subtitle: News and Events
       button: View All
-  - infopic:
-      title: GM100
-      id: infopic
-      description: This year marks our centennial anniversary.
-      button: Button Text
-      url: https://www.geylangmethodistsec.moe.edu.sg/Celebration/
-      image: /images/2024/gm100logo__final_.jpg
-      alt: Image alt text
   - infobar:
       title: Photo Gallery
       subtitle: "2024"
