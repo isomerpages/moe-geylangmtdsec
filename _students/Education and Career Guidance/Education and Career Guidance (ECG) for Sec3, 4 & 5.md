@@ -1,8 +1,9 @@
 ---
-title: Education and Career Guidance (ECG)
+title: Education and Career Guidance (ECG) for Sec3, 4 & 5
 permalink: /students/ecg/
 description: ""
 variant: markdown
+third_nav_title: Education and Career Guidance
 ---
 #### **Education and Career Guidance (ECG)** **counselling and support**
 

@@ -2,9 +2,13 @@ collections:
   students:
     output: true
     order:
+      - Education and Career Guidance/.keep
+      - Education and Career Guidance/Education and Career Guidance (ECG) for
+        Sec3, 4 & 5.md
+      - Education and Career Guidance/Education and Career Guidance For Sec1 &
+        S2.md
       - Assessment Matters/2025.md
       - Assessment Matters/.keep
-      - Education and Career Guidance (ECG).md
       - ICT Matters.md
       - OPAC.md
       - Rules for Special Rooms/.keep
