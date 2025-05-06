@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - ECG for Sec1&2/Education and Career Guidance For S1 and S2.md
       - ECG for Sec1&2/Education and Career Guidance (ECG).md
       - ECG for Sec1&2/.keep
       - Assessment Matters/2025.md
