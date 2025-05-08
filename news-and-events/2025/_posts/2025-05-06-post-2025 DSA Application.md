@@ -52,16 +52,7 @@ and mutual support, and have consistently achieved certificate of Distinction
 (the highest accreditation) at the Singapore Youth Festival (SYF) since
 2001.
 <br>Selection Focus: Dance technique, expressiveness, commitment, and teamwork.</p>
-<p><u>&nbsp;</u>
-</p>
-<p><u>&nbsp;</u>
-</p>
-<p><u>&nbsp;</u>
-</p>
-<p><u>&nbsp;</u>
-</p>
-<p><u>&nbsp;</u>
-</p>
+<p></p>
 <p><u>APPLICATION PROCESS</u>
 </p>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.&nbsp;
@@ -69,15 +60,11 @@ The application is free-of-charge and will be open from 7 May 2025, 11
 am to 3 Jun 2025, 3 pm.&nbsp; For more details, please refer to the MOE
 website –&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>
 </p>
-<p><u>&nbsp;</u>
-</p>
-<p><u>&nbsp;</u>
-</p>
+<p></p>
 <p><u>ADMISSIONS CRITERIA</u>
 </p>
 <p>In considering students for direct school admission into GMS(S), we look
 for ability and potential, as well as positive character traits.</p>
-<p></p>
 <p>Applicants should possess the following:</p>
 <p>(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Consistent
 good conduct in school.</p>
@@ -89,27 +76,23 @@ national competitions, or any relevant achievements and experience in related
 areas.</p>
 <p>(iii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Consistent academic
 performance.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
+<p></p>
 <p><u>SELECTION PROCESS</u>
 </p>
 <p>After you have submitted your DSA application, the school will review
 the application and shortlisted candidates will be contacted.</p>
-<p></p>
 <p>Shortlisted candidates will be invited to attend trials/auditions/interviews
 or combinations of the 3 by teachers of the talent areas.</p>
-<p></p>
 <p>All applicants will receive their application outcomes between <strong>25 Aug</strong> and <strong>4 Sep 2025.</strong>
 </p>
-<p><u>&nbsp;</u>
-</p>
+<p></p>
 <p><u>Contact us</u>
 </p>
 <p>For information regarding DSA into GMS(S), you may direct your queries
 to the following:</p>
 <p>Mdm Nur Azline at <a rel="noopener noreferrer nofollow" target="_blank">gmss@moe.edu.sg</a>
 </p>
-<p></p>
 <p><u>Further information and FAQ regarding DSA-SEC</u>
 </p>
 <p>For more information on DSA-Sec, please refer to the MOE website at
