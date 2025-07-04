@@ -135,13 +135,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICT &amp; ACT</p>
+<p>ACT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Yeo Wee Pung</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yeo_wee_pung@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_wee_pung@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Low Hwang Chee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="low_hwang_chee@schools.gov.sg" rel="noopener nofollow" target="_blank">low_hwang_chee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -288,10 +300,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Science (Lower Sec)</p>
+<p>Science (Biology)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp;Sng Peng Hock</p>
+<p>Ms Ng Sio Ying</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sng_peng_hock@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sng_peng_hock@schools.gov.sg</a>
@@ -303,7 +315,7 @@ variant: tiptap
 <p>Science (Physics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yip Cheng Hou</p>
+<p>Mr Sng Peng Hock</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yip_cheng_hou@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yip_cheng_hou@schools.gov.sg</a>
@@ -343,18 +355,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:khoo_su_ming_cyril@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">khoo_su_ming_cyril@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Aesthetics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ng Sio Ying</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_sio_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_sio_ying@schools.gov.sg</a>
 </p>
 </td>
 </tr>
