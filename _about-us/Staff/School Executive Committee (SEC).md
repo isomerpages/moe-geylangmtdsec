@@ -306,7 +306,7 @@ variant: tiptap
 <p>Ms Ng Sio Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sng_peng_hock@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sng_peng_hock@schools.gov.sg</a>
+<p><a href="ng_sio_ying@schools.gov.sg" rel="noopener nofollow" target="_blank">ng_sio_ying@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -318,7 +318,7 @@ variant: tiptap
 <p>Mr Sng Peng Hock</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yip_cheng_hou@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yip_cheng_hou@schools.gov.sg</a>
+<p><a href="sng_peng_hock@schools.gov.sg" rel="noopener nofollow" target="_blank">sng_peng_hock@schools.gov.sg</a>
 </p>
 </td>
 </tr>
