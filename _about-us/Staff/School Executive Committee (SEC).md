@@ -265,6 +265,18 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operation Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Suhelmy Bin Zuraini</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:suhelmy_zuraini@schools.gov.sg" rel="noopener nofollow" target="_blank">suhelmy_zuraini@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Level / Subject Heads</h3>
