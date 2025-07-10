@@ -54,6 +54,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>MR CLIFTON LIM JUN KAI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="clifton_lim_jun_kai@moe.edu.sg" rel="noopener nofollow" target="_blank">clifton_lim_jun_kai@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Faith 1-2</strong>
 </p>
 </td>
@@ -416,6 +428,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:quek_rob_huei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">quek_rob_huei@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MR JONATHAN RAMAKRISHNA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="jonathan_ramakrishna@schools.gov.sg" rel="noopener nofollow" target="_blank">jonathan_ramakrishna@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1130,30 +1154,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chng_kiong_choon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chng_kiong_choon@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MDM SNG SWEE LIAN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sng_swee_lian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sng_swee_lian@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MRS LIAN YOK KHOON</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_yok_khoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yok_khoon@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
