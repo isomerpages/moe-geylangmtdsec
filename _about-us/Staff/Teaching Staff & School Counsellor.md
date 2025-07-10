@@ -54,6 +54,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>MR CLIFTON LIM JUN KAI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:clifton_lim_jun_kai@moe.edu.sg" rel="noopener nofollow" target="_blank">clifton_lim_jun_kai@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Faith 1-2</strong>
 </p>
 </td>
@@ -416,6 +428,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:quek_rob_huei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">quek_rob_huei@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MR JONATHAN RAMAKRISHNA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:jonathan_ramakrishna@schools.gov.sg" rel="noopener nofollow" target="_blank">jonathan_ramakrishna@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1136,30 +1160,6 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MDM SNG SWEE LIAN</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sng_swee_lian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sng_swee_lian@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MRS LIAN YOK KHOON</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_yok_khoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yok_khoon@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4><strong>School Counsellors</strong></h4>
@@ -1185,14 +1185,38 @@ variant: tiptap
 </p>
 </li>
 </ul>
+<p><strong>Special Educational Needs Officer</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>MS SREE SURIYA DEVI D/O RAVINDRAN
+<br><a href="mailto:sree_suriya_devi_d@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lam_ying_hao@schools.gov.sg</a>
+</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Education and Career Guidance Counsellor Education Officer</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>MS SUMANGALAM D/O HARIDAS</p>
+<p><a href="mailto:sumangalam_haridas@schools.gov.sg" rel="noopener nofollow" target="_blank">sumangalam_haridas@schools.gov.sg</a>
+</p>
+</li>
+</ul>
+<p></p>
 <p><strong>ICT Manager</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>MR LEONG CHONG KIN <a href="leong_chong_kin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_chong_kin@schools.gov.sg</a>
+<p>MR LEONG CHONG KIN</p>
+<p><a href="mailto:leong_chong_kin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_chong_kin@schools.gov.sg</a>
 </p>
 </li>
 </ul>
+<p></p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GMSS_A3-Posters_Our-Staff_ver2_Page_1-1.jpg">
 </div>
