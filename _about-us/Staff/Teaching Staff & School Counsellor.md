@@ -1199,8 +1199,8 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>MS SUMANGALAM D/O HARIDAS</p>
-<p><a href="mailto:sumangalam_haridas@schools.gov.sg" rel="noopener nofollow" target="_blank">sumangalam_haridas@schools.gov.sg</a>
+<p>MS SUMANGALAM D/O HARIDAS
+<br><a href="mailto:sumangalam_haridas@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sumangalam_haridas@schools.gov.sg</a>
 </p>
 </li>
 </ul>
@@ -1209,9 +1209,10 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>MR LEONG CHONG KIN</p>
-<p><a href="mailto:leong_chong_kin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_chong_kin@schools.gov.sg</a>
+<p>MR LEONG CHONG KIN
+<br><a href="mailto:leong_chong_kin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_chong_kin@schools.gov.sg</a>
 </p>
+<p></p>
 </li>
 </ul>
 <p></p>
