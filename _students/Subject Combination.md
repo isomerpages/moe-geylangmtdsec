@@ -14,3 +14,5 @@ variant: markdown
 [Subject Combination Table 2026](/files/Sub_Combi_Table_2026.pdf)
 
 [Subject Combination Codes 2026](/files/Sub_Combi_codes_2026.pdf)
+
+[Link to All Ears platform](https://forms.moe.edu.sg/forms/J498XY)
