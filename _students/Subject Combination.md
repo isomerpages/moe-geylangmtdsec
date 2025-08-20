@@ -16,3 +16,7 @@ variant: markdown
 [Subject Combination Codes 2026](/files/Sub_Combi_codes_2026.pdf)
 
 [Link to All Ears platform](https://forms.moe.edu.sg/forms/J498XY)
+
+[Subject Combination Briefing for Parents 5 August 2025](/files/Subject_Combination_Briefing_for_Parents__5_August_.pdf)
+
+[Subject Combination Briefing for Parents 5 August 2025 - Q&A](/files/Subject_Combination_Briefing_for_Parents__5_August__Q_A.pdf)
