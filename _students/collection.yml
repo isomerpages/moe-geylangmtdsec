@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Education and Career Guidance/.keep
-      - Education and Career Guidance/Education and Career Guidance For Sec1 &
-        S2.md
+      - Education and Career Guidance/ECG Information on Post Secondary Pathways
+        for (Sec 1 & 2 in 2025).md
       - Education and Career Guidance/Education and Career Guidance (ECG) for
         Sec3, 4 & 5.md
       - Assessment Matters/2025.md
