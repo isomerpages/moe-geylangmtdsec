@@ -5,5 +5,14 @@ variant: tiptap
 description: ""
 third_nav_title: Education and Career Guidance
 ---
-<p><a href="/files/2025/GMSS__ECG_Infographic__Current_vs_FSBB__pdf_final.pdf" rel="noopener nofollow" target="_blank">ECG_FSBB Infographic</a>
+<p><a href="https://sites.google.com/moe.edu.sg/geylang-methodist-school-secon/home" rel="noopener nofollow" target="_blank">Post-Secondary Pathways Guide</a>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG_2.png">
+</div>
+<p></p>
