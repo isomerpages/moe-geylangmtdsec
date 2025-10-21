@@ -27,8 +27,8 @@ on Friday, 9 January 2026.</p>
 for one or more deserving teacher(s) by clicking on the URLs or scanning
 the QR codes below. Your nomination(s) will be a source of encouragement
 for the teacher(s).</p>
-<p>PAT 2026 OYEA 2026</p>
-<p><a href="https://go.gov.sg/pat2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pat2026</a>
-</p>
-<p><a href="https://go.gov.sg/oyea2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/oyea2026</a>
-</p>
+<h4>President's Award For Teachers (PAT) 2026 </h4><a class="isomer-image-wrapper" href="https://go.gov.sg/pat2026"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/PAT.jpg"></a>
+<p></p>
+<h4>Outstanding Youth In Education Award (OYEA) 2026</h4>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/oyea2026"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/OYEA.jpg"></a>
+<p></p>
