@@ -136,7 +136,7 @@ variant: tiptap
 <p>Nurulhuda Samat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nurazza_ayu_naim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurazza_ayu_naim@schools.gov.sg</a>
+<p><a href="mailto:nurulhuda_samat_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurulhuda_samat_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
