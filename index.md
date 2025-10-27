@@ -21,7 +21,7 @@ sections:
         - title: Calendar
           description: School
           url: /useful-links/gms-calendar/
-      variant: center
+      variant: image
   - resources:
       subtitle: News and Events
       button: View All
