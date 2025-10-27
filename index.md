@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2025/openhouse_5.png
+      background: /images/website cover v4.jpg
       key_highlights:
         - title: GM Heartbeat
           description: Facebook
