@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2025/openhouse_1.jpg
+      background: /images/2025/openhouse_5.png
       key_highlights:
         - title: GM Heartbeat
           description: Facebook
@@ -21,7 +21,7 @@ sections:
         - title: Calendar
           description: School
           url: /useful-links/gms-calendar/
-      variant: image
+      variant: center
   - resources:
       subtitle: News and Events
       button: View All
