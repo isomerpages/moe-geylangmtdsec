@@ -7,26 +7,13 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/2025/SEC_1_2025_.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Booklist</a>
+<p><a href="/files/2025/SEC_1_v2.pdf" rel="noopener nofollow" target="_blank">Sec 1 Booklist (Updated)</a>
 </p>
-</li>
-<li>
-<p><a href="/files/2025/SEC_2_2025_.pdf" rel="noopener nofollow" target="_blank">Secondary 2 Booklist</a>
+<p><a href="/files/2025/SEC_2_v2.pdf" rel="noopener nofollow" target="_blank">Sec 2 Booklist (Updated)</a>
 </p>
-</li>
-<li>
-<p><a href="/files/2025/SEC_3_2025_.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Booklist</a>
+<p><a href="/files/2025/SEC_3_v2.pdf" rel="noopener nofollow" target="_blank">Sec 3 Booklist (Updated)</a>
 </p>
-</li>
-<li>
-<p><a href="/files/2025/SEC_4_2025_.pdf" rel="noopener nofollow" target="_blank">Secondary 4 Booklist</a>
+<p><a href="/files/2025/SEC_4_v2.pdf" rel="noopener nofollow" target="_blank">Sec 4 Booklist (Updated)</a>
 </p>
-</li>
-<li>
-<p><a href="/files/2025/SEC_5_2025_.pdf" rel="noopener nofollow" target="_blank">Secondary 5 Booklist</a>
+<p><a href="/files/2025/SEC_5_v2.pdf" rel="noopener nofollow" target="_blank">Sec 5 Booklist (Updated)</a>
 </p>
-</li>
-</ul>
-<p></p>
