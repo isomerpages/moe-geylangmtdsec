@@ -15,4 +15,5 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="2025 Open House Schedule" src="/images/2025/openhouse_2.jpg">
 </div>
-<p></p>
+<p><a href="https://www.instagram.com/reel/DQ35rlDk8mY/" rel="noopener nofollow" target="_blank">Click here to watch our Open House 2025 video!</a>
+</p>
