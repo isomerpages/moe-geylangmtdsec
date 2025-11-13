@@ -1163,7 +1163,8 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>School Counsellors</strong></h4>
-<p><strong>Allied Educator (Learning and Behavioural Support</strong>)</p>
+<p><strong>Senior Special Educational Needs Officer (SSENO)</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>MS MENAGA SUBARAMANIAM
