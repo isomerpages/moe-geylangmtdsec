@@ -7,3 +7,5 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p><a href="/files/2025/School_Canteen_Advertisement_Nov25.pdf" rel="noopener nofollow" target="_blank">School Canteen Advertisement November 2025</a>
+</p>
