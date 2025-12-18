@@ -186,4 +186,5 @@ send an email to <a rel="noopener noreferrer nofollow" target="_blank">gmss@moe.
 </p>
 <p><a href="/files/2026/GMS_S_Booklist_Sec_1_2026.pdf" rel="noopener nofollow" target="_blank">Booklist for Secondary 1</a>
 </p>
-<p></p>
+<p><a href="/files/2026/1__GMS_S____Purchase_of_School_Uniform_2025_26_Updated12Dec25_.pdf" rel="noopener nofollow" target="_blank">Purchase of School Uniform 2025-26 (Updated 12 December 2025)</a>
+</p>
