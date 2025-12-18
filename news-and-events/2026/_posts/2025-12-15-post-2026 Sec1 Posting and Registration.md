@@ -182,9 +182,9 @@ send an email to <a rel="noopener noreferrer nofollow" target="_blank">gmss@moe.
 <p>Attachments:</p>
 <p><a href="/files/2026/School_General_Information_2026.pdf" rel="noopener nofollow" target="_blank">School General Information</a>
 </p>
-<p><a href="/files/2026/Checklist_for_Parents_on_Secondary_1_Matters_2026.pdf" rel="noopener nofollow" target="_blank">Checklist fpr Parents on Secondary 1 Matters</a>
+<p><a href="/files/2026/Checklist_for_Parents_on_Secondary_1_Matters_2026.pdf" rel="noopener nofollow" target="_blank">Checklist for Parents on Secondary 1 Matters 2026</a>
 </p>
 <p><a href="/files/2026/GMS_S_Booklist_Sec_1_2026.pdf" rel="noopener nofollow" target="_blank">Booklist for Secondary 1</a>
 </p>
-<p><a href="/files/2026/1__GMS_S____Purchase_of_School_Uniform_2025_26_Updated12Dec25_.pdf" rel="noopener nofollow" target="_blank">GMS(S) Sale of School Uniforn</a>
+<p><a href="/files/2026/1__GMS_S____Purchase_of_School_Uniform_2025_26_Updated12Dec25_.pdf" rel="noopener nofollow" target="_blank">Purchase of School Uniform 2025-26 (Updated 12 December 2025)</a>
 </p>
