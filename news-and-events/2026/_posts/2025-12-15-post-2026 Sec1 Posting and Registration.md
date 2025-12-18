@@ -53,9 +53,10 @@ house colour.</p>
 uniform vendor, Bibi &amp; Baba.</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp; Online purchase with option for delivery or
 self-collection at GM(S). Click <a href="https://www.schooluniforms.sg/geylang-methodist-secondary-school" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp; Walk-in purchase at Bibi &amp; Baba’s retail
-store</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp; Walk-in purchase in GMS(S)</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.geylangmethodistsec.moe.edu.sg/files/2025/2__2025_6_Year_End_Sales_Opening_Hours__.pdf" rel="noopener nofollow" target="_blank">Walk-in purchase at Bibi &amp; Baba's retail store</a>
+</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.geylangmethodistsec.moe.edu.sg/files/2025/1__GMS_S____Purchase_of_School_Uniform_2025_26.pdf" rel="noopener nofollow" target="_blank">Walk-in purchase in GMS(S)</a>
+</p>
 <p>Please refer to the GMS(S) Sale of School Uniform PDF more details for
 walk-in purchase.</p>
 <p>Class and House allocation is also displayed on the noticeboard outside
