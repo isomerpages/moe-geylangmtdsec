@@ -9,7 +9,7 @@ variant: tiptap
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2025/GMS_S____Purchase_of_School_Uniform_2024_25.pdf" rel="noopener nofollow" target="_blank">Purchase of School Uniform</a>
+<p><a href="/files/2026/1__GMS_S____Purchase_of_School_Uniform_2025_26_Updated12Dec25_.pdf" rel="noopener nofollow" target="_blank">GMS(S) Purchase of School Uniform (Updated 12 December 2025)</a>
 </p>
 </li>
 <li>
