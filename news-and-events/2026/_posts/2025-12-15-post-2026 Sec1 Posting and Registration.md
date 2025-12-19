@@ -30,7 +30,7 @@ will be sent via Parents Gateway (PG). We have also included the following
 documents for your easy reference to all the information that you need.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/2026/School_General_Information_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">School General Information</a>
+<p><a href="/files/2026/School_General_Information_2026_v2.pdf" rel="noopener nofollow" target="_blank">School General Information </a>
 </p>
 </li>
 <li>
