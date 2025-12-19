@@ -34,11 +34,11 @@ documents for your easy reference to all the information that you need.</p>
 </p>
 </li>
 <li>
-<p> <a href="/files/2026/Checklist_for_Parents_on_Secondary_1_Matters_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Checklist for Parents on Secondary 1 Matters 2026</a>
+<p><a href="/files/2026/Checklist_for_Parents_on_Secondary_1_Matters_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Checklist for Parents on Secondary 1 Matters 2026</a>
 </p>
 </li>
 <li>
-<p><a href="/files/2026/GMS_S_Booklist_Sec_1_2026.pdf" rel="noopener nofollow" target="_blank"> Booklist for Sec 1</a>
+<p><a href="/files/2026/GMS_S_Booklist_Sec_1_2026.pdf" rel="noopener nofollow" target="_blank">Booklist for Sec 1</a>
 </p>
 </li>
 </ul>
@@ -65,8 +65,7 @@ uniform vendor, Bibi &amp; Baba.</p>
 self-collection at GM(S). Click <a href="https://www.schooluniforms.sg/geylang-methodist-secondary-school" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.geylangmethodistsec.moe.edu.sg/files/2025/2__2025_6_Year_End_Sales_Opening_Hours__.pdf" rel="noopener nofollow" target="_blank">Walk-in purchase at Bibi &amp; Baba's retail store</a>
 </p>
-<p>3.&nbsp;&nbsp;&nbsp;<a href="/files/2026/1__GMS_S____Purchase_of_School_Uniform_2025_26_Updated12Dec25_.pdf" rel="noopener noreferrer nofollow" target="_blank">&nbsp; </a>
-<a href="/files/2026/1__GMS_S____Purchase_of_School_Uniform_2025_26_Updated12Dec25_.pdf" rel="noopener nofollow" target="_blank">Walk-in purchase in GMS(S)</a>
+<p>3.&nbsp; <a href="/files/2026/1__GMS_S____Purchase_of_School_Uniform_2025_26_Updated12Dec25_.pdf" rel="noopener nofollow" target="_blank">Walk-in purchase in GMS(S)</a>
 </p>
 <p>Please refer to the GMS(S) Sale of School Uniform PDF more details for
 walk-in purchase.</p>
