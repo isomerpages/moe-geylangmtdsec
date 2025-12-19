@@ -67,8 +67,6 @@ self-collection at GM(S). Click <a href="https://www.schooluniforms.sg/geylang-m
 </p>
 <p>3.&nbsp; <a href="/files/2026/1__GMS_S____Purchase_of_School_Uniform_2025_26_Updated12Dec25_.pdf" rel="noopener nofollow" target="_blank">Walk-in purchase in GMS(S)</a>
 </p>
-<p>Please refer to the GMS(S) Sale of School Uniform PDF more details for
-walk-in purchase.</p>
 <p>Class and House allocation is also displayed on the noticeboard outside
 the General Office until the end of Term 1 Week 1.</p>
 <p>&nbsp;&nbsp;&nbsp;</p>
