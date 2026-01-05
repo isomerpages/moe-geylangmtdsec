@@ -6,6 +6,9 @@ third_nav_title: Staff
 variant: tiptap
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/GMSS_2025.jpg">
+</div>
 <h4><strong>Secondary 1 Form Teachers</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
