@@ -1215,7 +1215,7 @@ variant: tiptap
 <ul data-tight="true" class="tight">
 <li>
 <p>MS SREE SURIYA DEVI D/O RAVINDRAN
-<br><a href="mailto:sree_suriya_devi_d@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lam_ying_hao@schools.gov.sg</a>
+<br><a href="mailto:Sree_Suriya_Devi_D@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Sree_Suriya_Devi_D@schools.gov.sg</a>
 </p>
 </li>
 </ul>
