@@ -11,7 +11,7 @@ The Ministry of Education (MOE) has established a contract for GPA Insurance for
 3.  Commuting from (or to) her place of residence, to (or from) the school’s premises or the place where an activity covered by the GPA Insurance will be conducted;
 
 
-You may refer to the factsheet which provides information on the benefit/sum assured, coverage and other details. The factsheet can be found [here](/files/2024/Product_Fact_Sheet__Year_2024_May__Revised.pdf). 
+You may refer to the factsheet which provides information on the benefit/sum assured, coverage and other details. The factsheet can be found [NTUC Group Insurance fact sheet](/files/2026/MOE_Student_Product_Fact_Sheet.pdf). 
 
 
 For more details on the insurance coverage, please click [here](https://www.income.com.sg/insurance/insurance-for-businesses/group-insurance/group-personal-accident-insurance-for-students).
