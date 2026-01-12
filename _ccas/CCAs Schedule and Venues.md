@@ -47,13 +47,16 @@ variant: tiptap
 <p>Badminton</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon-Pri Sch Hall 1430 – 1700</p>
+<p>Mon-Pri Sch Hall</p>
+<p>1430 – 1700</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed-Pri Sch Hall 1430 – 1700</p>
+<p>Wed-Pri Sch Hall</p>
+<p>1430 – 1700</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri-*FH/ISH 1300 – 1700</p>
+<p>Fri-*FH/ISH</p>
+<p>1300 – 1700</p>
 </td>
 </tr>
 <tr>
