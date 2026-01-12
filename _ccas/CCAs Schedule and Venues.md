@@ -64,10 +64,14 @@ variant: tiptap
 <p>Basketball (boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon- SC 1500 – 1700</p>
+<p>Mon- SC</p>
+<p></p>
+<p>1500 – 1700</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri- SC 1400 – 1700</p>
+<p>Fri- SC</p>
+<p></p>
+<p>1400 – 1700</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -78,10 +82,14 @@ variant: tiptap
 <p>Football (boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon-Field 1500 – 1730</p>
+<p>Mon-Field</p>
+<p></p>
+<p>1500 – 1730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed-Field 1500 – 1730</p>
+<p>Wed-Field</p>
+<p></p>
+<p>1500 – 1730</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -95,7 +103,8 @@ variant: tiptap
 <p>Wed-*Quad/Pri Sch 1530 – 1730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri-Quad 1530 – 1730</p>
+<p>Fri-Quad</p>
+<p>1530 – 1730</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -106,10 +115,14 @@ variant: tiptap
 <p>Softball (not offered from 2024)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tue-Field 1500 – 1730</p>
+<p>Tue-Field</p>
+<p></p>
+<p>1500 – 1730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri-Field 1400 – 1700</p>
+<p>Fri-Field</p>
+<p></p>
+<p>1400 – 1700</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -120,10 +133,14 @@ variant: tiptap
 <p>Table tennis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon-*FH/ISH 1500 – 1730</p>
+<p>Mon-*FH/ISH</p>
+<p></p>
+<p>1500 – 1730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed-*FH/ISH 1500 - 1730</p>
+<p>Wed-*FH/ISH</p>
+<p></p>
+<p>1500 - 1730</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -134,13 +151,19 @@ variant: tiptap
 <p>Volleyball (boys)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon-*ISH/OC 1500 – 1730</p>
+<p>Mon-*ISH/OC</p>
+<p></p>
+<p>1500 – 1730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed-*ISH/SC &amp; OC 1500 – 1730</p>
+<p>Wed-*ISH/SC &amp; OC</p>
+<p></p>
+<p>1500 – 1730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri-*ISH/OC 1400 – 1700</p>
+<p>Fri-*ISH/OC</p>
+<p></p>
+<p>1400 – 1700</p>
 </td>
 </tr>
 </tbody>
@@ -172,7 +195,9 @@ variant: tiptap
 <p>Boys Brigade</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sat-School 0830 – 1230</p>
+<p>Sat-School</p>
+<p></p>
+<p>0830 – 1230</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -186,7 +211,9 @@ variant: tiptap
 <p>Girls Brigade</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sat-School 0830 – 1230</p>
+<p>Sat-School</p>
+<p></p>
+<p>0830 – 1230</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -200,7 +227,9 @@ variant: tiptap
 <p>Girl Guides</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri-School 1400 – 1700</p>
+<p>Fri-School</p>
+<p></p>
+<p>1400 – 1700</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -214,10 +243,14 @@ variant: tiptap
 <p>National Police Cadet Corp</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri-School 1430 – 1730</p>
+<p>Fri-School</p>
+<p></p>
+<p>1430 – 1730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sat-1st&nbsp;week of the month 0800 – 1200</p>
+<p>Sat-1st&nbsp;week of the month</p>
+<p></p>
+<p>0800 – 1200</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -334,7 +367,9 @@ variant: tiptap
 <p>Board Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed-L1 Classrooms 1430 – 1730</p>
+<p>Wed-L1 Classrooms</p>
+<p></p>
+<p>1430 – 1730</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -348,7 +383,9 @@ variant: tiptap
 <p>Media@GM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri-SPR 203/303/CompLab 2 1430 – 1730</p>
+<p>Fri-SPR 203/303/CompLab 2</p>
+<p></p>
+<p>1430 – 1730</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -362,7 +399,9 @@ variant: tiptap
 <p>Media Resource</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed-SPR 102 1530-1700</p>
+<p>Wed-SPR 102</p>
+<p></p>
+<p>1530-1700</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
