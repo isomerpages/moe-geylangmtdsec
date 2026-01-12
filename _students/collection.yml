@@ -2,6 +2,8 @@ collections:
   students:
     output: true
     order:
+      - Education and Career Guidance/Education and Career Guidance
+        Counselling.md
       - Education and Career Guidance/.keep
       - Education and Career Guidance/ECG Information on Post Secondary Pathways
         for (Sec 1 & 2 in 2025).md
