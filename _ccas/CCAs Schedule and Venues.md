@@ -55,8 +55,7 @@ variant: tiptap
 <p>1430 – 1700</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri-*FH/ISH</p>
-<p>1300 – 1700</p>
+<p>Fri-*FH/ISH1300 – 1700</p>
 </td>
 </tr>
 <tr>
@@ -100,7 +99,8 @@ variant: tiptap
 <p>Netball (girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed-*Quad/Pri Sch 1530 – 1730</p>
+<p>Wed-*Quad/Pri Sch</p>
+<p>1530 – 1730</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Fri-Quad</p>
@@ -162,7 +162,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Fri-*ISH/OC</p>
-<p></p>
 <p>1400 – 1700</p>
 </td>
 </tr>
@@ -285,10 +284,12 @@ variant: tiptap
 <p>Chinese Dance (girls)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed-Dance room 1430 – 1730</p>
+<p>Wed-Dance room</p>
+<p>1430 – 1730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri-Dance room 1330 – 1630</p>
+<p>Fri-Dance room</p>
+<p>1330 – 1630</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -299,10 +300,12 @@ variant: tiptap
 <p>Choir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed-Wesley Hall 1500 – 1730</p>
+<p>Wed-Wesley Hall</p>
+<p>1500 – 1730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri-Wesley Hall 1400 – 1630</p>
+<p>Fri-Wesley Hall</p>
+<p>1400 – 1630</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -313,10 +316,12 @@ variant: tiptap
 <p>Concert Band</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed-Band room / LT 1500 – 1730</p>
+<p>Wed-Band room / LT</p>
+<p>1500 – 1730</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri-Band room / LT 1400 – 1730</p>
+<p>Fri-Band room / LT</p>
+<p>1400 – 1730</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -383,7 +388,7 @@ variant: tiptap
 <p>Media@GM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri-SPR 203/303/CompLab 2</p>
+<p>Fri-SPR 203/ 303/ CompLab 2</p>
 <p></p>
 <p>1430 – 1730</p>
 </td>
@@ -412,6 +417,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <p>NO CCA on Thursdays - Enrichment day.</p>
 <p>*Alternate venue during exam when FH is unavailable</p>
 <p>Venues:</p>
