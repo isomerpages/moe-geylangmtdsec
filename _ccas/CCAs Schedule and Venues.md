@@ -55,7 +55,8 @@ variant: tiptap
 <p>1430 – 1700</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri-*FH/ISH1300 – 1700</p>
+<p>Fri-*FH/ISH</p>
+<p>1300 – 1700</p>
 </td>
 </tr>
 <tr>
