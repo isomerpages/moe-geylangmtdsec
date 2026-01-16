@@ -7,3 +7,5 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p><a href="/files/2026/2026_Info_on_SEd_for_GMS_S__Jan_2026.pdf" rel="noopener nofollow" target="_blank">Information on Sexuality Education (updated January 2026)</a>
+</p>
