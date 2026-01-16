@@ -9,7 +9,7 @@ third_nav_title: Education and Career Guidance
 
 ![](/images/2024/ECG/2024ECG3.jpg)
 
-The ECG Counsellor, Miss Suma, is usually available to meet students on an appointment basis to discuss the following every Tuesday and Thursday:
+The ECG Counsellor, Miss Tracy Thng, is usually available to meet students on an appointment basis to discuss the following every Tuesday and Thursday:
 
 * Raising self-awareness (VIPS, RIASEC, etc.)
 * Subject combination (e.g. Sec 2 / JC)
