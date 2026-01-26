@@ -10,17 +10,14 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/WhatsApp_Image_2024_09_16_at_8_49_47_AM.jpg">
 </div>
 <p></p>
-<p><strong>Highlights of 2024</strong>
+<p><strong>Highlights of 2025</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>NSG C Div - Champion in League 7</p>
+<p>NSG C Div - 3rd in League 5 (Promotion to League 4 in 2026)</p>
 </li>
 <li>
 <p>Participated in NSG B Div</p>
-</li>
-<li>
-<p>Participated in GM100 carnival booth</p>
 </li>
 </ul>
 <p><strong>Teachers-in-charge</strong>
@@ -51,7 +48,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mark Goh</p>
+<p>Mdm Northasia Sadekan</p>
 </td>
 </tr>
 <tr>
@@ -62,13 +59,14 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Northasia</p>
+<p>Mr Kenneth Soh</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>Student Leaders</strong>
 </p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -84,7 +82,7 @@ variant: tiptap
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Sim Guan Yu, Javier (J3-4)</p>
+<p>Jefferson Tan (P4-3)</p>
 </th>
 </tr>
 <tr>
@@ -95,7 +93,18 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Weng Junrong (J3-3)</p>
+<p>Oliver Quinn Hong (P4-3)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>B Division Vice-Captain:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>William Phey (P4-3)</p>
 </td>
 </tr>
 <tr>
@@ -106,7 +115,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Jefferson Tan Wei Jie (H2-3)</p>
+<p>Ezra Ho (H2-7)</p>
 </td>
 </tr>
 <tr>
@@ -117,11 +126,13 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Oliver Quinh Hong (H2-3)</p>
+<p>Ezekial Goh (H2-5)</p>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>Coaches</strong>
 </p>
-<p>| 1. | | Mr Laurenz Garcon |</p>
+<p>Mr Laurenz Garzon / Mr Nicholas Kwek</p>
+<p></p>
