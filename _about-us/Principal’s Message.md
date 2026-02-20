@@ -46,7 +46,7 @@ In 2025, our school celebrated 100 years of God’s faithfulness, and we give th
 
 As we consider the future, we are inspired by the words of Jesus in Matthew 7:24 that challenges us to consider what it means to be “Built to Last.” It expresses a deeper commitment to lay foundations of faith, character and purpose that will endure across generations.
 
-Our school motto, “To Grow in Friendship, Body and Mind,” gives practical expression to this vision. As generations of students live it out, they build a caring community, develop resilience and strength, and cultivate wisdom and discernment. In doing so, they carry forward a legacy that is anchored, enduring, and built to last.
+Our school motto, ‘To Grow in Friendship, Body and Mind’, gives practical expression to this vision. As generations of students live it out, they build a caring community, develop resilience and strength, and cultivate wisdom and discernment. In doing so, they carry forward a legacy that is anchored, enduring, and built to last.
 
 Thank you again for visiting our website to learn more about school and we wish you God’s blessings!
 
