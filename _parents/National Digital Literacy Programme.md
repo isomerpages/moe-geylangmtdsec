@@ -9,3 +9,5 @@ variant: markdown
 *   [Parent Handbook (II) - ON LEARNING WITH A PERSONAL LEARNING DEVICE pt1](/files/ParentHB2%20pt1.pdf)
 *   [Parent Handbook (II) - ON LEARNING WITH A PERSONAL LEARNING DEVICE pt2](/files/ParentHB2%20pt2.pdf)
 *   [Instructions for DMA Uninstallation Chromebook](/files/Instructions_for_DMA_Uninstallation__Chromebook_.pdf)
+*   [Parent User Guide for Option A (Chromebook)](/files/2026/CE09_Parent_User_Guide_for_Option_A.pdf)
+*   [Parent User Guide for Option B (Chromebook)](/files/2026/CE10_Parent_User_Guide_for_Option_B_UPDATED.pdf)
