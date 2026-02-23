@@ -42,7 +42,7 @@ We continue to inspire our GEMS to look beyond themselves and care for people ar
 
 **Celebrating 100 Years**
 
-In 2025, our school celebrated 100 years of God’s faithfulness, and we give thanks for how He has sustained us through a century. As we look ahead in hope, to the next hundred years, we remain committed to being a beacon of light to the community.
+In 2024, our school celebrated 100 years of God’s faithfulness, and we give thanks for how He has sustained us through a century. As we look ahead in hope, to the next hundred years, we remain committed to being a beacon of light to the community.
 
 As we consider the future, we are inspired by the words of Jesus in Matthew 7:24 that challenges us to consider what it means to be “Built to Last.” It expresses a deeper commitment to lay foundations of faith, character and purpose that will endure across generations.
 
