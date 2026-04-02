@@ -1,10 +1,11 @@
 ---
-title: ECG Information on Post Secondary Pathways for (Sec 1 & 2 in 2025)
+title: ECG Information on Post Secondary Pathways for (Sec 1, 2 & 3 in 2026)
 permalink: /education-and-career-guidance-for-s1-and-s2/
 variant: tiptap
 description: ""
 third_nav_title: Education and Career Guidance
 ---
+<p>Click here to find out more about the new post-secondary pathways:</p>
 <p><a href="https://sites.google.com/moe.edu.sg/geylang-methodist-school-secon/home" rel="noopener nofollow" target="_blank">Post-Secondary Pathways Guide</a>
 </p>
 <p></p>
