@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/1_humanities_department_1_copy.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Humanities Department" src="/images/2026/humanities_department_2.jpg">
 </div>
 <h4>Social Studies</h4>
 <p><strong>Overview</strong>
@@ -149,9 +149,9 @@ meals for them, or to befriend them.&nbsp;</p>
 </li>
 </ul>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/pjSBGCnfhBo"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/pjSBGCnfhBo"></iframe>
 </div>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MqeN0YGlOmY"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MqeN0YGlOmY"></iframe>
 </div>
 <p></p>
