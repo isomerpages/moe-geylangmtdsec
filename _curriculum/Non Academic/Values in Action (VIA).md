@@ -6,7 +6,7 @@ third_nav_title: Non Academic
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/1_value_in_action_committee_1_copy.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="VIA" src="/images/2026/value_in_action__student_welfare_and_affirmation_team_2.jpg">
 </div>
 <h3>Values-In-Action (Learning for Life Programme)</h3>
 <p>Since 2014, the Values-In-Action (VIA) Programme has been an integral
@@ -118,6 +118,6 @@ their activities.</p>
 brought students through their VIA journey to be caring citizens and make
 a positive difference to society.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Hm-_8zvo60c"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Hm-_8zvo60c"></iframe>
 </div>
 <p></p>
