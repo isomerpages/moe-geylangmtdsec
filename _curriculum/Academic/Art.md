@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/1_aesthetics__craft_and_technology_department_1_copy.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Art Department" src="/images/2026/aesthetics__craft_and_technology_department_2.jpg">
 </div>
 <p>The Art syllabus is a journey of discovery where students test new concepts,
 translate ideas, thoughts and feelings through visual and tactile forms.&nbsp;
