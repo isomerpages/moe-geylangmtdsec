@@ -6,7 +6,7 @@ third_nav_title: CCE and ECG
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/1_education_and_career_guidance_committee_1_copy.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Educational and Career Guidance" src="/images/2026/character_and_citizenship_education_department_2.jpg">
 </div>
 <h4><strong>Education and Career Guidance (ECG)</strong></h4>
 <p>The aim of ECG is to help students develop self-awareness to make informed
