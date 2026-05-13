@@ -6,8 +6,9 @@ third_nav_title: Academic
 variant: tiptap
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/1_mathematics_department_1_copy.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mathematics Department" src="/images/2026/mathematics_department_2.jpg">
 </div>
 <p>Mathematics and Principles of Accounts are subjects that help students
 develop numeracy and analytical skills as well as logical thinking and
@@ -106,6 +107,6 @@ students have the opportunity to learn</p>
 </li>
 </ul>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qSHIAdx51r8"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/qSHIAdx51r8"></iframe>
 </div>
 <p></p>
