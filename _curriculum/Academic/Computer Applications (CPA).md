@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/1_aesthetics__craft_and_technology_department_1_copy.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Computer Applications / G1 Computing" src="/images/2026/aesthetics__craft_and_technology_department_2.jpg">
 </div>
 <p>Computer Applications (CPA) is a compulsory subject for all G1 students.
 The Upper Secondary CPA curriculum spans 2 years leading to the National
