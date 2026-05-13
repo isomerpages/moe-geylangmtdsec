@@ -1187,6 +1187,10 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>School Counsellors</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Student Support Team" src="/images/2026/student_support_team_2.jpg">
+</div>
 <p><strong>Senior Special Educational Needs Officer (SSENO)</strong>
 </p>
 <ul data-tight="true" class="tight">
