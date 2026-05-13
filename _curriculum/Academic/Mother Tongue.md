@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/1_mother_tongue_language_department_1_copy.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Mother Tongue Language Department" src="/images/2026/mother_tongue_language_department_2.jpg">
 </div>
 <h4>MOTHER TONGUE LANGUAGES</h4>
 <p><strong>Aims:</strong>
@@ -163,7 +163,7 @@ years, the department still carries out this prgrammes online. Students
 did research online about cities in China and they had a chance for a virtual
 exchange with school in China.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZZdnlYvFjFk"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZZdnlYvFjFk"></iframe>
 </div>
 <p>For more information, do refer to the following links:</p>
 <ul data-tight="true" class="tight">
