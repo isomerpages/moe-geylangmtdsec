@@ -7,7 +7,7 @@ third_nav_title: Academic
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/1_humanities_department_1_copy.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Humanities Department" src="/images/2026/humanities_department_2.jpg">
 </div>
 <p><strong>LOWER SECONDARY HISTORY:</strong>
 </p>
@@ -56,9 +56,9 @@ showing their understanding of the times.</p>
 </li>
 </ul>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zzeXy2woSpM"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zzeXy2woSpM"></iframe>
 </div>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kU5xVdG1Tu8"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kU5xVdG1Tu8"></iframe>
 </div>
 <p></p>

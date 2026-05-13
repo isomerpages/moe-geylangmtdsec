@@ -6,9 +6,8 @@ third_nav_title: Non Academic
 variant: tiptap
 ---
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Picture1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Student Management" src="/images/2026/student_management_committee_2.jpg">
 </div>
 <p>Discipline your children while they are young enough to learn.</p>
 <p>Listen to counsel and accept discipline, that you may be wise the rest

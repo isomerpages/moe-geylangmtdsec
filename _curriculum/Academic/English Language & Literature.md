@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/1_english_language_and_literature_department_1_copy.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="English Language Department" src="/images/2026/english_language_department_2.jpg">
 </div>
 <h3>English Language</h3>
 <p>Language is a vehicle for communication and expression, and students are
@@ -142,6 +142,6 @@ as well.</p>
 </li>
 </ul>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hRAHdbfRaBQ"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/hRAHdbfRaBQ"></iframe>
 </div>
 <p></p>

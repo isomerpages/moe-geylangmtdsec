@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/1_student_leadership_development_committee_1_copy.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Student Leadership" src="/images/2026/student_leadership_development_team_2.jpg">
 </div>
 <p>Vision: Every GEM has the COURAGE and COMPETENCY to SERVE as they LEAD.</p>
 <p>“Do nothing out of selfish ambition or vain conceit. Rather, in humility
@@ -313,7 +313,7 @@ leadership journey to grow as Courageous Leaders.</p>
 <img style="width: 100%" height="auto" width="100%" src="/images/house%20exco.jpg">
 </div>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2vjFI2_UQ6Y"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2vjFI2_UQ6Y"></iframe>
 </div>
 </li>
 </ul>

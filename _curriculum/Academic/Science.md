@@ -5,8 +5,9 @@ description: ""
 third_nav_title: Academic
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/1_science_department_1_copy.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Science Department" src="/images/2026/science_department_2.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width:300px;height:175px;margin-left:15px;" height="auto" width="100%" src="/images/science-300x175.jpg">
@@ -165,7 +166,7 @@ Technique (NFT), a hydroponic system, over a span of 10 weeks.</p>
 </div>
 <p>Students at the school’s greenhouse</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jXcvA1DKUt8"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jXcvA1DKUt8"></iframe>
 </div>
 <h5>Sec 3 ALP - Food Sustainability and Security</h5>
 <p>Sec 3 students across different academic streams, who have shown passion

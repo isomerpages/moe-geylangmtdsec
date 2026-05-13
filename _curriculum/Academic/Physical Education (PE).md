@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h4></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/1_physical_education_department_1_copy.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Physical Education Department" src="/images/2026/physical_education_department_2.jpg">
 </div>
 <h4>1. Objectives of the PE Programme</h4>
 <ul data-tight="true" class="tight">
@@ -131,7 +131,7 @@ a tertiary education in:</p>
 </li>
 </ul>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5wthJVpfgCA"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5wthJVpfgCA"></iframe>
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/20200603_155034-1-1024x498.jpg">
