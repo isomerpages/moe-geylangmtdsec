@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Non Academic
 variant: markdown
 ---
-The ICT Department harnesses technology to provide an enriching learning experience for all GEMS. We aim to promote a pervasive culture of using ICT effectively in the school curriculum to enhance pedagogy that engages collaboration and self-directed learning. In order to maximise learning moments, the following programmes are implemented:
+
+![ICT](/images/2026/information_and_communications_technology_department_2.jpg)The ICT Department harnesses technology to provide an enriching learning experience for all GEMS. We aim to promote a pervasive culture of using ICT effectively in the school curriculum to enhance pedagogy that engages collaboration and self-directed learning. In order to maximise learning moments, the following programmes are implemented:
 
 **Digital Learning Roadmap envisioned for 2020 and beyond:**
 
