@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/1_character_and_citizenship_education_committee_1_copy.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="CCE" src="/images/2026/character_and_citizenship_education_department_2.jpg">
 </div>
 <h3>CCE (Character &amp; Citizenship Education) Curriculum</h3>
 <p>“Character and Citizenship Education (CCE) is at the heart of education
