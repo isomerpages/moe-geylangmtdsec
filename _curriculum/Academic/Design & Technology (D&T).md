@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/1_aesthetics__craft_and_technology_department_1_copy.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Design &amp; Technology" src="/images/2026/aesthetics__craft_and_technology_department_2.jpg">
 </div>
 <p>The Design and Technology (D&amp;T)&nbsp;department aims to prepare students
 for the rapidly changing environment in the world by giving them opportunities
@@ -36,7 +36,7 @@ solution-focused mindset in designing and making.</p>
 <p>Click&nbsp;<a href="https://www.channelnewsasia.com/singapore/secondary-school-design-technology-curriculum-changes-students-teachers-2693871" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 the news reported by Channel News Asia (CNA) regarding the new syllabus.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zdTLS7LKd7Y?si=qISPP8UW9KjThONi"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zdTLS7LKd7Y?si=qISPP8UW9KjThONi"></iframe>
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2022%20D&amp;T.jpg">
