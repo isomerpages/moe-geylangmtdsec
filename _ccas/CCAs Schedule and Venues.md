@@ -105,25 +105,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Fri-Quad</p>
-<p>1530 – 1730</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Softball (not offered from 2024)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tue-Field</p>
-<p></p>
-<p>1500 – 1730</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Fri-Field</p>
-<p></p>
-<p>1400 – 1700</p>
+<p>1430 – 1730</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -389,7 +371,7 @@ variant: tiptap
 <p>Media@GM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri-SPR 203/ 303/ CompLab 2</p>
+<p>Wed-SPR 203/ 303/ CompLab 2</p>
 <p></p>
 <p>1430 – 1730</p>
 </td>
