@@ -4,9 +4,6 @@ permalink: /special-programme/family-education-programmes/
 description: ""
 variant: tiptap
 ---
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/character_and_citizenship_education_department_2.jpg">
-</div>
 <p>The 4/5 years that your child goes through in their Secondary years are
 years of exploring new interests, developing deeper friendships and skills.
 They are growing from a child to a young adult. They will develop their
