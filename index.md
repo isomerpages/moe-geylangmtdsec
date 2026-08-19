@@ -16,8 +16,8 @@ sections:
           description: of the school
           url: /about-us/virtual-introduction/
         - title: School Yearbook
-          description: "2023"
-          url: https://drive.google.com/file/d/16VdxA_GwPpYI61BGNCwVJWBvQw-K7bJQ/view?usp=drive_link
+          description: "2025"
+          url: https://drive.google.com/file/d/1FIs3M6f0dBcj_iDu5V9WUwKOKCL2jBJg/view
         - title: Calendar
           description: School
           url: /useful-links/gms-calendar/
