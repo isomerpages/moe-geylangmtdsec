@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2025/openhouse_6.png
+      background: /images/2026_01_15_School_Scenery_1_Compressed.jpg
       key_highlights:
         - title: GM Heartbeat
           description: Facebook
